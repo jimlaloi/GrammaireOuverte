@@ -19,44 +19,137 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-
-  - title: Introduction
+      
+  - title: Information
     output: web, pdf
+
     folderitems:
-    - title: Grammaire home
-      url: /grammaire_landing_page.html
+    - title: Bienvenue
+      url: /index.html
       output: web
 
-    - title: Sample 1
-      url: /grammaire_sample1.html
+    - title: Aux instructeurs
+      url: /grammaire_instructeurs.html
       output: web, pdf
 
-    - title: Sample 2
-      url: /grammaire_sample2.html
+    - title: Introduction aux termes
+      url: /grammaire_termes.html
       output: web, pdf
 
-    - title: Sample 3
-      url: /grammaire_sample3.html
-      output: web, pdf
-
-  - title: Parties du discours
+  - title: Noms et pronoms
     output: web, pdf
 
     folderitems:
-    - title: Sample 4
-      url: /grammaire_sample4.html
+    - title: Noms
+      url: /grammaire_noms.html
       output: web, pdf
 
-    - title: Sample 5
-      url: /grammaire_sample5.html
+    - title: Pronoms démonstratifs
+      url: /grammaire_pronoms_démonstratifs.html
       output: web, pdf
 
-    - title: Sample 6
-      url: /grammaire_sample6.html
+    - title: Pronoms personnels
+      url: /grammaire_pronoms_personnels.html
       output: web, pdf
 
-    - title: Sample 7
-      url: /grammaire_sample7.html
+    - title: Pronoms possessifs
+      url: /grammaire_pronoms_possessifs.html
+      output: web, pdf
+
+    - title: Pronoms relatifs
+      url: /grammaire_pronoms_relatifs.html
+      output: web, pdf
+
+    - title: Mots indéfinis
+      url: /grammaire_mots_indéfinis.html
+      output: web, pdf
+
+  - title: Modificateurs
+    output: web, pdf
+
+    folderitems:
+    - title: Déterminants
+      url: /grammaire_déterminants.html
+      output: web, pdf
+
+    - title: Adjectifs
+      url: /grammaire_adjectifs.html
+      output: web, pdf
+
+    - title: Adverbes
+      url: /grammaire_adverbes.html
+      output: web, pdf
+
+    - title: Comparatif et superlatif
+      url: /grammaire_comparatif.html
+      output: web, pdf
+
+  - title: Verbes
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction aux verbes
+      url: /grammaire_verbes_introduction.html
+      output: web, pdf
+
+    - title: Verbes pronominaux
+      url: /grammaire_verbes_pronominaux.html
+      output: web, pdf
+
+    - title: Présent
+      url: /grammaire_présent.html
+      output: web, pdf
+
+    - title: Participes
+      url: /grammaire_participes.html
+      output: web, pdf
+
+    - title: Passé composé
+      url: /grammaire_passé_composé.html
+      output: web, pdf
+
+    - title: Imparfait
+      url: /grammaire_imparfait.html
+      output: web, pdf
+
+    - title: Plus-que-parfait
+      url: /grammaire_plus-que-parfait.html
+      output: web, pdf
+
+    - title: Futur
+      url: /grammaire_futur.html
+      output: web, pdf
+
+    - title: Conditionnel
+      url: /grammaire_conditionnel.html
+      output: web, pdf
+
+    - title: Subjonctif
+      url: /grammaire_subjonctif.html
+      output: web, pdf
+
+    - title: Impératif
+      url: /grammaire_impératif.html
+      output: web, pdf
+
+  - title: Autres concepts
+    output: web, pdf
+
+    folderitems:
+    - title: Conjonctions
+      url: /grammaire_conjonctions.html
+      output: web, pdf
+
+    - title: Prépositions
+      url: /grammaire_prépositions.html
+      output: web, pdf
+
+    - title: Négation
+      url: /grammaire_négation.html
+      output: web, pdf
+
+    - title: Interrogation
+      url: /grammaire_interrogation.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
