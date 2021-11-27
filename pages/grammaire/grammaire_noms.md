@@ -160,97 +160,78 @@ Le genre des noms qui font référence à des choses et des abstractions est arb
 
 Il y a et voilà sont deux moyens d'introduire un nom. Ils sont traduits en anglais comme 'there is / there are' ou 'here is / here are.'
 
-### il y a 
-Il y a + noun usually indicates the existence of a person or a thing in the context of a particular setting. It is commonly translated as 'there is' or 'there are.' For example: 
+### il y a
+Il y a + nom indique généralement l'existence d'une personne ou d'une chose dans le contexte d'un cadre particulier. Il est souvent traduit par « there is » ou « there are ». Par exemple:
 
-A Austin, il y a une grande université. In Austin, there is a big university. 
-Dans cette université, il y a plusieurs At this university, there are several animals animaux qui parlent le français! who speak French! 
-Parmi ces animaux, il y a des tatous, un Among these animals, there are armadillos, escargot, une chatte, un écureuil, et a snail, a cat, a squirrel, and several plusieurs insectes! Attention! insects! Careful! 
-The negation of 'il y a' is il n'y a pas, 'there is / are not'. You will also find these forms: il n'y a plus, 'there is / are not anymore', il n'y a jamais, 'there is / are never'. 
+* A Austin, **il y a** une grande université.
+* Dans cette université, **il y a** plusieurs animaux qui parlent français !
+* Parmi ces animaux, **il y a** des tatous, un escargot, une chatte, un écureuil, et plusieurs insectes ! Attention!
 
-A Austin, il n'ya jamais de In Austin, there is never any neige. snow. 
-Donc parmi ces animaux So, among these French­francophones, il n'ya pas de speaking animals, there is no pingouin! penguin! 
-The verb avoir in the expression il y a may be conjugated in any tense or mood, for example, in the past (il y avait, 'there was') or in the future (il y aura, 'there will be.') 
+La négation de *il y a* est *il n'y a pas*, 'there is/are not'. Vous trouverez également ces formes : il n'y a plus, il n'y a jamais.
 
-### voilà / voici 
-Voilà + noun and voici + noun are commonly translated as 'here is/are'. They are used to indicate the sudden appearance of something or someone, to introduce people or ideas. Alternating between voici and voilà is common when referring to more than one item. 
+* A Austin, il **n**'y a **jamais** de neige.
+* Donc parmi ces animaux francophones, il **n**'y a **pas** de pingouin !
 
+Le verbe *avoir* dans l'expression *il y a* peut être conjugué à n'importe quel temps ou mode, par exemple, au passé (il y avait) ou au futur (il y aura).
 
+### voilà / voici
 
+*Voilà + nom* et *voici + nom* sont souvent traduits par « here is/are ». Ils sont utilisés pour indiquer l'apparition soudaine de quelque chose ou de quelqu'un, pour présenter des personnes ou des idées. L'alternance entre *voici* et *voilà* se fait souvent lorsque l'on fait référence à plus d'un élément.
 
-
-Tammy montre le campus à Tex: Voici la Tammy is showing the campus to Tex: bibliothèque et voilà la célèbre tour! Here is the library, and there is the famous Tower. 
-Tex: Oui, oui ... Tex: Yes, yes ... Tammy présente Tex: Tex, voici Joe-Bob et Tammy introduces Tex: Tex, here is Joe-Corey ... et voilà Edouard qui arrive. Bob and Corey ... and there comes 
-Edouard. Joe-Bob: Bonjour, Tex. Joe-Bob: Hello, Tex. Corey: Salut, Tex. Corey: Hi, Tex. Tex: Oh, la, la, de vrais Texans ... Tex: Oh, la, la, real Texans ... 
+* Tammy montre le campus à Tex : **Voici** la bibliothèque et **voilà** la célèbre tour !
+* Tex : Oui, oui...
+* Tammy présente Tex : Tex, **voici** Joe-Bob et Corey... et **voilà** Edouard qui arrive.
+* Joe-Bob : Bonjour, Tex. 
+* Corey : Salut, Tex. 
+* Tex : Oh, la, la, de vrais Texans...
 
 
 ## Temps, heure, fois
 
-There are three nouns in French, temps, heure, and fois, which are translated as 'time' in English, but each has very specific uses and nuances. 
+Il y a trois noms en français, *temps*, *heure* et *fois*, qui sont traduits par 'time' en anglais, mais chacun a des usages et des nuances très spécifiques.
 
-### temps 
+### temps
 
-Temps can mean either 'time' or 'weather' (in which case it is almost always accompanied by the verb faire). 
+Temps peut signifier soit « time » soit « weather » (auquel cas il est presque toujours accompagné du verbe *faire*).
 
-Tex téléphone à Paw-Paw. Tex telephones Paw-Paw. 
-Paw-Paw: Tex, tu es où? Tu es en retard! Paw-Paw: Tex, where are you? You are late! 
-Tex: Mais non, j'ai le temps! Je suis en train Tex: But no, I have time! I'm packing my de faire ma valise. Quel temps fait-il à suitcase. What's the weather like in Opelousas? Opelousas? 
+* Tex téléphone à Paw-Paw.
+* Paw-Paw : Tex, tu es où ? Tu es en retard !
+* Tex : Mais non, j'ai le **temps** ! Je suis en train de faire ma valise. Quel **temps** fait-il à Opelousas ?
 
+*Temps* est généralement singulier mais peut être utilisé au pluriel, en particulier dans les phrases suivantes :
 
+* Paw-Paw : Tex, tu es un petit-fils ingrat ! Tu ne viens jamais me voir! **Les temps changent**...
+* Tex : Allons Paw-Paw, tu sais bien que je viens aujourd'hui. « **Laissez les bons temps rouler** », comme on dit en Louisiane ! Dis, tu sais que personne ne connaît cette expression en France ?
 
-Temps is usually singular but may be used in the plural, especially in the following phrases: 
+Voici les expressions les plus couramment utilisées avec *temps* :
 
-
-Paw-Paw: Tex, tu es un petit-fils ingrat! Tu 
-ne viens jamais me voir! Les temps changent 
-... 
-Tex: Allons Paw-Paw, tu sais bien que je viens aujourd'hui. 'Laissez les bons temps rouler', comme on dit en Louisiane! Dis, tu sais que personne ne connaît cette expression en France? 
-
-
-Here are the most commonly used phrases with temps: 
-
-De temps en temps, Tex va voir Paw-Paw à Opelousas le week-end. 
-Paw-Paw parle tout le temps de ses rhumatismes. Il prend son temps. 
-Paw-Paw parle souvent du bon vieux temps: De mon temps, les jeunes étaient polis ... 
-La plupart du temps, Tex s'ennuie. Il a l'impression de perdre son temps. 
-Pendant ce temps, Tammy, Edouard et Joe-Bob sont à Austin. 
-Ils ont le temps de faire la fête. 
-Pauvre Tex! Il rentre à Austin le lundi matin, juste à temps pour faire cours. 
-Paw-Paw: Tex, you're an ungrateful grand­son! You never come to visit me! Times change ... 
-Tex: Oh, Paw-Paw, you know I'm coming today. 'Let the good times roll', as they say in Louisiana! Do you know that nobody knows this expression in France? 
-From time to time, Tex goes to see Paw-Paw in Opelousas on the week-end. 
-Paw-Paw talks about his rheumatism all the time. He takes his time. 
-Paw-Paw often talks about the good old days: In my days, young people were polite ... 
-Most of the time Tex gets bored. He feels like he is wasting his time. 
-In the meantime, Tammy, Edouard and Joe-Bob are in Austin. 
-They have time to party. 
-Poor Tex! He comes back to Austin on Monday morning, just in time to teach. 
+* **De temps en temps**, Tex va voir Paw-Paw à Opelousas le week-end.
+* Paw-Paw parle **tout le temps** de ses rhumatismes. Il **prend son temps**.
+* Paw-Paw parle souvent du **bon vieux temps**: **De mon temps**, les jeunes étaient polis ...
+* **La plupart du temps**, Tex s'ennuie. Il a l'impression de **perdre son temps**.
+* **Pendant ce temps**, Tammy, Edouard et Joe-Bob sont à Austin.
+* Ils ont **le temps de** faire la fête.
+* Pauvre Tex ! Il rentre à Austin le lundi matin, juste **à temps pour** faire cours.
 
 
 
-### heure
+### heure
 
-Heure is feminine and can be used in the singular or in the plural. It is used to refer to clock time. 
+*Heure* est féminin et peut être utilisé au singulier ou au pluriel. Il est utilisé pour désigner l'heure de l'horloge.
 
-
-
-
-Tammy: Tex, tu as l'heure? Tex: Oui, j'ai l'heure. Tammy: Et bien?! Quelle heure est-il? Tex: Il est 4 heures. Tammy: Chouette! C'est l'heure d'Oprah, 
-mon émission préférée! Tex: Et pour moi, c'est l'heure de faire la sieste! 
+* Tammy : Tex, tu as **l'heure** ? 
+* Tex : Oui, j'ai **l'heure**. 
+* Tammy : Et bien ?! Quelle **heure** est-il? 
+* Tex : Il est 4 **heures**. 
+* Tammy : Chouette ! C'est **l'heure** d'Oprah, mon émission préférée ! 
+* Tex : Et pour moi, c'est **l'heure** de faire la sieste !
 
 ### fois
+*Fois* est féminin et ses formes singulières et plurielles sont identiques. Il est utilisé pour désigner un ou plusieurs cas d'un évènement.
 
-Tammy: Tex, you got the time? Tex: Yes, I've got the time. Tammy: Well?! What time is it? Tex: It is 4 o'clock. Tammy: Great! It's time for Oprah, my 
-favorite show! Tex: And it's time for me to take a nap! 
-Fois is feminine and its singular and plural forms are identical. It is used to refer to one or several instances of an event. 
-
-Tammy: Tex, réveille-toi! Paw-Paw est au téléphone, il veut te parler. 
-Tex: Comment? Il a appelé quatre fois aujourd'hui! 
-Tammy: Cette fois, il est déprimé. Sois gentil, il a trois fois ton âge. 
-Tex: Bon, bon, j'y vais, mais c'est la dernière fois! 
-Tammy: Tex, wake up! Paw-Paw is on the phone, he wants to talk to you. 
-Tex: What? He has called four times today! 
-Tammy: This time, he is depressed. Be nice, he is three times your age. 
-Tex: Ok, ok, I'm going, but it is the last time! 
+* Tammy: Tex, réveille-toi! Paw-Paw est au téléphone, il veut te parler. 
+* Tex: Comment? Il a appelé quatre **fois** aujourd'hui! 
+* Tammy: Cette **fois**, il est déprimé. Sois gentil, il a trois fois ton âge. 
+* Tex: Bon, bon, j'y vais, mais c'est la dernière **fois**! 
 
 {% include links.html %}
