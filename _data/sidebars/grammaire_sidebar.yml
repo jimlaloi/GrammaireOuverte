@@ -96,12 +96,12 @@ entries:
       url: /grammaire_verbes_pronominaux.html
       output: web, pdf
 
-    - title: Présent
-      url: /grammaire_présent.html
+    - title: Verbes semi-auxiliaires
+      url: /grammaire_verbes_semi-auxiliaires.html
       output: web, pdf
 
-    - title: Participes
-      url: /grammaire_participes.html
+    - title: Présent
+      url: /grammaire_présent.html
       output: web, pdf
 
     - title: Passé composé
@@ -131,6 +131,14 @@ entries:
     - title: Impératif
       url: /grammaire_impératif.html
       output: web, pdf
+      
+    - title: Participes
+      url: /grammaire_participes.html
+      output: web, pdf
+
+    - title: Infinitif
+      url: /grammaire_infinitif.html
+      output: web, pdf
 
   - title: Autres concepts
     output: web, pdf
@@ -150,6 +158,10 @@ entries:
 
     - title: Interrogation
       url: /grammaire_interrogation.html
+      output: web, pdf
+
+    - title: Discours direct et indirect
+      url: /grammaire_discours.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
