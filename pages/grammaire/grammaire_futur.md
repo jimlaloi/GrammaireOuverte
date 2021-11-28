@@ -11,537 +11,206 @@ folder: grammaire
 
 Page under construction
 
+formation
+Il existe deux temps du futur en français, le futur simple et le futur proche (le futur proche). Le futur proche est généralement traduit en anglais par go + infinitif (par exemple, aller manger, aller boire, aller parler). Le futur proche est caractéristique du français parlé mais peut être utilisé dans l'écriture informelle. Il se forme avec le verbe aller (aller) conjugué en
 
 
+Pour nier le futur proche, placez ne ... pas autour de la forme conjuguée d'aller : Je ne vais pas nager. (Je ne vais pas à
+nager).
 
-1. 
-formation 
+Corey : Je vais aller à Barton Springs. J'adore l'eau. Je vais nager. Tu viens avec moi, Bette ?
+Bette : Tu es fou ! Il fait trop froid ! Je ne vais pas nager !
 
-2. 
-uses 
+les usages
 
-3. 
-aller in the imperfect + infinitive 
 
+Corey : Je vais aller à Barton Springs. J'aime l'eau. Je vais nager. Tu viens avec moi, Bette ?
+Bette : Tu es fou ? C'est trop froid! Je ne vais pas nager !
 
-formation 
-There are two future tenses in French, the simple future and the near future (le futur proche). The futur proche is usually translated into English as going + infinitive (e.g., going to eat, going to drink, going to talk). The futur proche is characteristic of spoken French but may be used in informal writing. It is formed with the verb aller (to go) conjugated in 
+Le futur proche est utilisé pour désigner la plupart des événements futurs dans une conversation informelle. Pour plus de détails sur l'utilisation, voir future : utilisation.
 
 
-To negate the futur proche, place ne ... pas around the conjugated form of aller: Je ne vais pas nager. (I am not going to 
-swim). 
 
-Corey: Je vais aller à Barton Springs. J'adore l'eau. Je vais nager. Tu viens avec moi, Bette? 
-Bette: Tu es fou! Il fait trop froid! Je ne vais pas nager! 
+Corey : Tex ! Tammy ! Nous allons aller à Barton Springs.
+Bette : Mais il y a de gros nuages ​​gris, il va pleuvoir.
+Corey : Chouette ! Je vais nager sous la pluie.
+Corey : Tex ! Tammy ! Nous allons aller à Barton Springs.
+Bette : Mais il y a de gros nuages ​​gris. Il va pleuvoir.
+Corey : Super ! Je vais nager sous la pluie.
 
-uses 
 
 
-Corey: I am going to go to Barton Springs. I love water. I am going to swim. Are you coming with me, Bette? 
-Bette: Are you crazy? It is too cold! I am not going to swim! 
 
-The futur proche is used to refer to most future events in informal conversation. For details on usage see future: usage. 
+allait faire. Par exemple:
+Les copains allaient partir pour Barton Les copains allaient partir pour
+Springs, quand ils ont vu un éclair. Barton Springs, quand ils ont vu la foudre.
+Bette : Corey, tu vas te faire électrocuter ! Bette : Corey, tu vas te faire
+Moi, je vais faire du shopping. Qui va venir électrocuté ! je vais en faire
+avec moi ? achats. Qui va venir avec moi ?
 
+aller à l'imparfait + infinitif
 
+La construction aller + infinitif se retrouve aussi avec le verbe aller à l'imparfait (l'imparfait) pour indiquer ce que quelqu'un
 
-Corey: Tex! Tammy! Nous allons aller à Barton Springs. 
-Bette: Mais il y a de gros nuages gris, il va pleuvoir. 
-Corey: Chouette! Je vais nager sous la pluie. 
-Corey: Tex! Tammy! We are going to go to Barton Springs. 
-Bette: But there are big gray clouds. It's going to rain. 
-Corey: Great! I am going to swim in the rain. 
 
+formation
+Le futur 'simple' (le futur) est ainsi nommé parce que c'est un temps d'un mot. Autrement dit, sa formation est simple car il n'y a pas d'auxiliaire.
+Les terminaisons du futur simple sont : -ai , -as, -a, -ons, -ez, -ont. Le futur radical des verbes -er et -ir est l'infinitif. Pour les verbes réguliers en -re, le radical est l'infinitif moins le e final. Dans tous les cas, le radical futur se termine par -r : ce son caractérise le futur et le conditionnel. Le futur simple français est généralement traduit en anglais avec l'auxiliaire modal 'will'.
+Écoutez attentivement la future conjugaison des verbes réguliers en -er, où le e de l'infinitif change de prononciation.
 
 
 
-was going to do. For example:  
-Les copains allaient partir pour Barton  The friends were going to leave for  
-Springs, quand ils ont vu un éclair.  Barton Springs, when they saw lightening.  
-Bette: Corey, tu vas te faire électrocuter!  Bette: Corey, you are going to get yourself  
-Moi, je vais faire du shopping. Qui va venir  electrocuted! I'm going to do some  
-avec moi?  shopping. Who's going to come with me?  
 
-aller in the imperfect + infinitive 
+Certains verbes en -er dont l'orthographe change au présent forment leur futur régulièrement, c'est-à-dire que leur radical futur est l'infinitif. Il s'agit notamment de verbes comme préférer (je préférerai), manger (je mangerai) et commençer (je commencerai). Autre
 
-The construction aller + infinitive is also found with the verb aller in the imperfect (l'imparfait) to indicate what someone 
+De nombreux verbes irréguliers au présent ont des formations régulières au futur. Leurs racines futures sont l'infinitif ou l'infinitif moins le e final. Ces verbes incluent sortir (je sortirai), partir (je partirai), dormir (je dormirai), boire (je boirai), dire (je dirai), écrire (j'écrirai), lire (je lirai), mettre (je mettrai ), prendre (je prendrai), et suivre (je suivrai).
 
+les usages
+Le futur simple est utilisé pour désigner des événements futurs, c'est-à-dire pour faire des prédictions. Il est plus formel que le futur immédiat, bien que les deux temps puissent être utilisés dans la plupart des contextes. Pour plus de détails, voir future : utilisation.
 
-fill in the blanks 
-Give 
-'futur proche' of the verb indicated in parentheses. 
 
-1. 
-Corey: Je ne sors pas ce soir. Je _________ à la maison. (rester) 
 
-2. 
-Tammy: Nous avons un examen demain. Nous _________ ce soir. (étudier) 
-3. 
-Tex et Tammy ___________ en France cet été. (voyager) 
-4. 
-Fiona: J'ai besoin d'argent. Je ___________ cet automne. (travailler) 
-5. 
-Joe-Bob: J'ai faim. Est-ce qu'on ________ bientôt? (manger) 
-6. 
-Il y a du soleil. Il _________ chaud. (faire) 
 
-7. 
-Tammy est en short, elle __________ au tennis. (jouer) 
-8. 
-Tex et Tammy vont à la campagne. Eduard ____________ un pique-nique pour ses amis. (préparer) 
-9. 
-C'est la Saint Valentin, et Tex ___________ d'acheter une carte pour Tammy. (ne pas oublier) 
-10. 
-Tex: Aujourd-'hui, nous __________ dans la Guadeloupe, à New Braunfels. (nager) 
-11. 
-Fiona: Joe-Bob et Corey, il y a une fête chez Tammy dimanche. Est-ce que vous _________ des amis? (emmener) 
-12. 
-Fiona: Tex, pourquoi est-ce que tu ________ en France cet été? (voyager) 
+Tammy imagine sa lune de miel avec Tex.
+Tammy : Nous prendrons le Concorde à Paris, bien sûr. On restera dans un hôtel trois étoiles et nous mangerons dans des restaurants chics. Nous flânerons au long des Champs-Elysées bras dessus, bras dessous et tu m'offriras du parfum et des fleurs. La nuit nous descendons la Seine en bateau mouche. Ah, la vie conjugale, un paradis terrestre.
+Tammy imagine sa lune de miel avec Tex.
+Tammy : Nous prendrons le Concorde à Paris, bien sûr. Nous logerons dans un hôtel trois étoiles et nous mangerons dans des restaurants chics. Nous nous promènerons bras dessus bras dessous sur les Champs-Elysées et vous m'offrirez des parfums et des fleurs. La nuit, nous descendrons la Seine sur un bateau touristique. Ah, la vie de couple, le paradis sur terre.
 
+Le futur « simple » est ainsi nommé parce qu'il est composé d'un seul mot. Autrement dit, sa formation est simple car il n'y a pas d'auxiliaire. Le radical du futur simple se termine toujours par le letterr, qui est le son caractéristique du futur et du conditionnel.
+Pour une liste des verbes irréguliers qui forment leur futur de la même manière que les verbes réguliers, voir futur : régulier.
+tiges futures irrégulières
+Certains verbes irréguliers ont également des radicaux futurs irréguliers. Néanmoins, les terminaisons futures sont les mêmes pour tous les verbes : -ai , as, -a, -ons, -ez, -ont. Le futur radical du verbe être est ser- et le futur radical du verbe avoir est aur-.
 
+Voici les verbes les plus courants qui ont des radicaux futurs irréguliers :
 
+mourir
+deuil-
+je mourrai
+je vais mourir
 
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-1. 
-formation 
-
-2. 
-uses 
-
-
-formation 
-The 'simple' future (le futur) is so-named because it is a one-word tense. In other words, its formation is simple because there is no auxiliary. 
-The endings for the simple future are: -ai , -as, -a, -ons, -ez, -ont. The future stem for -er and -ir verbs is the infinitive. For regular -re verbs, the stem is the infinitive minus the final e. In all cases, the future stem ends in -r: this sound characterizes the future and the conditional.The French simple future tense is generally translated into English with the modal auxiliary 'will.' 
-Listen carefully to the future conjugation of regular -er verbs, where the e of the infinitive changes in pronunciation. 
-
-
-
-
-Some -er verbs with spelling changes in the present form their future regularly, that is, their future stem is the infinitive. These include verbs like préférer (je préférerai), manger (je mangerai) and commençer (je commencerai). Other 
-
-Many verbs which are irregular in the present tense have regular formations in the future. Their future stems are the infinitive or the infinitive minus the final e. Such verbs include sortir (je sortirai), partir (je partirai), dormir (je dormirai), boire (je boirai), dire (je dirai), écrire (j'écrirai), lire (je lirai), mettre (je mettrai), prendre (je prendrai), and suivre (je suivrai). 
-
-uses 
-The simple future is used to refer to future events, that is, to make predictions. It is more formal than the immediate future, although both tenses may be used in most contexts. For further details, see future: usage. 
-
-
-
-
-Tammy imagine sa lune de miel avec Tex. 
-Tammy: Nous prendrons le Concorde à Paris, bien sûr. On restera dans un hôtel trois étoiles et nous mangerons dans des restaurants chics. Nous flânerons au long des Champs-Elysées bras dessus, bras dessous et tu m'offriras du parfum et des fleurs. La nuit nous descendrons la Seine en bateau mouche. Ah, la vie conjugale, un paradis terrestre. 
-Tammy imagines her honeymoon with Tex. 
-Tammy: We will take the Concorde to Paris, of course. We will stay in a three-star hotel and we will eat in chic restaurants. We will stroll along the Champs-Elysées arm in arm and you will give me perfume and flowers. At night we will go down the Seine on a sightseeing boat. Ah, married life, paradise on earth. 
-
-
-
-fill in the blanks 
-Give 
-the futur simple of the verb indicated in parentheses. 
-1. 
-Tex et Tammy ______ ensemble. (partir) 
-
-2. 
-Tammy ______ ses études. (finir) 
-3. 
-Tammy: J' ______ un livre. (écrire) 
-4. 
-Tammy: Je ______ les habitudes de Tex. (comprendre) 
-5. 
-Tammy: Tex et moi, nous ______ beaucoup. (voyager) 
-6. 
-Tex: Mes neveux, vous ______ la philosophie! (aimer) 
-7. 
-Tammy: Tex, tu ______ la table, n'est-ce pas? (mettre) 
-8. 
-Tammy ______ sans cesse. (chanter) 
-9. 
-Joe-Bob ______ des cours faciles. (suivre) 
-10. 
-Tex: Bette, est-ce que tu ______ Tammy? (respecter) 
-11. 
-Joe-Bob ______ pendant quatre jours. (dormir) 
-12. 
-Tammy et Bette ______ . (se téléphoner) 
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 18 Oct 04 
-
-
-
-
-
-
-1. 
-irregular future stems 
-
-2. 
-future stems of verbs with spelling changes 
-
-3. 
-uses 
-
-
-
-The 'simple' future is so-named because it is a one-word tense. In other words, its formation is simple because there is no auxiliary. The stem of the simple future always ends with the letterr, which is the characteristic sound of the future and conditional tenses. 
-For a list of irregular verbs which form their future in the same way as regular verbs do, see future: regular. 
-irregular future stems 
-Some irregular verbs also have irregular future stems. Nevertheless, the future endings are the same for all verbs: -ai , ­as, -a, -ons, -ez, -ont. The future stem for the verb être is ser-and the future stem for the verb avoir is aur-. 
-
-Here are the most common verbs that have irregular future stems: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mourir 
-mourr-
-je mourrai 
-I will die 
-
-
-
-
-
-
-
-
-
-
-
-
-
-tenir 
+Tenir
 tiendr-
-je tiendrai 
-I will hold 
-vouloir 
+je tiendrai
+je vais tenir
+vouloir
 voudr-
-je voudrai 
-I will want 
+je voudraisje voudrai
 
+futures tiges de verbes avec des changements d'orthographe
+Les verbes dont l'orthographe change comme appeler, employer et acheter ajoutent -r au présent je forment pour créer leur futur radical :
 
+D'autres verbes en -er dont l'orthographe change, notamment préférer, manger et commençer ont des radicaux futurs réguliers.
 
+les usages
+Le futur simple est utilisé pour désigner des événements futurs, c'est-à-dire pour faire des prédictions. Il est plus formel que le futur immédiat, bien que les deux temps puissent être utilisés dans la plupart des contextes. Pour plus de détails, voir future : utilisation.
 
 
 
+Tammy est en train d'écrire un livre de science-fiction :
+En l'an 3000, il ne pleuvra plus sur la planète Terre. Tout le monde aura très peur et des centaines de personnes mourront. Le sol de viendra stérile. Certains iront vivre sur la Lune. Les autres habiteront sur Mars. Les villes terrestres seront totalement vides. Personne ne voudra croire qu'autrefois la vie sur la Terre était merveilleuse.
+Alors, Tex, tu aimes mon livre ?
+Tex : Ah, ma pauvre Tammy, tu n'es pas douée... C'est nul !
+Tammy écrit un livre de science-fiction :
+En l'an 3000, il ne pleuvra plus sur la planète Terre. Tout le monde aura très peur et des centaines de personnes mourront. Le sol deviendra stérile. Certaines personnes iront vivre sur la Lune. D'autres devront vivre sur Mars. Les villes de la Terre seront totalement vides. Personne ne croira qu'il était une fois la vie sur terre était merveilleuse.
+Alors, Tex, tu aimes mon livre ?
+Tex : Ah, ma pauvre Tammy, tu n'es pas douée... C'est sans espoir !
 
+Le français a deux futurs : le futur proche et le futur simple. Le futur proche est formé de l'auxiliaire aller suivi d'un infinitif (Je vais partir. 'Je vais partir'). Le futur simple n'a pas d'auxiliaire. Au lieu de cela, la forme infinitive devient le radical auquel sont ajoutées les terminaisons futures (Je partirai . 'Je partirai'). Pour plus de détails sur la formation de ces deux temps du futur, y compris les formes irrégulières, voir les liens associés : futur : régulier, futur : irrégulier et futur proche.
 
 
+futur proche vs futur simple
+Les deux temps sont virtuellement interchangeables dans la plupart des contextes, surtout en français parlé. Alors, quelle est la difference? En général, les deux temps diffèrent par leur niveau de formalité ; le futur proche est utilisé dans des contextes plus informels et le futur simple dans des contextes plus formels. Ainsi, le futur proche est surtout utilisé à l'oral et moins fréquemment à l'écrit. Selon les grammaires traditionnelles, les deux temps diffèrent également par leur distance relative au moment présent. Le futur proche, également appelé futur immédiat, désigne typiquement un temps très proche du moment présent, c'est-à-dire le futur proche ou immédiat. Le futur simple, en revanche, est souvent utilisé pour des événements dans un futur plus lointain. Parce que le futur simple est associé à des événements futurs lointains, il prend souvent une qualité objective et détachée, ce qui en fait le temps préféré pour les événements futurs qui représentent des vérités générales.
+Qui vivra, verra. Celui qui vivra verra.
+L'homme sera toujours l'homme. L'homme sera toujours l'homme.
+(Les garçons seront des garçons.)
 
 
 
+Les deux temps indiquent également une différence dans la perception du locuteur de l'événement futur. Le futur proche indique que le locuteur est relativement certain que l'événement futur se produira réellement. En revanche, le futur simple indique que le locuteur est moins certain que l'événement futur se produira. Imaginons un contexte pour rendre cette distinction plus claire. Supposons qu'un homme très perturbé vient de grimper sur le rebord d'un gratte-ciel. L'homme commence à perdre l'équilibre. Un spectateur horrifié voit l'homme commencer à vaciller et crie :
+Il va tomber ! Il va tomber ! Il tombera ! Il va tomber !
 
 
+Dans ce scénario, la première phrase, celle du futur proche, semble plus plausible en français et en anglais. Pourquoi? Parce que quand quelqu'un perd l'équilibre, il tombe invariablement. Dans ce cas, le temps indique à la fois l'immédiateté de l'événement futur ainsi que son inévitabilité dans l'esprit du locuteur. Bien sûr, les locuteurs sont généralement plus certains du futur immédiat et moins certains du futur lointain. Est-ce à dire que certitude et distance au présent vont toujours de pair ? Pas exactement. On peut aussi être certain des événements dans un avenir lointain. Par exemple, regardez les phrases suivantes en français et en anglais et essayez d'imaginer les différents contextes dans lesquels elles seraient appropriées.
+Je vais avoir un enfant ! Je vais avoir un bébé ! J'aurai un enfant ! j'aurai un bébé !
 
 
+Dans la première phrase, la locutrice est soit enceinte, soit vient de recevoir la confirmation d'une agence d'adoption. Quoi qu'il en soit, le locuteur sait avec certitude qu'il deviendra parent et signale l'inévitabilité de l'événement futur via le futur proche. Mais notez que même si l'orateur est certain de l'événement futur, l'événement n'est pas susceptible de se produire immédiatement. Dans la deuxième phrase, le locuteur est stason désir de tomber enceinte ou d'adopter son propre enfant. Dans cette phrase, le calendrier de l'événement futur est laissé ouvert - peut-être qu'elle tombera enceinte demain, peut-être qu'elle ne le fera pas. Considérons maintenant le dialogue suivant dans lequel la sœur de Tex, Rita, découvre qu'elle va avoir Rita : Oh... Bon Dieu. Le test est positif. Je Rita : Oh... Bon Dieu. Le test est positif. vais encore avoir quatre enfants de plus! Je vais avoir quatre autres bébés !
+un bébé. Pouvez-vous expliquer le choix du futur ?
+Rita, qui a déjà plusieurs enfants, passe un Rita, qui a déjà plusieurs enfants,
+test de grossesse pour savoir si elle est fait un test de grossesse pour savoir si elle est
+enceinte. Elle sort de sa chambre. Enceinte. Elle sort de sa chambre.
 
+Joe-Bob : Quatre ? Joe-Bob : Quatre ?
+Rita : Oui, quatre !! Tu sais bien, les tatous Rita : Oui, quatre !! Vous savez, les tatous donnent accouchent de quatre enfants à la fois ! naissance à quatre bébés à la fois !
 
-future stems of verbs with spelling changes 
-Verbs with spelling changes like appeler, employer, and acheter add -r to the present tense je form to create their future stems: 
 
 
+Rita et Tammy se demandent comment les bébés vont changer la vie de Rita.
+Rita : Encore des enfants ! Je ne vais pas tenir le coup!
+Tammy : Oh Rita, tu exagères. Après une douzaine, quatre de plus n'aura aucune différence!
+Rita : Aucune différence ? HA! Je vais avoir des canapés à changer, des repas à préparer. Et je ne vais plus pouvoir dormir la nuit.
+Tammy : Oui, tu seras un peu fatigué peut-être, mais la joie te donnera de l'énergie, tu verras.
+Rita : Ma joie ?! Je serai heureuse quand mon mari aura une vasectomie.
 
+différences entre le français et l'anglais
+Rita et Tammy se demandent comment les bébés vont changer la vie de Rita.
+Rita : Plus d'enfants ! Je ne vais pas tenir le coup !
+Tammy : Oh Rita, tu exagères. Après une douzaine, quatre de plus ne changeront rien du tout !
+Rita : Aucune différence ? HA! Je vais avoir des couches à changer, des repas à préparer. Et je ne pourrai plus dormir la nuit.
+Tammy : Oui, tu seras peut-être un peu fatiguée, mais la joie te donnera de l'énergie. Tu verras.
+Rita : Ma joie ?! Je serai heureuse quand mon mari aura une vasectomie.
+En général, les temps futurs en français et en anglais sont utilisés de la même manière. Cependant, il existe une différence majeure dans l'utilisation du futur entre les deux langues. Le français requiert le futur après certaines conjonctions où l'usage de l'anglais appelle le présent.
 
 
 
+Joe-Bob : Dès que Tex et Tammy seront en Joe-Bob : Dès que Tex et Tammy sont en vacances, ils iront à la Nouvelle-Orléans. en vacances, ils iront à la Nouvelle-Orléans.
+Corey : Mais ils nous téléphoneront immédiatement Corey : Mais ils nous appelleront dès qu'ils arriveront à la Nouvelle-Orléans. arriver à la Nouvelle-Orléans.
+Joe-Bob : Lorsque Tex et Tammy Joe-Bob : Quand Tex et Tammy rentreront, ils passeront quelques jours à back, ils passeront quelques jours à Opelousas. Opelousas.
+Corey : Et quand ils reviendront à Austin, Corey : Et quand ils reviendront à Austin, on fera la fête ! on va faire la fête !
+Dans les exemples français ci-dessus, les clauses subordonnées commençant par dès que, immédiatement que, lorsque et quand sont au futur simple car les clauses principales sont au futur. L'action dans la proposition subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la proposition principale. Notez l'utilisation du présent dans la proposition subordonnée des traductions anglaises.
 
+formation
+Le futur antérieur (futur antérieur) est formé du futur simple de l'auxiliaire (soit être ou avoir), plus le participe passé du verbe principal. Le choix entre être et avoir comme auxiliaire est le même qu'au passé composé.
 
 
+Future perfect = auxiliaire au futur + participe passé du verbe principal
 
 
+Notez qu'avec l'auxiliaire être, le participe passé s'accorde en nombre et en genre avec le sujet.
 
 
+usage
+Le futur antérieur est utilisé pour une action qui précède, ou sera terminée avant, une autre action dans le futur. Alors que le futur est exprimé en anglais par 'will' + verbe principal (will finish), le futur antérieur est généralement traduit par 'will have' + participe passé du verbe (will have finish). Par exemple:
 
 
+Corey et Joe-Bob n'auront pas appris le Corey et Joe-Bob n'auront pas appris futur antérieur avant la fin du semestre. le futur parfait avant la fin du semestre.
 
+La négation se forme comme d'habitude en plaçant ne / n' ... pas autour du verbe conjugué, qui dans ce cas est l'auxiliaire :
 
-Other -er verbs verbs with spelling changes including préférer, manger, and commençer have regular future stems. 
+Corey et Joe-Bob n'auront certainement pas Corey et Joe-Bob n'auront pas compris le futur antérieur avant la fin du futur parfait avant le semestre. fin de semestre.
 
-uses 
-The simple future is used to refer to future events, that is, to make predictions. It is more formal than the immediate future, although both tenses may be used in most contexts. For further details, see future: usage. 
 
 
 
-Tammy est en train d'écrire un livre de science-fiction: 
-En l'an 3000, il ne pleuvra plus sur la planète Terre. Tout le monde aura très peur et des centaines de personnes mourront. Le sol deviendra stérile. Certains iront vivre sur la Lune. Les autres devront habiter sur Mars. Les villes terrestres seront totalement vides. Personne ne voudra croire qu'autrefois la vie sur la Terre était merveilleuse. 
-Alors, Tex, tu aimes mon livre? 
-Tex: Ah, ma pauvre Tammy, tu n'es pas douée ... C'est nul! 
-Tammy is writing a science-fiction book: 
-In the year 3000, it will not rain any longer on the planet Earth. Everybody will be very afraid and hundreds of people will die. The soil will become sterile. Some people will go to live on the Moon. Others will have to live on Mars. The cities on the Earth will be totally empty. No one will believe that once upon a time life on earth was wonderful. 
-So, Tex, do you like my book? 
-Tex: Ah, my poor Tammy, you are not talented ... It's hopeless! 
+conjonctions
+Le futur antérieur s'emploie de la même manière en français et en anglais. Cependant, le français utilise le futur parfait après certaines conjonctions comme quand et lorsque (quand) ou dès que et aussitôt que (dès que) où l'anglais utiliserait le
+présent.
 
-fill in the blanks 
+ Quand Tammy aura reçu son diplôme,Tex et elle iront en France. Lorsque Tammy obtient son diplôme, elle et Tex partent en France.
+Dès que Tex et Tammy se serontmariés, ils auront beaucoup de petits tatous. Dès que Tex et Tammy se marieront, ils auront plein de petits tatous.
 
+Dans les exemples ci-dessus, les subordonnées commençant par quand et dès que sont au futur parfait car l'action de la subordonnée sera effectuée avant l'action de la principale.
+Écouter le dialogue:
 
-Give 
-the futur simple of the verb indicated in parentheses. 
-1. 
-Tex et Tammy ______ la Tour Eiffel. (voir) 
 
-2. 
-Tammy ______ toujours la cuisine. (faire) 
-3. 
-Paw-Paw: Je ______ tout seul à Opelousas. (mourir) 
-4. 
-Tex: J'______ beaucoup d'amirateurs. (avoir) 
-5. 
-Tammy: Tex et moi, nous ______ très contents. (être) 
-6. 
-Tex: Mes neveux, vous ______ en France, n'est-ce pas? (aller) 
-7. 
-Tex: Tammy, tu ______ trop de vêtements. (acheter) 
-8. 
-Tammy ______ des cadeaux aux neveux de Tex. (envoyer) 
-9. 
-Joe-Bob ______ son dîplome. (ne pas obtenir) 
-10. 
-Tammy: Tex, est-ce que tu ______ m'écrire souvent? (pouvoir) 
-11. 
-Bette ______ tous les secrets de Tex. (savoir) 
-12. 
-Tammy et Bette ______ des prix culinaires. (recevoir) 
 
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-1. 
-futur proche vs. futur simple 
-
-2. 
-differences between French and English 
-
-
-French has two future tenses -- the futur proche and the futur simple. The futur proche is formed with the auxiliary aller which is followed by an infinitive (Je vais partir. 'I'm going to leave'). The futur simple doesn't have an auxiliary. Instead, the infinitive form becomes the stem to which future endings are added (Je partirai . 'I will leave'). For more details on the formation of these two future tenses, including irregular forms, see the related links: future: regular, future: irregular, and futur proche. 
-
-
-futur proche vs. futur simple 
-The two tenses are virtually interachangeable in most contexts, especially in spoken French. So what is the difference? In general, the two tenses differ in their level of formality; the future proche is used in more informal contexts and the simple future in more formal contexts. Thus, the futur proche is primarily used in speech and less frequently in writing. According to traditional grammars, the two tenses also differ in their relative distance to the present moment. The future proche, also called the futur immédiat, typically refers to a time very close to the present moment, i.e, the near or immediate future. The futur simple, on the other hand, is often used for events in the more distant future. Because the futur simple is associated with distant future events, it often takes on a detached, objective quality making it the preferred tense for future events that represent general truths. 
-Qui vivra, verra.  Whoever will live, will see.  
-L'homme sera toujours l'homme.  Man will always be man.  
-(Boys will be boys.)  
-
-
-
-The two tenses also indicate a difference in the speaker's perception of the future event. The futur proche indicates that the speaker is relatively certain that the future event will actually happen. In contrast, the futur simple indicates that the speaker is less certain of the future event coming to pass. Let's imagine a context to make this distinction more clear. Suppose that a very disturbed man has just climbed out onto the ledge of a skyscraper. The man begins to lose his balance. A horrified onlooker sees the man beginning to teeter and screams: 
-Il va tomber! He's going to fall! Il tombera! He will fall! 
-
-
-In this scenario, first sentence, the one in the near future, sounds more plausible in French and in English. Why? Because when someone loses his balance, he will invariably fall. In this case, the tense indicates both the immediacy of the future event as well as its inevitability in the mind of the speaker. Of course, speakers are usually more certain about the immediate future and less certain about the distant future. Does this mean that certainty and distance to the present always go together? Not exactly. One can be certain about events in the distant future too. For example, look at the following sentences in French and in English and try to imagine the different contexts in which they would be appropriate. 
-Je vais avoir un enfant! I'm gonna have a baby! J'aurai un enfant! I will have a baby! 
-
-
-In the first sentence, the speaker is either pregnant or has just received confirmation from an adoption agency. Whatever the case may be, the speaker knows for certain that she will become a parent and indicates the inevitability of the future event via the futur proche. But note that even though the speaker is certain about the future event, the event is not likely to happen immediately. In the second sentence, the speaker is stating her desire to either get pregnant or to adopt a child of her own. In this sentence the time frame for the future event is left open--maybe she will get pregnant tomorrow, maybe she won't. Now consider the following dialogue in which Tex's sister Rita discovers she's going to have Rita: Oh ... Bon Dieu. Le test est positif. Je Rita: Oh ... Good Lord. The test is positive. vais encore avoir quatre enfants de plus! I'm going to have four more babies! 
-a baby. Can you explain the choice of future tense?  
-Rita, qui a déjà plusieurs enfants, passe un  Rita, who already has several children,  
-test de grossesse pour savoir si elle est  takes a pregnancy test to find out if she is  
-enceinte. Elle sort de sa chambre.  pregnant. She comes out of her bedroom.  
-
-Joe-Bob: Quatre? Joe-Bob: Four? 
-Rita: Oui, quatre!! Tu sais bien, les tatous Rita: Yes, four!! You know, armadillos give accouchent de quatre enfants à la fois! birth to four babies at a time! 
-
-
-
-Rita et Tammy se demandent comment les bébés vont changer la vie de Rita. 
-Rita: Encore des enfants! Je ne vais pas tenir le coup! 
-Tammy: Oh Rita, tu exagères. Après une douzaine, quatre de plus ne feront aucune différence! 
-Rita: Aucune différence? HA! Je vais avoir des couches à changer, des repas à préparer. Et je ne vais plus pouvoir dormir la nuit. 
-Tammy: Oui, tu seras un peu fatiguée peut­être, mais la joie te donnera de l'énergie, tu verras. 
-Rita: Ma joie?! Je serai heureuse quand mon mari aura une vasectomie. 
-
-differences between French and English 
-Rita and Tammy wonder how the babies are going to change Rita's life. 
-Rita: More children! I'm not going to hold up! 
-Tammy: Oh Rita, you are exaggerating. After a dozen, four more won't make any difference at all! 
-Rita: No difference at all? HA! I'm going to have diapers to change, meals to prepare. And I'm not going to be able to sleep at night any more. 
-Tammy: Yes, you will be a little tired maybe, but joy will give you energy. You will see. 
-Rita: My joy?! I will be happy when my husband has a vasectomy. 
-In general, the future tenses in French and in English are used similarly. However, there is one major difference in future tense usage between the two languages. French requires the future tense after certain conjunctions where English usage calls for the present tense. 
-
-
-
-Joe-Bob: Dès que Tex et Tammy seront en Joe-Bob: As soon as Tex and Tammy are vacances, ils iront à la Nouvelle-Orléans. on vacation, they will go to New Orleans. 
-Corey: Mais ils nous téléphoneront aussitôt Corey: But they will call us as soon as they qu'ils arriveront à la Nouvelle-Orléans. arrive in New Orleans. 
-Joe-Bob: Lorsque Tex et Tammy Joe-Bob: When Tex and Tammy come rentreront, ils passeront quelques jours à back, they will spend a few days in Opelousas. Opelousas. 
-Corey: Et quand ils reviendront à Austin, Corey: And when they return to Austin, on fera la fête! we'll have a party! 
-In the French examples above, the subordinate clauses starting with dès que, aussitôt que, lorsque, and quand are in the simple future because the main clauses are in the future. The action in the subordinate clause implies future tense since it will take place at around the same time as the action in the main clause. Note the use of the present tense in the subordinate clause of the English translations. 
-
-fill in the blanks 
-'Futur simple' or 'futur proche'? Fill in the blank with the appropriate future tense of the verb indicated in parentheses. 
-
-1. 
-Tex : Quand je serai riche, je ___________, mais pas maintenant! (me marier) 
-
-2. 
-Tex : J'ai une idée pour un poème : je __________ tout de suite! (écrire) 
-3. 
-Tex : Je veux revoir la France. Je ___________ un billet d'avion immédiatement. (acheter) 
-4. 
-Tammy : Aujourd'hui, c'est les soldes! Tex et moi, nous ___________ à Dillards. (aller) 
-5. 
-Edouard : Je suis serveur. Mais, un jour, je _________ un chef cuisinier célèbre. (devenir) 
-6. 
-Edouard : Quand vous vous marierez, vous ___________ votre lune de miel à Paris. (passer) 
-7. 
-Tammy : Je/J' ___________ toujours Tex. (aimer) 
-8. 
-Bette : Je _________ toujours une femme fatale! (être) 
-9. 
-Tex : Je suis en retard. Tammy _________ contente! (ne pas être) 
-10. 
-Tammy : Il fait beau aujourd'hui. Nous __________ (faire) un picnic. 
-11. 
-Rita : Je suis fatiguée. Je _________ comme un bébé. (dormir) 
-12. 
-Corey et Joe-Bob : L'examen est demain! Nous ____________ ce soir. (réviser) 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-1. 
-formation 
-
-2. 
-usage 
-
-3. 
-conjunctions 
-
-
-formation 
-The future perfect (futur antérieur) is formed with the simple future of the auxiliary (either être or avoir), plus the past participle of the main verb. The choice between être and avoir as an auxiliary is the same as in the passé composé. 
-
-
-Future perfect = auxiliary in the future + past participle of main verb 
-
-
-Note that with the auxiliary être, the past participle agrees in number and gender with the subject. 
-
-
-usage 
-The futur antérieur is used for an action that precedes, or will be completed before, another action in the future. While the futur is expressed in English by 'will' + main verb (will finish), the futur antérieur is usually translated as 'will have' 
-+ past participle of verb (will have finished). For example: 
-
-
-Corey et Joe-Bob n'auront pas appris le Corey and Joe-Bob will not have learned futur antérieur avant la fin du semestre. the future perfect before the end of the semester. 
-
-Negation is formed as usual by placing ne / n' ... pas around the conjugated verb, which in this case is the auxiliary: 
-
-Corey et Joe-Bob n'auront certainement pas Corey and Joe-Bob will not have compris le futur antérieur avant la fin du understood the future perfect before the semestre. end of the semester. 
-
-
-
-
-conjunctions 
-The futur antérieur is used similarly in French and English. However, French uses the future perfect after certain conjunctions like quand and lorsque (when) or dès que and aussitôt que (as soon as) where English would use the 
-present tense.  
-
- Quand Tammy aura reçu son diplôme,Tex et elle iront en France.  When Tammy gets her degree, she and Tex go to France.  
-Dès que Tex et Tammy se seront mariés, ils auront beaucoup de petits tatous.  As soon as Tex and Tammy get married, they will have lots of little armadillos.  
-
-In the examples above, the subordinate clauses starting with quand and dès que are in the future perfect because the action of the subordinate clause will be performed prior to the action in the main clause. 
-Listen to the dialogue: 
-
-
-
-Tex et Tammy sont à une soirée. Ils se disputent. 
-Tammy: Tex, quand tu auras fini de draguer toutes mes copines, je voudrais te dire deux mots! 
-Tex: Tammy, on parlera dès que tu te seras calmée! 
-Tammy: Tu es insupportable! Je ne partirai que lorsque tu te seras excusé! 
-Tex: Mais je m'amuse bien! On parlera de tout ça quand la soirée sera terminée. 
-Tammy: Quand tu auras bien bu, ce sera trop tard. 
-Tex: Bon, d'accord, je viens. 
-Tex and Tammy are at a party. They are having a quarrel. 
-Tammy: Tex, when you're done hitting on all my girl-friends, I would like to have a word with you! 
-Tex: Tammy, we'll talk when you've calmed down! 
-Tammy: You are unbearable! I will not leave until you've apologized! 
-Tex: But I am having fun! We'll talk about all this when the party is over. 
-Tammy: When you have drunk too much, it will be too late. 
-Tex: OK, I am coming. 
-
-fill in the blanks 
-
-Give 
-the 'futur antérieur' of the verb indicated in parentheses. 
-1. 
-Tex : Tammy, l'an prochain tu m'_______ depuis 5 ans. (connaître) 
-
-2. 
-Tammy : Demain, Tex ___________ ses promesses. (oublier) 
-3. 
-Tex : J'espère que Tammy __________ son examen. (réussir) 
-4. 
-Tammy : Quand j' ___________ des enfants, je ressemblerai à Rita. (avoir) 
-5. 
-Joe-Bob: Quand est-ce que vous ___________ ? (finir) 
-6. 
-Tammy : Quand Tex et Edouard __________, on pourra manger. (rentrer) 
-7. 
-Tammy : Je travaillerai quand vous ____________. (partir) 
-8. 
-Tammy : J'espère que Tex ______________ à Edouard. (téléphoner) 
-9. 
-Tex : Dans quelques années, je __________ un poète célèbre. (devenir) 
-10. 
-Tammy : L'an prochain, les bébés de Rita ____________. (grandir) 
-11. 
-Tex : Dans une semaine, on ____________ les cours. (terminer) 
-12. 
-Tammy : J'espère que Tex ____________ une bonne journée. (passer) 
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
+Tex et Tammy sont à une soirée. Ils se disputent.
+Tammy : Tex, quand tu auras fini de draguer toutes mes copines, je voudrais te dire deux mots !
+Tex : Tammy, on parlera dès que tu seras calmée !
+Tammy : Tu es insupportable ! Je ne partirai que lorsque tu seras excusé !
+Tex : Mais je m'amuse bien ! On parlera de tout ça quand la soirée sera terminée.
+Tammy : Quand tu auras bien bu, ce sera trop tard.
+Tex : Bon, d'accord, je viens.
 
 {% include links.html %}

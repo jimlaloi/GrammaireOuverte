@@ -11,145 +11,80 @@ folder: grammaire
 
 Page under construction
 
+L'impératif, (l'impératif en français) est utilisé pour donner des ordres, des ordres ou exprimer des souhaits, comme 'Stop !', 'Ecoute !' Vous pouvez reconnaître l'impératif à partir de commandes telles que « Ecoutez » ou « Répétez ». C'est l'un des quatre états d'âme de la langue française. Contrairement aux autres modes, l'impératif n'est pas divisé en temps. Gardez à l'esprit que l'impératif est un moyen très direct de donner un ordre. Il est souvent remplacé par des alternatives plus polies comme le conditionnel.
+formation
+Il existe trois formes de l'impératif : tu, nous et vous. Pour tous les verbes, l'impératif se forme en prenant les formes correspondantes de l'indicatif présent, mais sans pronoms sujets. L'absence d'un pronom sujet est ce qui
 
 
-
-1. 
-formation 
-
-2. 
-irregular imperatives 
-
-3. 
-imperative of pronomial verbs 
-
-4. 
-negative commands 
-
-5. 
-pronoun object with imperatives 
+La forme tu est utilisée pour donner un ordre à un enfant ou lorsque le locuteur est familier avec la personne à qui l'on s'adresse. La forme vous permet de donner un ordre à un groupe de personnes ou de s'adresser à une personne sous la forme vous. La forme nous est utilisée pour donner un ordre qui implique soi-même ainsi que les autres, bien qu'elle exprime souvent une suggestion comme sa traduction (Let's ... ) l'indique.
+Déposez le s final dans les formes tu de l'impératif pour les verbes -er, y compris aller, et les verbes -ir comme ouvrir et d'autres verbes
 
 
-The imperative, (l'impératif in French) is used to give commands, orders, or express wishes, like 'Stop!', 'Listen!' You may recognize the imperative from commands such as 'Ecoutez' or 'Répétez'. It is one of four moods in the French language. Unlike the other moods, the imperative is not divided into tenses. Keep in mind that the imperative is a very direct way to give an order. It is often replaced with more polite alternatives like the conditional. 
-formation 
-There are three forms of the imperative: tu, nous and vous. For all verbs, the imperative is formed by taking the corresponding forms of the present indicative, but without subject pronouns. The lack of a subject pronoun is what 
+Lorsque ces formes sont suivies du pronom y ou en, le -s est rattaché à des fins de prononciation. Par exemple:
+
+Corey : Bette, va au supermarché ! Vas-y ! Et Corey : Bette, va au supermarché ! Allez achète de l'insecticide pour moi... Tu y es ! Et m'acheter de l'insecticide... m'entends-tu ? Achètes-en pour moi ! Vous m'entendez? Achetez-en pour moi !
+Bette : Imbécile, l'insecticide est dangereux Bette : Imbécile, l'insecticide est dangereux pour pour les cafards ! Paf ! les cafards! Pouah !
+Corey : Oh, Bette... aide-moi à me relever, Corey : Oh, Bette, aide-moi à me relever, s'il te plaît. s'il te plaît.
+Bette : Tu es vraiment trop bête. Je m'en Bette : Tu es vraiment trop bête. Je vais. en quittant.
 
 
-The tu form is used to give an order to a child or when the speaker is on familiar terms with the person addressed. The vous form is used to give an order to a group of people or to address one person in the vous form. The nous form is used to give an order that involves oneself as well as others, though it often expresses a suggestion as its translation (Let's ... ) indicates. 
-Drop the final s in the tu forms of the imperative for -er verbs, including aller, and -ir verbs like ouvrir and other verbs 
-
-
-When these forms are followed by the pronoun y or en, the -s is reattached for pronunciation purposes. For example: 
-
-Corey: Bette, va au supermarché! Vas-y! Et Corey: Bette, go to the supermarket! Go achète de l'insecticide pour moi ... Tu there! And buy some insecticide for me ... m'entends? Achètes-en pour moi! Do you hear me? Buy some for me! 
-Bette: Imbécile, l'insecticide est dangereux Bette: Imbecile, insecticide is dangerous for pour les cafards! Paf! cockroaches! Pow! 
-Corey: Oh, Bette ... aide-moi à me relever, Corey: Oh, Bette, help me back up, please. s'il te plaît. 
-Bette: Tu es vraiment trop bête. Je m'en Bette: You are really too stupid. I'm vais. leaving. 
-
-
-irregular imperatives 
-There are several verbs that have irregular imperative forms. 
+impératifs irréguliers
+Il existe plusieurs verbes qui ont des formes impératives irrégulières.
 
 
 
 
-avoir 
-être 
-savoir 
-vouloir 
+avoir
+être
+savoir
+vouloir
 
 
 
-aie 
-sois 
-sache 
-veuille 
+aie
+sois
+sache
+veille
 
 
-ayons 
-soyons 
-sachons 
-veuillons 
+ayons
+soyons
+sachons
+veuillons
 
 
-ayez 
-soyez 
-sachez 
-veuillez 
+ayez
+reste
+sachez
+s'il vous plait
 
 
-imperative of pronominal verbs 
-For pronominal verbs, the subject pronoun is dropped and the object pronoun is placed after the verb and is attached with a hyphen. Te becomes toi in this situation. 
+impératif des verbes pronominaux
+Pour les verbes pronominaux, le pronom sujet est supprimé et le pronom objet est placé après le verbe et est attaché avec un trait d'union. Te devient toi dans cette situation.
 
 
-negative commands 
-The forms of the affirmative imperative (an order to do something) have been presented in the above charts. In negative commands (an order not to do something), place the ne ... pas around the imperative, as in Ne regarde pas ('Don't look'). In negative commands for reflexive verbs, the object pronoun is placed in front of the verb. 
+commandes négatives
+Les formes de l'impératif affirmatif (un ordre de faire quelque chose) ont été présentées dans les tableaux ci-dessus. Dans les commandes négatives (un ordre de ne pas faire quelque chose), placez le ne ... pas autour de l'impératif, comme dans Ne regarde pas (« Ne regarde pas »). Dans les commandes négatives pour les verbes réfléchis, le pronom objet est placé devant le verbe.
 
-Corey: Ne te moque pas de moi! Corey: Don't make fun of me! 
-Joe-Bob: Ne nous moquons pas de Corey! Joe-Bob: Let's not make fun of Corey! 
-
-
-
-pronoun object with imperatives 
-Other non-pronominal pronoun objects follow the same placement as objects of pronominal verbs. As usual, the subject pronoun is dropped. In the negative, the ne precedes the object pronoun and the verb. In the affirmative imperative, the pronoun object follows the verb, and the forms moi and toi replace me and te. 
-
-Corey: Aidez-moi, aidez-moi! Je n'arrive pas Corey: Help me, help me! I can't get back à me relever. up. 
-Joe-Bob: Retournons-le! Allez, un, deux, Joe-Bob: Let's turn him. Let's go, one, two, trois ... Doucement, doucement. Ne le faites three ... Slowly, slowly. Don't do it too fast! pas trop vite! 
-
-
-Listen to the following dialogue: 
-
-Corey: Merci, tout le monde. Ça va beaucoup mieux. Allons à Barton Springs cet après-midi. 
-Joe-Bob: D'accord, mais écoute, d'abord je dois mettre mon maillot. 
-Corey: Oui, bien sûr, mais dépêche-toi . 
-Joe-Bob: J'arrive. N'oublions pas l'insecticide. Il y a tant d'insectes empoisonnants en ce moment! 
-Corey: Eh moi alors? 
-Joe-Bob: Oh, pas toi, Corey. Tu n'es jamais empoisonnant! 
-Corey: Thanks, everybody. That's much better. Let's go to Barton Springs this afternoon. 
-Tammy: Okay, but listen, first I have to put on my swimsuit. 
-Tex: Yes, of course, but hurry. 
-Joe-Bob: I'm coming. Let's not forget the insecticide. There are so many irritating insects now. 
-Corey: And me? 
-Joe-Bob: Oh, not you, Corey. You are never irritating! 
-
-
-fill in the blanks 
-Fill 
-in the blank with the imperative form of the verb between parentheses. 
-1. 
-Tex : ___________ Tammy! On étaient si heureux à Lyon! (se rappeler) 
-
-2. 
-Tammy : Tex, _________ tes légumes! (finir) 
-3. 
-Tex : ____________ de nous disputer! (arrêter) 
-4. 
-Tammy : _____________ prétentieux, Tex! (ne pas être) 
-5. 
-Tex et Tammy : ___________ rester modestes! (savoir) 
-6. 
-Tammy : _________ chez le coiffeur Tex! (aller) 
-7. 
-Tammy : Tu as envie d'aller chez Bette, Tex? _________-y! (aller) 
-8. 
-Tammy : J'achète du vin? Tex : Oui,___________-en plusieurs bouteilles! (acheter) 
-9. 
-Tammy : Ta maison n'est pas propre Tex! ___________ tes affaires! (ranger) 
-10. 
-Tammy : Edouard, Corey, _____________ ! Vous allez être en retard! (se dépêcher) 
-11. 
-Tex : Edouard, Corey, ceci est secret! _____________ à Tammy! (ne pas parler) 
-12. 
-Tex : Chers amis, ___________ tous à mon anniversaire! (venir) 
+Corey : Ne te moque pas de moi ! Corey : Ne te moque pas de moi !
+Joe-Bob : Ne nous moquons pas de Corey ! Joe-Bob : Ne nous moquons pas de Corey !
 
 
 
+pronom objet à l'impératif
+D'autres objets pronominaux non pronominaux suivent le même placement que les objets des verbes pronominaux. Comme d'habitude, le pronom sujet est supprimé. A la négative, le ne précède le pronom complément et le verbe. A l'impératif affirmatif, le pronom objet suit le verbe, et les formes moi et toi remplacent moi et te.
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
+Corey : Aidez-moi, aidez-moi ! Je n'arrive pas Corey : Aide-moi, aide-moi ! Je ne peux pas revenir à me relever. en haut.
+Joe-Bob : Retournons-le ! Allez, un, deux, Joe-Bob : Tournons-le. Allons-y, un, deux, trois... Doucement, doucement. Ne le faites trois... Lentement, lentement. Ne le faites pas trop vite ! pas trop vite !
 
 
+Écoutez le dialogue suivant :
 
-
-
+Corey : Merci, tout le monde. Ça va beaucoup mieux. Allons à Barton Springs cet après-midi.
+Joe-Bob : D'accord, mais écoute, d'abord je dois mettre mon maillot.
+Corey : Oui, bien sûr, mais dépêche-toi .
+Joe-Bob : J'arrive. N'oublions pas l'insecticide. Il y a tant d'insectes empoisonnants en ce moment !
+Corey : Eh moi alors ?
+Joe-Bob : Oh, pas toi, Corey. Tu n'es jamais empoisonnant !
 
 {% include links.html %}

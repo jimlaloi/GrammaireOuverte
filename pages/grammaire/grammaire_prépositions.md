@@ -11,122 +11,131 @@ folder: grammaire
 
 Page under construction
 
+Une préposition est un mot utilisé pour établir des relations entre des noms, entre des noms et des verbes et entre différentes parties d'une phrase. Les prépositions ont généralement des significations spatiales ou temporelles (par exemple, en dessous, entre, devant, avant, après, pendant, etc.). Les prépositions sont invariables, c'est-à-dire qu'elles ont une forme à l'exception de à et de qui se contractent avec les articles définis (le, la, les).
+La traduction des prépositions est notoirement délicate. Ne présumez jamais que le français utilisera la même préposition que l'anglais pour exprimer un sens particulier. En fait, il existe de nombreux cas où une langue nécessite une préposition alors que l'autre ne l'est pas. Ceci est particulièrement problématique avec les infinitifs suivis de prépositions. En général, il est préférable de traiter les prépositions comme des éléments de vocabulaire nécessitant une mémorisation.
+Dans les phrases suivantes, ces problèmes sont démontrés en traduisant littéralement les prépositions françaises. Notez à quel point la traduction en anglais est maladroite.
+Bette est fâchée contre Tammy. Bette est en colère contre Tammy. Bette est en colère contre Tammy.
+Tex téléphone à Joe-Bob. Tex téléphone à Joe-Bob. Tex téléphone à Joe-Bob.
 
 
 
-A preposition is a word used to establish relationships between nouns, between nouns and verbs and between different parts of a sentence. Prepositions usually have spatial or temporal meanings (e.g. beneath, between, in front of, before, after, during, etc). Prepositions are invariable, that is, they have one form with the exception of à and de which contract with the definite articles (le, la, les). 
-Translating prepositions is notoriously tricky. Never assume that French will use the same preposition as English to express a particular meaning. In fact, there are many cases where one language requires a preposition where the other does not. This is particularly problematic with infinitives followed by prepositions. In general, it is best to treat prepositions as vocabulary items requiring memorization. 
-In the following sentences, these problems are demonstrated by translating the French prepositions literally. Note how awkward the English translation is as a result. 
-Bette est fâchée contre Tammy. Bette is angry against Tammy. Bette is angry at Tammy. 
-Tex téléphone à Joe-Bob. Tex telephones to Joe-Bob. Tex telephones Joe-Bob. 
 
 
+Les traductions littérales sont également gênantes dans les situations où une préposition n'est pas utilisée en français mais est requise dans
+Anglais.
+Fiona assiste au bus. Fiona attend le bus. Fiona attend le bus.
+Joe-Bob écoute la radio. Joe-Bob écoute la radio. Joe-Bob écoute la radio.
 
 
+Les prépositions sont utilisées pour établir des relations entre les noms, entre les noms et les verbes, et entre les différentes parties d'une phrase.
 
-Literal translations are also awkward in situations where a preposition is not used in French but is required in 
-English.  
-Fiona attend le bus.  Fiona waits the bus. Fiona waits for the bus.  
-Joe-Bob écoute la radio.  Joe-Bob listens the radio. Joe-Bob listens to the radio.  
+À (à) et de (de, à propos) sont les prépositions les plus courantes en français. Ils forment des contractions avec des articles définis : Tex parle aux étudiants. Il parle des devoirs. Il regarde la question en haut du tableau. (Tex parle aux élèves. Il parle de devoirs. Il regarde la question en haut du tableau.)
+Lorsque les prépositions ont des significations littérales et spatiales, leur utilisation est simple : sur (on), sous (under), avec (with), sans (without). Il existe en outre de nombreux usages idiomatiques des prépositions, notamment à et de. Les dictionnaires incluent des listes de significations idiomatiques.
+En plus des prépositions + objets nom (ou pronom), discutés ici, il existe des directives spécifiques pour l'utilisation de prépositions avec des noms de lieux. Enfin, de nombreuses prépositions, dont certaines sur cette page, peuvent être suivies d'infinitifs.
 
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
+abc
+•
+à = à, à Voir les contractions avec les articles définis, l'utilisation de à avec les noms de lieux, et à + infinitif.
 
+Tex parle à ses amis au café. Ils vont à Tex discute avec ses amis au café. Opelousas. Ils vont à Opelousas.
 
+•
+à cause de = à cause de, dû à La préposition à cause de est suivie d'un nom, alors que la conjonction parce que est suivie d'une proposition subordonnée.
 
 
 
-Prepositions are used to establish relationships between nouns, between nouns and verbs, and between different parts of a sentence. 
 
-À (to) and de (from, about) are the most common prepositions in French. They form contractions with definite articles: Tex parle aux étudiants. Il parle des devoirs. Il regarde la question en haut du tableau. (Tex talks to the students. He is talking about homework. He is looking at the question at the top of the blackboard.) 
-When prepositions have literal, spatial meanings, using them is straightforward: sur (on), sous (under), avec (with), sans (without). There are, in addition, many idiomatic uses of prepositions, especially à and de. Dictionaries include listings of idiomatic meanings. 
-In addition to prepositions + noun (or pronoun) objects, discussed here, there are specific guidelines for using prepositions with place names. Finally, many prepositions, including some on this page, may be followed by infinitives. 
 
+Ils vont en Louisiane à cause de la fête. Ils vont en Louisiane à cause de la fête.
 
 
-1. 
-a-b-c 
+• au centre de = au centre de
+Opelousas se trouve au centre de la Opelousas est au centre de la Louisiane. Louisiane.
 
-2. 
-d-e-f 
 
-3. 
-g-h-i-j-k-l 
+• à côté de = à côté
 
-4. 
-m-n-o-p 
+Bette veut s'asseoir à côté de Tex. Bette veut s'asseoir à côté de Tex.
+•
+à droite de = à droite de, à droite de Tammy est à droite de PawPaw Louis. Tammy est à la droite de PawPaw Louis.
 
-5. 
-q-r-s-t-u-v 
+•
+à gauche de = à gauche de, à gauche de Tex est à gauche de PawPaw. Tex est à la gauche de PawPaw.
 
+•
+après = after (temporel) Voir aussi après utilisé dans les constructions infinitives passées.
 
+Après le dîner, ils vont danser. Après le dîner, ils vont danser.
 
-a-b-c 
-• 
-à = to, at See contractions with definite articles, the use of à with place names, and à + infinitive. 
+•
+à travers = à travers, par Tammy voit Bette à travers la foule. Tammy voit Bette à travers la foule.
 
-Tex parle à ses amis au café. Ils vont à Tex is talking to his friends at the café. Opelousas. They're going to Opelousas. 
+•
+autour de = entourer, autour Les amis sont assis autour de la table. Les amis sont assis autour de la table.
 
-• 
-à cause de = because of, due to The preposition à cause de is followed by a noun, whereas the conjunction parce que (because) is followed by a subordinate clause. 
+•
+avant = avant [temporel] Contraste avant avec devant signifiant 'avant' dans un sens spatial. Voir aussi avant de + infinitif.
 
+Ils ne vont pas se coucher avant cinq heures Ils ne vont pas se coucher avant cinq heures du matin. heures du matin.
 
+•
+avec = avec Avec + nom est souvent traduit par un adverbe '-ly' : avec joie (joieusement).
 
+Tex est en Louisiane avec ses amis. Ils Tex est en Louisiane avec ses amis. Ils dansent avec joie à l'anniversaire de dansent joyeusement à l'anniversaire de PawPaw PawPaw. fête.
 
+•
+chez = 'chez X (maison), à la maison de, au magasin de; à X (maison), au magasin de' Chez peut faire référence aux maisons d'individus ainsi qu'à la boutique de quelqu'un, comme dans le premier exemple ci-dessous. Lorsqu'il est appliqué à de plus grands groupes de personnes, telles que les nationalités, cela signifie entre : Chez nous les Texans, on adore la sauce piquante = "Nous les Texans aimons la sauce piquante" (littéralement : parmi nous les Texans, nous aimons la sauce piquante).
 
-Ils vont en Louisiane à cause de la fête. They're going to Louisiana because of the celebration. 
 
 
-• au centre de = at the center of 
-Opelousas se trouve au centre de la Opelousas is in the center of Louisiana. Louisiane. 
 
 
-• à côté de = beside 
 
-Bette veut s'asseoir à côté de Tex. Bette wants to sit beside Tex. 
-• 
-à droite de = to the right of, on the right of Tammy est à droite de PawPaw Louis. Tammy is on PawPaw Louis' right. 
+• au milieu de = au milieu de
+PawPaw danse au milieu de la salle. PawPaw danse au milieu de la
+pièce.
 
-• 
-à gauche de = to the left of, on the left of Tex est à gauche de PawPaw. Tex is on PawPaw's left. 
 
-• 
-après = after (temporal) See also après used in past infinitive constructions. 
+• au sujet de / à propos de = au sujet de ; À propos
+Paw-Paw parle au sujet de la Résistance et à PawPaw parle de la Résistance et
+propos de sa longue vie de séducteur. sur sa longue vie decoureur de jupons.
 
-Après le dîner, ils vont danser. After dinner, they're going dancing. 
 
-• 
-à travers = across, through Tammy voit Bette à travers la foule. Tammy sees Bette through the crowd. 
 
-• 
-autour de = surrounding, around Les amis sont assis autour de la table. The friends are seated around the table. 
 
-• 
-avant = before [temporal] Contrast avant with devant meaning 'before' in a spatial sense. See also avant de + infinitive. 
 
-Ils ne vont pas se coucher avant cinq heures They are not going to bed before five du matin. o'clock in the morning. 
 
-• 
-avec = with Avec + noun is often translated as an '-ly' adverb: avec joie (joyfully). 
 
-Tex est en Louisiane avec ses amis. Ils Tex is in Louisiana with his friends. They dansent avec joie à l'anniversaire de are dancing joyfully at PawPaw's birthday PawPaw. celebration. 
+Le lendemain matin, ils vont acheter des Le lendemain matin, ils vont acheter des croissants chez le boulanger. croissants chez le boulanger.
+Tout le monde a adoré le séjour chez Paw-Tout le monde a adoré son séjour chez Paw-Paw's. Patte.
+Après un an à Austin, Tex se sent vraiment Après un an à Austin, Tex se sent vraiment à l'aise chez les Texans. facilité avec (parmi) les Texans.
+• contre = contre Contre est utilisé dans plusieurs expressions idiomatiques.
 
-• 
-chez = 'at X's (house), at the house of, at the store of; to X's (house), to the store of' Chez may refer to individual's homes as well as to someone's shop, as in the first example below. When applied to larger groups of people, such as nationalities, it means among: Chez nous les Texans, on adore la sauce piquante = "We Texans love hot sauce" (literally: Among us Texans we love hot sauce). 
+Bette a dansé tout contre Tex. Bette a dansé juste contre Tex.
+Tammy est en colère contre Bette ; elle se Tammy est en colère contre Bette; elle se fâche fâche contre Tex. avec Tex. Tammy est contre la bigamie. Tammy est contre la bigamie.
 
 
+d-e-f
 
+• dans = dans Dans est toujours suivi d'un déterminant (défini, indéfini ou possessif). Voir aussi fr.
+Tammy est dans la cuisine. Elle prépare le Tammy's en cuisine. Elle prépare le dîner pour Tex qui arrive dans une heure. dîner pour Tex qui vient dans une heure.
+• d'après = selon
+D'après Edouard, les Américains mangent Selon Edouard, les Américains mangent très très mal. Mais Tammy cuisine bien! pauvrement. Mais Tammy cuisine bien.
 
 
 
-• au milieu de = in the middle of  
-PawPaw danse au milieu de la salle.  PawPaw is dancing in the middle of the  
-room.  
 
+• de = de, de, à propos Voir aussi l'utilisation de de avec des noms de lieux et de + infinitif.
+Au dîner, Tex et Tammy parlent de leur voyage en Louisiane.
+• de l'autre côté de = de l'autre côté de
+Puis ils font une promenade et regardent les gratte-ciel de l'autre côté du fleuve.
+• derrière = à l'arrière de, derrière (spatial)
+Ils admirent le soleil se coucher derrière les collines.
+• devant = devant, avant (sens spatial) Contraste devant avec avant (sens temporel).
+Enfin, ils s'embrassent passionnément devant le Capitole.
+• fr = dans
 
-• au sujet de / à propos de = on the subject of; about  
-Paw-Paw parle au sujet de la Résistance et à  PawPaw is talking about the Resistance and  
-propos de sa longue vie de séducteur.  about his long life as a womanizer.  
 
 
 
@@ -134,820 +143,404 @@ propos de sa longue vie de séducteur.  about his long life as a womanizer.
 
 
 
-Le lendemain matin, ils vont acheter des The next morning they are going to buy croissants chez le boulanger. croissants at the baker's. 
-Tout le monde a adoré le séjour chez Paw-Everyone loved their stay at Paw-Paw's. Paw. 
-Après un an à Austin, Tex se sent vraiment After a year in Austin, Tex really feels at à l'aise chez les Texans. ease with (among) Texans. 
-• contre = against Contre is used in several idiomatic expressions. 
+Au dîner, Tex et Tammy parlent de leur voyage en Louisiane.
+Ensuite, ils se promènent et regardent les gratte-ciel de l'autre côté de la rivière.
+Ils admirent le soleil se coucher derrière les collines.
+Enfin, ils s'embrassent passionnément devant le Capitole.
+En signifie « dans » et précède immédiatement le nom (c'est-à-dire qu'il ne nécessite pas de déterminant ; il est suivi directement de son objet, par exemple, en France). Il est également utilisé dans de nombreuses expressions idiomatiques : Tex roule en voiture (Tex conduit dans une voiture) ; Trey vient en vélo ; et dans quelques temps expressions : en automne (à l'automne) ; en août (en août). Comparer avec dans.
 
-Bette a dansé tout contre Tex. Bette danced right against Tex. 
-Tammy est en colère contre Bette; elle se Tammy is mad at Bette; she's getting angry fâche contre Tex. with Tex. Tammy est contre la bigamie. Tammy is against bigamy. 
+• en bas de = en bas de, à la fin de
+Ils prennent un verre dans un bar en bas de Ils prennent un verre dans un bar au bout de la cinqième rue. Cinquième rue.
 
+• en dehors de = en dehors de, excluant
+En dehors de Tammy, Tex ne connaît pas En dehors de Tammy, Tex ne connaît pas beaucoup de Texans. Texans.
 
-d-e-f 
+• en dépit de = malgré
+En dépit de l'alcool, Tex se conduit fr Malgré l'alcool, Tex se comporte en gentleman. gentleman.
 
-• dans = in Dans is always followed by a determiner (definite, indefinite or possessive). See also en. 
-Tammy est dans la cuisine. Elle prépare le Tammy's in the kitchen. She's cooking dîner pour Tex qui arrive dans une heure. dinner for Tex who's coming in one hour. 
-• d'après = according to 
-D'après Edouard, les Américains mangent According to Edouard, Americans eat very très mal. Mais Tammy cuisine bien! poorly. But Tammy cooks well. 
+•
+en face de = devant, en face de Tex est assis en face de Tammy. Tex est (assis) en face de Tammy.
 
+•
+en haut de = en haut de; au sommet de
 
 
 
-• de = of, from, about See also the use of de with place names and de + infinitive. 
-Au dîner, Tex et Tammy parlent de leur voyage en Louisiane. 
-• de l'autre côté de = on the other side of 
-Puis ils font une promenade et regardent les gratte-ciel de l'autre côté du fleuve. 
-• derrière = in back of, behind (spatial) 
-Ils admirent le soleil se coucher derrière les collines. 
-• devant = in front of, before (spatial sense) Contrast devant with avant (temporal sense). 
-Enfin, ils s'embrassent passionément devant le Capitole. 
-• en = in 
+Tout d'un coup Bette apparaît en haut de Tout à coup, Bette apparaît en haut de l'escalier. l'escalier.
 
+•
+entre = entre Entre signifie 'entre' et il est utilisé pour désigner deux personnes ou choses (ou deux groupes de personnes ou de choses). Contraste avec parmi ('parmi').
 
+Puis elle vient s'asseoir entre Tammy et Tex. Puis elle vient s'asseoir entre Tammy et Tex.
 
+•
+envers = vers (au sens figuré) Envers signifie « vers » au sens figuré, indiquant une attitude ou un geste envers quelqu'un. Contraste avec vers, qui signifie vers dans un sens spatial ou temporel.
 
 
 
 
+Tammy ressent une certaine antipathie Tammy éprouve une certaine animosité envers envers Bette. Bette.
 
-At dinner, Tex and Tammy talk about their trip to Louisiana. 
-Then they take a walk and look at the skyscrapers on the other side of the river. 
-They admire the sun setting behind the hills. 
-Finally, they kiss passionately in front of the Capitol. 
-En means 'in' and immediately precedes the noun (i.e., it does not require a determiner; it is followed directly by its object, for example, en France). It is also used in many idiomatic expressions: Tex roule en voiture (Tex is driving in a car); Trey vient en vélo (Trey comes on a bike); and in some time expressions: en automne (in the fall); en août (in August). Compare with dans. 
 
-• en bas de = at the bottom of, at the end of 
-Ils prennent un verre dans un bar en bas de They have a drink in a bar at the end of la cinqième rue. Fifth Street. 
+g-h-je-j-k-l
+• grâce à = merci à
+Tex a découvert son grand-père grace à Tex a découvert son grand-père grâce à
+l'album de photos de Rita. L'album photo de Rita.
 
-• en dehors de = outside of, excluding 
-En dehors de Tammy, Tex ne connaît pas Outside of Tammy, Tex doesn't know many beaucoup de Texans. Texans. 
 
-• en dépit de = in spite of 
-En dépit de l'alcool, Tex se conduit en In spite of the alcohol, Tex behaves like a gentleman. gentleman. 
+• hors de = en dehors de, hors de (idiomatique)
+Paw-Paw habite hors de la ville d'Opelousas. Paw-Paw vit à l'extérieur de la ville de Il est hors de question que Tex vive à Opelousas. Il est hors de question qu'Opelousas. Tex habite à Opelousas.
 
-• 
-en face de = in front of, across from Tex est assis en face de Tammy. Tex is (seated) across from Tammy. 
+• jusqu'à = jusqu'à
+Distinguer entre la préposition jusqu'à et la conjonction jusqu'à ce que.
+Tex et Tammy vont jusqu'à Opelousas. Tex et Tammy vont jusqu'à Opelousas.
 
-• 
-en haut de = at the top of; to the top of 
 
+• longe de = loin de
+Tex habite loin de son grand-père Paw-Paw Tex habite loin de son grand-père Paw-Paw
+Louis. Louis.
 
 
-Tout d'un coup Bette apparaît en haut de All of a sudden, Bette appears at the top of l'escalier. the staircase. 
+m-n-o-p
+• malgré = malgré
+Malgré la distance, Tex aime aller voir son Malgré la distance, Tex aime aller voir
+grand-père. son grand-pere.
 
-• 
-entre = between Entre means 'between' and it is used when referring to two people or things (or two groups of people or things). Contrast with parmi ('among'). 
 
-Puis elle vient s'asseoir entre Tammy et Tex. Then she comes and sits down between Tammy and Tex. 
+•
+par = by, through, per Par a plusieurs significations idiomatiques. Cela signifie « par » lorsqu'il est utilisé avec la voix passive. Voir aussi l'utilisation du par +
 
-• 
-envers = toward (figurative sense) Envers means 'toward' in a figurative sense, indicating an attitude or gesture toward someone. Contrast with vers, which means toward in a spatial or temporal sense. 
+•
+parmi = parmi Parmi signifie « parmi » et il est utilisé pour désigner au moins trois personnes ou choses (ou groupes de personnes ou de choses). Contraste avec entre (entre).
 
 
+infinitif.
+Tex va à Opelousas une fois par mois. Tex se rend à Opelousas une fois par mois (une fois par mois).
+Tex est invité à Opelousas par Paw-Paw. Tex est invitéed à Opelousas par Paw-Paw.
+Pour aller à Opelousas, Tex passe par Houston. Tex passe par Houston pour se rendre à Opelousas.
 
 
-Tammy ressent une certaine antipathie Tammy feels a certain animosity toward envers Bette. Bette. 
+Tex compte beaucoup de Cajuns parmi ses Tex compte de nombreux Cajuns parmi ses cousins. les cousins.
 
 
-g-h-i-j-k-l  
-• grace à = thanks to  
-Tex a découvert son grand-père grace à  Tex discovered his grandfather thanks to  
-l'album de photos de Rita.  Rita's photo album.  
+• pendentif = pendant
+Pendant son séjour chez Paw-Paw, Tex Pendant son séjour chez Paw-Paw, Tex mange de la gale des écrevisses. écrevisse.
 
+• pour = pour, en faveur de
+Voir aussi l'utilisation de pour + infinitif.
+Paw-Paw est pour la défense du Cajun. Pour Paw-Paw est favorable à la défense de
+lui, le français est la plus belle langue du cajun. Pour lui, le français c'est le plus beau
 
-• hors de = outside of, out of (idiomatic) 
-Paw-Paw habite hors de la ville d'Opelousas. Paw-Paw lives outside of the city of Il est hors de question que Tex vive à Opelousas. It is out of the question that Opelousas. Tex live in Opelousas. 
+monde. langue dans le monde.
 
-• jusqu'à = until 
-Distinguish between the preposition jusqu'à and the conjunction jusqu'à ce que. 
-Tex et Tammy vont jusqu'à Opelousas. Tex and Tammy are going as far as Opelousas. 
+•
+près de = près d'Opelousas est près de Baton Rouge. Opelousas est près de Baton Rouge.
 
+•
+sans = sans Sans est souvent traduit par '-less' ou un préfixe négatif 'in-' ou 'un-' : un travail sans effort ; un film sans intérêt. Voir aussi l'utilisation de sans + infinitif.
 
-• loin de = far from  
-Tex habite loin de son grand-père Paw-Paw  Tex lives far from his grandfather Paw-Paw  
-Louis.  Louis.  
 
 
-m-n-o-p  
-• malgré = in spite of  
-Malgré la distance, Tex aime aller voir son  In spite of the distance, Tex likes to go see  
-grand-père.  his grandfather.  
+q-r-s-t-u-v
+• quant à = comme pour
+Paw-Paw est content de voir Tex. Quant à Paw-Paw est content de voir Tex. Quant à Tex,
+Tex, il est heureux de pouvoir enfin parler il est heureux de pouvoir enfin parler
+français. Français.
 
 
-• 
-par = by, through, per Par has several idiomatic meanings. It means 'by' when it is used with the passive voice. See also the use of par + 
+Sans doute, le français se parle dans sa Sans doute, le français a parlé dans sa famille depuis longtemps. famille depuis longtemps.
 
-• 
-parmi = among Parmi means 'among' and it is used when referring to three or more people or things (or groups of people or things). Contrast with entre (between). 
 
 
-infinitive.  
-Tex va à Opelousas une fois par mois.  Tex goes to Opelousas once a month (one time per month).  
-Tex est invité à Opelousas par Paw-Paw.  Tex is invited to Opelousas by Paw-Paw.  
-Pour aller à Opelousas, Tex passe par Houston.  Tex goes through Houston to get to Opelousas.  
+• sauf = sauf
+Toute sa famille parle français, sauf son oncle Elmer, qui habite en Californie.
+• selon = selon
+Selon Paw-Paw, Tex a un drôle d'accent français.
+• sous = under, in (idiomatique)
 
 
-Tex compte beaucoup de Cajuns parmi ses Tex counts many Cajuns among his cousins. cousins. 
 
+Tout le monde dans sa famille parle, sauf Oncle Elmer, qui vit en Californie.
+Selon Paw-Paw, Tex a un drôle d'accent français.
+Sous signifie « sous », mais il est souvent traduit par « dans » dans des expressions telles que sous la pluie (sous la pluie) ; sous le soleil (au soleil).
+En route pour Opelousas, Tex et Tammy ont Sur la route d'Opelousas, Tex et Tammy vu un alligator sous un pont. vu un alligator sous un pont.
 
-• pendant = during 
-Pendant son séjour chez Paw-Paw, Tex During his stay with Paw-Paw, Tex eats mange des écrevisses. crawfish. 
 
-• pour = for, in favor of  
-See also the use of pour + infinitive.  
-Paw-Paw est pour la défense du Cajun. Pour  Paw-Paw is in favor of the defense of  
-lui, le français est la plus belle langue du  Cajun. For him, French is the most beautiful  
 
-monde. language in the world. 
+•
+sur = sur, sur, au-dessus de Sur signifie « sur », mais il est également utilisé dans plusieurs expressions idiomatiques : un sur deux (un sur deux) ; tourner son attention sur quelquechose ; sur le moment (à l'époque); sur invitation (sur invitation). etc.
 
-• 
-près de = near to Opelousas est près de Baton Rouge. Opelousas is near Baton Rouge. 
+•
+vers = vers(s) Vers signifie 'vers, autour' dans un sens à la fois spatial et temporel. Contraste avec envers, qui a un sens figuré.
 
-• 
-sans = without Sans often is translated by '-less' or a negative prefix 'in-' or 'un-': un travail sans effort (effortless work); un film sans intérêt (an uninteresting film). See also the use of sans + infinitive. 
 
+En Louisiane, on sert souvent des En Louisiane, les écrevisses sont souvent servies directement sur le
+écrevisses directement sur la table, sans assiette.
+table, sans assiette.
 
 
-q-r-s-t-u-v  
-• quant à = as for  
-Paw-Paw est content de voir Tex. Quant à  Paw-Paw is happy to see Tex. As for Tex,  
-Tex, il est heureux de pouvoir enfin parler  he is happy to finally be able to speak  
-français.  French.  
 
+Vers midi, Tex et Tammy repartent vers Vers midi, Tex et Tammy tête en arrière
+Austin. vers Austin.
 
-Sans doute, le français se parle dans sa Without doubt, French has spoken in his famille depuis longtemps. family for a long time. 
-
-
-
-• sauf = except 
-Toute sa famille parle français, sauf son oncle Elmer, qui habite en Californie. 
-• selon = according to 
-Selon Paw-Paw, Tex a un drôle d'accent français. 
-• sous = under, in (idiomatic) 
-
-
-
-Everyone in his family speaks, except Uncle Elmer, who lives in California. 
-According to Paw-Paw, Tex has a funny French accent. 
-Sous means 'under,' but it is often translated by 'in' in expressions such as sous la pluie (in the rain); sous le soleil (in the sun). 
-En route pour Opelousas, Tex et Tammy ont On the road to Opelousas, Tex and Tammy vu un alligator sous un pont. saw an alligator under a bridge. 
-
-
-
-• 
-sur = on, upon, on top of Sur means 'on,' but it is also used in several idiomatic expressions: un sur deux (one out of two); tourner son attention sur quelquechose (to turn one's attention to something); sur le moment (at the time); sur invitation (by invitation). etc. 
-
-• 
-vers = toward(s) Vers means 'toward, around' in both a spatial and a temporal sense. Contrast with envers, which has a figurative sense. 
-
-
-En Louisiane, on sert souvent des  In Louisiana, crawfish are often served directly on the  
-écrevisses directement sur la  table, with no plate.  
-table, sans assiette.  
-
-
-
-Vers midi, Tex et Tammy repartent vers Around noon, Tex and Tammy head back 
-Austin. towards Austin. 
-
-Bette et Tammy entrent dans un restaurant Bette and Tammy enter a restaurant together. ensemble. Elles ont toutes les deux pris rendez-Unknowingly, they both have a date with Tex. vous avec Tex sans le savoir! Elles regardent They look around the room. At the same time 
-autour de la salle. En même temps, elles they see Tex seated at a table. They rush 
-aperçoivent Tex assis à une table. Elles se towards him. They look at each other, hesitate a moment, then sit down. Tammy sits on Tex'
-précipitent vers lui. Elles se regardent, hésitent right and Bette sits down to his left. They look un moment, puis s'asseyent. Tammy s'assied à at each other again, confused. Tex is having fun droite de Tex et Bette s'assied à gauche de lui. 
-in spite of the drama between Bette andElles se regardent à nouveau d'un air confus. 
+Bette et Tammy entrent dans un restaurant Bette et Tammy entrent ensemble dans un restaurant. ensemble. Elles ont toutes les deux pris rendez-vous sans le savoir, elles ont toutes les deux un rendez-vous avec Tex. vous avec Tex sans le savoir ! Elles regardent Elles regardent autour de la pièce. À la fois
+autour de la salle. En même temps, elles voient Tex assis à une table. ils se précipitent
+aperçoivent Tex assis à une table. Elles se tournent vers lui. Ils se regardent, hésitent un instant, puis s'assoient. Tammy est assise sur Tex'
+précipitent vers lui. Elles se regardent, hésitent à droite et Bette s'assoit à sa gauche. Ils regardent un instant, puis s'asseyent. Tammy s'assit à nouveau, confuse. Tex s'amuse droite de Tex et Bette s'assied à gauche de lui.
+malgré le drame entre Bette etElles se regarde à nouveau d'un air confus.
 Tammy.
-Tex s'amuse malgré le drame entre Bette et Tammy. 
+Tex s'amuse malgré le drame entre Bette et Tammy.
 
 
-fill in the blanks 
-Fill 
-in the blank with the correct preposition. 
-1. 
-Tex et Tammy vont ______ Opelousas pour rendre visite à Paw-Paw. (à, de, pour) 
+Les prépositions à ou de se contractent avec les articles définis le et les pour donner les formes suivantes :
 
-2. 
-Opelousas se trouve ______ la Louisiane. (à droite de, au centre de, devant) 
-3. 
-Bette adore danser ______ Tex. (à, avec, par) 
-4. 
-______ Paw-Paw, le français est la plus belle langue du monde. (sauf, selon, vers) 
+de+ le= du de+ les= des à+ le= au à+ les= aux
+La et l' en revanche ne se contractent pas après à et de. Notez que ces contractions se produisent également avec des prépositions de deux et trois mots se terminant par à ou de (jusqu'à, près de, loin de, à côté de, etc.).
 
-5. 
-Tammy se fâche ______ Tex, quand il offre des fleurs à Bette. (à, de, contre) 
+Tammy et Bette sont dans Tammy et Bette sont dans un café un café près du campus, à proximité du campus, pas loin du côté des commerces, pas des magasins, pas loin de la
+longe de la tour. La tour.
+Tammy : Je vais prendre un Tammy : Je vais prendre thé à la vanille et un muffin un thé vanille et un chocolat au chocolat. Et toi ? muffin. Et toi?
+Bette : Pour moi, un biscuit Fiona : Pour moi, une amande aux amandes et un café au biscuit et un café au lait. lait.
+Tammy : Bon, demain sur va Tammy : Et demain on va au gymnase, hein ? aller à la gym, hein ?
 
-6. 
-Opelousas se trouve ______ Baton Rouge. (dans, derrière, près de) 
 
-7. 
-Edouard prend toujours un café ______ son dîner. (après, dans, devant) 
+Les prépositions sont utilisées dans des expressions qui indiquent où vous êtes, où vous allez et d'où vous venez. La préposition utilisée dans de telles expressions dépend de l'emplacement géographique discuté.
 
-8. 
-Paw-Paw parle souvent ______ ses aventures pendant la deuxième guerre mondiale. (à, de, avec) 
 
-9. 
-Edouard est serveur. Il travaille ______ un restaurant français. (dans, en, sur) 
-10. 
-Il y a un écureuil et un escargot ______ les copains de Tex. (parmi, pour, quant à) 
-11. 
-Paw-Paw arrose des fleurs qui poussent dans le jardin ______ sa maison. (avant, devant, entre) 
-12. 
-Tex et ses amis restent ______ Paw-Paw en Louisiane. (à, chez, vers) 
+situation géographique de/vers
+à de (d') cite (Paris, Londres, Austin) à Paris d'Austin Islands (Cuba, Tahiti) à Cuba de Tahiti
+féminin (se terminant généralement par -e) en de (d') country (la France) en France de France states (la Californie) en Californie de Californie provinces (la Bourgogne) en Bourgogne de Bourgogne continents (l'Europe) en Europe d 'L'Europe 
 
+masculin au du
+pays (le Canada, le Texas :-) au Canada du Texas provinces/états (le Colorado) au Colorado du Colorado
 
+masculin commençant par une voyelle en de (d')
+pays (l'Iran) en Iran d'Iran provinces/états (l'Ontario) en Ontario d'Ontario
 
+aux des
+pluriel pays et régions aux Etats-Unis des Etats-Unis (les Etats-Unis)
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
 
+Tex est né au Texas, bien sûr. Mais par accident il a grandi en Europe. Comment expliquer cette histoire incroyable?
+Eh bien, quand il était tout petit, on l'a mis dans un avion avec les bagages à l'aéroport Bush International à Houston.
+Son avion est arrivé à Paris (en France) où il a rencontré des nonnes françaises qui
+Tex est né au Texas, bien sûr, mais par accident, il a grandi en Europe. Comment expliquer cette histoire incroyable ?
+Eh bien, quand il était très petit, il a été mis avec les bagages dans un avion à l'aéroport international Bush de Houston.
+Son avion est arrivé à Paris (en France) où il a rencontré des religieuses françaises qui venaient de
+Etats-Unis de faire un voyage aux-Unis. Elles arrivent de Houston, elles aussi. Quelle coïncidence !
+Elles ont eu pitié de ce pauvre tatou égaré et elles l'ont amené au couvent à Lyon. Tex a vécu heureux chez les nonnes pendant plusieurs années.
+Malheureusement, un jour il a été expulsé de France, et il est retourné dans son pays natal, c'est-à-dire au Texas !
+fait un voyage aux États-Unis. Eux aussi arrivaient de Houston. Quelle coïncidence!
+Ils ont eu pitié de ce pauvre tatou perdu et ils l'ont emmené dans leur couvent de Lyon. Tex a vécu heureux avec les religieuses pendant plusieurs années.
+Malheureusement, un jour il fut expulsé de France et il retourna dans son pays natal, c'est-à-dire au Texas !
 
 
+L'infinitif est la forme verbale généralement utilisée après une préposition en français. À (à) et de (de, à propos) sont les prépositions les plus courantes en français. Dans de nombreuses expressions, le choix de la préposition à ou de devant un infinitif est purement idiomatique ; c'est-à-dire qu'il n'a aucun rapport avec le sens. Dans de tels cas, il faut mémoriser quelle préposition est utilisée.
 
+à + infinitif
+Lorsque les verbes suivants sont suivis d'un infinitif, la préposition à est requise. Tex a du mal à trouver l'inspiration. Tex a du mal à trouver l'inspiration.
 
-page: pre2 
 
 
-The prepositions à or de contract with the definite articles le and les to give the following forms: 
+aider à, aider à encourager à, encourager à s'amuser à, s'amuser à s'habituer à, s'habituer à apprendre à, apprendre à hésiter à, hésiter à arriver à, réussir à, à arriver à inviter à, inviter à s'attendre à, s'attendre à se mettre à, commencer à avoir du mal à, trouver difficile de se préparer à, préparer à chercher à, essayer de, tenter de renoncer à, renoncer à commencer à, commencer à réussir à, réussir à continuer à/de, continuer à servir à, être utilisé pour
+(soit à soit de) se décider à, se décider à tenir à, être soucieux de, être impatient de
 
-de+ le= du de+ les= des à+ le= au à+ les= aux 
-La and l' on the other hand do not contract after à and de. Note that these contractions also occur with two-and three-word prepositions ending with à or de (jusqu'à, près de, loin de, à côté de, etc.). 
 
-Tammy et Bette sont dans Tammy et Bette are in a café un café près du campus, à near campus, not far from côté des commerces, pas the stores, not far from the 
-loin de la tour. Tower. 
-Tammy: Je vais prendre un Tammy: I am going to have thé à la vanille et un muffin a vanilla tea and a chocolate au chocolat. Et toi? muffin. What about you? 
-Bette: Pour moi, un biscuit Fiona: For me, an almond aux amandes et un café au cookie and a latte. lait. 
-Tammy: Bon, demain on va Tammy: And tomorrow we'll au gymnase, hein? go to the gym, eh? 
+de + infinitif
+Lorsque les verbes suivants sont suivis d'un infinitif, la préposition de est requise.
 
+Tex arrête d'écrire, parce qu'il rêve Tex arrête d'écrire, car il rêve d'embrasser Tammy. d'embrasser Tammy.
 
-fill in the blanks 
-Fill in the blank with the proper form of à or de plus a definite article. 
-1. 
-Edouard travaille dans un restaurant français pas loin ______ université. 
 
-2. 
-Tammy rencontre Tex dans un café près ______ campus ('masc'). 
+(s')arrêter de, arrêter d'oublier de, oublier de
+choisir de, choisir de permettre (à quelqu'un) de,
+permettre à quelqu'un de
+conseiller de, conseiller à persuader de, persuader de
+se contenter de, se contenter de se presser de, se dépêcher de
+continuer à/de, continuer à promettre de, promettre de
+(à ou de)
+décider de, décider de proposer de, proposer de
+s'efforcer de s'efforcer de, s'efforcer de refuser de, refuser de
+essayer de, essayer de rêver de rêver de
+s'excuser de, s'excuser de se soucier de, se soucier de
+finir de, finir se souvenir de, se souvenir de
 
-3. 
-Tex et ses amis adorent parler ______ vacances. 
+mériter de, mériter, valoir
 
-4. 
-Joe-Bob adore le gâteau ______ chocolat. 
 
-5. 
-Tex passe ses après-midis ______ café. 
+La plupart des expressions idiomatiques avec avoir nécessitent également de + infinitif :
+Oh, Tex a l'air de rêver. Oh, Tex semble rêver.
+Tex a peur de se réveiller. Tex a peur de se réveiller.
+Tex une envie de dormir. Tex a envie de dormir.
+Tex a besoin de se reposer. Tex a besoin de se reposer.
+Tex une honte d'être américain. Tex a honte d'être américain.
+Tex un tort d'être susceptible. Tex a tort d'être susceptible /
+ne doit pas être susceptible.
+Tex une raison d'être fier. Tex a raison d'être fier.
 
-6. 
-Fiona est une étudiante sérieuse. Elle passe des heures ______ bibliothèque. 
 
-7. 
-Tex réfléchit beaucoup ______ existentialisme. Il adore la philo. 
+L'infinitif peut être utilisé pour compléter le sens d'un adjectif ou d'un pronom. Généralement, les infinitifs qui suivent un nom ou un adjectif sont précédés de la préposition de. (Tex est content de voir Tammy dans ses rêves érotiques. Tex est content de voir Tammy dans ses rêves érotiques.)
+Cependant, les adjectifs et les noms sont suivis de la préposition à + infinitif pour indiquer un sens passif ou une fonction : "cette eau est bonne à boire", "ce livre est amusant à lire" (ce livre est amusant à lire), "c'est triste à voir", "c'est difficile à dire" (c'est difficile à dire).
 
-8. 
-Tex explique la culture française ______ étudiants américains. 
+pour, afin de, avant de, sans, par + infinitif
+L'infinitif exprime le but lorsqu'il est utilisé après pour ou afin de (pour).
 
-9. 
-Tammy étudie à l'université ______ Texas. 
 
-10. 
-Joe-Bob, tu vas ______ restaurant avec Corey ce soir? 
+Dans le cas d'avant de (avant)et sans (sans), la traduction anglaise est souvent un verbe conjugué (avant qu'ils ne partent), ou un participe présent (sans parler), plutôt que l'infinitif anglais.
+L'infinitif suit la préposition par (by) après les verbes commencer (commencer) et finir (finir).
+pour/afin de Tex s'allonge sur son lit pour lire. Tex s'allonge sur son lit pour lire.
+avant de Avant de s'endormir, Tex lit toujours Avant d'aller dormir, Tex toujours
+un poème érotique. lit un poème érotique.
+sans Il ne peut pas dormir sans rêver de Il ne peut pas dormir sans rêver
+Tammy. de Tammy.
+par Il finit par rêver de Tammy toute la Il finit par rêver de Tammy all
+nuit. toute la nuit.
 
-11. 
-Voici une photo ______ enfants de Rita. 
 
-12. 
-La bibliothèque UGL se trouve à côté ______ tour. 
 
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
 
 
+après (constructions infinitives passées)
+L'infinitif d'avoir ou d'être plus le participe passé d'un verbe est utilisé après la préposition après (après) pour décrire une action précédente dans le passé. Notez l'accord du participe passé dans les constructions passées avec être.
 
+Après avoir rêvé de Tammy, Tex retrouvé Après avoir rêvé de Tammy, Tex trouve l'inspiration de son fils. inspiration à nouveau.
+Après être devenue la muse de Tex, Tammy Après être devenue la muse de Tex, Tammy est passée à la postérité ! immortalisé !
 
 
+depuis
+Pour indiquer la date de début ou la durée d'une action ou d'une situation qui se déroule encore dans le présent, utilisez la préposition depuis + une expression temporelle. Notez que depuis peut signifier deux choses différentes en anglais. Lorsque depuis est suivi d'une durée, comme dans le premier exemple ci-dessous, cela indique la durée et se traduit en anglais par 'for'. Lorsque depuis est suivi d'une date ou d'un point dans le temps, comme dans le deuxième exemple, il indique le point de départ et est
+traduit par "depuis".
+Tex sort avec Tammy depuis un an. Tex sort avec Tammy depuis
+un ans.
+Tex sort avec Tammy depuis septembre. Tex sort avec Tammy depuis
+Septembre.
 
+Dans une question, depuis est généralement traduit par « combien de temps » ou « depuis quand ». Dans la plupart des cas, de telles questions avec depuis peuvent être répondues soit par l'expression de la durée, soit par le point de départ.
 
+autres utilisations de depuis
 
+Lorsqu'il est utilisé au début d'une phrase sans aucun complément et suivi d'une virgule, depuis est généralement traduit par « depuis lors ». Par exemple:
 
+Bette a vu Tex le jour de son arrivée à UT Bette a vu Tex le jour de son arrivée à et depuis, elle n'arrête pas de penser à lui. UT et depuis, elle n'a cessé de penser à lui.
 
 
 
 
+Dans les phrases négatives, selon le sens, depuis peut être utilisé avec le présent (action toujours en cours) ou le passé composé pour indiquer depuis combien de temps quelque chose ne s'est pas produit (non-action).
 
+Tex : Je ne suis pas au Texas Tex : Je ne suis pas allé au Texas depuis longtemps. pour longtemps. (Tex est toujours au Texas)
+Tex : Je ne suis pas allé en Tex : Je ne suis pas allé en France depuis l'été dernier. France depuis l'été dernier.
 
+(Tex n'est pas en France maintenant)
 
 
+Écouter le dialogue:
+Bette : Tex, depuis quand es-tu au Texas ? Bette : Depuis combien de temps êtes-vous au Texas ?
+Tex : Je ne suis pas au Texas depuis Tex : Je ne suis pas au Texas depuis longtemps. je
+longtemps. Je suis au Texas depuis 1998. suis au Texas depuis 1998.
+Bette : Tex, depuis quand connais-tu Bette : Tex, tu sais depuis combien de temps
+Tammy ? Tammy ?
+Tex : Je connais Tammy depuis deux ans. Tex : Je connais Tammy depuis deux ans.
+Bette : Depuis quand veux-tu devenir Bette : Depuis combien de temps veux-tu
+poète ? devenir poète ?
+Tex : Ah, depuis toujours ! Tex : Oh, j'ai toujours voulu !
+Bette : Depuis quand n'es-tu pas allé en Bette : Depuis combien de temps n'êtes-vous pas entré
+La France? La France?
+Tex : Je ne suis pas allé en France depuis Tex : Je ne suis pas allé en France depuis la dernière fois
+l'été dernier. Et toi, Bette, depuis quand l'été. Et toi, Bette, depuis combien de temps
+as-tu ce tatouage ?! tu avais ce tatouage ?!
+Bette : Oh, depuis lundi. Ça fait cool, tu ne Bette : Oh, depuis lundi. Cool, n'est-ce pas ?
+pas trouvé? Depuis, les mecs ne me Depuis, les mecs n'ont pas pu
+quitte pas des yeux ! quittez-moi des yeux !
+il y a ... que, ça fait ... que, voilà ... que
 
+Il y a ... que, ça fait ... que et, plus catégorique, voilà ... que n'exprime que la durée. Contrairement à depuis, ils sont toujours utilisés en début de phrase. Par exemple:
 
-Prepositions are used in expressions which relate where you are, where you are going and where you are coming from. The preposition used in such expressions depends on the geographic location discussed. 
 
 
-geographic location to/in from 
-à de (d') cites (Paris, Londres, Austin) à Paris d'Austin islands (Cuba, Tahiti) à Cuba de Tahiti 
-feminine (usually ending in -e) en de (d') countries (la France) en France de France states (la Californie) en Californie de Californie provinces (la Bourgogne) en Bourgogne de Bourgogne continents (l'Europe) en Europe d'Europe 
 
-masculine au du 
-countries (le Canada, le Texas :-) au Canada du Texas provinces/states (le Colorado) au Colorado du Colorado 
+Bette : Tex, ça fait longtemps que tu Bette : Tex, depuis combien de temps enseignes-tu le français ? enseigner le français ?
+Tex : Voilà un que j'enseigne le français. Tex : J'enseigne le français depuis un an.
+Bette : Tex, il y a combien de temps que tu Bette : Tex, depuis combien de temps connais-tu Tammy ? Tammy ?
+Texte : Ça fait deux ans. Tex : Cela fait deux ans.
 
-masculine beginning with a vowel en de (d') 
-countries (l'Iran) en Iran d'Iran provinces/states (l'Ontario) en Ontario d'Ontario 
 
-aux des 
-plural countries and regions aux Etats-Unis des Etats-Unis (les Etats-Unis) 
+Bien qu'il y a ... que et ça fait ... que se retrouvent occasionnellement dans le futur (il y aura ... que, ça fera ... que), la proposition subordonnée introduite par que n'est jamais dans le futur. Il reste au présent. Par exemple:
 
 
-Tex est né au Texas, bien sûr. Mais par accident il a grandi en Europe. Comment expliquer cette histoire incroyable? 
-Eh bien, quand il était tout petit, on l'a mis dans un avion avec les bagages à l'aéroport Bush International à Houston. 
-Son avion est arrivé à Paris (en France) où il a rencontré des nonnes françaises qui 
-Tex was born in Texas, of course, but by accident he grew up in Europe. How de we explain this unbelievable story? 
-Well, when he was very little, he was put with the luggage in a plane at Bush International Airport in Houston. 
-His plane arrived in Paris (in France) where he met some French nuns who had just 
-venaient de faire un voyage aux Etats-Unis. Elles arrivaient de Houston, elles aussi. Quelle coïncidence! 
-Elles ont eu pitié de ce pauvre tatou égaré et elles l'ont emmené au couvent à Lyon. Tex a vécu heureux chez les nonnes pendant plusieurs années. 
-Malheureusement, un jour il a été expulsé de France, et il est retourné dans son pays natal, c'est-à-dire au Texas! 
-taken a trip to the United States. They, too, were arriving from Houston. What a coincidence! 
-They took pity on this poor lost armadillo and they took him to their convent in Lyon. Tex lived happily with the nuns for several years. 
-Unfortunately, one day he was deported from France and he returned to his native country, that is, to Texas! 
 
+Bette : Tex, il y a combien de temps que tu Bette : Tex, depuis combien de temps connais-tu Tammy ? Tammy ?
+Il y aura deux ans demain que je connais Tex : Cela fera deux ans demain (que je
+Tammy. avoir connu Tammy).
 
 
-fill in the blanks 
-Fill 
-in the blank with the proper preposition: à, en, au or aux. 
-1. 
-Tex et Tammy vont passer les vacances ______ Espagne. 
+La préposition depuis avec l'imparfait indique depuis combien de temps quelque chose s'est passé par rapport à un événement passé. Le sens et la construction des phrases de base sont similaires à ceux de depuis avec présent. Depuis avec imparfait peut indiquer soit une durée, soit un point de départ temporel.
 
-2. 
-Tammy et Bette étudient ______ Austin. 
-3. 
-Edouard n'aime pas travailler ______ Texas. 
-4. 
-Tex: Il fait beau tout le temps ______ France. 
-5. 
-Fiona: Il y a beaucoup de monuments intéressants ______ Mexique? 
-6. 
-Bette a envie de faire du shopping ______ Japon. 
-7. 
-Tammy aime faire du ski ______ Suisse. 
-8. 
-Rita va aller au cinéma ______ San Antonio. 
-9. 
-Edouard: J'adore le cidre ______ Bretagne. 
-10. 
-Paw-Paw va au parc tous les jours ______ Opelousas. 
-11. 
-Rita adore les plages ______ Floride. 
-12. 
-Trey a envie d'aller ______ Australie. 
+ce qui s'était passé ... traduction d'événements passés
+Tammy attendait Tex depuis ... quand il est entré. Tammy attendait depuis une heure... Tex depuis une heure... quand il
+est intervenu. Tammy souhaitait avoir une ... quand enfin le moment Tammy avait voulu discuter sérieusement depuis s'est présenté. avoir une discussion sérieuse lundi ... depuis lundi ... quand enfin
+l'occasion s'est présentée.
+La durée peut également être indiquée par il y avait ... que, cela faisait ... que et, plus catégorique, voilà que. La première phrase ci-dessus pourrait également être exprimée comme suit :
 
+Il y avait ... une heure que Tammy avait été Cela faisait ... Tammy attendait Tex pour une Voilà ... heure.
+Texas
+Écouter le dialogue:
 
 
 
 
-fill in the blanks, part 2 
-Fill 
-in the blank with the proper preposition: à, en, au, aux, de, du, or des. 
-1. 
-Tex habitait ______ Lyon. 
 
-2. 
-Tex est né ______ Etats-Unis. 
-3. 
-Tex a été explusé ______ France. 
-4. 
-Tammy a grandi ______ Fort Worth. 
-5. 
-Joe-Bob, tu viens ______ College Station, n'est-ce pas? 
-6. 
-Edouard a passé quelques années ______ Paris. 
-7. 
-Les parents de Fiona sont mexicains. Ils viennent ______ Mexique. 
-8. 
-Edouard vient ______ Bourgogne. 
-9. 
-Tammy a fait un voyage ______ Europe. 
-10. 
-Bette est allée ______ Canada l'été passé. 
-11. 
-Corey a des parents qui habitent ______ Californie. 
-12. 
-Tex et ses amis rendent visite à Paw-Paw ______ Louisiane. 
+Tammy : Salut, Tex. Ça va ? Tammy : Salut Tex. Comment vas-tu ? Tex : Non ! Hier, j'étais à la bibliothèque Tex : Pas bien ! Hier, j'étais dans la bibliothèque depuis deux minutes quand l'alarme à depuis deux minutes lorsque l'alarme incendie incendie a sonné. Je n'ai pas pu travailler ! parti. Je n'ai pas pu travailler ! Puis à Ensuite à la cafétéria, je faisais la queue la cafétéria, je faisais la queue depuis une demi-heure, lorsqu'ils ont une demi-heure quand ils ont annoncé qu'ils avaient
+annoncé qu'il n'y avait plus de sandwichs ! à court de sandwichs ! Je suis allé enseigner Je suis allé faire cours sans avoir mangé ! sans manger ! Tammy : Pour moi non plus, rien ne va Tammy : Rien ne va comme je veux
+comme je veux ! Depuis lundi je voulais te non plus ! Je voulais te parler parler, mais ce matin tu as dit que tu avais depuis lundi, mais ce matin tu as dit trop de travail ! tu as eu trop de travail !
 
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
 
+Il existe trois prépositions en français, depuis, pendant et pour, qui se traduisent par 'for' et sont utilisées pour indiquer la durée d'un événement.
 
 
+depuis
+Si un événement a commencé dans le passé et se poursuit dans le présent, utilisez « depuis » avec le présent. Par exemple:
 
+Tammy : Tex et moi sommes ensemble Tammy : Tex et moi sommes ensemble depuis un an. année.
 
 
-1. 
-à + infinitive 
 
-2. 
-de + infinitive 
+pendentif
+Pendentif signifie littéralement « pendant », mais il est généralement mieux exprimé en anglais par « pour » plus un certain laps de temps. Ça peut
+être utilisé avec tous les temps.
+Tex : Tous les jours, je parle avec Tammy Tex : Tous les jours, je parle avec Tammy pendant un
+pendentif une heure. heure.
+Tex : A Noël, Tammy et moi resterons chez Tex : Pour Noël, Tammy et moi resterons
+ses parents pendant deux semaines. chez ses parents pendant deux semaines.
 
-3. 
-pour, afin de, avant de, sans, par + infinitive 
 
-4. 
-après (past infinitive constructions) 
+Le pendentif est utilisé avec le passé composé pour indiquer combien de temps a duré une activité terminée. Attention à ne pas utiliser depuis
+avec le passé composé dans ce contexte.
+Tex : J'ai attendu Edouard pendant une Tex : J'ai attendu Edouard une heure.
+heure. Finalement, il est arrivé. Il est Enfin il arriva. Il est toujours en retard.
+toujours en retard.
 
 
 
-The infinitive is the verb form generally used after a preposition in French. À (to) and de (from, about) are the most common prepositions in French. In many expressions, the choice of the preposition à or de before an infinitive is purely idiomatic; that is, it is unrelated to meaning. In such cases, one must memorize which preposition is used. 
+verser
+La préposition pour est utilisée dans divers contextes. Lorsqu'il est traduit par « for » en anglais, il peut désigner la durée d'un événement futur avec les verbes partir et aller. Notez que le verbe peut être conjugué au présent ou au futur.
 
-à + infinitive 
-When the following verbs are followed by an infinitive, the preposition à is required. Tex a du mal à trouver l'inspiration. Tex finds it difficult to find inspiration. 
+Tammy : A Noël, Tex et moi, nous allons Tammy : Pour Noël, Tex et moi allons chez moi pour deux semaines. chez moi pendant deux semaines.
+Tex : C'est vrai, nous partirons pour deux Tex : C'est vrai, on va partir pour deux longues semaines. semaines.
 
+Écouter le dialogue:
 
 
-aider à, to help to encourager à, to encourage to s'amuser à, to have fun at s'habituer à, to get used to apprendre à, to learn to hésiter à, to hesitate to arriver à, to succeed in, to manage to inviter à, to invite to s'attendre à, to expect to se mettre à, to start to avoir du mal à, to find it difficult to se préparer à, to prepare to chercher à, to try to, to attempt to renoncer à, to give up commencer à, to start to réussir à, to succeed at continuer à/de, to continue to servir à, to be used for 
-(either à or de) se décider à, to make up one's mind to tenir à, to be anxious to, to be eager to 
 
-
-de + infinitive 
-When the following verbs are followed by an infinitive, the preposition de is required. 
-
-Tex arrête d'écrire, parce qu'il rêve Tex stops writing, because he is dreaming d'embrasser Tammy. of kissing Tammy. 
-
-
-(s')arrêter de, to stop  oublier de, to forget to  
-choisir de, to choose to  permettre (à quelqu'un) de,  
-to permit someone to  
-conseiller de, to advise to  persuader de, to persuade to  
-se contenter de, to content oneself with  se presser de, to hurry to  
-continuer à/de, to continue to  promettre de, to promise to  
-(either à or de)  
-décider de, to decide to  proposer de, to propose to  
-s'efforcer de to try hard to, to endeavor to  refuser de, to refuse to  
-essayer de, to try to  rêver de to dream of  
-s'excuser de, to apologize for  se soucier de, to care about  
-finir de, to finish  se souvenir de, to remember to  
-
-mériter de, to deserve, to be worth 
-
-
-Most idiomatic expressions with avoir also require de + infinitive: 
-Oh, Tex a l'air de rêver.  Oh, Tex seems to be dreaming.  
-Tex a peur de se réveiller.  Tex is afraid of waking up.  
-Tex a envie de dormir.  Tex feels like sleeping.  
-Tex a besoin de se reposer.  Tex needs to rest.  
-Tex a honte d'être américain.  Tex is ashamed of being American.  
-Tex a tort d'être susceptible.  Tex is wrong in being touchy /  
-should not be touchy.  
-Tex a raison d'être fier.  Tex is right to be proud.  
-
-
-The infinitive may be used to complete the sense of an adjective or a pronoun. Generally infinitives following a noun or adjective are preceded by the preposition de. (Tex est content de voir Tammy dans ses rêves érotiques. Tex is glad to see Tammy in his erotic dreams.) 
-However, adjectives and nouns are followed by the preposition à + infinitive to indicate a passive sense or a function: "cette eau est bonne à boire" (this is drinking water), "ce livre est amusant à lire" (this book is fun to read), "c'est triste à voir" (it's a sorry sight), "c'est difficile à dire" (this is difficult to say). 
-
-pour, afin de, avant de, sans, par + infinitive 
-The infinitive expresses purpose when it is used after pour or afin de (in order to). 
-
-
-In the case of avant de (before) and sans (without), the English translation is often a conjugated verb (before they left), or a present participle (without speaking), rather than the English infinitive. 
-The infinitive follows the preposition par (by) after the verbs commencer (to start) and finir (to finish). 
-pour/afin de  Tex s'allonge sur son lit pour lire.  Tex lies down on his bed to read.  
-avant de  Avant de s'endormir, Tex lit toujours  Before going to sleep, Tex always  
-un poème érotique.  reads an erotic poem.  
-sans  Il ne peut pas dormir sans rêver de  He can not sleep without dreaming  
-Tammy.  of Tammy.  
-par  Il finit par rêver de Tammy toute la  He ends up dreaming of Tammy all  
-nuit.  night long.  
-
-
-
-
-
-
-après (past infinitive constructions) 
-The infinitive of avoir or être plus the past participle of a verb is used after the preposition après (after) to describe a preceding action in the past. Note the past participle agreement in past constructions with être. 
-
-Après avoir rêvé de Tammy, Tex retrouve After dreaming of Tammy, Tex finds his son inspiration. inspiration again. 
-Après être devenue la muse de Tex, Tammy After becoming Tex' muse, Tammy is est passée à la postérité! immortalized! 
-
-
-
-fill in the blanks 
-Fill 
-in the blank with the proper preposition: à or de (d'). 
-1. 
-Tex se met ______ travailler tous les soirs à 7 heures. 
-
-2. 
-Tex et Tammy s'amusent ______ écouter de la musique cadienne. 
-3. 
-Tex aide ses étudiants ______ apprendre le français. 
-4. 
-Tammy invite ses amis ______ dîner chez elle. 
-5. 
-Tex encourage ses étudiants ______ parler français. 
-6. 
-Edouard a du mal ______ comprendre les habitudes culinaires des Américains. 
-7. 
-Tex promet ______ rendre visite à Paw-Paw. 
-8. 
-Bette essaie ______ draguer Tex. 
-9. 
-Edouard refuse ______ manger des hamburgers. 
-10. 
-Tex a honte ______ être américain. 
-11. 
-Edouard propose à ses amis ______ dîner au restaurant français. 
-12. 
-Joe-Bob oublie toujours ______ étudier. 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 16 Feb 05 
-
-
-
-
-
-
-1. 
-depuis 
-
-2. 
-il y a ... que, ça fait ... que, voilà ... que 
-
-
-depuis 
-To indicate the starting date or duration of an action or situation which is still going on in the present, use the preposition depuis + a time expression. Note that depuis can mean two different things in English. When depuis is followed by a length of time, as in the first example below, it indicates duration and is translated into English by 'for'. When depuis is followed by a date or a point in time, as in the second example, it indicates the starting point and is 
-translated by 'since'.  
-Tex sort avec Tammy depuis un an.  Tex has been going out with Tammy for  
-one year.  
-Tex sort avec Tammy depuis septembre.  Tex has been going out with Tammy since  
-September.  
-
-In a question, depuis is generally translated as 'how long' or 'since when'. In most cases, such questions with depuis can be answered with either the expression of duration or the beginning point. 
-
-
-
-
-
-
-
-
-
-
-
-
-other uses of depuis 
-
-When used at the beginning of a sentence without any complement and followed by a comma, depuis is usually translated as 'since then'. For example: 
-
-Bette a vu Tex le jour de son arrivée à UT Bette saw Tex on the day of his arrival at et depuis, elle n'arrête pas de penser à lui. UT and since then, she has not stopped thinking about him. 
-
-
-
-
-In negative sentences, depending on the meaning, depuis may be used with either the present (action still going on) or the passé composé to indicate how long something has not been going on (non-action). 
-
-Tex: Je ne suis pas au Texas Tex: I haven't been in Texas depuis longtemps. for long. (Tex is still in Texas) 
-Tex: Je ne suis pas allé en Tex: I haven't been to France depuis l'été dernier. France since last summer. 
-
-(Tex is not in France now) 
-
-
-Listen to the dialogue:  
-Bette: Tex, depuis quand es-tu au Texas?  Bette: How long have you been in Texas?  
-Tex: Je ne suis pas au Texas depuis  Tex: I have not been in Texas for long. I  
-longtemps. Je suis au Texas depuis 1998.  have been in Texas since 1998.  
-Bette: Tex, depuis quand connais-tu  Bette: Tex, how long have you known  
-Tammy?  Tammy?  
-Tex: Je connais Tammy depuis deux ans.  Tex: I have known Tammy for two years.  
-Bette: Depuis quand veux-tu devenir  Bette: How long have you wanted to  
-poète?  become a poet?  
-Tex: Oh, depuis toujours!  Tex: Oh, I have always wanted to!  
-Bette: Depuis quand n'es-tu pas allé en  Bette: How long have you not been in  
-France?  France?  
-Tex: Je ne suis pas allé en France depuis  Tex: I haven't been in France since last  
-l'été dernier. Et toi, Bette, depuis quand  summer. And you, Bette, how long have  
-as-tu ce tatouage?!  you had this tattoo?!  
-Bette: Oh, depuis lundi. Ça fait cool, tu ne  Bette: Oh, since Monday. Cool, isn't it?  
-trouves pas? Depuis, les mecs ne me  Since then, guys have not been able to  
-quittent pas des yeux!  take their eyes off me!  
-il y a ... que, ça fait ... que, voilà ... que  
-
-Il y a ... que, ça fait ... que and, more emphatic, voilà ... que express duration only. Unlike depuis, they are always used at the beginning of a sentence. For example: 
-
-
-
-
-Bette: Tex, ça fait longtemps que tu Bette: Tex, how long have you been enseignes le français? teaching French? 
-Tex: Voilà un an que j'enseigne le français. Tex: I've been teaching French for a year. 
-Bette: Tex, il y a combien de temps que tu Bette: Tex, how long have you known connais Tammy? Tammy? 
-Tex: Ça fait deux ans. Tex: It's been two years. 
-
-
-Although il y a ... que and ça fait ... que may occasionally be found in the future (il y aura ... que, ça fera ... que), the subordinate clause introduced by que is never in the future. It remains in the present. For example: 
-
-
-
-Bette: Tex, il y a combien de temps que tu Bette: Tex, how long have you known connais Tammy? Tammy? 
-Il y aura deux ans demain que je connais Tex: It will be two years tomorrow (that I 
-Tammy. have known Tammy). 
-
-fill in the blanks 
-
-Restate the following sentences using depuis. Include punctuation in your answer.Modèle: Ça fait dix ans qu'Edouard est 
-serveur. Edouard est serveur depuis dix ans.' 
-1. 
-Il y a deux ans qu'Edouard est au Texas. 
-
-2. 
-Il y a un an que Tex et Tammy sortent ensemble. 
-3. 
-Il y a cinq ans que Tammy étudie le français. 
-4. 
-Il y a six mois que Bette connaît Tex. 
-5. 
-Voilà un an que Tex enseigne le français. 
-6. 
-Voilà deux ans Tammy connaît Tex. 
-7. 
-Voilà quelques mois que Joe-Bob habite à Austin. 
-8. 
-Voilà un an que Tammy est amoureuse de Tex. 
-9. 
-Ça fait trois ans que Bette et Tammy sont amies. 
-10. 
-Ça fait deux mois que Corey habite à Jester. 
-11. 
-Ça fait un an que Tex n'est pas allé en France. 
-12. 
-Ça fait un jour que Bette a un tatouage. 
-
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-
-The preposition depuis with the imperfect indicates how long something had been going on in relation to a past event. Basic sentence meaning and construction are similar to those of depuis with present. Depuis with imperfect may indicate either duration or a temporal starting point. 
-
-what had been going on ... past event translation 
-Tammy attendait Tex depuis ... quand il est entré. Tammy had been waiting for une heure ... Tex for an hour ... when he 
-came in. Tammy souhaitait avoir une ... quand enfin le moment Tammy had been wanting to discussion sérieuse depuis s'est présenté. have a serious discussion lundi ... since Monday ... when at last 
-the opportunity presented itself. 
-Duration may also be indicated with il y avait ... que, cela faisait ... que and, more emphatic, voilà que. The first sentence above could also be expressed as: 
-
-Il y avait ... une heure que Tammy had been Cela faisait ... Tammy attendait waiting for Tex for an Voilà ... hour.
-Tex. 
-Listen to the dialogue: 
-
-
-
-
-
-Tammy: Salut, Tex. Ça va? Tammy: Hi Tex. How are you? Tex: Non! Hier, j'étais à la bibliothèque Tex: Not well! Yesterday, I had been in the depuis deux minutes quand l'alarme à library for two minutes when the fire alarm incendie a sonné. Je n'ai pas pu travailler! went off. I was not able to work! Then at Ensuite à la caféteria, je faisais la queue the cafeteria, I had been waiting in line for depuis une demi-heure, lorsqu'ils ont half an hour when they announced they had 
-annoncé qu'il n'y avait plus de sandwiches! run out of sandwiches! I went to teach Je suis allé faire cours sans avoir mangé! without eating! Tammy: Pour moi non plus, rien ne va Tammy: Nothing is going the way I want 
-comme je veux! Depuis lundi je voulais te either! I had been wanting to talk to you parler, mais ce matin tu as dit que tu avais since Monday, but this morning you said trop de travail! you had too much work! 
-
-
-fill in the blanks 
-Restate the following sentences using depuis. Include punctuation in your answer.Modèle: Cela faisait deux ans qu'Edouard 
-était serveur à Paris. Edouard était serveur à Paris depuis deux ans.' 
-1. 
-Il y avait deux heures qu'il pleuvait. 
-
-2. 
-Il y avait un an que Tex connaissait Tammy. 
-
-3. 
-Il y avait dix-huit ans que Tammy habitait Fort Worth. 
-
-4. 
-Il y avait cinquante ans que Paw-Paw habitait Opelousas. 
-
-5. 
-Voilà une semaine que Tammy voulait avoir une discussion sérieuse avec Tex. 
-
-6. 
-Voilà trente minutes que Tex attendait Edouard. 
-
-7. 
-Voilà quelques mois que Joe-Bob habitait à Austin. 
-8. 
-Voilà un an que Tammy faisait du ski. 
-9. 
-Cela faisait trois semaines que Fiona étudiait le chinois. 
-10. 
-Cela faisait dix minutes que Corey attendait le bus. 
-11. 
-Cela faisait un mois que Joe-Bob n'était pas allé à College Station. 
-12. 
-Cela faisait un jour que Bette était de bonne humeur. 
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-1. 
-depuis 
-
-2. 
-pendant 
-
-3. 
-pour 
-
-
-There are three prepositions in French, depuis, pendant and pour, that are translated as 'for' and are used to indicate the duration of an event. 
-
-
-depuis 
-If an event began in the past and is continuing into the present, use 'depuis' with the present tense. For example: 
-
-Tammy: Tex et moi sommes ensemble Tammy: Tex and I have been together for a depuis un an. year. 
-
-
-
-pendant 
-Pendant literally means 'during', but it is usually best expressed in English as 'for' plus a certain amount of time. It can 
-be used with all tenses.  
-Tex: Tous les jours, je parle avec Tammy  Tex: Everyday, I talk with Tammy for an  
-pendant une heure.  hour.  
-Tex: A Noël, Tammy et moi resterons chez  Tex: For Christmas, Tammy and I will stay  
-ses parents pendant deux semaines.  at her parents' for two weeks.  
-
-
-Pendant is used with the passé composé to indicate how long a completed activity lasted. Be careful not to use depuis 
-with the passé composé in this context.  
-Tex: J'ai attendu Edouard pendant une  Tex: I waited for Edouard for an hour.  
-heure. Finalement, il est arrivé. Il est  Finally he arrived. He is always late.  
-toujours en retard.  
-
-
-
-pour 
-The preposition pour is used in a variety of contexts. When translated as 'for' in English, it may designate the duration of a future event with the verbs partir and aller. Note that the verb may be conjugated in either the present or future tense. 
-
-Tammy: A Noël, Tex et moi, nous allons Tammy: For Christmas, Tex and I are going chez moi pour deux semaines. to my house for two weeks. 
-Tex: C'est vrai, nous partirons pour deux Tex: It's true, we will leave for two long longues semaines. weeks. 
-
-Listen to the dialogue: 
-
-
-
-Tammy: Salut, Tex. Ça va? Tammy: Hi Tex. How are you? Tex: Non, ce n'est pas mon jour! Je pars Tex: Not well! This is not my day! I am 
-pour le week-end. Je vais rendre visite à Paw-Paw. J'ai attendu le bus pendant une heure ce matin. Puis je l'ai raté à cause de Bette. 
-Tammy: Qu'est-ce qu'elle a fait? Tex: Je ne vais pas te le dire. Tammy: Nous sortons ensemble depuis un 
-an. Tu ne peux plus garder de secrets comme ça! 
-leaving for the weekend. I am going to visit Paw-Paw. I waited for the bus for an hour this morning. Then I missed it because of Bette. 
-Tammy: What did she do? Tex: I am not going to tell you. Tammy: We have been going out for a 
-year. You can't keep secrets like that anymore! 
-
-fill in the blanks 
-Fill 
-in the blank with the correct proposition: depuis, pendant, or pour. 
-1. 
-Tex est resté au café ______ une heure. 
-
-2. 
-Tex et Tammy sortent ensemble ______ un an. 
-3. 
-Edouard est serveur ______ longtemps. 
-4. 
-Tammy a connu Tex ______ ses études à Lyon. 
-5. 
-Tex connaît Joe-Bob ______ son arrivée à Austin. 
-6. 
-Tammy étudie le français ______ cinq ans. 
-7. 
-Tammy a voyagé en France ______ deux mois. 
-8. 
-Tous les jours Tex reste au café ______ deux heures pour écrire des poèmes. 
-9. 
-Tex va aller en Louisiane ______ deux jours. 
-10. 
-Tex: Tammy et moi partirons chez ses parents ______ deux longues semaines. 
-11. 
-Tammy: Je suis amoureuse de Tex ______ un an! 
-12. 
-Fiona a étudié ______ cinq heures hier soir. 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
+Tammy : Salut, Tex. Ça va ? Tammy : Salut Tex. Comment vas-tu ? Tex : Non, ce n'est pas mon jour ! Je pars Tex : Pas bien ! Ce n'est pas mon jour ! Je suis
+pour le week-end. Je vais rendre visite à Paw-Paw. J'ai attendu le bus pendant une heure ce matin. Puis je l'ai raté à cause de Bette.
+Tammy : Qu'est-ce qu'elle a fait ? Tex : Je ne vais pas te le dire. Tammy : Nous sortons ensemble depuis un
+un. Tu ne peux plus garder de secrets comme ça !
+partir pour le week-end. Je vais visiter Paw-Paw. J'ai attendu le bus pendant une heure ce matin. Ensuite, je l'ai raté à cause de Bette.
+Tammy : Qu'est-ce qu'elle a fait ? Tex : Je ne vais pas te le dire. Tammy : Nous sortons depuis un
+année. Tu ne peux plus garder de secrets comme ça !
 
 
 {% include links.html %}

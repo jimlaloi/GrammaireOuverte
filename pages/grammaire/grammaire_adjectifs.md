@@ -11,549 +11,215 @@ folder: grammaire
 
 Page under construction
 
+Un adjectif est un mot qui décrit un nom ou un pronom. Les différences majeures entre les adjectifs en français et en anglais concernent l'accord et le placement. En français, un adjectif se place généralement après le nom qu'il modifie et doit s'accorder en genre et en nombre avec le nom. En anglais, un adjectif vient généralement avant le nom qu'il modifie
+et est invariable, c'est-à-dire qu'il n'est pas d'accord.
+Tex est un tatouage philosophique. Tex est un tatou philosophe.
+Edouard est un escargot raffiné. Edouard est un escargot raffiné.
+Joe-Bob est un écureuil aimable. Joe-Bob est un écureuil sympathique.
+Bette est une chatte capricieuse. Bette est une chatte capricieuse.
+Corey est un cafard ivre. Corey est un cafard ivre.
+Fiona est travailleuse. (f) Fiona travaille dur.
+Mais Joe-Bob n'est pas un travailleur. (m) Mais Joe-Bob ne travaille pas dur.
 
 
+adjectif vs adverbe
+Il est courant en anglais non standard que les locuteurs utilisent des adjectifs à la place des adverbes.
+Joe-Bob dit: "Eh bien, Tex écrit vraiment bien." (au lieu de : "Tex écrit bien.") Joe-Bob dit "Mon Dieu, Edouard, tu marches très lentement." (au lieu de : "Edouard, tu parles lentement.")
 
-An adjective is a word that describes a noun or pronoun. The major differences between adjectives in French and English concern agreement and placement. In French, an adjective is usually placed after the noun it modifies and must agree in gender and number with the noun. In English, an adjective usually comes before the noun it modifies 
-and is invariable, that is, it does not agree.  
-Tex est un tatou philosophique.  Tex is a philosophical armadillo.  
-Edouard est un escargot raffiné.  Edouard is a refined snail.  
-Joe-Bob est un écureuil aimable.  Joe-Bob is a friendly squirrel.  
-Bette est une chatte capricieuse.  Bette is a temperamental cat.  
-Corey est un cafard ivre.  Corey is an intoxicated cockroach.  
-Fiona est travailleuse. (f)  Fiona is hard-working.  
-Mais Joe-Bob n'est pas travailleur. (m)  But Joe-Bob isn't hard-working.  
+Les adjectifs français sont rarement utilisés à la place de la forme adverbiale. Rappelez-vous que les adjectifs modifient les noms et
+les adverbes modifient les verbes, les adjectifs et autres adverbes !
+Texte écrit bien. (l'adverbe modifie le verbe) La poésie de Tex est bonne. (l'adjectif modifie le nom) Tex écrit bien. La poésie de Tex est bonne.
 
+formation
+Les adjectifs s'accordent en nombre et en genre avec le nom ou le pronom qu'ils modifient. Pour les adjectifs réguliers, la forme masculine est la forme de base à laquelle les terminaisons sont ajoutées. L'adjectif féminin est formé en ajoutant un e. L'adjectif pluriel est formé en ajoutant s. Écoutez les exemples enregistrés pour entendre la prononciation des différentes formes d'adjectifs :
 
-adjective vs. adverb 
-It is common in nonstandard English for speakers to use adjectives in place of adverbs. 
-Joe-Bob says: "Gee, Tex writes real good." (instead of: "Tex writes well.") Joe-Bob says "Gosh, Edouard, you walk real slow." (instead of: "Edouard, you talk slowly.") 
 
-French adjectives are rarely used in place of the adverbial form. Remember that adjectives modify nouns and 
-adverbs modify verbs, adjectives, and other adverbs!  
-Tex écrit bien. (adverb modifies verb) La poésie de Tex est bonne. (adjective modifies noun)  Tex writes well. Tex's poetry is good.  
+Notez comment les formes singulière et plurielle de l'adjectif masculin sonnent de la même manière, et les formes singulière et plurielle de l'adjectif féminin sonnent également de la même manière.
 
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
 
+Texte est petit. Tex est petit. Tammy est petite. Tammy est petite. Tex et Trey sont petits. Tex et Trey sont petits. Tammy et Bette sont petites. Tammy et Bette sont petites.
+L'adjectif prend le masculin pluriel lorsque les noms qu'il modifie sont de genres différents : Tammy et Tex sont petits. (Tammy et Tex sont petits.)
+Les adjectifs irréguliers ne suivent pas les règles données ci-dessus.
 
 
+placement
+En français, la plupart des adjectifs suivent le nom, contrairement à l'anglais où l'adjectif précède le nom. Voici quelques exemples d'adjectifs après le nom :
 
+Tex porte toujours un béret rond, même quand il fait du sport. Il aime les romans existentialistes. Dans son enfance, Tex a habité chez des nonnes catholiques.
+Tammy a un nez pointu. C'est une tatou mince et sympathique. Elle apprend la langue française et le fait des études littéraires.
+Tex porte toujours un béret rond, même lorsqu'il fait de l'exercice. Il aime les romans existentialistes. Enfant, Tex vivait avec des religieuses catholiques.
+Tammy a un nez pointu. C'est un tatou mince et gentil. Elle apprend la langue française et étudie la littérature.
 
+Bette est de caractère méfiant. Elle est Bette a une personnalité méfiante. Elle a d'humeur changeante. C'est une chatte très changeante d'humeur. C'est un chat très rusé.
+maline.
 
-1. 
-formation 
+Notez qu'il y a un petit groupe d'adjectifs qui précèdent normalement le nom. Certains adjectifs peuvent également être placés avant ou après le nom mais changer la position des adjectifs peut modifier leur sens.
 
-2. 
-placement 
+Écoutez ce dialogue :
 
 
-formation 
-Adjectives agree in both number and gender with the noun or pronoun they modify. For regular adjectives the masculine form is the base form to which endings are added. The feminine adjective is formed by adding an e. The plural adjective is formed by adding s. Listen to the recorded examples to hear the pronunciation of the different adjective forms: 
+Tammy, Bette et Tex sont à Gregory Gym. Les deux filles parlent, puis se disputent, pendant que Tex fait son sport annuel .
+Tammy : Regarde, Bette, comme ses ongles jaunes tapent sur le tapis roulant quand il court ! Quel tatou adorable ! Et ce museau fin et pointu, ces écailles étincelantes, ce corps souple, ces gestes et ces mouvements pleins de grâce ...
+Bette : Beurk ! Tu aime vraiment ça !? Un corps humide de sueur et un poil gris comme une boule de papier mâché ! Oh mon dieu ! Et cette odeur désagréable ! Comme un rat noyé ! Tu n'es pas sérieux !
+Tammy : Bette, je ne suis pas idiote ! Je connais tes intentions ! Il est à moi !
+Tammy, Bette et Tex sont au Gregory Gym. Les deux filles discutent, puis se disputent, tandis que Tex fait son entraînement annuel.
+Tammy : Bette, regardes-tu ces ongles jaunes de son clic sur le tapis roulant quand il court ! Quel adorable tatou ! Et ce museau si fin et pointu ! Ces écailles brillantes, ce corps souple, chacun de ses gestes et mouvements si pleins de grâce...
+Bette : Beurk ! Tu aimes ça!? Ce corps moite, cette fourrure grise ? Comme une liasse de papier mâché ! Oh Seigneur! Et cette horrible odeur ! Comme un rat noyé ! Vous n'êtes pas sérieux!
+Tammy : Bette, tu ne me trompes pas ! Je comprends tes intentions ! Il est à moi!
 
+Le placement de la plupart des adjectifs en français se fait après le nom : un escargot parlant, une fourmi travailleuse, des tatous intelligents, etc. Il existe cependant un petit groupe d'adjectifs qui précèdent normalement le nom. Ces adjectifs peuvent être classés comme des adjectifs de Beauté, Âge, la qualité des nombres et la taille (BANGS).
 
-Note how the singular and plural forms of the masculine adjective sound the same, and the singular and plural forms of the feminine adjective also sound the same. 
 
+autre, autre beau (belle), beau bon (bonne), bon
+grand (grande), grand, grand gros (grosse), grand, gros jeune, jeune
+joli (jolie), pretty mauvais (mauvaise), bad nouveau (nouvelle), new
+petit (petite), petit vieux (vieille), vieux
+nombres ordinaux:
+premier (première), premier deuxième, deuxième troisième, troisième, etc.
 
 
-Tex est petit. Tex is little. Tammy est petite. Tammy is little. Tex et Trey sont petits. Tex and Trey are little. Tammy et Bette sont petites. Tammy and Bette are little. 
-The adjective takes the masculine plural when the nouns it modifies are of different genders: Tammy et Tex sont petits. (Tammy and Tex are little.) 
-Irregular adjectives do not follow the rules given above. 
 
+Tammy est une belle américaine. C'est Tammy est une belle femme américaine. Elle
+aussi une bonne amie. C'est une petite est aussi une bonne amie. Tammy est un peu
+tatou. tatou.
+Trey est le jeune frère de Tex. C'est le Trey est le jeune frère de Tex. Il est le troisième
+troisième enfant de la famille. enfant dans la famille.
 
-placement 
-In French, most adjectives follow the noun, unlike in English, where the the adjective precedes the noun. Here are some examples of adjectives following the noun: 
+beau, nouveau, vieux
+Beau, nouveau et vieux ont des formes irrégulières. Notez les formes spéciales au masculin singulier lorsqu'elles précèdent un mot commençant par une voyelle ou un h muet.
 
-Tex porte toujours un béret rond, même quand il fait du sport. Il aime les romans existentialistes. Dans son enfance, Tex a habité chez des nonnes catholiques. 
-Tammy a un nez pointu. C'est une tatou mince et sympathique. Elle apprend la langue française et fait des études littéraires. 
-Tex always wears a round beret, even when he exercises. He likes existentialist novels. As a child, Tex lived with catholic nuns. 
-Tammy has a pointed nose. She is a slim and nice armadillo. She's learning the French language and is studying literature. 
+Les adjectifs qui précèdent le nom doivent s'accorder en nombre et en genre avec le nom qu'ils modifient (voir la règle régulière de formation des adjectifs). Sachez que changer la position de certains adjectifs peut changer leur sens. Écoutez ce dialogue :
 
-Bette est de caractère méfiant. Elle est Bette has a mistrustful personality. She has d'humeur changeante. C'est une chatte très changing moods. She's a very cunning cat. 
-maline. 
+Tex et Tammy regardent le nouvel album Tex et Tammy regardent le nouveau de famille de Rita de Rita. Album de famille.
+Tammy : Qui est cette belle femme ? Tammy : Qui est cette belle femme ?
+Rita : C'est notre mère. Tammy : Et qui sont ces autres personnes ?
+Rita : Le vieil homme, c'est Paw-Paw Louis. Et puis, à côté, c'est moi.
+Tex : Et ce petit bébé, qui est-ce ? Comme il est couché !
+Rita : C'est toi, Texas. C'est la première photo de toi.
+Rita : C'est notre mère. Tammy : Et qui sont ces autres personnes ? Rita : Le vieil homme, c'est Paw-Paw Louis.
+Et puis, à côté de lui, c'est moi.
+Tex : Et le petit bébé, c'est qui ? Le garçon est-il laid ! Rita : C'est toi, Tex. C'est la première photo
+de toi.
 
-Note that there is a small group of adjectives that normally precede the noun. Some adjectives can also be placed before or after the noun but changing the position of the adjectives can modify their meaning. 
+Les adjectifs réguliers se forment en ajoutant un e à la forme masculine au singulier (content / contente), ou en ajoutant un s aux formes masculine et féminine au pluriel (Tex et Edouard sont contents / Tammy et Bette sont contentes). Ce groupe d'adjectifs est de loin le plus courant. Il existe cependant un certain nombre d'adjectifs appelés irréguliers, car ils n'ont pas les terminaisons normales -e, -s ou -es. Les terminaisons de ces adjectifs irréguliers varient considérablement et changent souvent la prononciation.
+genre
 
-Listen to this dialogue: 
 
+D'autres adjectifs peuvent être regroupés en catégories :
 
-Tammy, Bette et Tex sont à Gregory Gym. Les deux filles parlent, puis se disputent, pendant que Tex fait son sport annuel . 
-Tammy: Regarde, Bette, comme ses ongles jaunes tapent sur le tapis roulant quand il court! Quel tatou adorable! Et ce museau fin et pointu, ces écailles étincelantes, ce corps souple, ces gestes et ces mouvements pleins de grâce ... 
-Bette: Berk! Tu aimes vraiment ça!? Un corps humide de sueur et un poil gris comme une boule de papier mâché! Oh mon dieu! Et cette odeur désagréable! Comme un rat noyé! Tu n'es pas sérieuse! 
-Tammy: Bette, je ne suis pas idiote! Je connais tes intentions! Il est à moi! 
-Tammy, Bette and Tex are at Gregory Gym. The two girls talk, then argue, while Tex does his yearly workout. 
-Tammy: Bette, would you look at those yellow nails of his clicking on the tread mill when he runs! What an adorable armadillo! And that snout, so fine and pointy! Those shiny scales, that supple body, his every gesture and movement so full of grace ... 
-Bette: Yuck! You like that!? That clammy body, gray fur? Like a wad of paper maché! Oh, Lord! And that awful smell! Like a drowned rat! You're not serious! 
-Tammy: Bette, you don't fool me! I understand your intentions! He's mine! 
+-eil -eille pareil • pareille similaire
 
+terminaison masculine terminaison féminine français anglais
 
+-el -elle cruelle • cruelle cruelle
+Certains adjectifs ont des formes masculines et féminines identiques. C'est généralement le cas des adjectifs en e dans
+Voici quelques-uns de ces adjectifs :
+pauvre (pauvre) difficile (difficile) sensible (sensible)
+riche (riche) calme (calme) semblable (similaire)
+hacher (mince) minuscule (minuscule) ridicule (ridicule)
+propre (propre) ironique (ironique) imaginaire (imaginaire)
 
-fill in the blanks 
-Give 
-the correct form of the adjective indicated in parentheses. 
-1. 
-Tex et Tammy sont des tatous __________. (charmant, 'charming') 
+leur forme masculine et avec des adjectifs étrangers comme « snob », « cool », etc. Par exemple : Tex est un tatou imaginaire ; Tammy est aussi imaginaire. Ils sont imaginaires. (Tex est un tatou imaginaire ; Tammy aussi est imaginaire. Ils sont imaginaires.)
 
-2. 
-Bette est une chatte ________. (rusé, 'cunning') 
+numéro
+La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un -s est ajouté aux formes singulières masculines ou féminines. Il existe deux exceptions majeures à cette règle :
+1.
+N'ajoutez pas de s à la forme masculine des adjectifs se terminant par s ou x. Le masculin singulier et le pluriel sont ainsi identiques : un animal heureux, des animaux heureux. Cependant, le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un s au féminin singulier : une fille heureuse, des filles heureuses.
 
-3. 
-Fiona et Tammy sont ___________. (intelligent) 
+2.
+Les adjectifs se terminant par al au masculin singulier se transforment en aux au masculin pluriel.
 
-4. 
-Bette a un stylo _______. (vert, 'green') 
 
-5. 
-Tammy aime le vin _________. (français, 'French') 
 
-6. 
-Tammy a une robe ____________. (ravissant, 'ravishing') 
+Tex est un tatouage international. Edouard et Tex est un tatou international. Edouard Tex sont des animaux internationaux. et Tex sont des animaux internationaux. Le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un s au féminin singulier : Tex aime lire la presse internationale. Tex aime aussi les revues internationales. (Tex aime lire les journaux internationaux. Tex aime aussi les magazines internationaux).
+Écoutez ce dialogue :
 
-7. 
-Tex a un charme ________ (fou, 'incredible, crazy'). 
 
-8. 
-Ah, Tex a une allure _______! (séduisant, 'attractive') 
-9. 
-Joe-Bob et Corey ne sont pas ___________! (dégourdi, 'resourceful') 
-10. 
-Est-ce qu'Edouard est un serveur _________? (poli, 'polite') 
-11. 
-Est-ce qu'Edouard et Tex sont des Français __________? (typique, 'typical') 
-12. 
-Tammy et Bette aiment les tatous _________. (musclé, 'muscular') 
 
+Tex : Mais, qu'est-ce qui ne va pas ?
+Tammy : C'est encore Bette ! Elle n'est jamais sincère ! Sois franc Tex. Tu ne trouves pas capricieuse et cruelle ?
+Tex : Non ! Elle est gentille ! C'est une bonne amie ! Qu'est-ce qu'elle a fait ?
+Tammy : Comme tu es naïf ! Elle me raconte que tu me trouves ennuyeuse, que tu es amoureux d'une de tes étudiantes. C'est vrai ?
+Tex : Tu es folle ! C'est une fausse accusation !
+Tex : Mais, qu'est-ce qui ne va pas ?
+Tammy : C'est encore Bette ! Elle n'est jamais sincère ! Sois franc Tex. Tu ne la trouves pas capricieuse et cruelle ?
+Tex : Non ! Elle est belle! Elle est une bonne amie! Qu'a-t-elle fait?
+Tammy : Tu es tellement naïve ! Elle me dit que tu penses que je suis ennuyeux, que tu es unes amoureux d'un de tes élèves. Est-ce vrai?
+Tex : Tu es fou ! C'est une fausse accusation !
+Tammy : Hmm... Tu veux que je Tammy : Hmm... Tu veux que je t'explique ? C'est très clair. Elle est jalouse ! Explique? C'est très clair. Elle est jalouse! C'est
+C'est le complot classique. Elle essaie de nous séparer, nous des amis si loyaux ! nous, amis fidèles !
 
+Certains adjectifs peuvent être placés avant ou après le nom qu'ils décrivent. Leur position détermine leur sens. Lorsque l'adjectif est placé avant le nom, il a tendance à avoir un sens figuré ou métaphorique. Lorsqu'il suit le nom, il a un sens plus littéral ou réel. Considérez les exemples suivants :
 
+propre
+seul
+Facile
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
+A son arrivée à Austin, Tex était un tatou pauvre.
+Quand il est arrivé à Austin, Tex était un tatou financièrement pauvre.
 
+Bette n'est pas simple. Bette n'est pas simple
 
+Le pauvre Tex était malheureux quand il a quitté la France.
+Le malheureux Tex n'était pas content en quittant la France.
 
+Tex n'est pas un simple poète, c'est aussi un philosophe.
 
+Écoutez ce dialogue :
+Tammy assiste à Tex à la bibliothèque depuis Tammy attend Tex à la
+une heure. Enfin il arrive. bibliothèque pendant une heure. Enfin, il arrive.
+Tammy (ironique) : Ne te presse pas mon Tammy (ironique) : Prends ton temps ma chère
+cher Tex ! Tu oublies tes propres rendez-Tex ! Oubliez-vous votre propre
+vous maintenant ?! rendez-vous maintenant ?!
+Tex : Ah, Tammy, ma chérie ! J'étais au café Tex : Oh, Tammy, chérie, j'étais au café
+avec mon grand ami Edouard, quand j'ai vu avec mon grand ami Edouard, quand j'ai vu
+une femme seule. Elle avait l'air triste. Elle une femme solitaire. Elle avait l'air triste. Elle était
+était le désespoir même. Et la beauté même le désespoir lui-même ! La beauté elle-même aussi...
+...
+Tammy (toujours furieuse) : Et alors ? Tammy (toujours furieuse) : Et alors ?
+Tex : Eh bien ? Tu me connais ! Je suis un Tex : Alors ? Tu sais comment je suis ! je suis un
+courageux tatou ! Alors, je suis allé lui offrir un bon tatou ! Alors je suis allé lui acheter un
+café pour la consoler. café pour la consoler.
+Tammy : Ah oui ? Tammy : Oh vraiment ?
+Tex : Aïe ! Tex : Aïe !
 
+Les participes présents et les participes passés des verbes sont souvent utilisés comme adjectifs. Ils s'accordent donc en nombre et en genre avec le nom qu'ils modifient, tout comme les adjectifs réguliers. La distinction entre les adjectifs dérivés du participe présent et du participe passé est similaire à celle entre les adjectifs -ing et -ed en anglais : fatigant (tiring) / fatigué (tired).
 
+Oh, la, la, Tex est fatigué après ses cours. Oh, la, la, Tex est fatigué après ses cours.
+Pff... quand il parle de philosophie, Tex est Pff... quand il parle de philosophie, Tex parfois fatigant. est parfois fatiguant.
 
 
-The placement of most adjectives in French is after the noun: un escargot parlant, une fourmi travailleuse, des tatous intelligents, etc. There is a small group of adjectives, however, that normally precede the noun. These adjectives may be categorized as adjectives of Beauty, Age, Numbers Goodness, and Size (BANGS). 
 
+participes présents utilisés comme adjectifs
+Le participe présent est formé en supprimant les -ons se terminant par la forme nous au présent et en ajoutant -ant.
 
-autre, other  beau (belle), beautiful  bon (bonne), good  
-grand (grande), tall, big  gros (grosse), big, fat  jeune, young  
-joli (jolie), pretty  mauvais (mauvaise), bad  nouveau (nouvelle), new  
-petit (petite), little  vieux (vieille), old  
-ordinal numbers:  
-premier (première), first  deuxième, second  troisième, third, etc.  
+Tex est un tatouage intéressant. (intéresser) Tex est un tatou intéressant. Tammy est une fille charmante. (charmeuse) Tammy est une fille charmante. Edouard et Corey sont des animaux Edouard et Corey sont des animaux amusants.
+amusés. (amuser) Bette et Fiona sont des créatures Bette et Fiona sont des créatures surprenantes. surprenantes. (surprendre)
 
 
 
-Tammy est une belle Américaine. C'est  Tammy is a beautiful American woman. She  
-aussi une bonne amie. C'est une petite  is also a good friend. Tammy is a little  
-tatou.  armadillo.  
-Trey est le jeune frère de Tex. C'est le  Trey is Tex's young brother. He is the third  
-troisième enfant de la famille.  child in the family.  
+participes passés utilisés comme adjectifs
+La formation du participe passé dépend de la classe du verbe (-er, -ir, -re ou irrégulier). Tex et Tammy forment un couple uni. (unir) Tex et Tammy forment un couple uni.
 
-beau, nouveau, vieux 
-Beau, nouveau, and vieux have irregular forms. Note the special forms in the masculine singular when they precede a word that begins with a vowel or a silent h. 
 
+Pauvre Joe-Bob ! Il est perdu. . . comme d'habitude. (perdre)
+Edouard et Tex sont des Français peu américanisés. (américaniser)
+Bette est trop gâtée. (gâter)
+Pauvre Joe Bob ! Il est perdu... comme d'habitude.
+Edouard et Tex ne sont pas des Français très américanisés. Bette est trop gâtée.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The adjectives which precede the noun must agree in number and gender with the noun they modify (see the regular rule for adjective formation). Be aware that changing the position of some adjectives may change their meaning. Listen to this dialogue: 
-
-Tex et Tammy regardent le nouvel album Tex and Tammy are looking at Rita's new de famille de Rita. family album. 
-Tammy: Qui est cette belle femme? Tammy: Who is that beautiful woman? 
-Rita: C'est notre mère. Tammy: Et qui sont ces autres personnes? 
-Rita: Le vieil homme, c'est Paw-Paw Louis. Et puis, à côté, c'est moi. 
-Tex: Et ce petit bébé, qui est-ce? Comme il est laid! 
-Rita: C'est toi, Tex. C'est la première photo de toi. 
-Rita: That's our mother. Tammy: And who are these other people? Rita: The old man, that's Paw-Paw Louis. 
-And then, next to him, that's me. 
-Tex: And the little baby, who is it? Boy is he ugly! Rita: That's you, Tex. It's the first picture 
-of you. 
-
-fill in the blanks 
-Give 
-the correct form of the adjective indicated in parentheses. 
-1. 
-Tex est un ______ animal. (beau) 
-
-2. 
-Tammy a un ________ oncle en Australie. (vieux) 
-3. 
-Les _________ poèmes de Tex sont nuls ('worthless'). (premier) 
-4. 
-Fiona a toujours de ______ notes. (bon) 
-5. 
-Bette n'a pas une ________ qualité. (seul) 
-6. 
-Tex a de _________ oreilles. (grand) 
-7. 
-Tex achète une ________ bague ('ring') pour Tammy. (beau) 
-8. 
-Bette est une ______ chatte opportuniste. (jeune) 
-9. 
-Joe-Bob a de _______ amis. (nouveau) 
-10. 
-Edouard n'a pas de _______ amie. (petit) 
-11. 
-Joe-Bob a une __________ influence sur Corey. (mauvais) 
-12. 
-Joe-Bob a de __________ dents. (joli) 
-
-
-
-
-© 2005 • department of french & italian • liberal arts ITS • university of texas at austin updated: 17 Nov 05 
-
-
-
-
-
-
-
-1. 
-gender 
-
-2. 
-number 
-
-
-Regular adjectives are formed by adding an e to the masculine form in the singular (content / contente), or by adding an s to the masculine and feminine forms in the plural (Tex et Edouard sont contents / Tammy et Bette sont contentes). This group of adjectives is by far the most common. There are, however, a number of adjectives which are called irregular, because they do not have the normal -e, -s, or -es endings. The endings of these irregular adjectives vary widely and often change the pronunciation. 
-gender 
-
-
-Other adjectives can be grouped in categories: 
-
-
-
-
--eil -eille pareil • pareille similar 
-
-masculine ending feminine ending french english 
-
-
-
-
--el -elle cruel • cruelle cruel 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Some adjectives have identical masculine and feminine forms. This is generally the case with adjectives ending in e in 
-Here are a few of these adjectives:  
-pauvre (poor)  difficile (difficult)  sensible (sensitive)  
-riche (rich)  calme (calm)  semblable (similar)  
-mince (slim)  minuscule (tiny)  ridicule (ridiculous)  
-propre (clean)  ironique (ironic)  imaginaire (imaginary)  
-
-their masculine form and with foreign adjectives like 'snob', 'cool', etc. For example: Tex est un tatou imaginaire; Tammy aussi est imaginaire. Ils sont imaginaires. (Tex is an imaginary armadillo; Tammy too is imaginary. They are imaginary.) 
-
-number 
-The majority of adjectives are regular in the plural; that is, an -s is added to the singular masculine or feminine forms. There are two major exceptions to this rule: 
-1. 
-Do not add an s to the masculine form of adjectives ending in s or x. The masculine singular and plural forms are thus identical: un animal heureux (a happy animal), des animaux heureux (happy animals). However, the feminine plural form of these adjectives is regular; it is formed by simply adding an s to the feminine singular form: une fille heureuse (a happy girl), des filles heureuses (happy girls). 
-
-2. 
-Adjectives ending in al in the masculine singular form change to aux in the masculine plural form. 
-
-
-
-Tex est un tatou international. Edouard et Tex is an international armadillo. Edouard Tex sont des animaux internationaux. and Tex are international animals. The feminine plural form of these adjectives is regular; it is formed by simply adding an s to the feminine singular form: Tex aime lire la presse internationale. Tex aime aussi les revues internationales. (Tex likes to read international papers. Tex also likes international magazines). 
-Listen to this dialogue: 
-
-
-
-Tex: Mais, qu'est-ce qui ne va pas? 
-Tammy: C'est encore Bette! Elle n'est jamais sincère! Sois franc Tex. Tu ne la trouves pas capricieuse et cruelle? 
-Tex: Non! Elle est gentille! C'est une bonne amie! Qu'est-ce qu'elle a fait? 
-Tammy: Comme tu es naïf! Elle me raconte que tu me trouves ennuyeuse, que tu es amoureux d'une de tes étudiantes. C'est vrai? 
-Tex: Tu es folle! C'est une fausse accusation! 
-Tex: But, what's wrong? 
-Tammy: It's Bette again! She is never sincere! Be frank Tex. Don't you find her capricious and cruel? 
-Tex: No! She is nice! She is a good friend! What did she do? 
-Tammy: You are so naive! She tells me that you think I'm boring, that you are in love with one of your students. Is that true? 
-Tex: You're crazy! It's a false accusation! 
-Tammy: Hmm ... Tu veux que je Tammy: Hmm ... Do you want me to t'explique? C'est très clair. Elle est jalouse! explain? It's very clear. She is jealous! It's 
-C'est le complot classique. Elle essaie de nous séparer, nous des amis si loyaux! us, such loyal friends! 
-
-
-fill in the blanks 
-Give 
-the correct form of the adjective indicated in parentheses. 
-1. 
-Tammy a une voix ______. (doux, 'soft') 
-
-2. 
-Tammy, quelle est ta chanson ______ ? (favori, 'favorite') 
-3. 
-Bette et Tammy sont ___________ de la même personne. (amoureux, 'in love') 
-4. 
-Tex et Tammy sont ________ d'amour. (fou, 'crazy') 
-5. 
-Joe-Bob et Corey ne sont pas _______. (vif, 'quick, clever') 
-6. 
-Fiona est très __________. (gentil, 'kind') 
-7. 
-Tex et Edouard sont des animaux _________. (cosmopolite, 'cosmopolitan') 
-8. 
-Les derniers poèmes de Tex sont _________! (génial, 'great') 
-9. 
-Bette est une chatte _________. (sensuel, 'sensuous') 
-10. 
-Tammy a de belles lèvres _________. (pulpeux, 'full, juicy') 
-11. 
-Tammy et Bette sont __________ de peinture. (amateur, 'amateur') 
-12. 
-Bette est ___________. (rancunier, 'resentful') 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-
-Some adjectives can be placed either before or after the noun they are describing. Their position determines their meaning. When the adjective is placed before the noun it tends to carry a figurative, or metaphorical meaning. When it follows the noun, it carries a more literal, or actual meaning. Consider the following examples: 
-
-
-
-
-
-
-
-
-
-
-
-
-propre 
-seul 
-simple 
-
-
-
-
-
-A son arrivée à Austin, Tex était un tatou pauvre. 
-When he came to Austin, Tex was a financially poor armadillo. 
-
-
-Bette n'est pas simple. Bette is not simple 
-
-Le pauvre Tex était malheureux quand il a quitté la France. 
-The unfortunate Tex was not happy when he left France. 
-
-
-
-
-
-Tex n'est pas un simple poète, c'est aussi un philosophe. 
-
-Listen to this dialogue:  
-Tammy attend Tex à la bibliothèque depuis  Tammy has been waiting for Tex at the  
-une heure. Enfin il arrive.  library for an hour. Finally, he arrives.  
-Tammy (ironique): Ne te presse pas mon  Tammy (ironic): Take your time my dear  
-cher Tex! Tu oublies tes propres rendez- Tex! Are you forgetting your own  
-vous maintenant?!  appointments now?!  
-Tex: Ah, Tammy, ma chérie! J'étais au café  Tex: Oh, Tammy, darling, I was at the cafe  
-avec mon grand ami Edouard, quand j'ai vu  with my great friend Edouard, when I saw  
-une femme seule. Elle avait l'air triste. Elle  a lonely woman. She looked sad. She was  
-était le désespoir même. Et la beauté même  despair itself! Beauty itself also ...  
-...  
-Tammy (toujours furieuse): Et alors?  Tammy (still furious): So what?  
-Tex: Eh bien? Tu me connais! Je suis un  Tex: So? You know the way I am! I am a  
-brave tatou! Alors, je suis allé lui offrir un  good armadillo! So I went and bought her a  
-café pour la consoler.  coffee to console her.  
-Tammy: Ah oui?  Tammy: Oh really?  
-Tex: Aïe!  Tex: Ouch!  
-
-
-fill in the blanks 
-Choose 
-the correct English meaning for the adjective in capital letters between the two options given in parentheses. 
-1. 
-Tammy est le SEUL amour de Tex. (unique/alone) 
-
-2. 
-Corey déteste être SEUL. (unique/alone) 
-
-3. 
-Tammy a la MEME ambition que Bette : épouser Tex.(identical/itself) 
-
-4. 
-Bette est l'opportunisme MEME! (identical/itself) 
-
-5. 
-Nous sommes très PAUVRES. (penniless/unfortunate) 
-
-6. 
-Le PAUVRE Corey a encore perdu au loto.(penniless/unfortunate) 
-
-7. 
-Le vin rouge est très CHER aux USA. (expensive/dear) 
-
-8. 
-Bette est une GRANDE amie de Machiavel. (tall/great) 
-9. 
-La France est CHERE au coeur de Tex. (expensive/dear) 
-10. 
-Tex n'a pas toujours les oreilles PROPRES. (own/clean) 
-11. 
-Tex ne connaît pas ses PROPRES parents. (own/clean) 
-12. 
-Tex adore les livres ANCIENS. (antique/former) 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-1. 
-present participles 
-
-2. 
-past participles 
-
-
-The present participles and past participles of verbs are often used as adjectives. So they agree in number and gender with the noun they modify, just like regular adjectives. The distinction between adjectives derived from present and past participles is similar to that between -ing and -ed adjectives in English: fatigant (tiring) / fatigué (tired). 
-
-Oh, la, la, Tex est fatigué après ses cours. Oh, la, la, Tex is tired after his classes. 
-Pff... quand il parle de philosophie, Tex est Pff... when he talks about philosophy, Tex parfois fatigant. is sometimes tiring. 
-
-
-
-present participles used as adjectives 
-The present participle is formed by dropping the -ons ending from the nous form in the present tense and adding -ant. 
-
-Tex est un tatou intéressant. (intéresser) Tex is an interesting armadillo. Tammy est une fille charmante. (charmer) Tammy is a charming girl. Edouard et Corey sont des animaux Edouard and Corey are amusing animals. 
-amusants. (amuser) Bette et Fiona sont des créatures Bette and Fiona are surprising creatures. surprenantes. (surprendre) 
-
-
-
-past participles used as adjectives 
-Past participle formation depends on the verb class (-er, -ir, -re, or irregular). Tex et Tammy forment un couple uni . (unir) Tex and Tammy form a united couple. 
-
-
-Pauvre Joe-Bob! Il est perdu. . . comme d'habitude. (perdre) 
-Edouard et Tex sont des Français peu américanisés. (américaniser) 
-Bette est trop gâtée. (gâter) 
-Poor Joe-Bob! He's lost ... as usual. 
-Edouard and Tex are not very Americanized French people. Bette is too spoiled. 
-
-Note that past participles used as adjectives may have a passive meaning, and thus be followed by an agent introduced 
-by par (by) or de (with):  
-Bette est une chatte entourée d'admirateurs.  Bette is a cat surrounded by admirers.  
-Bette est très gâtée par ses admirateurs.  Bette is very spoiled by her admirers.  
-Joe-Bob: Corey, tu as vu? Il y a un article  Joe-Bob: Corey, did you see? There's an  
-absolument choquant dans le Daily Texan. Il  absolutely shocking article in the Daily  
-s'agit d'un prof qui a des personnalités  Texan. It's about a prof who has multiple  
-multiples!  personalities.  
-Corey: Ah oui, je l'ai eu le semestre passé.  Corey: Ah, yes. I had him last semester. Of  
-Bien sûr, j'ai raté mon examen, mais au  course, I failed my exam, but at least his  
-moins ses conférences étaient plus  lectures were more amusing than the other  
-amusantes que celles des autres profs.  profs'.  
-
-
-
-fill in the blanks 
-
-Fill in the blank with either the present participle or the past participle of the verb given in parentheses. Do not forget to make the participle agree in number and gender with the noun it modifies. 
-1. 
-Corey : J'ai trop travaillé! Je suis __________. (épuiser ='to tire') 
-2. 
-Corey : Lire des livres, c'est __________ ! (épuiser ='to tire') 
-3. 
-Tammy : Ce film d'horreur est ___________ ! (effrayer = 'to frighten') 
-4. 
-Tammy : J'ai mes examens en ce moment, je suis très _________. (stresser = 'to stress') 
-5. 
-Les examens, c'est __________. (stresser = 'to stress') 
-6. 
-Tammy : Tex tu es insupportable! Tu es ___________! (exaspérer = 'to exasperate') 
-7. 
-Tammy est très _____________ de tous ses amis. (apprécier = 'to appreciate') 
-8. 
-Tex est un poète mal ____________. (comprendre = 'to understand') 
-9. 
-Edouard et Tex ont bu trop de café. Ils sont ___________. (énerver = 'to annoy') 
-10. 
-Le livre de Tex est ______________! (captiver = 'to captivate') 
-11. 
-Bette est ___________ que Tex soit amoureux de Tammy. (étonner = 'to astonish') 
-12. 
-Tammy est une tatou ____________. (amuser) 
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 
-27 May 04 
-
-
-
+Notez que les participes passés utilisés comme adjectifs peuvent avoir un sens passif, et donc être suivis d'un agent introduit
+par par (par) ou de (avec):
+Bette est une chatte entourée d'admirateurs. Bette est une chatte entourée d'admirateurs.
+Bette est très gâtée par ses admirateurs. Bette est très gâtée par ses admirateurs.
+Joe-Bob : Corey, tu es vu ? Il y a un article Joe-Bob : Corey, tu as vu ? Il y a un
+absolument choquant dans le Daily Texan. Il article absolument choquant dans le Quotidien
+s'agit d'un prof qui a des personnalités texanes. Il s'agit d'un prof qui a plusieurs
+multiples ! personnalités.
+Corey : Ah oui, je l'ai eu le semestre passé. Corey : Ah, oui. Je l'ai eu le semestre dernier. De
+Bien sûr, j'ai raté mon examen, mais au course, j'ai échoué à mon examen, mais au moins son
+moins ses conférences étaient plus les conférences étaient plus amusantes les unes que les autres
+amusantes que celles des autres profs. profs'.
 
 {% include links.html %}

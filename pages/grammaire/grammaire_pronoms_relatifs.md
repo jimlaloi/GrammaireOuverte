@@ -12,279 +12,121 @@ folder: grammaire
 Page under construction
 
 
+formes et usages
+Un pronom relatif introduit une proposition qui explique ou décrit un nom mentionné précédemment, qui s'appelle l'antécédent. Les pronoms relatifs sont utilisés pour lier deux idées liées en une seule phrase, évitant ainsi la répétition.
 
+Texte écrit un roman. Le roman s'appelle Tex écrit un roman. Le roman s'appelle
+Guerre et amour. Guerre et amour.
+Tex écrit un roman qui s'appelle Guerre et Tex écrit un roman qui s'intitule War amour. et l'amour.
+Dans l'exemple ci-dessus, le pronom relatif qui introduit la proposition subordonnée, c'est-à-dire la proposition qui ajoute des informations supplémentaires sur le roman. En français, il existe deux principaux pronoms relatifs, qui et que. Le choix entre qui et que en français dépend uniquement du rôle grammatical, sujet ou objet direct, que joue le pronom relatif dans la proposition subordonnée.
+• qui
+Qui fonctionne comme le sujet de la clause subordonnée.
 
-1. 
-forms and uses 
 
-2. 
-agreement 
 
+Tex interviewé Paw-Paw qui a combattu pendant la deuxième guerre mondiale. Paw-Paw : Oui, j'étais avec des Américains qui ont libéré Paris. Tex interviewe Paw-Paw qui a combattu pendant la Seconde Guerre mondiale. Patte-Patte : Oui, j'étais avec les Américains qui ont libéré Paris.
+On a jolie notre victoire dans le quartier la qui débordait de Parisiennes. Nous avons fêté notre victoire dans le Quartier Latin qui regorgeait de jolies parisiennes.
+• que
 
-forms and uses 
-A relative pronoun introduces a clause that explains or describes a previously mentioned noun, which is called the antecedent. Relative pronouns are used to link two related ideas into a single sentence, thereby avoiding repetition. 
+Que fonctionne comme l'objet direct de la clause subordonnée. Souviens-toi que que devient qu'avant un mot qui commence
+avec une voyelle.
 
-Tex écrit un roman. Le roman s'appelle Tex is writing a novel. The novel is called 
-Guerre et amour. War and Love. 
-Tex écrit un roman qui s'appelle Guerre et Tex is writing a novel which is called War amour. and Love. 
-In the above example, the relative pronoun qui introduces the subordinate clause, that is, the clause that adds additional information about the novel. In French there are two main relative pronouns, qui and que. The choice between qui and que in French depends solely on the grammatical role, subject or direct object, that the relative pronoun plays in the subordinate clause. 
-• qui 
-Qui functions as the subject of the subordinate clause. 
+ Paw-Paw: Une jolie Parisienne que j'ai connue est devenue ta grand-mère, Tex! Patte-Patte : Une jolie parisienne que j'ai rencontrée est devenue ta grand-mère, Tex !
+Tex : Maman grand-mère ! Une héroine de la Résistance française ? Tiens, le livre que j'écris c'est l'histoire de deux héros de la Tex : Ma grand-mère ! Une héroïne de la Résistance française ? Dis, le livre que j'écris est l'histoire de deux héros de la
 
 
+La résistance. Ce n'est pas une pure Résistance. Ce n'est pas tout à fait une coïncidence ! coïncidence!
+une entente
+Bien que qui et que soient invariables, ils supposent le genre et le nombre de l'antécédent. Que fonctionne comme un objet direct précédant le verbe. Par conséquent, lorsque le verbe de la proposition subordonnée est au passé composé, ou à tout autre temps composé, le participe passé s'accorde en nombre et en genre avec que. Le participe passé s'accorde aussi en nombre et en genre avec qui si le verbe forme son passé composé avec 'être'.
 
-Tex interviewe Paw-Paw qui a combattu pendant la deuxième guerre mondiale. Paw-Paw: Oui, j'étais avec des Américains qui ont libéré Paris.  Tex interviews Paw-Paw who fought during World War II. Paw-Paw: Yes, I was with Americans who liberated Paris.  
-On a célébré notre victoire dans le quartier latin qui débordait de jolies Parisiennes.  We celebrated our victory in the Latin Quarter which was overflowing with pretty Parisian girls.  
-• que  
+Tex : Marie-Tammy et Jean-Tex sont les Tex : Marie-Tammy et Jean-Tex sont les deux héros que j'ai vus dans un rêve. deux héros que j'ai vus dans un rêve.
+Ce sont deux espions qui se sont Ce sont deux espions qui se sont rencontrés en mission. rencontrés en mission.
 
-Que functions as the direct object of the subordinate clause. Remember that que becomes qu' before a word beginning 
-with a vowel.  
 
- Paw-Paw: Une jolie Parisienne que j'ai connue est devenue ta grand-mère, Tex!  Paw-Paw: A pretty Parisian whom I met became your grandmother, Tex!  
-Tex: Ma grand-mère! Une héroïne de la Résistance française? Tiens, le livre que j'écris c'est l'histoire de deux héros de la  Tex: My grandmother! A heroine of the French Resistance? Say, the book that I'm writing is the story of two heroes from the  
+Ce qui et ce que sont des pronoms relatifs comme qui et que ; c'est-à-dire qu'ils introduisent une clause subordonnée. Cependant, ce qui et ce que sont utilisés dans des phrases dans lesquelles il n'y a pas d'antécédent exprimé. Ils ne se réfèrent pas à un nom spécifique, mais plutôt à une idée ou à un énoncé entier, qui peut ou non avoir été précédemment exprimé : ils se réfèrent à quelque chose de non énoncé et non spécifié.
+Le choix entre ce qui et ce que dépend uniquement du rôle grammatical, sujet ou objet direct, que joue le pronom relatif dans la proposition subordonnée.
 
 
-Résistance. Ce n'est pas une pure Resistance. It is not entirely a coincidence! coïncidence! 
-agreement 
-Although qui and que are invariable, they assume the gender and number of the antecedent. Que functions as a direct object preceding the verb. Therefore, when the verb of the subordinate clause is in the passé composé, or any other compound tense, the past participle agrees in number and gender with que. The past participle also agrees in number and gender with qui if the verb forms its passé composé with 'être'. 
 
-Tex: Marie-Tammy et Jean-Tex sont les Tex: Marie-Tammy and Jean-Tex are the deux héros que j'ai vus dans un rêve. two heroes whom I saw in a dream. 
-Ce sont deux espions qui se sont They are two spies who met on a mission. rencontrés en mission. 
+ce qui
+Ce qui fonctionne comme le sujet de la proposition subordonnée.
 
+Tammy : Edouard, tu as lu le roman de Tex Tammy : Edouard, as-tu lu Tex sur la deuxième guerre mondiale ? roman sur la Seconde Guerre mondiale ?
+Edouard : Ah oui ! Ce qui est fascinant, c'est Edouard : Ah oui j'en ai ! Ce qui est fascinant dans la description de l'époque. est sa description de la période.
+J'adore tout ce qui se rapporte à la J'aime tout ce qui touche à la Résistance ! La résistance!
+Et puis, il y a une intrigue amoureuse, ce Et il y a aussi un intérêt amoureux, qui ne m'étonne pas puisque l'héroïne du ne m'étonne pas puisque l'héroïne du livre est livre s'appelle Marie-Tammy ! appelé Marie-Tammy !
 
-fill in the blanks 
-Fill 
-in the blank with the correct relative pronoun, either qui or que. 
-1. 
-Tex aime la tarte __________ Tammy a faite. 
 
-2. 
-Bette ne sait pas ________ est le grand-père de Tex. 
-3. 
-Tex, ________ a écrit plusieurs livres, est un auteur célèbre. 
-4. 
-Tammy aime les romans ________ parlent d'amour. 
-5. 
-Edouard est un escargot _____ je connais bien. 
-6. 
-Tammy va voir un film ________ vient de sortir. 
-7. 
-Bette est une étudiante ______ Tex a embrassée. 
-8. 
-Bette est une étudiante ______ a embrassé Tex. 
-9. 
-Paw-Paw est un ancien combattant ______ Tex admire beaucoup. 
-10. 
-Tammy adore les poésies érotiques ________ Tex a écrites. 
-11. 
-Joe-Bob aime les noix (nuts) _______ viennent du Brésil. 
-12. 
-Tex aime les nouvelles lunettes de soleil ______ Tammy a achetées. 
+Ce qui est souvent utilisé pour l'emphase suivi de c'est. Notez comment la phrase 'Ce qui est fascinant, c'est sa description de l'époque.' est plus emphatique que de dire simplement « Sa description de l'époque est fascinante ».
 
 
+ce que
 
+Ce que (quoi, quoi, quoi) fonctionne comme l'objet direct de la proposition subordonnée. Ce que devient ce qu' devant un mot commençant par une voyelle.
 
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
 
 
 
+Tammy : Tout ce que Tex crée est tellement Tammy : Tout ce que Tex crée est tellement original ! original!
+Moi, j'aime ce qu'il écrit à propos de la Personnellement, j'aime ce qu'il écrit sur la France dans les années 1940. La France dans les années 1940.
+Ce que je n'aime pas, c'est la fin du livre. Ce que je n'aime pas, c'est la fin du livre.
+Le héros meurt. Il n'épouse donc pas Le héros meurt. Alors il n'épouse pas Marie-
+Marie-Tammy, ce que je trouve très Tammy, ce que je trouve vraiment dommage.
+dommage.
 
+Remarquez comment la phrase « Ce que je n'aime pas, c'est la fin du livre ». est plus emphatique que de dire simplement « Je n'aime pas la fin du livre ».
+Notez que ce qui et ce que sont également utilisés dans le discours indirect (voire discours rapporté).
 
 
 
-1. 
-ce qui 
 
-2. 
-ce que 
 
+Un pronom relatif introduit une proposition qui explique ou décrit un nom mentionné précédemment. Dans les cas où le pronom relatif fait l'objet d'une préposition, des pronoms relatifs autres que qui et que doivent être utilisés. De est la plus courante de ces prépositions, et dont est le pronom relatif représentant à la fois la préposition de + son objet.
 
-Ce qui and ce que are relative pronouns like qui and que; that is, they introduce a subordinate clause. However, ce qui and ce que are used in sentences in which there is no expressed antecedent. They do not refer to a specific noun, but rather to an idea or an entire statement, which may or may not have been previously expressed: they refer to something unstated and unspecified. 
-The choice between ce qui and ce que depends solely on the grammatical role, subject or direct object, that the relative pronoun plays in the subordinate clause. 
+dont, où, lequel : pronoms relatifs avec antécédent
+• ne pas
+Utilisez dont si la clause subordonnée a besoin d'un objet introduit par de/d'. De telles clauses peuvent indiquer la possession ou elles peuvent contenir des verbes qui sont suivis de la préposition de. Certains de ces verbes incluent 'parler de' (pour en parler); 'avoir besoin de' (avoir besoin); 'avoir peur de' ; 'tenir de' (prendre après).
 
+Tex : Le livre dont je suis l'auteur Tex : Le livre dont je suis le plus un roman historique. l'auteur est un roman historique.
 
 
-ce qui 
-Ce qui (what, that, which) functions as the subject of the subordinate clause. 
 
-Tammy: Edouard, tu as lu le roman de Tex Tammy: Edouard, have you read Tex's sur la deuxième guerre mondiale? novel on WWII? 
-Edouard: Ah oui! Ce qui est fascinant, c'est Edouard: Ah, yes I have! What's fascinating sa description de l'époque. is his description of the period. 
-J'adore tout ce qui se rapporte à la I love everything that is related to the Résistance! Resistance! 
-Et puis, il y a une intrigue amoureuse, ce And there's also a love interest, which does qui ne m'étonne pas puisque l'héroïne du not surprise me since the book's heroine is livre s'appelle Marie-Tammy! called Marie-Tammy! 
 
+N'indique pas souvent la possession ; « dont » est son équivalent anglais.
+Edouard, parlant du livre de Tex : Tex, dont Edouard, parlant du livre de Tex : Tex,
+le grand-père a combattu en France, en 40, dont le grand-père a combattu en France en '40,
+a dédié ce livre à Paw-Paw. dédié ce livre à Paw-Paw.
 
-Ce qui is often used for emphasis followed by c'est. Note how the sentence 'Ce qui est fascinant, c'est sa description de l'époque.' is more emphatic than saying simply 'Sa description de l'époque est fascinante.' 
 
+• où
+Le pronom relatif où signifie 'où, dans lequel, sur quoi'. Utilisez où si la clause subordonnée a besoin d'un objet indiquant l'emplacement introduit par dans, à, sur, sous. Lorsqu'il est utilisé après des adverbes de temps, où signifie « quand ».
 
-ce que 
+Paris, où l'histoire commence, va être libéré Paris, où commence l'histoire, va par les Américains. être libéré par les Américains.
+Paw-Paw était à Paris le jour où les Paw-Paw était à Paris le jour [quand] les Américains sont entrés dans la ville. Les Américains sont entrés dans la ville.
 
-Ce que (what, that, which) functions as the direct object of the subordinate clause. Ce que becomes ce qu' before a word beginning with a vowel. 
 
+• préposition + lequel, où, où, où
+Les pronoms relatifs dans lesquels, où, et lesquels (which) sont utilisés lorsque la proposition relative est introduite par une préposition autre que de/d'. Ces pronoms font les contractions habituelles avec les prépositions à et de. Notez que la préposition en français doit toujours être placée immédiatement devant le pronom relatif.
 
 
 
-Tammy: Tout ce que Tex crée est tellement Tammy: Everything that Tex creates is so original! original! 
-Moi, j'aime ce qu'il écrit à propos de la Personally, I like what he writes about France dans les années 1940. France in the 1940s. 
-Ce que je n'aime pas, c'est la fin du livre. What I don't like is the end of the book. 
-Le héros meurt. Il n'épouse donc pas  The hero dies. So he does not marry Marie- 
-Marie-Tammy, ce que je trouve très  Tammy, which I think is such a pity.  
-dommage.  
+Ce roman, dans lequel Tex utilise les Ce roman, dans lequel Tex utilise les souvenirs de guerre de Paw-Paw de Paw-Paw, est très warmembers, est très réaliste. réaliste.
+Ses personnages, auxquels Tex s'identifie, Ses personnages, auxquels Tex s'identifie, sont des héros de la Résistance. sont des héros de la Résistance.
+L'homme à côté de Marie-Tammy est L'homme à côté duquel Marie-Tammy est assise est un officier nazi. assis est un officier nazi.
+Les hommes parmi lesquels Marie-Tammy Les hommes parmi lesquels Marie-Tammy se trouve sont tous des nazis. se trouve sont tous nazis.
+Les deux femmes entre lesquelles l'officier Les deux femmes entre lesquelles se trouve font partie de la Résistance. officier est assis font partie de la Résistance.
+Remarque : La forme dont est généralement utilisée en français parlé au lieu des formes comportant, comportant, et contenant; cependant, ces dernières formes peuvent également être trouvées, en particulier dans les textes écrits. Dont ne peut être substitué qu'à la préposition simple de et à son objet, mais une forme de lequel doit être utilisée lorsque de fait partie d'une préposition de deux ou trois mots, telle que 'à propos de, près de, loin de, à côté de.'
 
-Note how the sentence 'Ce que je n'aime pas, c'est la fin du livre.' is more emphatic than saying simply 'Je n'aime pas la fin du livre.' 
-Note that ce qui and ce que are also used in indirect discourse (see reported speech). 
+ce dont, ce + préposition + quoi : pronoms relatifs sans antécédent
+Dans tous les exemples précédents, les pronoms relatifs ont un antécédent ; en d'autres termes, un mot spécifique dans la phrase pour laquelle le pronom relatif représente. De même que les formes ce qui et ce que sont utilisées lorsqu'il n'y a pas d'antécédent explicite, de même les formes ce dont et ce + préposition + quoi renvoient à quelque chose de non-énoncé et non spécifié.
 
+Utilisez ce dont si la clause subordonnée a besoin d'un objet introduit par de.
 
-fill in the blanks 
-Fill in the blank with the correct relative pronoun, either ce qui or ce que/ce qu'. 
-1. 
-Tex aime tout __________ Tammy fait. 
-2. 
-___________ est incroyable, c'est la rencontre de Tex et Tammy. 
+On comprend très bien ce dont les Parisiens On comprend très bien ce qu'avaient la peur pendant l'Occupation. Les Parisiens avaient peur pendant l'Occupation.
 
-3. 
-Tex, ________ je n'aime pas chez toi, c'est ton snobisme! 
-
-4. 
-Bette ne sait pas _______ a Tammy. 
-
-5. 
-Joe-Bob ne comprend pas _________ Tex et Tammy disent. 
-
-6. 
-Je ne sais pas ________ rend Corey si triste. 
-
-7. 
-Vous savez ________ on va faire ce soir? 
-8. 
-_________ me surprend, c'est que Tex soit américain. 
-
-9. 
-Paw-Paw a combattu dans la seconde guerre mondiale, ______ Tex admire beaucoup. 
-
-10. 
-Tammy adore ________ Tex a écrit. 
-11. 
-_________ est dommage, c'est que Paw-Paw habite si loin. 
-
-12. 
-_________ Tex regrette, c'est que Paw-Paw téléphone tout le temps. 
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. 
-dont, où, lequel 
-
-2. 
-ce dont, ce + preposition + quoi 
-
-
-A relative pronoun introduces a clause that explains or describes a previously mentioned noun. In instances where the relative pronoun is the object of a preposition, relative pronouns other than qui and que must be used. De is the most common of these prepositions, and dont is the relative pronoun representing both the preposition de + its object. 
-
-dont, où, lequel: relative pronouns with antecedent 
-• dont 
-Use dont if the subordinate clause needs an object introduced by de/d'. Such clauses may indicate possession or they may contain verbs which are followed by the preposition de. Some of these verbs include 'parler de' (to talk about); 'avoir besoin de' (to need); 'avoir peur de' (to be afraid of); 'tenir de' (to take after). 
-
-Tex: Le livre dont je suis l'auteur Tex: The book of which I'm the est un roman historique. author is an historical novel. 
-
-
-
-
-Dont often indicates possession; 'whose' is its English equivalent.  
-Edouard, parlant du livre de Tex: Tex, dont  Edouard, speaking about Tex' book: Tex,  
-le grand-père a combattu en France, en 40,  whose grandfather fought in France in '40,  
-a dédié ce livre à Paw-Paw.  dedicated this book to Paw-Paw.  
-
-
-• où 
-The relative pronoun où means 'where, in which, on which.' Use où if the subordinate clause needs an object indicating location introduced by dans, à, sur, sous. When used after adverbs of time, où means 'when.' 
-
-Paris, où l'histoire commence, va être libéré Paris, where the story starts, is going to par les Américains. be liberated by the Americans. 
-Paw-Paw était à Paris le jour où les Paw-Paw was in Paris the day [when] the Américains sont entrés dans la ville. Americans entered the city. 
-
-
-• preposition + lequel, laquelle, lesquels, lesquelles 
-The relative pronouns lequel, laquelle, lesquels, and lesquelles (which) are used when the relative clause is introduced by a preposition other than de/d'. These pronouns make the usual contractions with the prepositions à and de. Note that the preoposition in French must always be placed immediately in front of the relative pronoun. 
-
-
-
-Ce roman, dans lequel Tex utilise les This novel, in which Tex uses Paw-Paw's souvenirs de guerre de Paw-Paw, est très war memories, is very realistic. réaliste. 
-Ses personnages, auxquels Tex s'identifie, His characters, with whom Tex identifies, sont des héros de la Résistance. are heros of the Resistance. 
-L'homme à côté duquel Marie-Tammy est The man next to whom Marie-Tammy is assise est un officier nazi. seated is a nazi officer. 
-Les hommes parmi lesquels Marie-Tammy The men among whom Marie-Tammy se trouve sont tous des nazis. finds herself are all nazis. 
-Les deux femmes entre lesquelles l'officier The two women between whom the se trouve font partie de la Résistance. officer is seated are part of the Resistance. 
-Note: The form dont is generally used in spoken French instead of the forms duquel, de laquelle, desquels, and desquelles; however, these latter forms may also be found, especially in written texts. Dont may be substituted only for the simple preposition de and its object, but a form of lequel must be used when de is part of a two-or three-word preposition, such as 'à propos de, près de, loin de, à côté de.' 
-
-ce dont, ce + preposition + quoi : relative pronouns with no antecedent 
-In all the preceding examples, the relative pronouns have an antecedent; in other words, a specific word in the sentence for which the relative pronoun stands. Just as the forms ce qui and ce que are used when there is no explicit antecedent, so the forms ce dont and ce + preposition + quoi refer to something unstated and unspecified. 
-
-Use ce dont if the subordinate clause needs an object introduced by de. 
-
-On comprend très bien ce dont les Parisiens One understands very well what the avaient peur pendant l'Occupation. Parisians were afraid of during the Occupation. 
-
-Use ce + preposition + quoi when the subordinate clause needs an object introduced by a preposition other than de. Remember that, unlike English, the preposition in French must always be placed immediately in front of the relative 
-pronoun.  
-Tout le monde va comprendre ce à quoi Tex fait allusion quand il décrit Jean-Tex et Marie-Tammy--il s'agit bien de Tex et Tammy, nos tatous favoris!  Everybody's going to understand what Tex is alluding to when he describes Jean-Tex and Marie-Tammy--it's indeed a matter of Tex and Tammy, our favorite armadillos!  
-
-
-
-fill in the blanks 
-Fill 
-in the blank with the correct relative pronoun: dont, où, lequel, ce dont or ce à quoi. 
-1. 
-Tammy : Lyon est la ville _______ Tex a grandi. 
-
-2. 
-Joe-Bob : Je n'ai pas lu le livre _______ tu parles. 
-
-3. 
-Tex : Le roman dans ________ Marie-Tammy apparaît s'appelle Guerre et amour. 
-
-4. 
-Fiona : Le garçon ______ Bette est amoureuse est ...Tex! 
-
-5. 
-Bette : _________ je parle n'a rien à voir avec Tex. 
-
-6. 
-Tammy : Tex, tu sais ___________ je pense? 
-
-7. 
-Tammy : Voici l'endroit _____ je veux me marier, Tex! 
-
-8. 
-Tammy : Tex, tu es le tatou avec _______ je veux me marier! 
-
-9. 
-Paw-Paw est un ancien combattant, ______ Tex est très fier. 
-
-10. 
-Trey : Les chansons ________ je suis l'auteur sont au TOP20. 
-11. 
-Tex : Tu me demandes __________ je réfléchis? A mon prochain poème bien sûr! 
-12. 
-Tammy : Le béret ______ j'ai fait cadeau à Tex est superbe. 
-
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
-
-
-
-
+Utilisez ce + préposition + quoi lorsque la proposition subordonnée a besoin d'un objet introduit par une préposition autre que de. Rappelez-vous que, contrairement à l'anglais, la préposition en français doit toujours être placée immédiatement devant le parent
+pronom.
+Tout le monde va comprendre ce à quoi Tex fait allusion quand il décrit Jean-Tex et Marie-Tammy--il s'agit bien de Tex et Tammy, nos tatous favoris! Tout le monde comprendra à quoi Tex fait allusion lorsqu'il décrit Jean-Tex et Marie-Tammy, il s'agit bien de Tex et Tammy, nos tatous préférés !
 
 
 

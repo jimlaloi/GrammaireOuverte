@@ -11,97 +11,55 @@ folder: grammaire
 
 Page under construction
 
+Un verbe pronominal est un verbe qui s'accompagne d'un pronom réfléchi. Les verbes pronominaux se répartissent en trois classes principales en fonction de leur signification : réflexif, idiomatique et réciproque. Vous avez probablement déjà vu le verbe pronominal s'appeler (Comment t'appelles-tu ? Comment t'appelles-tu ?). Pour conjuguer les verbes pronominaux au présent, vous devez faire attention à la fois au pronom et à la forme verbale. Écoutez attentivement la conjugaison du verbe pronominal suivant. Le verbe se conjugue normalement (ici un verbe -er) avec adjonction des pronoms réfléchis me, te, se, nous, vous, se.
+
+verbes pronominaux
+Les verbes pronominaux expriment souvent des actions réfléchies, c'est-à-dire que le sujet exécute l'action sur lui-même. Si le sujet exécute l'action sur quelqu'un d'autre, le verbe n'est pas réflexif. Voici une liste de verbes réfléchis courants :
+
+s'asseoir, s'asseoir s'appeler, s'appeler s'arrêter, arrêter se brosser, se brosser se coucher, aller se coucher se lever se promener, se promener se réveiller, se réveiller
 
 
+Comparez la différence de sens entre se raser et raser dans les phrases suivantes. Notez que l'anglais n'indique généralement pas explicitement le sens réflexif, car il peut être déduit du contexte. Cependant, si le sens réflexif est destiné en français, alors il doit être explicitement énoncé en utilisant un pronom réfléchi.
 
-A pronominal verb is a verb that is accompanied by a reflexive pronoun. Pronominal verbs fall into three major classes based on their meaning: reflexive, idiomatic, and reciprocal. You have probably already seen the pronominal verb s'appeler (Comment t'appelles-tu? What is your name?). To conjugate pronominal verbs in the present tense, you need to pay attention to both the pronoun and the verb form. Listen carefully to the conjugation of the following pronominal verb. The verb is conjugated normally (here an -er verb) with addition of the reflexive pronouns me, te, se, nous, vous, se. 
-
-reflexive verbs 
-Pronominal verbs often express reflexive actions, that is, the subject performs the action on itself. If the subject performs the action on someone else, the verb is not reflexive. Here is a list of common reflexive verbs: 
-
-s'asseoir, to sit (down) s'appeler, to be called s'arrêter, to stop se brosser, to brush se coucher, to go to bed s'habiller, to get dressed se laver, to wash se lever, to get up se promener, to take a walk se réveiller, to wake up 
-
-
-Compare the difference in meaning between se raser and raser in the following sentences. Note that English does not usually indicate reflexive meaning explicitly since it can be inferred from the context. However, if reflexive meaning is intended in French, then it must be explicitly stated by using a reflexive pronoun. 
-
-Est-ce que Tex se rase? Mais Does Tex shave? Why no, Tex non, Tex, c'est un tatou. Il n'a is an armadillo. He has no pas de cheveux. hair. 
-Qu'est-ce qu'il fait, Tex, avec What's Tex doing with the le rasoir? Il rase Joe-Bob pour razor? He's shaving Joe-Bob l'été. for the summer. 
-
-
-
-
-To negate pronominal verbs, place the ne before the reflexive pronoun and the pas after the verb. When used with an auxiliary verb such as aimer (to like), the infinitive of a pronominal verb agrees with its subject. When pronominal verbs are used with parts of the body, they take the definite article (le, la, les) rather than the possessive article as in English: 
-
-Joe Bob: Edouard, est-ce que tu te rases? Joe Bob: Edouard, do you shave? Edouard: Non, je ne me rase pas. Edouard: No, I don't shave. Les escargots ne se rasent pas. Pourtant, Snails don't shave. However we do wash our 
-nous nous lavons le visage tous les jours. faces every day. 
-
-Joe-Bob: Ah, tu as de la chance. Je déteste Joe-Bob: Ah, you're lucky. I hate to shave. me raser. 
-
-
-idiomatic verbs 
-Some pronominal verbs are idiomatic and do not represent reflexive actions per se. s'amuser (to have fun) and se reposer (to rest) are examples of pronominal verbs with idiomatic meanings. The following list includes common idiomatic pronominal verbs: 
-
-
-s'amuser, to have fun se dépêcher, to hurry s'endormir, to fall asleep s'ennuyer, to be bored s'entendre, to get along se fâcher, to get angry se marier, to get married se passer, to happen se reposer, to rest se sentir, to feel se souvenir de, to remember se taire, to be silent se tromper, to make a mistake se trouver, to be (situated) 
-
-reciprocal verbs 
-A third category of pronominal verbs expresses a reciprocal action between more than one person, s'aimer or se parler, for example. The English equivalent often uses the phrase 'each other' to represent this reciprocal action. Here is a list of common reciprocal verbs: 
-
-
-
-s'aimer, to love each other se détester, to hate each other se disputer, to argue s'embrasser, to kiss se parler to talk to each other se quitter, to leave each other se regarder, to look at each other se retrouver, to meet each other se téléphoner, to telephone each other 
-To form the imperative of pronominal verbs, drop the subject pronoun and then attach the reflexive pronoun with a hyphen to the right side of the verb. The reflexive pronoun te becomes toi when used in the imperative. Dépêche-toi! Hurry up!, Souvenons-nous. Let's remember., Amusez-vous! Have fun!. 
-
-
-Tammy décrit ses rapports avec Tex. 
-Tammy: Nous nous entendons très bien, sauf quand il se fâche. 
-Il me dit, «Assieds-toi et tais-toi, ma petite.» 
-Tammy describes her relationship with Tex. 
-Tammy: Usually we get along very well except when he gets angry. 
-He tells me "Sit down and shut up, little one!" 
-
-
-
-Mais nous nous aimons But we love each other even même si nous nous disputons if we fight a little bit. un peu. 
-Nous allons nous marier un We're going to get married jour. someday. 
-
-
-
-fill in the blanks 
-Give 
-the correct form of the verb indicated in parentheses. 
-1. 
-Tex et Tammy ne ______ pas avec leurs amis. (s'ennuyer) 
-
-2. 
-Fiona dit à Tex: Tu ______ , mais moi, je vais travailler. (s'amuser) 
-3. 
-Tammy dit à Fiona: tu ne vas pas ______ ? (se reposer) 
-4. 
-Tex et Tammy ______ à Zilker Park. (se promener) 
-5. 
-Tex: Tammy ne ______ jamais avec moi. (se fâcher) 
-6. 
-Bette ______ toujours pour Tex. (se maquiller) 
-7. 
-Tex: Je ne ______ pas. Je n'ai pas de cheveux. (se raser) 
-8. 
-Bette demande à Fiona: Est-ce que tu ______ à minuit? (se coucher) 
-9. 
-Corey: Mes amis et moi, nous ne ______ jamais les cheveux. (se brosser) 
-10. 
-Edouard, à quelle heure est-ce que vous ______ le week-end? (se lever) 
-11. 
-Corey ne ______ jamais avant midi. (se réveiller) 
-12. 
-Edouard: Je ne ______ pas. Je suis un escargot. (se dépêcher) 
-
-
-
-© 2004 • department of french & italian • liberal arts ITS • university of texas at austin updated: 27 May 04 
+Est-ce que Tex se rase ? Mais Tex se rase-t-il ? Pourquoi non, Tex non, Tex, c'est un tatou. Il n'a est un tatou. Il n'a pas de pas de cheveux. Cheveu.
+Qu'est-ce qu'il fait, Tex, avec Que fait Tex avec le rasoir ? Il rase Joe-Bob pour le rasoir ? Il rase Joe-Bob l'été. pour l'été.
 
 
 
 
+Pour nier les verbes pronominaux, placez le ne avant le pronom réfléchi et le pas après le verbe. Lorsqu'il est utilisé avec un verbe auxiliaire comme aimer (aimer), l'infinitif d'un verbe pronominal s'accorde avec son sujet. Lorsque les verbes pronominaux sont utilisés avec des parties du corps, ils prennent l'article défini (le, la, les) plutôt que l'article possessif comme en anglais :
+
+Joe Bob : Edouard, est-ce que tu te rases ? Joe Bob : Edouard, tu te rases ? Edouard : Non, je ne me rase pas. Edouard : Non, je ne me rase pas. Les escargots ne se rasent pas. Pourtant, les escargots ne se rasent pas. Cependant, nous lavons nos
+nous nous lavons le visage tous les jours. visages chaque jour.
+
+Joe-Bob : Ah, tu as de la chance. Je déteste Joe-Bob : Ah, tu as de la chance. Je déteste me raser. moi raser.
+
+
+verbes idiomatiques
+Certains verbes pronominaux sont idiomatiques et ne représentent pas des actions réflexives en soi. s'amuser (s'amuser) et se reposer (se reposer) sont des exemples de verbes pronominaux au sens idiomatique. La liste suivante comprend les verbes pronominaux idiomatiques courants :
+
+
+s'amuser, s'amuser se dépêcher, se dépêcher s'endormir, s'endormir s'ennuyer, s'ennuyer s'entendre, s'entendre se fâcher, se fâcher se marier, se marier se passer, arriver se reposer, se reposer se sentir, se sentir se souvenir de, se souvenir se taire, se taire se tromper, faire une erreur se trouver, être (situé)
+
+verbes réciproques
+Une troisième catégorie de verbes pronominaux exprime une action réciproque entre plus d'une personne, s'aimer ou se parler, par exemple. L'équivalent anglais utilise souvent l'expression « les uns aux autres » pour représenter cette action réciproque. Voici une liste de verbes réciproques courants :
+
+
+
+s'aimer se détester , se rencontrer se téléphoner, se téléphoner
+Pour former l'impératif des verbes pronominaux, supprimez le pronom sujet, puis attachez le pronom réfléchi avec un trait d'union à droite du verbe. Le pronom réfléchi te devient toi lorsqu'il est utilisé à l'impératif. Dépêche-toi ! Dépêchez-vous !, Souvenons-nous. Souvenons-nous., Amusez-vous ! S'amuser!.
+
+
+Tammy a décrit ses rapports avec Tex.
+Tammy : Nous entendons très bien, sauf quand il se fâche.
+Il me dit, «Assieds-toi et tais-toi, ma petite.»
+Tammy décrit sa relation avec Tex.
+Tammy : D'habitude on s'entend très bien sauf quand il se met en colère.
+Il me dit "Assieds-toi et tais-toi, petit!"
+
+
+
+Mais nous nous aimons Mais nous nous aimons même si nous nous disputons si nous nous battons un peu. un peu.
+Nous allons nous marier un Nous allons nous marier jour. un jour.
 
 {% include links.html %}
