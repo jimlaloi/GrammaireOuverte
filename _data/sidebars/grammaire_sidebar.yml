@@ -140,6 +140,10 @@ entries:
       url: /grammaire_infinitif.html
       output: web, pdf
 
+    - title: Temps littéraires
+      url: /grammaire_temps_littéraires.html
+      output: web, pdf
+
   - title: Autres concepts
     output: web, pdf
 
