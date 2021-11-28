@@ -35,7 +35,7 @@ La différence entre les noms dénombrables et indénombrables est typiquement t
 
 * Berk! Il y a du **tatou** écrasé partout sur les autoroutes du Texas.
 
-### singulier ou pluriel
+## Le nombre
 
 Chaque nom en français et en anglais est marqué pour son nombre, c'est à dire singulier (un) ou pluriel (plus d'un). Le français, comme l'anglais, indique typiquement la pluralité en ajoutant un -s à la fin de la forme de base, le nom singulier. Les noms dénombrables ont une forme singulière et une forme plurielle:
 
@@ -47,19 +47,7 @@ Les noms indénombrables n'ont typiquement qu'une forme singulière. Essayez de 
 
 C'est bizarre, n'est-ce pas? Cela montre que c'est difficile de pluraliser un nom indénombrable.
 
-### masculin ou féminin
-En anglais, le genre grammatical est basé sur la biologie et ne concernent que les pronoms (he, she, it) et les déterminants possessifs (his, her, its). Le genre en français, par contre, affecte tous les noms, pronoms, adjectifs, et articles. Le genre d'un nom est indiqué par l'article qui le précède. Les noms masculins sont précédés par *le*, les noms féminins par *la*. L'usage des articles en français est plus répandu qu'en anglais. 
-
-* **le** garçon, **la** fille
-
-Contrairement à l'anglais, le concept grammatical du genre en français a peu à voir avec le sexe biologique. Donc, les objets inanimés tels que les tables et les bureaux sont catégorisés comme soit masculins soit féminins (il n'y a pas de genre neutre dans la grammaire française).
-* **la** table (féminin), **le** bureau (masculin)
-
-Souvenez-vous que le genre en français, pour la plupart, n'est pas associé au sexe, mais est simplement une catégorie arbitraire. Les termes 'masculin' et 'féminin' ne veulent dire rien de plus que 'classe nominale A' et 'classe nominale B'. Parce que le genre grammatical est assez arbitraire, c'est essentiel de mémoriser le genre d'un nom avec sa forme écrite et sa prononciation.
-
-## Nombre
-
-### forme plurielle régulière
+### pluriel régulier
 
 Comme en anglais, le pluriel est marqué par un -s ajouté à la forme singulière du nom. Notez, par contre, que le -s ne se prononce pas. Dans le langage parlé, le déterminant est souvent le seul indice qu'un nom est singulier ou pluriel.
 
@@ -109,10 +97,21 @@ Notez que certains noms suivent la règle normale pour la forme écrite du pluri
 * un boeuf, des **boeufs**
 * un os, des **os** 
 
-## Genre
+## Le genre
+
 En français, un nom est toujours féminin ou masculine. C'est introduit par un déterminant, qui indique typiquement le genre du nom.
 
-### les gens 
+En anglais, le genre grammatical est basé sur la biologie et ne concernent que les pronoms (he, she, it) et les déterminants possessifs (his, her, its). Le genre en français, par contre, affecte tous les noms, pronoms, adjectifs, et articles. Le genre d'un nom est indiqué par l'article qui le précède. Les noms masculins sont précédés par *le*, les noms féminins par *la*. L'usage des articles en français est plus répandu qu'en anglais. 
+
+* **le** garçon, **la** fille
+
+Contrairement à l'anglais, le concept grammatical du genre en français a peu à voir avec le sexe biologique. Donc, les objets inanimés tels que les tables et les bureaux sont catégorisés comme soit masculins soit féminins (il n'y a pas de genre neutre dans la grammaire française).
+* **la** table (féminin), **le** bureau (masculin)
+
+Souvenez-vous que le genre en français, pour la plupart, n'est pas associé au sexe, mais est simplement une catégorie arbitraire. Les termes 'masculin' et 'féminin' ne veulent dire rien de plus que 'classe nominale A' et 'classe nominale B'. Parce que le genre grammatical est assez arbitraire, c'est essentiel de mémoriser le genre d'un nom avec sa forme écrite et sa prononciation.
+
+### le genre des personnes
+
 Quand un nom fait référence à une personne, son genre est déterminé par le genre de la personne (avec quelques exceptions). En général, la forme féminine d'un nom est formée en ajoutant un **-e** au nom masculin. Notez que l'ajout du **-e** change la prononciation de certains mots:
  
 * Joe-Bob est **étudiant**, Tammy est aussi **étudiante**.  
@@ -132,7 +131,7 @@ En général, quand un nom masculin se termine par **-e**, le nom féminin reste
 * Tex est **poète**. Rita est **secrétaire**. 
 * Tex n'est sûrement pas **secrétaire** et Rita n'est pas **poète** non plus.
 
-### les animaux
+### le genre des animaux
 
 Le genre des animaux est souvent arbitraire. Certains animaux sont toujours masculins (un escargot), alors que d'autres sont féminins (la fourmi). Cependant, pour certains animaux il y a des formes masculines et féminines irrégulières.
 
@@ -142,7 +141,8 @@ Le genre des animaux est souvent arbitraire. Certains animaux sont toujours masc
 * le **boeuf**, le **taureau** / la **vache**
 
 
-### les objets et les idées
+### le genre des objets et des idées
+
 Le genre des noms qui font référence à des choses et des abstractions est arbitraire. Néanmoins, on peut souvent le déduire par la terminaison du mot. Typiquement, les mots en **-age**, **-ment**, **-eau**, **-phone**, **-scope**, **-isme** sont masculins et ceux en **-tion**, **-sion**, **-té**, **-ette**, **-ance**, **-ence**, **-ie**, **-ure**, **-ode/-ade/-ude** sont féminins. 
 
 | terminaisons masculines | terminaisons féminines | 
@@ -156,11 +156,12 @@ Le genre des noms qui font référence à des choses et des abstractions est arb
 | le romant**isme** | la différ**ence** |
 | | la philosoph**ie** |
 
-## Voilà et il y a
+## Expressions présentatives
 
 Il y a et voilà sont deux moyens d'introduire un nom. Ils sont traduits en anglais comme 'there is / there are' ou 'here is / here are.'
 
 ### il y a
+
 Il y a + nom indique généralement l'existence d'une personne ou d'une chose dans le contexte d'un cadre particulier. Il est souvent traduit par « there is » ou « there are ». Par exemple:
 
 * A Austin, **il y a** une grande université.
@@ -186,7 +187,7 @@ Le verbe *avoir* dans l'expression *il y a* peut être conjugué à n'importe qu
 * Tex : Oh, la, la, de vrais Texans...
 
 
-## Temps, heure, fois
+## Les noms *temps*, *heure*, et *fois*
 
 Il y a trois noms en français, *temps*, *heure* et *fois*, qui sont traduits par 'time' en anglais, mais chacun a des usages et des nuances très spécifiques.
 
@@ -213,9 +214,7 @@ Voici les expressions les plus couramment utilisées avec *temps* :
 * Ils ont **le temps de** faire la fête.
 * Pauvre Tex ! Il rentre à Austin le lundi matin, juste **à temps pour** faire cours.
 
-
-
-### heure
+### heure
 
 *Heure* est féminin et peut être utilisé au singulier ou au pluriel. Il est utilisé pour désigner l'heure de l'horloge.
 
@@ -227,6 +226,7 @@ Voici les expressions les plus couramment utilisées avec *temps* :
 * Tex : Et pour moi, c'est **l'heure** de faire la sieste !
 
 ### fois
+
 *Fois* est féminin et ses formes singulières et plurielles sont identiques. Il est utilisé pour désigner un ou plusieurs cas d'un évènement.
 
 * Tammy: Tex, réveille-toi! Paw-Paw est au téléphone, il veut te parler. 

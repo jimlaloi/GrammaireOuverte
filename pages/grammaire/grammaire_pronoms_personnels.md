@@ -7,189 +7,37 @@ permalink: grammaire_pronoms_personnels.html
 folder: grammaire
 ---
 
-## Heading
+## Introduction
 
-Page under construction
+Un pronom est un mot utilisé pour remplacer un nom. Il est souvent utilisé pour éviter de répéter un nom mentionné précédemment (**l'antécédent**). Dans l'exemple suivant, les pronoms en gras sont utilisés pour remplacer les antécédents soulignés.
 
-
-
-
-Un pronom est un mot utilisé pour remplacer un nom. Il est couramment utilisé pour éviter de répéter un nom mentionné précédemment connu sous le nom d'antécédent. Dans l'exemple suivant, les pronoms en gras sont utilisés pour remplacer les antécédents soulignés.
-Tex a écrit un poème érotique, Tex a écrit un poème érotique et puis il l'a envoyé à Tammy. puis il l'a envoyé à Tammy. Elle a été choquée quand elle a été choquée quand elle l'a lu. lis le.
-
-
+* Tex a écrit un poème érotique, et puis **il l**'a envoyé à Tammy. **Elle** a été choquée quand **elle** **l**'a lu.
 
 Les différents types de pronoms sont nommés en fonction de leur fonction grammaticale.
 
-pronoms sujets je, tu, il, elle, sur, nous, vous, ils, elles
-pronoms objets directs moi, te, le, la nous, vous, les
-pronoms d'objet indirect me, te, lui nous, vous, leur
-les pronoms y et en y en
-pronoms disjonctifs moi, toi, lui, elle, soi nous, vous, eux, elles
-pronoms réfléchis moi, te, se nous, vous, se
-pronoms interrogatifs qui que
-pronoms démonstratifs celui, celle ceux
-pronoms relatifs qui, que lequel, où
-pronoms indéfinis quelqu'un quelque chose choisi
-
-
-
-
-
-
-
-
-
-
-Je, toi, il, elle, un, nous, toi, ils (m), ils (f)
-moi, toi, lui/elle, elle/elle nous, toi, eux (m) / (f)
-à moi, à toi, à lui à nous, à toi, à eux (m) / (f)
-there (remplace préposition + emplacement) some, any, not any (remplace 'de' + nom)
-moi, toi, il, elle, un nous, toi, eux (m), eux (f)
-moi-même, vous-même, lui-même, nous-mêmes, vous-mêmes, eux-mêmes
-qui quoi
-celui-ci / celui-là (m,f) ceux-ci, ceux-là
-qui, qui, qui
-Quelqu'un quelque chose
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-1.
-quelqu'un, quelque chose a choisi
-
-2.
-chacun contre aucun
-
-3.
-pronoms plus indéfinis
-
-
-Un pronom remplace un nom qui a été mentionné ou qui est évident d'après le contexte. Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
-quelqu'un, quelque chose a choisi
-Quelqu'un (quelqu'un) est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. Quelque chose choisi (quelque chose) est le pronom équivalent utilisé pour désigner une chose. Si quelqu'un ou quelque chose est suivi d'un adjectif, l'adjectif doit être précédé de de.
-
-Tammy : Quelque chose a choisi Tammy : Quelque chose d'extraordinaire est arrivé exceptionnel s'est produit aujourd'hui. J'ai rencontré aujourd'hui. J'ai rencontré quelqu'un de légendaire. légendaire.
-
-La forme négative de quelqu'un est personne et la forme négative de quelque chose est rien. Rappelez-vous que ne précède le verbe lorsque personne et rien sont utilisés dans des phrases négatives.
-
-Tex: Qui as-tu rencontré? Tex : Qui as-tu rencontré ?
-Tammy : Personne que tu connais. Tammy : Personne que tu connais.
-Tex : C'est tout ? Tu me dis rien d'autre ? Tex : C'est tout ? Tu ne me dis rien d'autre ?
-Tammy : Ça ne vaut pas la peine. Personne Tammy : Ça n'en vaut pas la peine. Personne ne veut me croire. veut me croire.
-
-
-
-
-
-
-
-
-Quelques-uns (quelques-uns, masculin) et quelques-unes (quelques-uns, féminin) sont des pronoms utilisés au pluriel pour parler de personnes ou de choses. Notez que le s à la fin de quelques se prononce avant les uns ou uns suivants.
-
-Tex : Quoi ? Tu as rencontré Ricky Williams? Tex : Quoi ? Vous avez rencontré Ricky Williams ? Quelques-uns de mes amis me disent que de mes amis me disent que tu es amoureuse de tu es amoureuse de lui... lui...
-Tammy : Un peu... Parmi mes copines, Tammy : Un peu... Parmi mes copines, quelques-unes sont complètement folles de certaines sont complètement folles de lui. lui.
-
-
-déterminant indéfini utilisé pour modifier un nom.
-Tex : Tu es amoureuse de Ricky Williams ?! Tex : Tu es amoureux de Ricky Williams ?! Donc
-Alors c'est chacun sa vie maintenant ?! c'est chacun pour soi maintenant ?!
-Tammy : Mais non, calme-toi ! Tammy : Bien sûr que non, calme-toi !
-
-
-chacun contre aucun
-Chacun (chacun) est singulier et masculin, chacun est singulier et féminin. Chaque, en revanche, est un
-
-La forme négative de chacun est aucun. Aucun (aucun, pas un, pas un seul) est singulier et masculin, aucune est singulier et féminin. Ils sont utilisés avec ne.
-
-
-Tammy : J'ai rencontré beaucoup de Tammy : J'ai rencontré beaucoup de joueurs de football, footballeurs, mais aucun ne me fait cet mais aucun n'a cet effet sur moi. effet.
-
-pronoms plus indéfinis
-Plusieurs (plusieurs), certains (certains; masculin) / certaines (certains; féminin), tous (tous, tout le monde; masculin) / toutes (tous, tout le monde; féminin) sont des pronoms indéfinis pluriels. Ils sont utilisés à la place des noms pluriels. Notez que le s est
-
-Les copines de Tammy ? Plusieurs sont les copines de Tammy ? Plusieurs sont des folles folles de Ricky Williams. à propos de Ricky Williams.
-Les copines de Fiona ? Certaines sont folles les copines de Fiona ? Certains sont fous de de Joe-Bob. Joe-Bob.
-Les copains de Tex ? Certains sont amoureux des amis de Tex ? Certains sont amoureux de de Tammy. Tammy.
-Les copains de Tex ? Les amis de Tous sont dingues de Tex ? Tous sont fous de Bette. Bette.
-Les copines de Tammy ? Toutes sont folles les copines de Tammy ? Tous sont fous de de Tex ! Texas!
-
-
-tout
-Tout (tout), par contre, est toujours singulier. Par exemple : Tammy : Tex, tout va bien ? Tammy : Tex, tout va bien ?
-
-
-
-
-autre
-Autre est toujours précédé d'un déterminant : un autre (un autre, masculin), l'autre (l'autre, masculin ou féminin) ; une autre (un autre, féminin) ; d'autres (les autres, masculins ou féminins), les autres (les autres, masculins ou féminins).
-
-Tex : Non ! Il y a un autre dans ta vie !? Tex : Non ! Il y en a un autre dans ta vie !?
-Notez les phrases suivantes avec autre : autre choisi (quelque chose d'autre), l'un et l'autre (l'un et l'autre, les deux, masc), l'une et l'autre (l'un et l'autre, les deux, fem ), les uns et les autres (un et tous, masc), les unes et les autres (un et tous, fem), ni l'un ni l'autre (ni l'un ni l'autre), l'un à l' autre (l'un pour l'autre), l'un pour l'autre (l'un pour l'autre).
-
-
-
-n'importe qui
-N'importe qui signifie « n'importe qui », « n'importe qui » ; n'importe quoi signifie 'n'importe quoi', 'n'importe quoi', 'non-sens'. Vous pouvez également trouver qui que ce soit (n'importe qui) et quoi que ce soit (n'importe quoi).
-Quiconque signifie « n'importe qui ».
-
-Tex : Tammy, je ne suis pas n'importe qui ! Tu ne peux pas me traiter comme ça ! Tammy : Tu racontes n'importe quoi, Tex ! Tex : Tammy, je ne suis pas n'importe qui ! Vous ne pouvez pas me traiter de cette façon ! Tammy : Tu dis des bêtises Tex !
-anciens
-
-
-
-Tammy : Quiconque nous écoute en ce Tammy : Celui qui nous écoute au bon moment doit te trouver ridicule ! maintenant doit penser que vous êtes ridicule!
-
-tel(s), tel(s)
-Tel(s) (masc), telle(s) (fem) peut être traduit par 'tel', 'tel que', 'like' ou 'as' selon le contexte. Par exemple, 'Tel père, tel fils' serait la traduction de 'Tel père, tel fils'.
-
-
-Tammy : Je n'ai jamais vu une jalousie telle Tammy : Je n'ai jamais vu une telle jalousie que la tienne ! comme le vôtre!
-
-
-Remplir les espaces vides
-Complétez le blanc avec le pronom indéfini approprié : personne, quelque chose choisi, quelqu'un, quelquesuns/quelques
--unes, chacun/chacune, aucun/aucune.
-1.
-Tammy : Je vais faire les courses, tu as besoin de _________?
-
-2.
-Tammy : ___________ a téléphoné pour toi Tex.
-3.
-Tex : Joe-Bob, tu as lu des livres ? Joe-Bob : Oui, ___________.
-4.
-Fiona : Je suis solitaire, je n'ai _______ petit-ami.
-5.
-Bette : __________ ne m'aime, je suis si triste.
-6.
-Tex : J'ai acheté un cadeau pour Tammy et un cadeau pour Bette : un cadeau pour _________.
-7.
-Tex : Ah, je n'ai ________ inspiration aujourd'hui !
-8.
-Tammy : Je ne connais ___________ comme Tex. Il est unique.
-9.
-Tex : Des copines ? Oui, j'en ai _____________. Je suis populaire.
-dix.
-Bette : Je suis une femme fatale. __________ homme ne me résiste.
-11.
-Joe-Bob : ___________ ne va pas, Tammy ?
-12.
-Tammy : ________ sonne à la porte. Va ouvrir Tex.
-
-
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-
+pronoms sujets
+: je, tu, il, elle, on, nous, vous, ils, elles
+pronoms d'objet direct
+: me, te, le, la, nous, vous, les
+pronoms d'objet indirect
+: me, te, lui, nous, vous, leur
+les pronoms y et en
+: y, en
+pronoms disjoints
+: moi, toi, lui, elle, soi, nous, vous, eux, elles
+pronoms réfléchis
+: me, te, se, nous, vous, se
+pronoms interrogatifs
+: qui, que
+pronoms démonstratifs
+: celui, celle, ceux
+pronoms relatifs
+: qui, que, lequel, laquelle, dont, où, quoi
+pronoms indéfinis
+: quelqu'un, quelque chose
+
+
+## Pronoms sujets
 Un pronom remplace un nom afin d'éviter les répétitions. Les pronoms sujets sont des sujets de verbes. En français, un pronom sujet est immédiatement ou presque immédiatement suivi de son verbe. L'utilisation des pronoms sujets est obligatoire en français; utilisez toujours un pronom sujet pour construire des phrases en l'absence d'un sujet substantif. Voici le sujet français
 
 Les pronoms sujets sont étiquetés par le terme « personne », faisant référence au rôle du sujet dans la conversation. La 1ère personne fait référence à la ou aux personnes qui parlent (je, nous) ; 2e personne à la ou aux personnes à qui on parle (vous) ; et 3ème personne à la(aux) personne(s) ou chose(s) dont on parle (il, elle, elle, ils).
@@ -242,59 +90,8 @@ Fiona : Hé, pourquoi on n'y va pas toi et moi ?
 Tex : Vous ne m'avez pas entendu ? Je n'aime pas la musique country!!! Argh ! Les gens aiment vraiment la musique country au Texas !
 
 
-Remplir les espaces vides
-Remplir
-dans le blanc avec le pronom sujet correct : je, tu, il, elle, on, nous, vous, ils, elles.
-1.
-Edouard : ______ suis un escargot français. (JE)
 
-2.
-Tex : ______ m'appelle Tex. (I)
-
-3.
-Joe-Bob : Bonjour, Tammy ______ est-ce que c'est bien ? (vous, famille)
-
-4.
-Corey : Tex, ______ es un tatou ? (vous, famille)
-
-5.
-Texas? ______ est professeur. (il)
-
-6.
-Tammy ? ______ est étudiante. (elle)
-
-7.
-Tex : En France, ______ est contenu ? (un/nous)
-
-8.
-La craie ? ______ est bleue. (ça, fem)
-9.
-Tex : Mes étudiants, ______ sommes français. (nous)
-dix.
-Joe-Bob : Bonjour, monsieur le professeur. Commentaire allez-______? (vous, formel)
-11.
-Corey et Joe Bob ? ______ sont du Texas. (elles ou ils)
-12.
-Tammy et Bette ? ______ sont étudiantes. (elles ou ils)
-
-
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-
-
-1.
-c'est/ce sont
-
-2.
-il/elle est / ils/elles sont
-
+## C'est et il/elle est
 
 Pour décrire et présenter des choses ou des personnes en français, deux expressions courantes sont utilisées : c'est et il/elle est. Les formes plurielles sont ce sont et ils/elles sont.
 
@@ -342,42 +139,8 @@ Rappelez-vous que il(s) et elle(s) font référence à une personne ou à une ch
 
 Il est stupide. (Il est stupide.) C'est stupide. (C'est stupide.)
 
-Remplir les espaces vides
-Remplissez le blanc avec la forme correcte de c'est ou il est : c'est, ce sont, il est, elle est, ils sont ou elles sont.
 
-
-
-
-
-5.
-Bette et Tammy ? ______ intelligentes.
-6.
-Fiona et Bette ? ______ des étudiantes à l'université du Texas.
-7.
-Corey et Joe Bob ? ______ texans.
-8.
-Étudier le français ? ______ amusant !
-
-
-dix.
-Qui est au téléphone ? ______ Patte-Patte.
-11.
-Qui est-ce ? ______ moi !
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-1.
-formes
-
-2.
-les usages
-
+## Pronoms disjoints
 
 formes
 Les pronoms disjonctifs (également appelés pronoms toniques ou accentués) font référence à des personnes dont les noms ont déjà été mentionnés ou dont l'identité est évidente d'après le contexte. Ils sont utilisés dans une variété de situations en français, le plus souvent dans des réponses courtes sans verbe, pour l'emphase ou pour le contraste avec les pronoms sujets. Voici tous les pronoms disjonctifs :
@@ -420,57 +183,7 @@ sur toi-même ! toi-même!
 en comparaison Corey : Il n'y a personne qui Corey : Il n'y a personne qui
 soit plus pitoyable que moi ! est plus pitoyable que moi.
 
-
-Remplir les espaces vides
-Remplir
-dans le blanc avec le pronom disjonctif correct : moi, toi, lui, elle, soi, nous, vous, eux, elles.
-1.
-Qui adore Bette ? Joe-Bob et Corey : ______, nous adorons Bette ! (nous)
-
-2.
-Fiona étudie beaucoup, mais pas Joe-Bob et Corey. ______, ils détestent étudier.
-3.
-Joe-Bob habite à Jester. Et Corey ? ______ aussi, il habite à Jester.
-4.
-Tammy aime Tex. Elle veut se marier avec ______ .
-5.
-Tammy : Tex, tu sors avec Bette ce soir ? Tu vas où avec ______ ?
-6.
-Joe-Bob : Je ne danse pas. Corey : ______ non plus. Je ne danse jamais.
-7.
-Joe-Bob : Corey et ______ , nous sommes de vrais Texans !
-8.
-Corey : Les autres sortent beaucoup, mais pas ______ ! Je ne sors jamais.
-9.
-Bette : Qui est à la porte ? Oh, c'est ______, Tammy.
-dix.
-Tammy : Corey, nous allons à Barton Springs. Tu viens avec ______?
-11.
-Tammy étudie le français. Et Bette et Fiona ? ______ aussi.
-12.
-Bette adore Tex. Elle pense souvent à ______.
-
-
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-
-
-1.
-formes et usages
-
-2.
-placement
-
-3.
-accord du participe passé
-
+## Pronoms d'objet direct
 
 Un objet direct est un nom qui suit le verbe qui répond aux questions « quoi ? » ou « qui ? » Rappelez-vous qu'un pronom remplace un nom, et dans ce cas, le nom est un objet direct. Par exemple, Tammy pourrait demander : « Tex, voulez-vous m'embrasser ce soir ? », où le pronom d'objet direct « moi » signifie Tammy. Qu'un verbe prenne un objet direct ou non dépend du fait que le verbe spécifique est transitif ou intransitif.
 
@@ -529,59 +242,7 @@ Tex : Qui ? Bette ? Mais non. Je ne l'ai pas Tex : Qui ? Bette ? Pourquoi non. J
 embrassée. C'est elle qui m'a embrassé ! Elle m'a embrassé ! POW ! Aïe !
 PAF ! Aïe !
 
-
-
-Remplir les espaces vides
-Réécrivez les phrases suivantes en remplaçant les mots en majuscules par un pronom objet direct correct : le, la, les.
-Modèle : Tammy cherche TEX. Tammy le cherche.
-1.
-Joe-Bob adore LES FEUX D'ARTIFICE.
-
-2.
-Tex drague BETTE. (drague = drague, flirte avec)
-
-3.
-Bette un TEX embrassé.
-
-4.
-Joe-Bob ne finit pas SES DEVOIRS.
-5.
-Edouard n'aime pas attendre LE BUS.
-6.
-Tammy invitée SES AMIS à dîner.
-7.
-Tex cherche TAMMY.
-
-8.
-Joe-Bob regarde LA TELEVISION.
-9.
-Tammy va chanter LA MARSEILLAISE.
-dix.
-Les étudiants de Tex ont appris LEURS VERBES.
-11.
-Tammy va fêter LA SAINT-SYLVESTRE.
-12.
-Fiona a étudiée L'ESPAGNOL.
-
-
-
-
-
-© 2005 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 1 nov. 05
-
-
-
-
-
-
-
-1.
-les usages
-
-2.
-placement
-
-
+## Pronom y
 
 les usages
 y exprimant le lieu
@@ -615,55 +276,7 @@ Edouard : Je n'y suis jamais allé. Sur m'a dit Edouard : Je n'y suis jamais all
 Bette : Nous y allons tout de suite. Bette : On y va tout de suite.
 Edouard : Bon, recroque-moi, j'y vais aussi. Edouard : Bon, attends moi j'y vais Allons-y ! ici aussi. Allons-y)!
 
-Remplir les espaces vides
-Réécrivez les phrases suivantes en remplaçant les mots en majuscules par le pronom « y ». Modèle : 'Bette et Tammy vont
-Un WACO. Elles y vont.'
-1.
-Fiona passe ses après-midi A LA BIBLIOTHEQUE.
-
-2.
-Bette va souvent AU JARDIN PUBLIC.
-
-
-
-
-
-4.
-Edouard ne veut pas travailler DANS UN RESTAURANT TEXAN.
-5.
-Bette n'est pas encore allée EN FRANCE.
-6.
-Joe-Bob ne va jamais EN CLASSE.
-7.
-Joe-Bob : On va AU CINEMA ce week-end ?
-
-8.
-Tammy s'intéresse A LA CULTURE FRANÇAISE.
-9.
-Tex réfléchit beaucoup A LA PHILOSOPHIE.
-dix.
-Tex, tu joues AUX CARTES ?
-11.
-Tex et ses amis sont allés A L'ALAMO.
-
-
-
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-
-1.
-les usages
-
-2.
-placement
-
+## Pronom en
 
 les usages
 En est un pronom qui remplace généralement de + un nom ; cela inclut les noms introduits par des déterminants partitifs ou indéfinis (de, du, de l', de la, des). En peut être traduit par « certains », « aucun » ou « pas aucun ».
@@ -706,50 +319,7 @@ Tex : De nouveaux poèmes ? Ne me parle pas d'eux.
 Tex : Je n'en ai plus écrit depuis longtemps et je ne vais plus en écrire. Ma muse m'a quitté et je n'ai plus d'idées.
 Editeur : Mais oui, vous avez des (idées). Vos idées sont étranges, mais vous en avez quand même beaucoup.
 
-
-Remplir les espaces vides
-Compléter
-les réponses aux questions en utilisant le pronom 'en'.
-1.
-Tex : Tammy, tu me demandes du gâteau au chocolat ? Tammy : Oui, je/j' __________.
-
-2.
-Tammy : Vous avez beaucoup d'argent ? Tex et Edouard : Oui nous ______.
-3.
-Tex : Fiona, tu bois du vin ? Fiona : Non merci, je/j' __________.
-4.
-Tammy : Parlons de notre mariage ! Tex : Non, ____________ !
-5.
-Joe-Bob : Il y a du pop-corn ? Tammy : Oui, ____________.
-6.
-Tammy : Tu as mangé assez de légumes ? Bette : Oui, je/j'___________.
-7.
-Tammy : Tu es folle de la cuisine d'Edouard ? Bette : Oui, je/j'___________.
-8.
-Tammy : Nous avons besoin de prendre des vacances ! Tex : Tu as raison, nous ________.
-9.
-Paw-Paw : Est-ce que nous avons parlé de la guerre de 40? Tex : Oui, nous _________.
-dix.
-Tammy : Tu joues du piano ? Trey : Oui, je/j' _______________.
-11.
-Joe-Bob : Je reviens de UT. Tammy : Moi aussi, je/j'_______________.
-
-
-
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
-
-
-
-
-
-
-1.
-formes et usages
-
-2.
-placement
-
-
+## Pronoms d'objet indirect
 
 Devant un mot commençant par une voyelle, me et te deviennent m' et t'.
 
@@ -779,47 +349,7 @@ Tammy : C'est bien cette petite chatte Tammy : C'est ce petit chat rusé, n'est-
 Tex : Ne lui parle pas ! C'est une bagatelle, Tex : Ne lui parle pas ! C'est une petite chose, c'est un petit rien... ce n'est rien...
 Tammy : Un petit rien ? Paf ! Tammy : Rien ? Pouah !
 
-Remplir les espaces vides
-Remplir
-dans le blanc en utilisant le pronom objet indirect correct.
-1.
-Tex : Tammy, offre une bière à Joe-Bob! Allez offre-______ une bière!
-
-2.
-Tammy : Tex, ne donne pas ces roses à Fiona et Bette ! Ne _____________ donne pas de roses !
-3.
-Tex et Tammy : Edouard, nous adorons tes crêpes ! Donne-________ ta recette !
-4.
-Tex : Tammy, je _____ envoie une carte de voeux !
-5.
-Joe-Bob : J'ai faim ! Tammy, tu ______ fais un hamburger ?
-6.
-Tex : Tammy, j'ai faim ! Fais-______ un hamburger !
-7.
-Tammy : Tex, tu pues (='to puant'). Achète-_______ du déodorant !
-8.
-Tammy : J'ai acheté un cadeau à Tex ! Bette : Ah ? Qu'est-ce que tu ___________ comme acheté ?
-9.
-Tammy : Je vais acheter un cadeau à Tex. Bette : Ah? Qu'est-ce que tu vas __________ acheter?
-dix.
-Tex : J'ai acheté des cadeaux pour mes neveux. Tammy : Ah ? Qu'est-ce que tu ___________ as acheté?
-11.
-Tex : J'ai confessé mes sentiments à Tammy. Je ______ ai envoyé des fleurs !
-12.
-Tex : Tammy m'adore. Elle _______ parle tous les jours.
-
-1.
-Aperçu
-
-2.
-y et fr
-
-3.
-Pronoms objets directs et indirects ensemble
-
-4.
-négation
-
+## Ordre des pronoms d'objet au présent
 
 Aperçu
 Un seul pronom objet est placé avant le verbe auquel il est associé, sauf à l'impératif affirmatif lorsque le pronom objet suit le verbe. Le tableau suivant décrit l'ordre et le placement des pronoms lorsqu'il y a plus d'un pronom objet dans une phrase.
@@ -881,46 +411,88 @@ est-ce que Fiona ne nous en a pas donné? Pourquoi Fiona ne nous en a-t-elle pas
 Bette : Et bien, c'est parce qu'elle ne Bette : Eh bien, c'est parce qu'elle ne
 comprend pas l'art de la séduction. comprendre l'art de la séduction.
 
+## Pronoms indéfinis
 
+Un pronom remplace un nom qui a été mentionné ou qui est évident d'après le contexte. Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
+quelqu'un, quelque chose a choisi
+Quelqu'un (quelqu'un) est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. Quelque chose choisi (quelque chose) est le pronom équivalent utilisé pour désigner une chose. Si quelqu'un ou quelque chose est suivi d'un adjectif, l'adjectif doit être précédé de de.
 
-Remplir les espaces vides
-Reformulez chaque
-phrase en remplissant le blanc avec deux pronoms objets appropriés.
-1.
-Tex offre son livre à Edouard. => Tex _____________ offre.
+Tammy : Quelque chose a choisi Tammy : Quelque chose d'extraordinaire est arrivé exceptionnel s'est produit aujourd'hui. J'ai rencontré aujourd'hui. J'ai rencontré quelqu'un de légendaire. légendaire.
 
-2.
-Tex retrouvé Tammy et Edouard au restaurant. => Tex ________________ retrouvé.
+La forme négative de quelqu'un est personne et la forme négative de quelque chose est rien. Rappelez-vous que ne précède le verbe lorsque personne et rien sont utilisés dans des phrases négatives.
 
-3.
-Edouard donne sa recette à Tex et Tammy. => Edouard _______________ donne.
-
-4.
-Tex : Je dédicace (='dévouer') mon livre à Tammy. => Je ______________ dédicace.
-
-5.
-Tex : J'offre un peu de vin à mes amis. => Je __________________ offre un peu.
-6.
-Edouard : J'ai fait des crêpes pour vous. => Je _____________________ ai fait.
-7.
-Tammy : Il y a beaucoup de soleil. => Il ____________ beaucoup.
-8.
-Tammy et Tex parlent du mariage à Paw-Paw et Trey. => Tammy et Tex ___________ parlent.
-9.
-Tammy : Tu me rejoins à la bibliothèque ? => Tu __________ rejoint ?
-dix.
-Tex : Je montre mes photos à mes neveux. => Tex : Je ___________ montre.
-11.
-Tex : Je veux parler de mon livre à Tammy. => Tex : Je veux ________________ parler.
-12.
-Tex : Je trouve Tammy très bien sur cette photo. => Tex : Je/j' _______ trouve très bien!
+Tex: Qui as-tu rencontré? Tex : Qui as-tu rencontré ?
+Tammy : Personne que tu connais. Tammy : Personne que tu connais.
+Tex : C'est tout ? Tu me dis rien d'autre ? Tex : C'est tout ? Tu ne me dis rien d'autre ?
+Tammy : Ça ne vaut pas la peine. Personne Tammy : Ça n'en vaut pas la peine. Personne ne veut me croire. veut me croire.
 
 
 
 
-© 2004 • département de français et italien • arts libéraux ITS • université du texas à austin mise à jour : 27 mai 04
 
 
+
+
+Quelques-uns (quelques-uns, masculin) et quelques-unes (quelques-uns, féminin) sont des pronoms utilisés au pluriel pour parler de personnes ou de choses. Notez que le s à la fin de quelques se prononce avant les uns ou uns suivants.
+
+Tex : Quoi ? Tu as rencontré Ricky Williams? Tex : Quoi ? Vous avez rencontré Ricky Williams ? Quelques-uns de mes amis me disent que de mes amis me disent que tu es amoureuse de tu es amoureuse de lui... lui...
+Tammy : Un peu... Parmi mes copines, Tammy : Un peu... Parmi mes copines, quelques-unes sont complètement folles de certaines sont complètement folles de lui. lui.
+
+
+déterminant indéfini utilisé pour modifier un nom.
+Tex : Tu es amoureuse de Ricky Williams ?! Tex : Tu es amoureux de Ricky Williams ?! Donc
+Alors c'est chacun sa vie maintenant ?! c'est chacun pour soi maintenant ?!
+Tammy : Mais non, calme-toi ! Tammy : Bien sûr que non, calme-toi !
+
+
+chacun contre aucun
+Chacun (chacun) est singulier et masculin, chacun est singulier et féminin. Chaque, en revanche, est un
+
+La forme négative de chacun est aucun. Aucun (aucun, pas un, pas un seul) est singulier et masculin, aucune est singulier et féminin. Ils sont utilisés avec ne.
+
+
+Tammy : J'ai rencontré beaucoup de Tammy : J'ai rencontré beaucoup de joueurs de football, footballeurs, mais aucun ne me fait cet mais aucun n'a cet effet sur moi. effet.
+
+plus de pronoms indéfinis
+Plusieurs (plusieurs), certains (certains; masculin) / certaines (certains; féminin), tous (tous, tout le monde; masculin) / toutes (tous, tout le monde; féminin) sont des pronoms indéfinis pluriels. Ils sont utilisés à la place des noms pluriels. Notez que le s est
+
+Les copines de Tammy ? Plusieurs sont les copines de Tammy ? Plusieurs sont des folles folles de Ricky Williams. à propos de Ricky Williams.
+Les copines de Fiona ? Certaines sont folles les copines de Fiona ? Certains sont fous de de Joe-Bob. Joe-Bob.
+Les copains de Tex ? Certains sont amoureux des amis de Tex ? Certains sont amoureux de de Tammy. Tammy.
+Les copains de Tex ? Les amis de Tous sont dingues de Tex ? Tous sont fous de Bette. Bette.
+Les copines de Tammy ? Toutes sont folles les copines de Tammy ? Tous sont fous de de Tex ! Texas!
+
+
+tout
+Tout (tout), par contre, est toujours singulier. Par exemple : Tammy : Tex, tout va bien ? Tammy : Tex, tout va bien ?
+
+
+
+
+autre
+Autre est toujours précédé d'un déterminant : un autre (un autre, masculin), l'autre (l'autre, masculin ou féminin) ; une autre (un autre, féminin) ; d'autres (les autres, masculins ou féminins), les autres (les autres, masculins ou féminins).
+
+Tex : Non ! Il y a un autre dans ta vie !? Tex : Non ! Il y en a un autre dans ta vie !?
+Notez les phrases suivantes avec autre : autre choisi (quelque chose d'autre), l'un et l'autre (l'un et l'autre, les deux, masc), l'une et l'autre (l'un et l'autre, les deux, fem ), les uns et les autres (un et tous, masc), les unes et les autres (un et tous, fem), ni l'un ni l'autre (ni l'un ni l'autre), l'un à l' autre (l'un pour l'autre), l'un pour l'autre (l'un pour l'autre).
+
+
+
+n'importe qui
+N'importe qui signifie « n'importe qui », « n'importe qui » ; n'importe quoi signifie 'n'importe quoi', 'n'importe quoi', 'non-sens'. Vous pouvez également trouver qui que ce soit (n'importe qui) et quoi que ce soit (n'importe quoi).
+Quiconque signifie « n'importe qui ».
+
+Tex : Tammy, je ne suis pas n'importe qui ! Tu ne peux pas me traiter comme ça ! Tammy : Tu racontes n'importe quoi, Tex ! Tex : Tammy, je ne suis pas n'importe qui ! Vous ne pouvez pas me traiter de cette façon ! Tammy : Tu dis des bêtises Tex !
+anciens
+
+
+
+Tammy : Quiconque nous écoute en ce Tammy : Celui qui nous écoute au bon moment doit te trouver ridicule ! maintenant doit penser que vous êtes ridicule!
+
+tel(s), tel(s)
+Tel(s) (masc), telle(s) (fem) peut être traduit par 'tel', 'tel que', 'like' ou 'as' selon le contexte. Par exemple, 'Tel père, tel fils' serait la traduction de 'Tel père, tel fils'.
+
+
+Tammy : Je n'ai jamais vu une jalousie telle Tammy : Je n'ai jamais vu une telle jalousie que la tienne ! comme le vôtre!
 
 
 {% include links.html %}
