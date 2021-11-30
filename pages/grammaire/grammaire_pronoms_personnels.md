@@ -102,33 +102,17 @@ Le choix entre **c'est** et **il**/**elle est** n'est pas toujours facile, mais 
 
 **C'est** et **ce sont** sont suivis de :
 
- + nom, y compris les noms modifiés 
+ + nom, y compris les noms modifiés (Tex? **C'est** un tatouage. **C'est** un Américain. **C'est** un petit tatou bilingue. Tammy et Tex ? Non, **ce ne sont pas** des chats ! **Ce sont** des tatous.)
 
- * Tex? **C'est** un tatouage. **C'est** un Américain. **C'est** un petit tatou bilingue.
++ nom propre (**C'est** Tex.)
 
-* Tammy et Tex ? Non, **ce ne sont pas** des chats ! **Ce sont** des tatous.
++ pronom disjonctif (Tammy : Allô Tex ? **C'est** moi. Tex : Qui est-ce ? Ah, **c'est** toi Tammy !)
 
-+ nom propre 
++ dates (Tex : Mon anniversaire ? **C'est** le quatorze juillet. **C'est** jeudi prochain !)
 
-* **C'est** Tex.
++ un infinitif comme sujet (Tex : Vivre, **c'est** parler français.)
 
-+ pronom disjonctif 
-
-* Tammy : Allô Tex ? **C'est** moi.
-
-* Tex : Qui est-ce ? Ah, **c'est** toi Tammy !
-
-+ dates 
-
-* Tex : Mon anniversaire ? **C'est** le quatorze juillet. **C'est** jeudi prochain !
-
-+ un infinitif comme sujet
-
-* Tex : Vivre, **c'est** parler français.
-
-+ adjectif pour référents non spécifiques
-
-* Tex : Ah **c'est** chouette ! **C'est** incroyable !
++ adjectif pour référents non spécifiques (Tex : Ah **c'est** chouette ! **C'est** incroyable !)
 
 
 
