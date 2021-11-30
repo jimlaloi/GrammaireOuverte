@@ -49,29 +49,34 @@ pronoms indéfinis
 ## Pronoms sujets
 Un pronom remplace un nom afin d'éviter les répétitions. Les pronoms sujets sont des sujets de verbes. En français, un pronom sujet est immédiatement ou presque immédiatement suivi de son verbe. L'utilisation des pronoms sujets est obligatoire en français; utilisez toujours un pronom sujet pour construire des phrases en l'absence d'un sujet substantif. Voici les pronoms sujets en français :
 
-| personne | singulier | pluriel |
-| 1ère personne | je | nous |
-| 2e personne | tu | vous |
-| 3e personne | il, elle, on | ils elles |
+| **personne** | **singulier** | **pluriel** |
+| *1ère personne* | je | nous |
+| *2e personne* | tu | vous |
+| *3e personne* | il, elle, on | ils elles |
 
 Les pronoms sujets sont étiquetés par le terme « personne », faisant référence au rôle du sujet dans la conversation. La 1ère personne fait référence à la (aux) personne(s) qui parle(nt) (je, nous) ; la 2e personne à la (aux) personne(s) à qui on parle (tu, vous) ; et la 3ème personne à la (aux) personne(s) ou chose(s) dont on parle (il, elle, elle, ils).
 
 **je**
+
 Contrairement au pronom anglais « I », je ne prend pas de majuscule à moins qu'il ne commence une phrase.
 
 **tu**
+
 Le pronom **tu** est singulier et, surtout, informel. Utilisez **tu** pour vous adresser aux personnes de votre âge et à celles que vous connaissez bien.
 
 **on**
+
 Le pronom **on** signifie « one », ou « they » dans un sens non spécifique : « comme on dit » (as they say). **On** remplace souvent « nous » en français parlé : « On y va ? (Shall we go?).
 
 **vous**
+
 Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme **tu** est considérée comme un manque de respect.
 
 * Tammy : Bonjour, Paw-Paw. **Vous** allez bien?
 * Paw-Paw : Ah, oui ! Et **vous**, mes enfants, Tex, Tammy, **vous** allez bien ?
 
 **il/elle**
+
 Il et elle, en plus de signifier « he » et « she », peuvent tous deux exprimer le sens « it » selon le genre du nom remplacé. Par exemple : 
 
 * Bette : **La musique** est bonne, n'est-ce pas ?
@@ -80,6 +85,7 @@ Il et elle, en plus de signifier « he » et « she », peuvent tous deux ex
 * Tex : Oui, **il** est cassé !
 
 **ils/elles**
+
 **Ils** et **elles** sont similaires à **il** et **elle** puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. **Ils** et **elles** peuvent désigner des personnes ou des choses. **Elles** est utilisé pour signifier « they » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, **ils** est utilisé pour signifier « they » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
 
 * Bette et Tex sont de bons amis.
@@ -87,35 +93,47 @@ Il et elle, en plus de signifier « he » et « she », peuvent tous deux ex
 
 ## C'est et il/elle est
 
-Pour décrire et présenter des choses ou des personnes en français, deux expressions courantes sont utilisées : c'est et il/elle est. Les formes plurielles sont ce sont et ils/elles sont.
+Pour décrire et présenter des choses ou des personnes en français, deux expressions courantes sont utilisées : **c'est** et **il**/**elle est**. Les formes plurielles sont **ce sont** et **ils**/**elles sont**.
 
 
-Le choix entre c'est et il/elle est n'est pas toujours facile, mais il existe des principes de base qui peuvent vous guider dans le choix. En règle générale, c'est ou ce sont sont suivis d'un nom déterminé ('le tatou', 'une Américaine', 'mes livres'). Rappelez-vous que les noms en français sont précédés d'un déterminant. Il/elle est et ils/elles sont sont suivis d'un adjectif ('content', 'sympathique').
-c'est/ce sont C'est et ce so nt sont suivis de :
+Le choix entre **c'est** et **il**/**elle est** n'est pas toujours facile, mais il existe des principes de base qui peuvent vous guider dans le choix. En règle générale, **c'est** ou **ce sont** sont suivis d'un nom déterminé ('le tatou', 'une Américaine', 'mes livres'). Rappelez-vous que les noms en français sont précédés d'un déterminant. **Il**/**elle est** et **ils**/**elles sont** sont suivis d'un adjectif ('content', 'sympathique').
 
- + nom, y compris les noms modifiés Tex? C'est un tatouage. C'est un Américain. C'est un petit tatou bilingue. Texas? C'est un tatou. Il est américain. C'est un petit tatou bilingue.
+### c'est/ce sont 
 
-Tammy et Tex ? Non, ce ne Tammy et Tex ? Non ils sont pas des chats ! Ce ne sont pas des chats ! Ils sont dévastés. tatous.
-+
-nom propre C'est Tex. C'est Tex.
+**C'est** et **ce sont** sont suivis de :
 
-+
-pronom disjonctif Tammy : Allô Tex ? C'est Tammy : Salut Tex ? C'est moi. moi.
+ + nom, y compris les noms modifiés 
 
-Tex : Qui est-ce ? Ah, c'est Tex : Qui est-ce ? Oh, c'est toi Tammy ! toi Tammy !
+ * Tex? **C'est** un tatouage. **C'est** un Américain. **C'est** un petit tatou bilingue.
 
-+
-dates Tex : Mon anniversaire ? Tex : Mon anniversaire ? Nous sommes en juillet C'est le quatorze juillet. 14ème. C'est jeudi prochain ! C'est jeudi prochain !
+* Tammy et Tex ? Non, **ce ne sont pas** des chats ! **Ce sont** des tatous.
 
-+
-un infinitif comme sujet Tex : Vivre, c'est parler Tex : Vivre, c'est parler français. Français!
++ nom propre 
 
-+
-adjectif pour Tex non spécifique : Ah c'est chouette ! Tex : Oh, c'est chouette ! Ce sont les référents C'est incroyable ! incroyable.
+* **C'est** Tex.
+
++ pronom disjonctif 
+
+* Tammy : Allô Tex ? **C'est** moi.
+
+* Tex : Qui est-ce ? Ah, **c'est** toi Tammy !
+
++ dates 
+
+* Tex : Mon anniversaire ? **C'est** le quatorze juillet. **C'est** jeudi prochain !
+
++ un infinitif comme sujet
+
+* Tex : Vivre, **c'est** parler français.
+
++ adjectif pour référents non spécifiques
+
+* Tex : Ah **c'est** chouette ! **C'est** incroyable !
 
 
 
-il/elle est/ils/elles sont
+### il/elle est / ils/elles sont
+
 Utilisez il/elle est ou ils/elles sont pour introduire les éléments suivants :
 + adjectif seul Tex ? C'est arrogant ! Il n'est pas Tex ? Il est arrogant ! Il
 pas français. Il est pas français. Il est
