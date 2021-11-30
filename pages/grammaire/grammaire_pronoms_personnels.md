@@ -116,24 +116,17 @@ Le choix entre **c'est** et **il**/**elle est** n'est pas toujours facile, mais 
 
 
 
-### il/elle est / ils/elles sont
+### il/elle est - ils/elles sont
 
-Utilisez il/elle est ou ils/elles sont pour introduire les éléments suivants :
-+ adjectif seul Tex ? C'est arrogant ! Il n'est pas Tex ? Il est arrogant ! Il
-pas français. Il est pas français. Il est
-américain. Américain.
+Utilisez **il**/**elle est** ou **ils**/**elles sont** pour introduire les éléments suivants :
 
++ adjectif seul (Tex ? **Il est** arrogant ! **Il n'est pas** français. **Il est** américain. Tammy ? **Elle est** gentille.)
 
-Tammy ? Elle est gentille. Tammy ? Elle est belle.
-+ nationalité, profession, Tex ? Il est poète. Texas? Il est poète.
-religion (utilisé comme adjectif en français) Trey? Il est musicien. Trey ? Il est un musicien.
-Tammy ? Elle est étudiante. Tammy ? Elle est une étudiante.
++ nationalité, profession, religion (utilisés comme adjectifs en français) (Tex ? **Il est** poète. Trey? **Il est** musicien. Tammy ? Elle est étudiante.)
 
+Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à une chose spécifique. **Ce** ne fait pas référence à une personne ou à une chose en particulier ; il est généralement traduit comme « that ».
 
-
-Rappelez-vous que il(s) et elle(s) font référence à une personne ou à une chose spécifique. Ce ne fait pas référence à une personne ou à une chose en particulier ; il est généralement traduit comme cela.
-
-Il est stupide. (Il est stupide.) C'est stupide. (C'est stupide.)
+* **Il est** stupide. (**He**'s stupid.) **C'est** stupide. (**That**'s stupid.)
 
 
 ## Pronoms disjoints
