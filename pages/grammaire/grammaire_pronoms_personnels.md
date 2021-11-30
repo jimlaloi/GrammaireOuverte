@@ -17,79 +17,73 @@ Les différents types de pronoms sont nommés en fonction de leur fonction gramm
 
 pronoms sujets
 : je, tu, il, elle, on, nous, vous, ils, elles
+
 pronoms d'objet direct
 : me, te, le, la, nous, vous, les
+
 pronoms d'objet indirect
 : me, te, lui, nous, vous, leur
+
 les pronoms y et en
 : y, en
+
 pronoms disjoints
 : moi, toi, lui, elle, soi, nous, vous, eux, elles
+
 pronoms réfléchis
 : me, te, se, nous, vous, se
+
 pronoms interrogatifs
 : qui, que
+
 pronoms démonstratifs
 : celui, celle, ceux
+
 pronoms relatifs
 : qui, que, lequel, laquelle, dont, où, quoi
+
 pronoms indéfinis
 : quelqu'un, quelque chose
 
 
 ## Pronoms sujets
-Un pronom remplace un nom afin d'éviter les répétitions. Les pronoms sujets sont des sujets de verbes. En français, un pronom sujet est immédiatement ou presque immédiatement suivi de son verbe. L'utilisation des pronoms sujets est obligatoire en français; utilisez toujours un pronom sujet pour construire des phrases en l'absence d'un sujet substantif. Voici le sujet français
+Un pronom remplace un nom afin d'éviter les répétitions. Les pronoms sujets sont des sujets de verbes. En français, un pronom sujet est immédiatement ou presque immédiatement suivi de son verbe. L'utilisation des pronoms sujets est obligatoire en français; utilisez toujours un pronom sujet pour construire des phrases en l'absence d'un sujet substantif. Voici les pronoms sujets en français :
 
-Les pronoms sujets sont étiquetés par le terme « personne », faisant référence au rôle du sujet dans la conversation. La 1ère personne fait référence à la ou aux personnes qui parlent (je, nous) ; 2e personne à la ou aux personnes à qui on parle (vous) ; et 3ème personne à la(aux) personne(s) ou chose(s) dont on parle (il, elle, elle, ils).
-je
+| personne | singulier | pluriel |
+| 1ère personne | je | nous |
+| 2e personne | tu | vous |
+| 3e personne | il, elle, on | ils elles |
+
+Les pronoms sujets sont étiquetés par le terme « personne », faisant référence au rôle du sujet dans la conversation. La 1ère personne fait référence à la (aux) personne(s) qui parle(nt) (je, nous) ; la 2e personne à la (aux) personne(s) à qui on parle (tu, vous) ; et la 3ème personne à la (aux) personne(s) ou chose(s) dont on parle (il, elle, elle, ils).
+
+**je**
 Contrairement au pronom anglais « I », je ne prend pas de majuscule à moins qu'il ne commence une phrase.
-tu
-Le pronom tu est singulier et, surtout, informel. Utilisez tu pour vous adresser aux personnes de votre âge et à celles que vous connaissez bien.
-au
-Le pronom on signifie « un », ou « ils » dans un sens non spécifique : « comme on dit » (comme on dit). On remplace souvent « nous » en français parlé : « On y va ? (On y va?).
-vous
-Le pronom vous est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme tu est considérée comme un manque de respect.
 
-Tammy : Bonjour, Patte-Patte. Vous allez Tammy : Bonjour Paw-Paw. Est-ce que tu vas bien? bien?
-Patte-Patte : Ah, oui ! Et vous, mes enfants, Paw-Paw : Ah, oui ! Et vous, les enfants, Tex, Tex, Tammy, vous allez bien ? Tammy, tu vas bien ?
+**tu**
+Le pronom **tu** est singulier et, surtout, informel. Utilisez **tu** pour vous adresser aux personnes de votre âge et à celles que vous connaissez bien.
 
+**on**
+Le pronom **on** signifie « one », ou « they » dans un sens non spécifique : « comme on dit » (as they say). **On** remplace souvent « nous » en français parlé : « On y va ? (Shall we go?).
 
+**vous**
+Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme **tu** est considérée comme un manque de respect.
 
-il/elle
-Il et elle, en plus de signifier « il » et « elle », peuvent tous deux exprimer le sens « il » selon
-sur le genre du nom remplacé. Par exemple : Bette : La musique est bonne, Bette : La musique est bonne, n'est-ce pas ? ce?
+* Tammy : Bonjour, Paw-Paw. **Vous** allez bien?
+* Paw-Paw : Ah, oui ! Et **vous**, mes enfants, Tex, Tammy, **vous** allez bien ?
 
-Tex : Non, elle est terrible ! Je Tex : Non, c'est terrible. Je déteste la musique country. musique country.
-Bette : Oh, qu'est-ce que tu as Bette : Oh, qu'est-ce que tu as fait, fait, Tex ? Le juke-box est Tex ? Le juke-box est cassé cassé ?
+**il/elle**
+Il et elle, en plus de signifier « he » et « she », peuvent tous deux exprimer le sens « it » selon le genre du nom remplacé. Par exemple : 
 
+* Bette : **La musique** est bonne, n'est-ce pas ?
+* Tex : Non, **elle** est terrible ! Je déteste la musique country.
+* Bette : Oh, qu'est-ce que tu as fait, Tex ? **Le juke-box** est cassé ?
+* Tex : Oui, **il** est cassé !
 
-Tex : Oui, il est cassé ! Tex : Oui, c'est cassé !
+**ils/elles**
+**Ils** et **elles** sont similaires à **il** et **elle** puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. **Ils** et **elles** peuvent désigner des personnes ou des choses. **Elles** est utilisé pour signifier « they » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, **ils** est utilisé pour signifier « they » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
 
-ils/elles
-Ils et elles sont similaires à il et elle puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. Ils et elles peuvent désigner des personnes ou des choses. Elles est utilisé pour signifier « ils » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, ils est utilisé pour signifier « ils » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
-
-Bette et Tex sont de bons amis. Bette et Tex sont de bons amis.
-Normalement ils s'entendent bien, mais Normalement, ils s'entendent bien, mais pas aujourd'hui ! aujourd'hui!
-Écouter le dialogue:
-
-
-
-
-
-Fiona : Bonjour Tex, tu vas bien ?
-Tex : Pas du tout, je vais très mal. Je veux écouter la musique française. Et puis Bette et moi, on s'est disputé.
-Fiona : Ah bon ? Elle est toujours là ?
-Texte : Non. Elle est partie avec Tammy. Elles sont allées au Broken Spoke.
-Fiona : Tiens, nous y allons, toi et moi ?
-Tex : Tu m'as pas entendu ? Je n'aime pas la musique country!!! Beurk ! Qu'est-ce qu'on aime la musique country au Texas!
-Fiona : Salut Tex, tu vas bien ?
-Tex : Pas du tout. Je vais mal. Je veux écouter de la musique française. Et puis Bette et moi nous sommes disputés.
-Fiona : Ah vraiment ? Est-elle toujours là ?
-Tex : Non, elle est partie avec Tammy. Ils sont allés au Rayon Brisé.
-Fiona : Hé, pourquoi on n'y va pas toi et moi ?
-Tex : Vous ne m'avez pas entendu ? Je n'aime pas la musique country!!! Argh ! Les gens aiment vraiment la musique country au Texas !
-
-
+* Bette et Tex sont de bons amis.
+* Normalement **ils** s'entendent bien, mais pas aujourd'hui !
 
 ## C'est et il/elle est
 
