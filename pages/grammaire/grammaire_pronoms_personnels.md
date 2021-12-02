@@ -131,73 +131,75 @@ Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à
 
 ## Pronoms disjoints
 
-formes
-Les pronoms disjonctifs (également appelés pronoms toniques ou accentués) font référence à des personnes dont les noms ont déjà été mentionnés ou dont l'identité est évidente d'après le contexte. Ils sont utilisés dans une variété de situations en français, le plus souvent dans des réponses courtes sans verbe, pour l'emphase ou pour le contraste avec les pronoms sujets. Voici tous les pronoms disjonctifs :
+Les pronoms disjonctifs (également appelés pronoms toniques ou accentués) font référence à des personnes dont les noms ont déjà été mentionnés ou dont l'identité est évidente d'après le contexte. Ils sont utilisés dans une variété de situations en français, le plus souvent dans des réponses courtes sans verbe, pour l'emphase ou pour le contraste avec les pronoms sujets. Voici tous les pronoms disjoints :
 
+| **pronoms disjoints** |
+| moi | nous |
+| toi | vous |
+| lui, elle, soi | eux, elles |
 
+On utilise les pronoms disjoints...
 
 après les prépositions
+: Tammy adore Tex. Elle ne peut pas vivre sans **lui**. Elle vit pour **lui**. Elle veut se marier avec **lui**.
+
 dans des réponses courtes ou des exclamations quand aucun verbe n'est exprimé
-avec ni.. . neuf.. . que
+: Corey : Qui sort avec Tammy ?
+Tex : **Moi** !
+
+avec ni...ne, ne...que
+: Tex (à Tammy) : Je n'aime que **toi** ma chérie.
+
 dans un sujet ou objet composé
+: Tammy : Tex et **moi** , nous aimons aller en boîte.
+
 dans de simples accords ou désaccords lorsqu'aucun verbe n'est exprimé
+: Joe-Bob : **Moi** aussi !
+Corey : Pas **moi** !
+Fiona : **Moi** non plus !
+
 pour l'accent
-C'est samedi soir :
-Tammy adore Tex. Elle ne peut pas vivre sans lui. Elle vit pour lui. Elle veut se marier avec lui.
-Corey : Qui sort avec Tammy ?
-Tex : Moi !
-Tex (à Tammy) : Je n'aime que toi ma chérie.
-Tammy : Tex et moi , nous aimons aller en boîte.
-Joe-Bob : Moi aussi !
+: Joe-Bob : **Eux**, ils s'amusent, mais **vous**, vous ne sortez jamais.
 
+après c'est ou ce sont
+: Corey : C'est **moi** le plus nul.
 
-Corey : Pas moi !
-Fiona : Moi non plus !
-Joe-Bob : Eux, ils s'amusent, mais vous, vous ne sortez jamais.
-Dimanche matin :
+avec *-même*
+: Tammy : Arrête de t'apitoyer sur toi-même !
 
-
-C'est samedi soir : Tammy aime Tex. Elle ne peut pas vivre sans lui. Elle vit pour lui. Elle veut l'épouser. Corey : Qui sort
-avec Tammy ? Tex : Moi ! Tex (à Tammy) : Je n'aime que
-toi mon cher.
-Tammy : Tex et moi aimons sortir en boîte. Joe-Bob : Moi aussi ! Corey : Pas moi ! Fiona : Moi non plus !
-Joe-Bob : Ces gars, ils s'amusent, mais toi, tu ne sors jamais.
-Dimanche matin:
-
-
-
-après c'est ou ce sont Corey : C'est moi le plus nul. Corey : Je suis le plus grand perdant.
-avec -même, pour signifier'-soi' Tammy : Arrête de t'apitoyer Tammy : Arrête de te plaindre
-sur toi-même ! toi-même!
-en comparaison Corey : Il n'y a personne qui Corey : Il n'y a personne qui
-soit plus pitoyable que moi ! est plus pitoyable que moi.
+en comparaison
+: Corey : Il n'y a personne qui soit plus pitoyable que **moi** !
 
 ## Pronoms d'objet direct
 
-Un objet direct est un nom qui suit le verbe qui répond aux questions « quoi ? » ou « qui ? » Rappelez-vous qu'un pronom remplace un nom, et dans ce cas, le nom est un objet direct. Par exemple, Tammy pourrait demander : « Tex, voulez-vous m'embrasser ce soir ? », où le pronom d'objet direct « moi » signifie Tammy. Qu'un verbe prenne un objet direct ou non dépend du fait que le verbe spécifique est transitif ou intransitif.
+Un objet direct est un nom qui suit le verbe qui répond aux questions « quoi ? » ou « qui ? » Rappelez-vous qu'un pronom remplace un nom, et dans ce cas, le nom est un objet direct. Par exemple, Tammy pourrait demander : « Tex, voulez-vous **m**'embrasser ce soir ? », où le pronom d'objet direct « me » signifie Tammy. Qu'un verbe prenne un objet direct ou non dépend sur si le verbe spécifique est transitif ou intransitif.
 
 
 formes et usages
 
-Devant un mot commençant par une voyelle, le et la deviennent l' ; moi devient m'; te devient t'.
-Tammy : Dis, tu m'appelles ce soir, Tex ? Tammy : Dis, tu m'appelles ce soir, Tex ?
-Tex : Oui, ma belle, je t'appelle ce soir. Tex : Oui, ma belle, je t'appellerai ce soir.
-Corey : Edouard et moi, tu nous appelles ce Corey : Edouard et moi, veux-tu nous appeler
-soir, Tex ? ce soir, Tex ?
-Tex : Non, je ne vous appelle pas ce soir. Tex : Non, je ne vous appellerai pas ce soir.
-Joe-Bob : Moi, je peux les appeler ce soir ! Joe-Bob : Je peux les appeler ce soir !
+| pronoms d'objet direct |
+| me | nous |
+| te | vous |
+| le, la | les |
 
+Devant un mot qui commence par une voyelle, **le** et **la** deviennent **l'** ; **me** devient **m'**; **te** devient **t'**.
 
+* Tammy : Dis, tu **m**'appelles ce soir, Tex ? 
+* Tex : Oui, ma belle, je **t**'appelle ce soir.
+* Corey : Edouard et moi, tu **nous** appelles ce soir, Tex ?
+* Tex : Non, je ne **vous** appelle pas ce soir.
+Joe-Bob : Moi, je peux **les** appeler ce soir !
 
-Les pronoms objets directs en français s'accordent en nombre et en genre avec les noms qu'ils remplacent.
+Les pronoms d'objet direct en français s'accordent en nombre et en genre avec les noms qu'ils remplacent.
 
-Tex cherche le numéro de téléphone de Tex cherche le numéro de téléphone de Tammy. Tammy. Enfin il le trouve et il l'appelle. Enfin il le trouve et il l'appelle.
-Joe-Bob cherche les numéros d'Edouard et Joe-Bob recherche Edouard et Corey's de Corey. Enfin il les trouve et il les numéros de téléphone. Enfin il les trouve et les appelle. il les appelle.
+* Tex cherche le numéro de téléphone de Tammy. Enfin il **le** trouve et il **l**'appelle.
+* Joe-Bob cherche les numéros d'Edouard et de Corey. Enfin il **les** trouve et il **les** appelle.
 
+Notez que **le**/**l**' peut remplacer un adjectif ou un verbe.
 
-Notez que le/l' peut remplacer un adjectif ou un verbe.
-
-Tex et Tammy sont amoureux ? Oui, ils le Tex et Tammy sont amoureux ? Oui, ils sont. sont. Tex est quelquefois jaloux? Oui, il l'est. Tex est parfois jaloux ? Oui il l'est. Joe-Bob : Tu veux que j'appelle Tammy ? Joe-Bob : Tu veux que j'appelle Tammy ? Tex : Non, moi, je vais le faire. Tex : Non, je le ferai.
+* Tex et Tammy sont amoureux ? Oui, ils **le** sont.
+* Tex est quelquefois jaloux? Oui, il **l**'est.
+* Joe-Bob : Tu veux que j'appelle Tammy ? Tex : Non, moi, je vais **le** faire.
 
 placement
 Les pronoms objets directs précèdent le verbe dont ils sont l'objet. Au temps composé (comme le passé composé), le pronom précède l'auxiliaire. Dans les constructions infinitives, le pronom se place immédiatement avant l'infinitif. Quand le
