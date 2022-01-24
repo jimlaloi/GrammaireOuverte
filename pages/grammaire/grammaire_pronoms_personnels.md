@@ -311,67 +311,56 @@ Un objet indirect est une personne qui reçoit indirectement l'action d'un verbe
 
 Devant un mot commençant par une voyelle, **me** et **te** deviennent **m'** et **t'**.
 
-Tammy : Tex, tu m'offres des fleurs ? Et à Tammy : Tex, tu m'offres des fleurs ? Mais Bette, tu lui offres des fleurs aussi, n'est-ce Bette, tu lui donnes aussi des fleurs, n'est-ce pas ? pas?
-Tex : Oui, mais je t'offre des fleurs plus Tex : Oui, je te donne des fleurs plus souvent. souvent.
-Joe-Bob : Tu leur as offert des fleurs, à Joe-Bob : Tu leur as donné des fleurs à tous les deux ! toutes les deux ! Bravo, quel tombeur ! Bravo, quel coureur de jupons !
-Tammy : Paf ! Tammy : Pouah !
+* Tammy : Tex, tu **m**'offres des fleurs ? Et à Bette, tu **lui** offres des fleurs aussi, n'est-ce pas?
+* Tex : Oui, mais je **t**'offre des fleurs plus souvent.
+* Joe-Bob : Tu **leur** as offert des fleurs, à toutes les deux ! Bravo, quel tombeur !
+* Tammy : Paf !
 
-placement
-Un pronom objet indirect est placé juste avant le verbe dont il est l'objet. Au temps composé (comme le passé composé), le pronom précède l'auxiliaire. Dans les constructions infinitives, le pronom se place immédiatement avant l'infinitif. Lorsque le verbe conjugué est négatif, le ne précède le pronom objet. Notez que, dans les temps composés (comme le passé composé), il n'y a pas d'accord entre le participe passé et l'objet indirect. A l'impératif affirmatif, le pronom objet indirect est placé après le verbe dont il est l'objet et lui est attaché par un trait d'union. De plus, moi et te deviennent moi et toi.
+### placement
 
+Un pronom objet indirect est placé juste devant le verbe dont il est l'objet. Au temps composé (comme le passé composé), le pronom précède l'auxiliaire. Dans les constructions infinitives, le pronom se place immédiatement avant l'infinitif. Lorsque le verbe conjugué est négatif, le **ne** précède le pronom objet. Notez que, dans les temps composés (comme le passé composé), il n'y a pas d'accord entre le participe passé et l'objet indirect. A l'impératif affirmatif, le pronom objet indirect est placé après le verbe dont il est l'objet et lui est attaché par un trait d'union. De plus, **me** et **te** deviennent **moi** et **toi**.
 
-
-Tex: Regarde, quelqu'un m'a envoyé un cadeau.
-Tammy : Qui t'offre un cadeau ?
-Tex ouvre le cadeau.
-Tex : Ahh, une bouteille de champagne !
-Tammy : Oh, regarde. Il y a une petite carte... Bon anniversaire, mon petit tatou. Je compte partager cette bouteille ... et la vie avec toi. Avec toi ? Mais, il n'y a pas de signature. Eh bien, monsieur, expliquez-moi !
-Tex : Écoute, quelqu'un m'a envoyé un cadeau.
-Tammy : Qui t'offre un cadeau ?
-Tex ouvre le cadeau.
-
-Tex : Ahh, une bouteille de champagne !
-Tammy : Oh, regarde. Il y a une petite carte... Joyeux anniversaire, mon petit tatou. Je compte bien partager cette bouteille... et la vie avec vous. Avec vous? Mais, il n'y a pas de signature. Eh bien, maintenant, monsieur, expliquez-moi.
-Tex : Euh... Tex : Euh...
-Tammy : C'est bien cette petite chatte Tammy : C'est ce petit chat rusé, n'est-ce pas ? maline, n'est-ce pas ? Je vais aller lui parler. Je vais aller lui en parler.
-Tex : Ne lui parle pas ! C'est une bagatelle, Tex : Ne lui parle pas ! C'est une petite chose, c'est un petit rien... ce n'est rien...
-Tammy : Un petit rien ? Paf ! Tammy : Rien ? Pouah !
+* Tex: Regarde, quelqu'un **m**'a envoyé un cadeau.
+* Tammy : Qui **t**'offre un cadeau ?
+* Tex ouvre le cadeau.
+* Tex : Ahh, une bouteille de champagne !
+* Tammy : Oh, regarde. Il y a une petite carte... Bon anniversaire, mon petit tatou. Je compte partager cette bouteille ... et la vie avec toi. Avec toi ? Mais, il n'y a pas de signature. Eh bien, monsieur, expliquez-**moi** !
+* Tex : Euh...
+* Tammy : C'est bien cette petite chatte maline, n'est-ce pas ? Je vais aller **lui** parler.
+* Tex : Ne **lui** parle pas ! C'est une bagatelle, c'est un petit rien...
+* Tammy : Un petit rien ? Paf !
 
 ## Ordre des pronoms d'objet au présent
 
-Aperçu
+### Aperçu
 Un seul pronom objet est placé avant le verbe auquel il est associé, sauf à l'impératif affirmatif lorsque le pronom objet suit le verbe. Le tableau suivant décrit l'ordre et le placement des pronoms lorsqu'il y a plus d'un pronom objet dans une phrase.
-moi
-télé
 
- lui
-SUJET nous la leur y en VERBE
-vous les
-se
+| | me | | | | | |
+| | te | le | | | | |
+| SUJET | nous | la | lui | y | en | VERBE |
+| | vous | les | leur | | | |
+| | se | | | | | |
 
-Joe-Bob prépare sa leçon : Mon dieu, Joe-Bob se prépare pour le cours : Mon dieu, le comme c'est difficile, l'ordre des pronoms L'ordre des pronoms objets est bien sûr difficile ! objets ! Le prof me dit qu'il faut les Le professeur dit que je dois les mémoriser. apprendre par coeur. Voici ma chanson ... Voici ma chanson ...
-Cependant, à l'impératif affirmatif, les objets pronoms suivent le verbe.
--moi (m')-le -lui -toi (t')VERBE -la yen -leur -nous -les -vous
+* Joe-Bob prépare sa leçon : Mon dieu, comme c'est difficile, l'ordre des pronoms objets ! Le prof me dit qu'il faut les apprendre par coeur. Voici ma chanson ...
 
+Cependant, à l'impératif affirmatif, les pronoms objets suivent le verbe.
 
+| | -le | | -moi (m') | | |
+| VERBE | -la | -lui | -toi (t') | -y | -en |
+| | -les | -leur | -nous | | |
+| | | | -vous | | |
 
+### y et en
 
+**Y** précède toujours **en**, et les deux précèdent le verbe sauf à l'impératif affirmatif. Lorsqu'ils sont utilisés avec d'autres pronoms, **y** et **en** suivent toujours tout autre pronom objet, même à l'impératif affirmatif.
 
-
-
-
-
-y et fr
-Y précède toujours en, et les deux précèdent le verbe sauf à l'impératif affirmatif. Lorsqu'ils sont utilisés avec d'autres pronoms, y et en suivent toujours tout autre objet pronom, même à l'impératif affirmatif.
-
-Bette : Tu vas au gymnase ? Bette : Tu vas à la gym ?
-Tammy : Oui, j'y vais. Et toi, Fiona ? Tammy : Oui, j'y vais. Et toi, Fiona ?
-Fiona : Non, j'en viens. Vas-y avec Bette. Fiona : Non, je viens juste d'y être. Allez avec Bette.
-Tammy : Il y a des footballeurs là-bas ? Tammy : Y a-t-il des joueurs de football là-bas ?
-Fiona : Oui, il y en a. Je te retrouve dans Fiona : Oui, il y en a. Dois-je rencontrer une heure chez toi ? tu es chez toi dans une heure ?
-Tammy : D'accord. Dis Fiona, je n'ai pas de Tammy : OK. Dis, Fiona, je n'ai pas de rouge à lèvres. Tu m'en donnes ? rouge à lèvres. Pouvez-vous me donner quelques?
-
-Bette : Et n'oublie pas le parfum. C'est Bette : Et n'oubliez pas le parfum. C'est essentiel aussi, hein ? Allez, donne-nous-en. aussi essentiel, non? Allez, donnez-nous en.
+* Bette : Tu vas au gymnase ?
+* Tammy : Oui, j'**y** vais. Et toi, Fiona ?
+* Fiona : Non, j'**en** viens. Vas-**y** avec Bette.
+* Tammy : Il **y** a des footballeurs là-bas ?
+* Fiona : Oui, il **y en** a. Je **te** retrouve dans une heure chez toi ?
+* Tammy : D'accord. Dis Fiona, je n'ai pas de rouge à lèvres. Tu **m**'**en** donnes ?
+* Bette : Et n'oublie pas le parfum. C'est essentiel aussi, hein ? Allez, donne-**nous**-**en**.
 
 
 
