@@ -58,7 +58,7 @@ Les pronoms sujets sont étiquetés par le terme « personne », faisant réf�
 
 **je**
 
-Contrairement au pronom anglais « I », je ne prend pas de majuscule à moins qu'il ne commence une phrase.
+Contrairement au pronom anglais « I », **je** ne prend pas de majuscule à moins qu'il ne commence une phrase.
 
 **tu**
 
@@ -175,7 +175,7 @@ en comparaison
 Un objet direct est un nom qui suit le verbe qui répond aux questions « quoi ? » ou « qui ? » Rappelez-vous qu'un pronom remplace un nom, et dans ce cas, le nom est un objet direct. Par exemple, Tammy pourrait demander : « Tex, voulez-vous **m**'embrasser ce soir ? », où le pronom d'objet direct « me » signifie Tammy. Qu'un verbe prenne un objet direct ou non dépend sur si le verbe spécifique est transitif ou intransitif.
 
 
-formes et usages
+### formes et usages
 
 | pronoms d'objet direct |
 | me | nous |
@@ -201,118 +201,115 @@ Notez que **le**/**l**' peut remplacer un adjectif ou un verbe.
 * Tex est quelquefois jaloux? Oui, il **l**'est.
 * Joe-Bob : Tu veux que j'appelle Tammy ? Tex : Non, moi, je vais **le** faire.
 
-placement
-Les pronoms objets directs précèdent le verbe dont ils sont l'objet. Au temps composé (comme le passé composé), le pronom précède l'auxiliaire. Dans les constructions infinitives, le pronom se place immédiatement avant l'infinitif. Quand le
-le verbe conjugué est négatif, le ne précède le pronom objet.
+### placement
 
-Tammy : Tex m'aime. Tammy : Tex m'aime.
-Bette : Tex ne t'aime pas. Bette : Tex ne t'aime pas.
-Tammy : Tex va m'épouser. Tammy : Tex va m'épouser.
-Bette : Sois raisonnable, Tammy. Tex ne veut pas t'épouser. Bette : Sois raisonnable, Tammy. Tex ne veut pas t'épouser.
-Tammy : Mais oui. Il l'a promis quand je l'ai rencontré à Lyon. Tammy : Oui, il le fait. Il l'a promis quand je l'ai rencontré à Lyon.
-Bette : Mais il ne m'avait pas encore rencontré ! Bette : Mais il ne m'avait pas encore rencontrée !
+Les pronoms objets directs précèdent le verbe dont ils sont l'objet. Au temps composé (comme le passé composé), le pronom précède l'auxiliaire. Dans les constructions infinitives, le pronom se place immédiatement avant l'infinitif. Quand le verbe conjugué est négatif, le **ne** précède le pronom objet.
 
-
-
-A l'impératif négatif, le pronom suit le placement normal avant le verbe. Cependant, à l'impératif affirmatif, le pronom complément vient après le verbe et lui est attaché par un trait d'union. En plus, moi et te deviens moi
-et toi.
-Bette : Tex, embrasse-moi ! Bette : Tex, embrasse-moi !
-Joe-Bob : Attends, ne l'embrasse pas devant moi. Je m'en vais. Bette : Eh bien, il est parti. CLAQUE! Joe-Bob : Attends, ne l'embrasse pas devant moi. Je pars. Bette : Eh bien, il est parti. CLAQUE!
+* Tammy : Tex **m**'aime.
+* Bette : Tex ne **t**'aime pas.
+* Tammy : Tex va **m**'épouser.
+* Bette : Sois raisonnable, Tammy. Tex ne veut pas **t**'épouser.
+* Tammy : Mais oui. Il **l**'a promis quand je **l**'ai rencontré à Lyon.
+* Bette : Mais il ne **m**'avait pas encore rencontré !
 
 
-accord du participe passé
-Le participe passé s'accorde en genre et en nombre avec un objet direct précédent. En d'autres termes, si le pronom objet direct est féminin, ajoutez un e à la fin du participe passé ; si le pronom est masculin pluriel, ajoutez un s (à moins que le
-le participe passé se termine déjà par s); s'il s'agit d'un pluriel féminin, ajoutez es.
-Un peu plus tard... Un peu plus tard...
-Bette : Tammy ? Tu sais, Tex m'a Bette : Tammy ? Tex m'a embrassé.
-embrassée.
-Tammy : Ce n'est pas vrai ! Tammy : Ce n'est pas vrai.
-Bette : Demande-lui. J'arrive. Bette : Demandez-lui. Tiens le voilà.
-Tammy : Tex, tu l'as embrassée, Bette ? Tammy : Tex, tu l'as embrassée, Bette ?
-Tex : Qui ? Bette ? Mais non. Je ne l'ai pas Tex : Qui ? Bette ? Pourquoi non. Je ne l'ai pas embrassée.
-embrassée. C'est elle qui m'a embrassé ! Elle m'a embrassé ! POW ! Aïe !
-PAF ! Aïe !
+
+A l'impératif négatif, le pronom suit le placement normal avant le verbe. Cependant, à l'impératif affirmatif, le pronom complément vient après le verbe et lui est attaché par un trait d'union. En plus, **me** et **te** deviennent **moi** et **toi**.
+
+* Bette : Tex, embrasse-**moi** !
+* Joe-Bob : Attends, ne **l**'embrasse pas devant moi. Je m'en vais.
+* Bette : Eh bien, il est parti. CLAQUE!
+
+
+### accord du participe passé
+
+Le participe passé s'accorde en genre et en nombre avec un objet direct précédent. En d'autres termes, si le pronom objet direct est féminin, ajoutez un **e** à la fin du participe passé ; si le pronom est masculin pluriel, ajoutez un **s** (à moins que le participe passé se termine déjà par **s**); s'il s'agit d'un pluriel féminin, ajoutez **es**.
+
+* Un peu plus tard... Un peu plus tard...
+* Bette : Tammy ? Tu sais, Tex **m**'a embrassé**e**.
+* Tammy : Ce n'est pas vrai !
+* Bette : Demande-lui. Il arrive.
+* Tammy : Tex, tu **l**'as embrassé**e**, Bette ?
+* Tex : Qui ? Bette ? Mais non. Je ne l'ai pas embrassé**e**. C'est elle qui **m**'a embrassé ! PAF ! Aïe !
 
 ## Pronom y
 
-les usages
-y exprimant le lieu
-Y remplace une préposition indiquant l'emplacement plus son objet : 'à UT' (à UT), 'devant la Tour' (devant la Tour). Il est généralement traduit par là. Les prépositions qui indiquent l'emplacement incluent à, en, dans, devant, derrière, sous, sur. Les objets nominaux de ces prépositions sont des lieux et des choses qui indiquent un lieu. L'exception est la préposition chez qui est utilisée avec une personne, comme dans 'chez Bette' (place de Bette). Notez que à + personne est remplacé par un pronom objet indirect sauf avec certains verbes.
+### les usages
 
-Bette : Tammy, tu vas à Waco ? Bette : Tammy, tu vas à Waco ?
-Tammy : Oui, j'y vais ce week-end pour un Tammy : Oui, j'y vais ce week-end bal à Baylor. pour une danse à Baylor.
-Bette : Mais on ne peut pas y danser. Bette : Mais tu ne peux pas danser là-bas.
-Tammy : Mais si, les étudiants à Baylor ont Tammy : Mais oui, les étudiants Baylor ont maintenant le droit de danser. le droit de danser.
-Bette : Super, sur y va ! Bette : Super, allons-y !
+#### y exprimant le lieu
 
+**Y** remplace une préposition indiquant l'emplacement plus son objet : 'à UT' (à UT), 'devant la Tour' (devant la Tour). Il est généralement traduit par **là**. Les prépositions qui indiquent l'emplacement incluent **à**, **en**, **dans**, **devant**, **derrière**, **sous**, **sur**. Les objets nominaux de ces prépositions sont des lieux et des choses qui indiquent un lieu. L'exception est la préposition **chez** qui est utilisée avec une personne, comme dans 'chez Bette'. Notez que **à + personne** est remplacé par un pronom objet indirect sauf avec certains verbes.
 
+* Bette : Tammy, tu vas à Waco ?
+* Tammy : Oui, j'**y** vais ce week-end pour un bal à Baylor.
+* Bette : Mais on ne peut pas **y** danser.
+* Tammy : Mais si, les étudiants à Baylor ont maintenant le droit de danser.
+* Bette : Super, on **y** va !
 
+#### y avec certains verbes
 
-y avec certains verbes
-Avec certains verbes, y remplace la préposition à lorsque son objet est une idée ou une chose, mais pas une personne. Certains de ces verbes sont penser à, réfléchir à (penser à), s'intéresser à (être intéressé par), répondre à (répondre à), participer à (participer à). Dans ces expressions, la préposition à est idiomatique. Il n'indique pas l'emplacement ou le mouvement
-vers.
-Tex s'intéresse à la philo. Il s'y intéresse énormément. Tex s'intéresse à la philosophie. Il s'y intéresse terriblement.
-Tex pense toujours à l'existentialisme. Il y pense jour et nuit. Tex pense toujours à l'existentialisme. Il y pense nuit et jour.
+Avec certains verbes, **y** remplace la préposition **à** lorsque son objet est une idée ou une chose, mais pas une personne. Certains de ces verbes sont **penser à**, **réfléchir à**, **s'intéresser à**, **répondre à**, **participer à**. Dans ces expressions, la préposition **à** est idiomatique. Il n'indique pas l'emplacement ni le mouvement.\
 
+* Tex s'intéresse à la philo. Il s'**y** intéresse énormément.
+* Tex pense toujours à l'existentialisme. Il **y** pense jour et nuit.
 
-Lorsque ces verbes sont suivis d'une personne, le pronom disjonctif sera utilisé, par exemple, « Bette pense souvent à Tex. Elle pense souvent à lui ». (Bette pense souvent à Tex. Elle pense souvent à lui.)
+Lorsque ces verbes sont suivis d'une personne, le pronom disjonctif sera utilisé, par exemple, « Bette pense souvent à Tex. Elle pense souvent à lui ».
 
-placement
-Le placement de y est le même que celui des pronoms objets directs et indirects : y précède le verbe auquel il se réfère, sauf à l'impératif affirmatif. Aux temps composés, comme au passé composé, il précède l'auxiliaire. Notez qu'il n'y a pas d'accord entre y et le participe passé, puisque y ne remplace pas un objet direct.
+### placement
+Le placement de **y** est le même que celui des pronoms objets directs et indirects : **y** précède le verbe auquel il se réfère, sauf à l'impératif affirmatif. Aux temps composés, comme au passé composé, il précède l'auxiliaire. Notez qu'il n'y a pas d'accord entre **y** et le participe passé, puisque **y** ne remplace pas un objet direct.
 
-
-Edouard : Où allez-vous ? Edouard : Où vas-tu ?
-Bette : Un Waco. Tu veux y aller avec nous ? Bette : À Waco. Voulez-vous y aller avec nous?
-Edouard : Je n'y suis jamais allé. Sur m'a dit Edouard : Je n'y suis jamais allé. J'ai été que Waco était une expérience racontée que Waco était un anthropologue anthropologique, le musée Dr. Pepper, l'expérience : le musée Dr. Pepper, le musée Texas Rangers, Baylor... Texas Rangers museum, Baylor...
-Bette : Nous y allons tout de suite. Bette : On y va tout de suite.
-Edouard : Bon, recroque-moi, j'y vais aussi. Edouard : Bon, attends moi j'y vais Allons-y ! ici aussi. Allons-y)!
+* Edouard : Où allez-vous ?
+* Bette : A Waco. Tu veux **y** aller avec nous ?
+* Edouard : Je n'**y** suis jamais allé. On m'a dit que Waco était une expérience anthropologique, le musée Dr. Pepper, le musée Texas Rangers, Baylor...
+* Bette : Nous **y** allons tout de suite.
+* Edouard : Bon, attendez-moi, j'**y** vais aussi. Allons-**y** !
 
 ## Pronom en
 
-les usages
-En est un pronom qui remplace généralement de + un nom ; cela inclut les noms introduits par des déterminants partitifs ou indéfinis (de, du, de l', de la, des). En peut être traduit par « certains », « aucun » ou « pas aucun ».
+### les usages
 
+**En** est un pronom qui remplace généralement **de + un nom** ; cela inclut les noms introduits par des déterminants partitifs ou indéfinis (**de**, **du**, **de l'**, **de la**, **des**).
 
+* Tammy, Edouard et Tex sont à table.
+* Tammy : Edouard, tu veux de la soupe ?
+* Edouard : Oui, merci. Elle est délicieuse.
+* Tex : Il y a du vin ? 
+* Tammy : Oui il y **en** a. Tu **en** veux ?
 
-Tammy, Edouard et Tex sont à table. Tammy, Edouard et Tex mangent. Tammy : Edouard, tu veux de la soupe ? Tammy : Edouard, tu veux de la soupe ? Edouard : Oui, merci. Elle est délicieuse. Edouard : Oui, merci. C'est délicieux. Tex : Il y a du vin ? Tex : Y a-t-il du vin ? Tammy : Oui il y en a. Tu en veux ? Tammy : Oui, il y en a. Voudriez-vous
-comme certains?
+De la même manière, **en** remplace un nom introduit par un nombre ou une expression de quantité. Notez que l'équivalent de **en** n'est pas toujours exprimé en anglais, bien que **en** doit toujours être utilisé dans la phrase française :
 
-De la même manière, en remplace un nom introduit par un nombre ou une expression de quantité. Notez que l'équivalent de en n'est pas toujours exprimé en anglais, bien que en doit toujours être utilisé dans la phrase française :
+* Tammy : Edouard, tu as assez de pain ?
+* Edouard : Oui, merci, j'**en** ai **assez**.
+* Tammy : Tex, tu veux un peu de pain ?
+* Tex : Non, merci, je n'**en** veux pas. J'**en** ai encore **une tranche**.
 
-Tammy : Edouard, tu as assez de pain ? Tammy : Edouard, tu as assez de pain ?
-Edouard : Oui, merci, j'en ai assez. Edouard : Oui, merci, j'en ai assez.
-Tammy : Tex, tu veux un peu de douleur ? Tammy : Tex, tu veux un peu de pain ?
-Tex : Non, merci, je n'en veux pas. J'en ai Tex : Non, merci, je n'en veux pas. Je rappelle une tranche. j'en ai encore une tranche.
+**En** remplace également les expressions introduites par la préposition **de** par les verbes suivants : **s'occuper de**, **parler de**, **remercier de**, **revenir de**, **venir de**
 
+* Tammy : Alors Edouard, comment s'est passée ton interview au restaurant ?
+* Edouard : J'**en** reviens tout juste ! C'était dégoûtant.
+* Tammy : Tu veux **en** parler ?
+* Edouard : Tu sais bien que j'ai envie de gagner plus d'argent, j'**en** ai vraiment besoin, mais servir du barbecue ! Jamais ! Edouard ne travaillera jamais dans un restaurant qui s'appelle le Bon Barbecue!
 
-En remplace également les expressions introduites par la préposition de par les verbes suivants : s'occuper de, traiter de parler de, parler de remercier de, remercier de revenir de, revenir de venir de, venir de
+Notez qu'un pronom disjoint est utilisé avec ces verbes pour remplacer les expressions lorsque l'objet de la préposition **de** est une personne plutôt qu'une chose.
 
+### placement
+Le placement de **en** est le même que celui des objets pronoms directs et indirects. **En** précède le verbe auquel il se réfère, sauf à l'impératif affirmatif. Aux temps composés (comme le passé composé), il précède le verbe auxiliaire. Notez qu'il n'y a pas d'accord entre **en** et le participe passé, puisque **en** ne remplace pas un objet direct. Quand **en** est utilisé avec **il y a**, il se situe entre **y** et **a** : Du pain sur la table ? **Il y en a**.
 
-
-Tammy : Alors Edouard, comment s'est Tammy : Alors Edouard, comment s'est passée ton interview passée ton au restaurant ? entretien au restaurant aller?
-Edouard : J'en reviens tout juste ! C'était Edouard : J'en reviens tout juste ! C'était dégoûtant. répugnant.
-Tammy : Tu veux en parler ? Tammy : Tu veux en parler ?
-Edouard : Tu sais bien que j'ai envie de Edouard : Tu sais que je veux gagner gagner plus d'argent, j'en ai vraiment plus. J'en ai vraiment besoin (d'argent), besoin, mais servir du barbecue ! Jamais ! mais servez le barbecue ! Jamais! Edouard will Edouard ne travaillera jamais dans un jamais travailler dans un restaurant nommé Good restaurant qui s'appelle le Bon Barbecue! Barbecue!
-
-Notez qu'un pronom disjonctif est utilisé avec ces verbes pour remplacer les expressions lorsque l'objet de la préposition de est une personne plutôt qu'une chose.
-
-
-placement
-Le placement de en est le même que celui des objets pronoms directs et indirects. En précède le verbe auquel il se réfère, sauf à l'impératif affirmatif. Aux temps composés (comme le passé composé), il précède le verbe auxiliaire. Notez qu'il n'y a pas d'accord entre en et le participe passé, puisque en ne remplace pas un objet direct. Quand en est utilisé avec il y a (« il y a, il y a »), il se situe entre y et a : Du pain sur la table ? Il y ena (Du pain sur la table ? Il y en a là-bas.)
-
-
-Tex : De nouveaux poèmes ? Ne m'en parle pas !
-Editeur : Mais si, parlons-en.
-Tex: Je n'en ai pas écrit depuis longtemps et je ne vais plus en écrire. Ma muse m'a quitté et je n'ai plus d'idées.
-Editeur : Mais si tu en as. Elles sont bizarres, tes idées, mais tu en as beaucoup quand même.
-Tex : De nouveaux poèmes ? Ne me parle pas d'eux.
-Éditeur : Mais oui, parlons-en.
-Tex : Je n'en ai plus écrit depuis longtemps et je ne vais plus en écrire. Ma muse m'a quitté et je n'ai plus d'idées.
-Editeur : Mais oui, vous avez des (idées). Vos idées sont étranges, mais vous en avez quand même beaucoup.
+* Tex : De nouveaux poèmes ? Ne m'**en** parle pas !
+* Editeur : Mais si, parlons-**en**.
+* Tex: Je n'**en** ai pas écrit depuis longtemps et je ne vais plus **en** écrire. Ma muse m'a quitté et je n'ai plus d'idées.
+* Editeur : Mais si tu **en** as. Elles sont bizarres, tes idées, mais tu **en** as beaucoup quand même.
 
 ## Pronoms d'objet indirect
 
-Devant un mot commençant par une voyelle, me et te deviennent m' et t'.
+Un objet indirect est une personne qui reçoit indirectement l'action d'un verbe. En français l'objet indirect est toujours précédé de la préposition **à**: Tex offre des fleurs à Tammy. Un pronom d'objet indirect indique **à + une personne**. Dans la phrase "Tex offre des fleurs à Tammy', 'Tammy' est l'objet indirect. Le **pronom** d'objet indirect qui remplace 'à Tammy' c'est **lui** : Tex **lui** offre des fleurs. Voici les pronoms d'objets indirects français :
+
+| pronoms d'objet direct |
+| me | nous |
+| te | vous |
+| lui | leur |
+
+Devant un mot commençant par une voyelle, **me** et **te** deviennent **m'** et **t'**.
 
 Tammy : Tex, tu m'offres des fleurs ? Et à Tammy : Tex, tu m'offres des fleurs ? Mais Bette, tu lui offres des fleurs aussi, n'est-ce Bette, tu lui donnes aussi des fleurs, n'est-ce pas ? pas?
 Tex : Oui, mais je t'offre des fleurs plus Tex : Oui, je te donne des fleurs plus souvent. souvent.
