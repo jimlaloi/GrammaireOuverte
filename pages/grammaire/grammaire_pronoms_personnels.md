@@ -362,114 +362,96 @@ Cependant, à l'impératif affirmatif, les pronoms objets suivent le verbe.
 * Tammy : D'accord. Dis Fiona, je n'ai pas de rouge à lèvres. Tu **m**'**en** donnes ?
 * Bette : Et n'oublie pas le parfum. C'est essentiel aussi, hein ? Allez, donne-**nous**-**en**.
 
+### pronoms d'objets directs et indirects ensemble
 
+Parfois, il y aura à la fois un pronom d'objet direct et un pronom indirect dans la même phrase. Le pronom d'objet direct est généralement le plus proche du verbe dont il est l'objet. Cependant, l'ordre des pronoms d'objets directs/indirects est inversé à la troisième personne du singulier et à la troisième personne du pluriel (**le lui**, **le leur**, etc.). Dans ce cas, l'objet indirect est le plus proche du verbe.
 
-Pronoms objets directs et indirects ensemble
-Parfois, il y aura à la fois un pronom objet direct et un pronom indirect dans la même phrase. Le pronom objet direct est généralement le plus proche du verbe dont il est l'objet. Cependant, l'ordre des pronoms objets directs/indirects est inversé à la troisième personne du singulier et à la troisième personne du pluriel (le lui, le leur, etc.). Dans ce cas, l'objet indirect est le plus proche du verbe.
+**son parfum?**
 
-fils parfum?
+| Fiona **me le** donne | Fiona **nous le** donne |
+| Fiona **te le** donne | Fiona **vous le** donne |
+| Fiona **le lui** donne | Fiona **le leur** donne |
 
+Souvenez-vous qu'à l'impératif affirmatif, **me** et **te** deviennent **moi** et **toi**.
 
+* Tammy : Fiona ! Fiona ! Ton parfum, tu **me le** donnes! ? Tu vas **me le** donner ? Donne-**le**-**moi** !
+* Fiona : Pardon, je ne comprends pas. Vous voulez du parfum pour aller au gymnase ?
 
-Souvenez-vous qu'à l'impératif affirmatif, me et te deviennent moi et toi .
+### négation
+Dans les temps simples, comme le présent, le futur, l'imparfait et le passé simple, les pronoms d'objets sont placés entre le **ne** et le verbe. Aux temps composés, comme le passé composé, le plus-que-parfait etc., les pronoms d'objets sont placés entre le **ne** et le verbe auxiliaire.
 
-Tammy : Fiona ! Fiona ! Ton parfum, tu me le Tammy : Fiona ! Fiona ! Votre parfum? Sont donnés !? Tu vas le donner ? Donne-le-tu me le donnes ? Allez-vous me donner ! ça à moi !? Donne le moi!
-Fiona : Pardon, je ne comprends pas. Vous Fiona : Désolé, je ne comprends pas. Vous voulez du parfum pour aller au gymnase ? tu veux du parfum pour aller à la gym ?
-
-
-
-négation
-Dans les temps simples, comme le présent, le futur, l'imparfait et le passé simple, les pronoms objets sont placés entre le ne et le verbe. Aux temps composés, comme le passé composé, le plus-que-parfait etc., les pronoms objets sont placés
-entre le ne et le verbe auxiliaire.
-Plus tard au gymnase. Plus tard dans la salle de gym.
-Tammy : Personne ne fait attention à nous ! Tammy : Personne ne fait attention à
-Tu vois, sans parfum, aucun mec ! Pourquoi nous. Tu vois, pas de parfum, pas un seul gars !
-est-ce que Fiona ne nous en a pas donné? Pourquoi Fiona ne nous en a-t-elle pas donné ?
-Bette : Et bien, c'est parce qu'elle ne Bette : Eh bien, c'est parce qu'elle ne
-comprend pas l'art de la séduction. comprendre l'art de la séduction.
+* Plus tard au gymnase.
+* Tammy : Personne ne fait attention à nous ! Tu vois, sans parfum, aucun mec ! Pourquoi est-ce que Fiona **ne nous en** a **pas** donné?
+* Bette : Et bien, c'est parce qu'elle ne comprend pas l'art de la séduction.
 
 ## Pronoms indéfinis
 
 Un pronom remplace un nom qui a été mentionné ou qui est évident d'après le contexte. Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
-quelqu'un, quelque chose a choisi
-Quelqu'un (quelqu'un) est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. Quelque chose choisi (quelque chose) est le pronom équivalent utilisé pour désigner une chose. Si quelqu'un ou quelque chose est suivi d'un adjectif, l'adjectif doit être précédé de de.
 
-Tammy : Quelque chose a choisi Tammy : Quelque chose d'extraordinaire est arrivé exceptionnel s'est produit aujourd'hui. J'ai rencontré aujourd'hui. J'ai rencontré quelqu'un de légendaire. légendaire.
+### quelqu'un, quelque chose
 
-La forme négative de quelqu'un est personne et la forme négative de quelque chose est rien. Rappelez-vous que ne précède le verbe lorsque personne et rien sont utilisés dans des phrases négatives.
+**Quelqu'un** est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. **Quelque chose** est le pronom équivalent utilisé pour désigner une chose. Si **quelqu'un** ou **quelque chose** est suivi d'un adjectif, l'adjectif doit être précédé de **de**.
 
-Tex: Qui as-tu rencontré? Tex : Qui as-tu rencontré ?
-Tammy : Personne que tu connais. Tammy : Personne que tu connais.
-Tex : C'est tout ? Tu me dis rien d'autre ? Tex : C'est tout ? Tu ne me dis rien d'autre ?
-Tammy : Ça ne vaut pas la peine. Personne Tammy : Ça n'en vaut pas la peine. Personne ne veut me croire. veut me croire.
+* Tammy : **Quelque chose d'**extraordinaire est arrivé aujourd'hui. J'ai rencontré **quelqu'un de** légendaire.
 
+La forme négative de **quelqu'un** est **personne** et la forme négative de **quelque chose** est **rien**. Rappelez-vous que **ne** précède le verbe lorsque **personne** et **rien** sont utilisés dans des phrases négatives.
 
+* Tex: Qui as-tu rencontré?
+* Tammy : **Personne** que tu connais.
+* Tex : C'est tout ? Tu ne me dis **rien** d'autre ?
+* Tammy : Ça ne vaut pas la peine. **Personne ne** veut me croire.
 
+**Quelques-uns** et **quelques-unes** sont des pronoms utilisés au pluriel pour parler des personnes ou des choses. Notez que le **s** à la fin de **quelques** se prononce avant les **uns** ou **unes** suivants.
 
+* Tex : Quoi ? Tu as rencontré Ricky Williams? **Quelques-uns** de mes amis me disent que tu es amoureuse de lui...
+* Tammy : Un peu... Parmi mes copines, **quelques-unes** sont complètement folles de lui.
 
+### chacun et aucun
 
+**Chacun** est singulier et masculin, **chacune** est singulier et féminin. **Chaque**, en revanche, est un déterminant indéfini utilisé pour modifier un nom.
 
+* Tex : Tu es amoureuse de Ricky Williams ?! Alors c'est **chacun** sa vie maintenant ?!
+* Tammy : Mais non, calme-toi !
 
-Quelques-uns (quelques-uns, masculin) et quelques-unes (quelques-uns, féminin) sont des pronoms utilisés au pluriel pour parler de personnes ou de choses. Notez que le s à la fin de quelques se prononce avant les uns ou uns suivants.
+La forme négative de **chacun** est **aucun**. **Aucun** est singulier et masculin, **aucune** est singulier et féminin. Ils sont utilisés avec **ne**.
 
-Tex : Quoi ? Tu as rencontré Ricky Williams? Tex : Quoi ? Vous avez rencontré Ricky Williams ? Quelques-uns de mes amis me disent que de mes amis me disent que tu es amoureuse de tu es amoureuse de lui... lui...
-Tammy : Un peu... Parmi mes copines, Tammy : Un peu... Parmi mes copines, quelques-unes sont complètement folles de certaines sont complètement folles de lui. lui.
+* Tammy : J'ai rencontré beaucoup de footballeurs, mais **aucun ne** me fait cet effet.
 
+### plus de pronoms indéfinis
 
-déterminant indéfini utilisé pour modifier un nom.
-Tex : Tu es amoureuse de Ricky Williams ?! Tex : Tu es amoureux de Ricky Williams ?! Donc
-Alors c'est chacun sa vie maintenant ?! c'est chacun pour soi maintenant ?!
-Tammy : Mais non, calme-toi ! Tammy : Bien sûr que non, calme-toi !
+**Plusieurs**, **certains**/**certaines**, et **tous**/**toutes** sont des pronoms indéfinis pluriels. Ils sont utilisés à la place des noms pluriels. Notez que le **s** de **tous** est prononcé quand c'est un pronom.
 
+* Les copines de Tammy ? **Plusieurs** sont folles de Ricky Williams.
+* Les copines de Fiona ? **Certaines** sont folles de Joe-Bob.
+* Les copains de Tex ? **Certains** sont amoureux de Tammy.
+* Les copains de Tex ? **Tous** sont dingues de Bette.
+* Les copines de Tammy ? **Toutes** sont folles de Tex !
 
-chacun contre aucun
-Chacun (chacun) est singulier et masculin, chacun est singulier et féminin. Chaque, en revanche, est un
+#### tout
+**Tout**, par contre, est toujours singulier. Par exemple : 
+* Tammy : Tex, **tout** va bien ?
 
-La forme négative de chacun est aucun. Aucun (aucun, pas un, pas un seul) est singulier et masculin, aucune est singulier et féminin. Ils sont utilisés avec ne.
+#### autre
+**Autre** est toujours précédé d'un déterminant : **un autre**, **l'autre**; **une autre**; **d'autres**, **les autres**.
 
+* Tex : Non ! Il y a **un autre** dans ta vie !?
 
-Tammy : J'ai rencontré beaucoup de Tammy : J'ai rencontré beaucoup de joueurs de football, footballeurs, mais aucun ne me fait cet mais aucun n'a cet effet sur moi. effet.
+Notez les phrases suivantes avec **autre** : **autre chose**, **l'un et l'autre**, **l'une et l'autre**, **les uns et les autres**, **les unes et les autres**, **ni l'un ni l'autre**, **l'un à l' autre**, **l'un pour l'autre**.
 
-plus de pronoms indéfinis
-Plusieurs (plusieurs), certains (certains; masculin) / certaines (certains; féminin), tous (tous, tout le monde; masculin) / toutes (tous, tout le monde; féminin) sont des pronoms indéfinis pluriels. Ils sont utilisés à la place des noms pluriels. Notez que le s est
+#### n'importe qui
+**N'importe qui** signifie 'anybody', 'anyone at all'; **n'importe quoi** signifie 'anything', 'whatever', 'nonsense'. Vous pouvez également trouver **qui que ce soit** (anybody) et **quoi que ce soit** (anything).
 
-Les copines de Tammy ? Plusieurs sont les copines de Tammy ? Plusieurs sont des folles folles de Ricky Williams. à propos de Ricky Williams.
-Les copines de Fiona ? Certaines sont folles les copines de Fiona ? Certains sont fous de de Joe-Bob. Joe-Bob.
-Les copains de Tex ? Certains sont amoureux des amis de Tex ? Certains sont amoureux de de Tammy. Tammy.
-Les copains de Tex ? Les amis de Tous sont dingues de Tex ? Tous sont fous de Bette. Bette.
-Les copines de Tammy ? Toutes sont folles les copines de Tammy ? Tous sont fous de de Tex ! Texas!
+* Tex : Tammy, je ne suis pas **n'importe qui** ! Tu ne peux pas me traiter comme ça ! 
+* Tammy : Tu racontes **n'importe quoi**, Tex !
 
+#### Quiconque
+**Quiconque** signifie 'whoever'.
 
-tout
-Tout (tout), par contre, est toujours singulier. Par exemple : Tammy : Tex, tout va bien ? Tammy : Tex, tout va bien ?
+* Tammy : **Quiconque** nous écoute en ce moment doit te trouver ridicule !
 
+#### tel(s), tel(s)
+**Tel(s)** (masc), **telle(s)** (fem) peut être traduit par 'such', 'such as', 'like' ou 'as' selon le contexte. Par exemple, 'Tel père, tel fils' serait traduit par 'Like father, like son'.
 
-
-
-autre
-Autre est toujours précédé d'un déterminant : un autre (un autre, masculin), l'autre (l'autre, masculin ou féminin) ; une autre (un autre, féminin) ; d'autres (les autres, masculins ou féminins), les autres (les autres, masculins ou féminins).
-
-Tex : Non ! Il y a un autre dans ta vie !? Tex : Non ! Il y en a un autre dans ta vie !?
-Notez les phrases suivantes avec autre : autre choisi (quelque chose d'autre), l'un et l'autre (l'un et l'autre, les deux, masc), l'une et l'autre (l'un et l'autre, les deux, fem ), les uns et les autres (un et tous, masc), les unes et les autres (un et tous, fem), ni l'un ni l'autre (ni l'un ni l'autre), l'un à l' autre (l'un pour l'autre), l'un pour l'autre (l'un pour l'autre).
-
-
-
-n'importe qui
-N'importe qui signifie « n'importe qui », « n'importe qui » ; n'importe quoi signifie 'n'importe quoi', 'n'importe quoi', 'non-sens'. Vous pouvez également trouver qui que ce soit (n'importe qui) et quoi que ce soit (n'importe quoi).
-Quiconque signifie « n'importe qui ».
-
-Tex : Tammy, je ne suis pas n'importe qui ! Tu ne peux pas me traiter comme ça ! Tammy : Tu racontes n'importe quoi, Tex ! Tex : Tammy, je ne suis pas n'importe qui ! Vous ne pouvez pas me traiter de cette façon ! Tammy : Tu dis des bêtises Tex !
-anciens
-
-
-
-Tammy : Quiconque nous écoute en ce Tammy : Celui qui nous écoute au bon moment doit te trouver ridicule ! maintenant doit penser que vous êtes ridicule!
-
-tel(s), tel(s)
-Tel(s) (masc), telle(s) (fem) peut être traduit par 'tel', 'tel que', 'like' ou 'as' selon le contexte. Par exemple, 'Tel père, tel fils' serait la traduction de 'Tel père, tel fils'.
-
-
-Tammy : Je n'ai jamais vu une jalousie telle Tammy : Je n'ai jamais vu une telle jalousie que la tienne ! comme le vôtre!
-
+* Tammy : Je n'ai jamais vu une jalousie **telle que** la tienne !
 
 {% include links.html %}
