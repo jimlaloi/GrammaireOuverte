@@ -7,43 +7,25 @@ permalink: grammaire_comparatif.html
 folder: grammaire
 ---
 
-## Heading
+## Comparaisons avec des adjectifs
 
-Page under construction
+### plus ou moins
+Les adjectifs sont fréquemment utilisés pour comparer des choses, des personnes, des événements, des idées, etc. ***Plus ... que*** transmet l'idée de 'more... than', **moins ... que** l'idée de 'less than'.
 
-adjectifs comparatifs indiquant plus ou moins
-Les adjectifs sont fréquemment utilisés pour comparer des choses, des personnes, des événements, des idées, etc. Plus ... que transmet l'idée de "plus ...
-que', moins ... que l'idée de 'moins que'.
-Tex est plus intelligent que Joe-Bob. Tex est plus intelligent que Joe-Bob.
-Mais Joe-Bob est moins prétentieux que Mais Joe-Bob est moins prétentieux que Tex.
-Texas
-Bien sûr, il est plus difficile d'être poète que Bien sûr, il est plus difficile d'être poète
-d'être écureuil ! que d'être un écureuil.
+* Tex est **plus** intelligent **que** Joe-Bob.
+* Mais Joe-Bob est **moins** prétentieux **que** Tex.
+* Bien sûr, il est **plus** difficile d'être poète **que** d'être écureuil !
 
-adjectifs comparatifs indiquant la similitude ou l'égalité
-Aussi ... que véhicule l'idée de 'as ... as'.
+### similitude ou égalité
+**Aussi ... que** transmet l'idée de 'as ... as'.
 
-Fiona est aussi belle que Tammy. Mais elles Fiona est aussi belle que Tammy. Mais ils ne sont pas aussi séduisants que Bette. ne sont pas aussi séduisantes que Bette.
+* Fiona est **aussi** belle **que** Tammy. Mais elles ne sont pas **aussi** séduisantes **que** Bette.
 
-adjectifs irréguliers
-Les adjectifs bon et mauvais ont des formes irrégulières de comparaison, meilleur et pire. Cependant, la forme régulière plus mauvais que est devenue communément acceptée. Notez que cette irrégularité se retrouve également en anglais avec 'better' (pas
+### adjectifs irréguliers
+Les adjectifs **bon** et **mauvais** ont des formes irrégulières de comparaison, **meilleur** et **pire**. Cependant, la forme régulière **plus mauvais que** est devenue communément acceptée. Notez que cette irrégularité se retrouve également en anglais avec **better** (pas **more good**) et **worse** (pas **more bad**).
 
-*plus bon) et "pire" (pas *plus mauvais).
-
-D'après Tex, Tammy est un bon parti. Mais Bette pense qu'elle serait un meilleur parti que Tammy.
-Mais il est évident que le caractère de Bette est plus mauvais que celui de Tammy.
-
-Écoutez ce dialogue :
-
-Bette : Tex, as-tu jamais vu une fille aussi jolie que moi ?
-Tex philosophe : Euh ! La beauté physique est moins importante que la beauté de l'âme. Voyons Bette, je n'ai pas le temps de penser à des choses aussi triviales que celles-ci ...
-Selon Tex, Tammy est un bon match. Mais Bette pense qu'elle serait un meilleur match que Tammy.
-Mais il est évident que la personnalité de Bette est pire que celle de Tammy.
-Bette : Tex, as-tu déjà vu une fille aussi jolie que moi ?
-Tex le philosophe : Ah ! La beauté physique est moins importante que la beauté de l'âme. Écoute Bette, je n'ai pas le temps de penser à des choses aussi banales que ça...
-
-Bette : D'accord, d'accord, mais je suis Bette : Ok, ok, mais je suis moins bête et moins bête et plus sexy que Tammy, non ? plus sexy que Tammy, tu ne trouves pas ?
-Tex : Être ou ne pas être, là est la question Tex : Être ou ne pas être, telle est la... question...
+* D'après Tex, Tammy est un bon parti. Mais Bette pense qu'elle serait un **meilleur** parti **que** Tammy.
+* Mais il est évident que le caractère de Bette est **plus mauvais que** celui de Tammy.
 
 formation et placement
 En français comme en anglais, le superlatif est une forme d'adjectif exprimant « le meilleur », « le plus petit », « le plus intéressant ». Pour former le superlatif, utilisez l'article défini (le, la, les) et l'adverbe plus ou moins avant l'adjectif. Notez que le superlatif d'un adjectif s'accorde avec le nom qu'il modifie en genre et en nombre. Le placement du superlatif correspond au placement habituel de l'adjectif. En d'autres termes, si l'adjectif suit le nom, alors le superlatif suivra aussi le nom. Et inversement, si l'adjectif précède le nom, alors l'adjectif superlatif précédera également le nom. Notez que si l'adjectif suit le nom, l'article défini est utilisé deux fois.
