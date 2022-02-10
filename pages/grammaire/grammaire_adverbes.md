@@ -115,7 +115,7 @@ L'adverbe en français suit généralement le verbe conjugué. Ainsi, dans tous 
 * Tex : Oui, mais il y avait une mouche dans la soupe !
 * Edouard : Quoi ? Une mouche dans mon restaurant ! Pas possible! Je vais **immédiatement** te préparer une infusion. Oh, tu sais, les mouches, ça se digère **vite**.
 
-## il y a
+## adverbes de temps
 Lorsqu'**il y a** est suivi d'une expression temporelle (comme **longtemps**, **quelque temps**, **une semaine**, **deux jours**, etc.), cela signifie généralement « ago » : **il y a une semaine** ('one week ago').
 
 * Tex: La mère supérieure m'a écrit récemment. Elle veut un souvenir du Texas ! **Il y a un an** j'ai promis de lui envoyer quelque chose, mais en ce moment je n'ai pas d'argent. Je viens de dépenser mes derniers sous **il y a 10 minutes**.
