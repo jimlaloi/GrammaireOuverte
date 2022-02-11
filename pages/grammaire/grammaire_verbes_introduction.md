@@ -7,99 +7,96 @@ permalink: grammaire_verbes_introduction.html
 folder: grammaire
 ---
 
-## Heading
-
-Page under construction
-
-tendu
-Le temps est le terme grammatical qui désigne le moment où se produit l'action du verbe : passé, présent, futur. Le cadre temporel d'une action est généralement établi en se référant au moment présent ; par exemple, le passé composé et le futur sont respectivement passé et futur par rapport au présent.
+## Temps, aspect, mode, et voix
+### temps
+Le **temps** est le terme grammatical qui désigne le moment où se produit l'action du verbe : passé, présent, futur. Le cadre temporel d'une action est généralement établi en se référant au moment présent ; par exemple, le passé composé et le futur sont respectivement passé et futur par rapport au présent.
 Cependant, certains temps établissent leur cadre temporel en se référant à d'autres actions dans le passé ou dans le futur. Par exemple, le temps plus-que-parfait indique une action passée qui s'est produite avant la fin d'une autre action passée. Le futur antérieur indique une action future qui aura eu lieu avant une autre action future. Les actions qui se produisent avant une autre action sont décrites comme étant antérieures.
-Les temps sont également décrits par leur nombre de parties. Par exemple, un temps avec une seule forme verbale est appelé un temps simple (c'est-à-dire le passé simple). En revanche, un temps comprenant deux formes, le verbe auxiliaire et le participe, est appelé un temps composé (c'est-à-dire le passé composé).
+Les temps sont également décrits par leur nombre de parties. Par exemple, un temps avec une seule forme verbale est appelé un temps simple (par ex. le passé simple). En revanche, un temps comprenant deux formes, le verbe auxiliaire et le participe, est appelé un temps composé (par ex. le passé composé).
 
-aspect
-Aspect, contrairement au temps, n'est pas concerné par le placement d'événements sur une ligne du temps. L'aspect vise plutôt à faire des distinctions entre les types d'actions décrites par des verbes : actions progressives, actions ponctuelles, actions habituelles, etc.
+### aspect
+L'aspect, contrairement au temps, n'est pas concerné par le placement d'événements sur une ligne du temps. L'aspect vise plutôt à faire des distinctions entre les types d'actions décrites par des verbes : actions progressives, actions ponctuelles, actions habituelles, etc.
 
-La distinction aspectuelle la plus importante en français concerne la différence entre les deux temps passés les plus courants : l'imparfait et le passé composé. Bien que les deux temps se réfèrent à des actions dans le passé, ils sont utilisés pour des types d'actions très différents. L'imparfait indique une action en cours ou habituelle. Les actions dans l'imparfait peuvent être simultanées ou se chevaucher. Le passé composé, quant à lui, indique une action qui est dans un ordre strict par rapport à une autre action. En d'autres termes, un événement du passé composé doit être terminé avant qu'un autre puisse être utilisé dans la narration.
-Ces différences aspectuelles sont mieux comprises dans un contexte narratif où l'imparfait est généralement utilisé pour planter le décor d'une histoire en donnant des informations de base.
-Installé à la terrasse du Cactus Café, Tex Assis à la terrasse du Cactus Café, regardait les filles qui passaient. Il Tex regardait les filles qui marchaient savourait une tasse de café, mais quelque chose par. Il savourait une tasse de café, mais choisit manquait. . . une cigarette ! il manquait quelque chose. . . une cigarette!
-Le passé composé est utilisé pour le premier plan, c'est-à-dire les événements de l'intrigue. Notez que les événements de ligne de tracé sont séquentiels, c'est-à-dire qu'un événement doit être terminé avant qu'un autre événement ne commence.
-Tex a sorti une cigarette de son paquet. Il Tex a sorti une cigarette de son paquet. l'a allumée et il a tiré une grande bouffée. Il l'alluma et tira longuement. Mmm... Mmm... extase ! extase!
+La distinction aspectuelle la plus importante en français concerne la différence entre les deux temps passés les plus courants : l'imparfait et le passé composé. Bien que les deux temps se réfèrent à des actions dans le passé, ils sont utilisés pour des types d'actions très différents. L'imparfait indique une action en cours ou habituelle. Les actions dans l'imparfait peuvent être simultanées. Le passé composé, quant à lui, indique une action qui est dans un ordre strict par rapport à une autre action. En d'autres termes, un événement du passé composé doit être terminé avant qu'un autre puisse être utilisé dans la narration.
+Ces différences aspectuelles sont mieux comprises dans un contexte narratif où l'imparfait est généralement utilisé pour établir la scène d'une histoire en donnant des informations de base.
 
-humeur
-L'humeur est une catégorie grammaticale qui distingue les temps verbaux. Il existe quatre modes en français : l'indicatif, le subjonctif, le conditionnel et l'impératif. Tous ces modes, à l'exception de l'impératif, peuvent être conjugués à des temps différents. Chacune de ces humeurs a une fonction différente.
+* Installé à la terrasse du Cactus Café, Tex **regardait** les filles qui **passaient**. Il **savourait** une tasse de café, mais quelque chose **manquait**. . . une cigarette !
 
+Le passé composé est utilisé pour le premier plan, c'est-à-dire les événements de l'intrigue. Notez que les événements de l'intrigue sont séquentiels, c'est-à-dire qu'un événement doit être terminé avant qu'un autre événement ne commence.
 
+* Tex **a sorti** une cigarette de son paquet. Il l'**a allumée** et il **a tiré** une grande bouffée. Mmm... extase !
 
-L'humeur indicative est la plus courante et est utilisée pour relier des faits et des déclarations objectives.
-Tammy se réveille tôt le matin. Tammy se lève (présent de l'indicatif tôt dans l'humeur) le matin.
+### mode
+Le mode est une catégorie grammaticale qui distingue les temps verbaux. Il existe quatre modes en français : **l'indicatif**, **le subjonctif**, **le conditionnel** et **l'impératif**. Tous ces modes, à l'exception de l'impératif, peuvent être conjugués à des temps différents. Chacun de ces modes a une fonction différente.
 
+**Le mode indicatif** est le plus courant et est utilisée pour relier des faits et des déclarations objectives.
 
-Le mode subjonctif est plus utilisé en français qu'en anglais. Il est utilisé pour exprimer des opinions et des sentiments (pensées subjectives).
-Il est dommage que les parents de Tex Dommage que les parents de Tex soient morts. soyez morts. (présent du mode subjonctif)
+* Tammy se réveille tôt le matin.
 
+**Le mode subjonctif** est plus utilisé en français qu'en anglais. Il est utilisé pour exprimer des opinions et des sentiments (pensées subjectives).
 
-Le mode conditionnel est utilisé pour exprimer des déclarations hypothétiques ou contraires aux faits.
-Si Corey était beau, il aurait une copine. Si Corey était beau, il aurait (présent du conditionnel une petite amie. humeur)
+* Il est dommage que les parents de Tex **soient** morts.
 
+**Le mode conditionnel** est utilisé pour exprimer des déclarations hypothétiques ou contraires aux faits.
 
+* Si Corey était beau, il **aurait** une copine.
 
-Le mode impératif est utilisé pour donner des ordres ou des commandes directs. Tex, réveille-toi ! Tex, lève-toi !
+**Le mode impératif** est utilisé pour donner des ordres ou des commandes directs.
 
+* Tex, **réveille-toi** !
 
-voix
-La voix est une catégorie grammaticale décrivant la relation entre un verbe et son sujet. La voix est active ou passive. La voix active fait référence à la situation où le sujet de la phrase exécute l'action du verbe.
-Les autorités ont expulsé le Tex de France. Les autorités ont expulsé Tex de France.
+### voix
+La voix est une catégorie grammaticale décrivant la relation entre un verbe et son sujet. La voix est **active** ou **passive**. La voix active fait référence à la situation où le sujet de la phrase exécute l'action du verbe.
 
+* Les autorités **ont expulsé** Tex de France.
 
 D'autre part, la voix passive fait référence à la situation où le sujet reçoit l'action du verbe.
-Tex a été expulsé de France (par les Tex a été expulsé de France (par les autorités).
 
-« Voix » fait référence à la relation entre le sujet et le verbe dans une phrase. Une phrase est dite à la voix active si le sujet exécute l'action du verbe. Par exemple, « Tex appelle Tammy ». Dans cette phrase, le sujet (Tex) effectue l'action d'appeler Tammy. Les sujets actifs sont appelés « agents ».
-La voix passive, quant à elle, fait référence à une phrase dans laquelle le sujet reçoit l'action. En d'autres termes, le sujet est passif, ou agi par l'agent. Par exemple : « Tammy est appelée par Tex ». Dans cette phrase, Tammy reçoit l'action effectuée par Tex, l'agent.
+* Tex **a été expulsé** de France (par les autorités).
 
-formetion
-= forme conjuguée de être + participe passé du verbe principal (+ par + agent) Notez que le participe passé s'accorde toujours en nombre et en genre avec le
-matière.
-Les Aggies sont battus (par les Longhorns). Les Aggies sont battus (par les Longhorns).
-Les Aggies ont été battus (par les Longhorns). Les Aggies ont été battus (par les Longhorns).
-Les Aggies seront battus (par les Longhorns). Les Aggies seront battus (par les Longhorns).
+## Les voix active et passive
+« Voix » fait référence à la relation entre le sujet et le verbe dans une phrase. Une phrase est dite à **la voix active** si le sujet exécute l'action du verbe. Par exemple, « Tex appelle Tammy ». Dans cette phrase, le sujet (Tex) effectue l'action d'appeler Tammy. Les sujets actifs sont appelés « agents ».
+**La voix passive**, quant à elle, fait référence à une phrase dans laquelle le sujet reçoit l'action. En d'autres termes, le sujet est passif, ou agi par l'agent. Par exemple : « Tammy est appelée par Tex ». Dans cette phrase, Tammy reçoit l'action effectuée par Tex, l'agent.
 
-L'agent, lorsqu'il est mentionné, est généralement précédé du par. Cependant, avec les verbes aimer, connaître et respecter, l'agent est introduit par de à la place.
-Tammy est aimée de Tex. Tammy est aimée de Tex.
-Tex est bien connu de toutes les étudiantes et respecté de tous les professeurs.
+### forme
+= forme conjuguée de **être** + participe passé du verbe principal (+ **par** + agent). Notez que le participe passé s'accorde toujours en nombre et en genre avec le sujet.
 
+* Les Aggies **sont battus** (**par** les Longhorns).
+* Les Aggies **ont été battus** (**par** les Longhorns).
+* Les Aggies **seront battus** (**par** les Longhorns).
 
-les usages
+L'agent, lorsqu'il est mentionné, suit généralement **par**. Cependant, avec les verbes **aimer**, **connaître** et **respecter**, l'agent est introduit par **de** à la place.
+
+* Tammy est aimée **de** Tex.
+* Tex est bien connu **de** toutes les étudiantes et respecté **de** tous les professeurs.
+
+### usage
 La voix passive met l'accent sur l'objet du verbe plutôt que sur le sujet :
 
-Tex a écrit le livre Guerre Tex a écrit le livre Guerre
-et Amour. et l'amour. Le livre Guerre et Le livre War and Love Amour a été écrit par Tex. a été écrit par Tex.
+* **Tex** a écrit le livre *Guerre et Amour*.
+* **Le livre *Guerre et Amour*** a été écrit par Tex.
+
 La voix passive attire l'attention sur un événement sans nécessairement mentionner qui en est responsable :
 
-Oh, Corey et Fiona ont été enlevés Oh, Corey et Fiona ont été enlevés ! enlevé !
+* Oh, Corey et Fiona **ont été enlevés** !
 
-La voix passive est souvent utilisée pour des inventions, des lois et, assez logiquement, pour des événements dont on est victime : Les parents de Tex ont été écrasés. Les parents de Tex ont été écrasés. La loi SOS-tatou a été votée. La loi SOS-tatous a été votée.
+La voix passive est souvent utilisée pour des inventions, des lois et, assez logiquement, pour des événements dont on est victime : 
 
+* Les parents de Tex **ont été écrasés**.
+* La loi SOS-tatou **a été votée**.
+* Un nouveau genre de grammaire **a été créé**.
 
-Un nouveau genre de grammaire a été créé. Un nouveau type de grammaire a été créé.
-moyens d'éviter le passif
+### moyens d'éviter le passif
 La voix passive est plus utilisée en anglais qu'en français. Ainsi, en français, lorsque l'agent du verbe peut être
-identifié, il vaut mieux utiliser la voix active et faire de l'agent le sujet du verbe. Une façon courante d'éviter le passif en français est d'utiliser la voix active avec comme sujet. Par exemple, « On m'a dit que Tex aimait Tammy » serait traduit par « Onm'a dit que Tex aimait Tammy ».
-Lorsque vous faites des déclarations générales sur des faits connus, les verbes pronominaux sont souvent utilisés :
+identifié, il vaut mieux utiliser la voix active et faire de l'agent le sujet du verbe. Une façon courante d'éviter le passif en français est d'utiliser la voix active avec **on** comme sujet. Par exemple, « I was told that Tex loves Tammy » serait traduit par « **On m'a dit** que Tex aimait Tammy ».
 
-Le football américain se joue à onze.
-Le vin rouge se boit à température ambiante. Les frites se mangent avec du ketchup. Le français se parle en Louisiane.
-Écouter le dialogue:
+Pour faire des déclarations générales sur des faits connus, les verbes pronominaux sont souvent utilisés :
 
-Tammy et Tex concernant les informations à la télé. Le journaliste déclare :
-Aujourd'hui, l'équipe des Aggies a été battue et la morale des joueurs est profondément affectée par cette défaite, la dixième fois de la suite de cette saison. Par contre, les Longhorns ont beaucoup de succès. Depuis que le trophée Heisman a été remporté par le légendaire Ricky Williams, rien ne les arrête.
+* Le football américain **se joue** à onze.
+* Le vin rouge **se boit** à température ambiante.
+Les frites **se mangent** avec du ketchup.
+Le français **se parle** en Louisiane.
 
-
-Le football se joue à 11 joueurs. Le vin rouge se boit à température ambiante.
-Les frites se mangent avec du ketchup. Le français est parlé en Louisiane.
-Tammy et Tex regardent les informations à la télévision. Le journaliste déclare :
-Aujourd'hui, l'équipe des Aggies a été battue et le moral des joueurs est profondément affecté par cette défaite, la dixième fois consécutive cette saison. En revanche, les Longhorns ont beaucoup de succès. Depuis que le trophée Heisman a été remporté par le légendaire Ricky Williams, rien ne peut les arrêter.
-
+## Les verbes
 Un verbe peut être défini comme le « mot d'action de la phrase ». Pour déterminer si un mot est un verbe ou non, considérez son rôle dans la phrase. Comment le mot « accès » est-il utilisé dans les phrases suivantes ?
 Ne laissez jamais des étrangers accéder à votre compte bancaire. Si vous ne pouvez pas accéder aux pages Web pendant les heures de pointe, réessayez.
 Dans la première phrase, « accès » est une chose (un nom) que vous pouvez donner à quelqu'un. Dans la deuxième phrase, « accéder » est quelque chose que vous faites (un verbe) avec votre ordinateur. Le fait est que le fait qu'un mot soit considéré comme un nom ou un verbe dépend de la façon dont il est utilisé dans la phrase.
