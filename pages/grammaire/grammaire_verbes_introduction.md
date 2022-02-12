@@ -97,163 +97,160 @@ Les frites **se mangent** avec du ketchup.
 Le français **se parle** en Louisiane.
 
 ## Les verbes
-Un verbe peut être défini comme le « mot d'action de la phrase ». Pour déterminer si un mot est un verbe ou non, considérez son rôle dans la phrase. Comment le mot « accès » est-il utilisé dans les phrases suivantes ?
-Ne laissez jamais des étrangers accéder à votre compte bancaire. Si vous ne pouvez pas accéder aux pages Web pendant les heures de pointe, réessayez.
-Dans la première phrase, « accès » est une chose (un nom) que vous pouvez donner à quelqu'un. Dans la deuxième phrase, « accéder » est quelque chose que vous faites (un verbe) avec votre ordinateur. Le fait est que le fait qu'un mot soit considéré comme un nom ou un verbe dépend de la façon dont il est utilisé dans la phrase.
+Un verbe peut être défini comme le « mot d'action de la phrase ». Pour déterminer si un mot est un verbe ou non, considérez son rôle dans la phrase. Comment le mot « access » est-il utilisé dans les phrases suivantes ?
 
+* Never give strangers **access** to your bank account.
+* If you can't **access** the web pages during peak hours, try again.
 
-infinitifs et conjugaisons
+Dans la première phrase, « access » est une chose (un nom) que vous pouvez donner à quelqu'un. Dans la deuxième phrase, « access » est quelque chose que vous faites (un verbe) avec votre ordinateur. Le fait est que si un mot est considéré comme un nom ou un verbe dépend de la façon dont il est utilisé dans la phrase.
+
+### infinitifs et conjugaisons
 Lorsque vous étudiez les verbes, vous aurez besoin de connaître la différence entre la forme infinitive du verbe et les formes finies, ou formes conjuguées. Les infinitifs anglais sont précédés du mot 'to'.
 
-manger, boire, dormir
-Ces verbes sont appelés infinitifs car, comme le concept d'infini, ils ne sont pas liés par le temps. De l'infinitif, nous dérivons les formes conjuguées du verbe, également connues sous le nom de formes finies du verbe. Ils sont dits finis car ils renvoient à des événements ancrés dans le temps, c'est-à-dire à des événements qui ont un temps particulier : passé, présent, futur. Notez les formes conjuguées de l'infinitif « étudier ».
-J'ai étudié la conjugaison du passé français
-à l'école secondaire.
-J'étudie la conjugaison du présent du français
-au collège ce semestre.
-Je vais étudier la conjugaison du futur français
-l'année prochaine à l'étranger.
+* **to eat**, **to drink**, **to sleep**
 
+Ces verbes sont appelés infinitifs car, comme le concept d'infini, ils ne sont pas liés par le temps. De l'infinitif, nous dérivons les formes conjuguées du verbe, également connues sous le nom de *formes finies* du verbe. Ils sont dits *finis* car ils renvoient à des événements ancrés dans le temps, c'est-à-dire à des événements qui ont un temps particulier : passé, présent, futur. Notez les formes conjuguées de l'infinitif « to study ».
+* I **studied** French in high school. (passé)
+* I **am studying** French in college this semester. (présent)
+* I **will study** French next year overseas. (futur)
 
+Les conjugaisons verbales sont traditionnellement présentées dans les manuels selon des **paradigmes**. Un paradigme comprend toujours l'infinitif suivi des conjugaisons selon la **personne** qui se divise en première, deuxième et troisième, ainsi que le **nombre**, qui est la distinction entre singulier et pluriel.
 
-Les conjugaisons des verbes sont traditionnellement présentées dans les manuels selon des paradigmes, un terme grammatical pour motif. Un paradigme comprend toujours l'infinitif suivi des conjugaisons selon la personne qui se divise en premier, deuxième et troisième, ainsi que le nombre, qui est la distinction entre singulier et pluriel.
+Voici le paradigme du présent du verbe **parler**.
 
-Les verbes réguliers du français se répartissent en trois classes basées sur les deux dernières lettres du verbe. Chaque classe a un modèle particulier deconjugaison. Ces classes de verbes sont généralement appelées première conjugaison, deuxième conjugaison et troisième conjugaison.
+| parler |
+| | singulier | pluriel |
+| 1ère personne | je parle | nous parlons |
+| 2ème personne | tu parles | vous parlez |
+| 3ème personne | il/elle/on parle | ils/elles parlent |
 
+Les verbes réguliers du français se répartissent en trois classes basées sur les deux dernières lettres du verbe. Chaque classe a un modèle particulier de conjugaison. Ces classes de verbes sont généralement appelées première conjugaison, deuxième conjugaison et troisième conjugaison.
 
-participes
+| 1ère conjugaison (verbes -er) |
+| danser | regarder |
+
+| 2ème conjugaison (verbes -ir) |
+| finir | obéir |
+
+| 3ème conjugaison (verbes -re) |
+| vendre | entendre |
+
+### participes
 Un participe est une forme verbale spéciale qui est dérivée de l'infinitif mais qui n'est pas conjuguée. Autrement dit, alors que les conjugaisons se présentent sous des paradigmes de six formes selon six personnes différentes, les participes n'ont que deux formes, nommées selon leurs usages : le participe présent et le participe passé.
-Un participe présent en français se termine par -ant et est fréquemment utilisé comme adjectif. Les participes présents français sont généralement traduits par la forme -ing du verbe anglais. Notez que la forme adjectivale du participe présent doit s'accorder en nombre et en genre avec le nom qu'elle modifie. Dans l'exemple, le participe est mis en accord avec le nom pluriel (les animaux) en ajoutant -s.
-Les tatouages ​​sont des animaux fascinants. Les tatous sont des animaux fascinants.
 
+Un participe présent en français se termine par **-ant** et est fréquemment utilisé comme adjectif. Les participes présents français sont généralement traduits par la forme **-ing** du verbe anglais. Notez que la forme adjectivale du participe présent doit s'accorder en nombre et en genre avec le nom qu'elle modifie. Dans l'exemple, le participe est mis en accord avec le nom pluriel (les animaux) en ajoutant **-s**.
 
+* Les tatous ​​sont des animaux **fascinants**.
 
-Un participe passé en français est utilisé pour former des temps composés, comme le « passé composé ». Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'accorde en nombre et en genre
+Un participe passé en français est utilisé pour former des temps composés, comme le passé composé. Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'accorde en nombre et en genre
 avec le nom il qualifie.
-Tex a perdu une lettre d'amour de Tex a perdu une lettre d'amour de Bette.
-Bette.
-Et Tammy a trouvé la lettre perdue! Et Tammy a trouvé la lettre perdue !
 
+* Tex a **perdu** une lettre d'amour de Bette.
+* Et Tammy a trouvé la lettre **perdue**!
 
-Dans le premier exemple, le participe 'perdu' se combine avec le verbe auxiliaire pour former le passé de perdre (perdre). Dans le deuxième exemple, le participe est utilisé comme adjectif pour modifier le nom 'la lettre'. Notez comment le -e final sur le participe indique l'accord avec le nom féminin.
+Dans le premier exemple, le participe 'perdu' se combine avec le verbe auxiliaire pour former le passé de **perdre**. Dans le deuxième exemple, le participe est utilisé comme adjectif pour modifier le nom 'la lettre'. Notez comment le **-e** final sur le participe indique l'accord avec le nom féminin.
 
+### auxiliaires communs et modaux
+Les auxiliaires sont des verbes qui se combinent avec le verbe principal pour former une phrase verbale. Il existe deux groupes de verbes auxiliaires : les auxiliaires communs et les modaux. Les deux verbes auxiliaires communs en français, **avoir** et **être**, sont utilisés pour former de nombreux temps. Un temps qui n'a qu'un verbe principal et aucun auxiliaire est appelé un temps simple. Un temps verbal composé d'un verbe principal et de son auxiliaire est appelé un temps composé.
 
-auxiliaires et modaux communs
-Les auxiliaires, souvent appelés « verbes d'aide », sont des verbes qui se combinent avec le verbe principal pour former une phrase verbale. Il existe deux groupes de verbes auxiliaires : les auxiliaires communs et les modaux. Les deux verbes auxiliaires courants en français, avoir (avoir) et être (être) sont utilisés pour former de nombreux temps. Un temps qui n'a qu'un verbe principal et aucun auxiliaire est appelé un temps simple. Un temps verbal composé d'un verbe principal et de son auxiliaire est appelé un temps composé.
-Joe-Bob écoute la musique country.
-Joe-Bob a écouté de la musique country.
+* Joe-Bob **écoute** la musique country.
+* Joe-Bob **a écouté** de la musique country.
 
 Dans le premier exemple, le verbe principal 'écouter' est au présent simple. Dans le deuxième exemple, le verbe est au passé composé, un temps qui combine le verbe auxiliaire 'avoir' avec le participe passé de 'écouter'.
-Les modaux sont des verbes auxiliaires spéciaux qui expriment l'attitude du locuteur. En bref, les verbes modaux sont des « verbes de mauvaise humeur ». Par exemple, les verbes modaux indiquent des nuances subtiles de sens concernant des choses telles que la probabilité d'un événement ou l'obligation morale d'un événement. Les verbes modaux les plus fréquents en anglais sont les suivants : should, could, may, could, ought, must.
-Notez comment les verbes modaux suivants en français et en anglais expriment une attitude d'urgence accrue.
 
-Tex peut quitter la France. Tex peut quitter la France. Tex devrait quitter la France ! Tex devrait quitter la France ! Tex doit quitter la France !! Tex doit quitter la France !!
+Les **modaux** sont des verbes auxiliaires spéciaux qui expriment l'attitude du locuteur. Par exemple, les verbes modaux indiquent des nuances subtiles de sens concernant des choses telles que la probabilité d'un événement ou l'obligation morale d'un événement. Les verbes modaux les plus fréquents en anglais sont les suivants : should, could, may, might, ought to, must.
+Notez comment les verbes modaux suivants expriment une attitude d'urgence accrue.
 
-verbes transitifs vs verbes intransitifs
-Les verbes transitifs nécessitent un objet direct tandis que les verbes intransitifs ne permettent pas un objet. Un objet direct est généralement défini comme la partie qui reçoit directement l'action désignée par le verbe. Les termes « transitif » et « intransitif » sont dérivés du terme grammatical transitivité qui désigne le transfert d'une action du sujet (S) à l'objet direct (DO).
-Texte transitif (S) écrit un poème (DO). Tex écrit un poème.
-Tri Tex intransitif (S). Tex sort.
+* Tex **peut** quitter la France.
+* Tex **devrait** quitter la France ! 
+* Tex **doit** quitter la France !!
 
+### verbes transitifs et intransitifs
+Les verbes transitifs nécessitent un objet direct tandis que les verbes intransitifs ne permettent pas un objet. Un objet direct est généralement défini comme la partie qui reçoit directement l'action désignée par le verbe. Les termes « transitif » et « intransitif » sont dérivés du terme grammatical **transitivité** qui désigne le transfert d'une action du sujet (S) à l'objet direct (OD).
+* Transitif: Tex (S) écrit un poème (DO).
+* Intransitif: Tex (S) sort.
 
+### Verbes français vs anglais
+Il existe une différence importante entre les verbes français et anglais qui cause souvent des problèmes aux apprenants. Il existe une fréquence élevée de verbes anglais qui se combinent avec une particule (généralement une préposition) pour exprimer des significations idiomatiques. Les anglophones peuvent changer complètement le sens du verbe en changeant la particule. Considérez le verbe extrêmement polyvalent 'to get'.
 
-Verbes français vs anglais
-Il existe une différence importante entre les verbes français et anglais qui cause souvent des problèmes aux apprenants débutants. Il existe une fréquence élevée de verbes anglais qui se combinent avec une particule (généralement une préposition) pour exprimer des significations idiomatiques. Les anglophones peuvent changer complètement le sens du verbe en changeant le
+| GET + particule | sens | équivalent français |
+| to get about | to move around | **se déplacer** |
+| to get better | to recover | **se remettre** |
+| to get out | to leave | **sortir**, **descendre** |
+| to get up | to get out of bed | **se lever** |
 
 Afin de transmettre les différences de sens des constructions « get + particule », notez comment le français utilise des verbes complètement différents. Par conséquent, lorsque vous traduisez de tels verbes de l'anglais vers le français, vous ne devez jamais traduire mot à mot (c'est-à-dire traduire le verbe et la particule séparément). Puisque le verbe et la particule « vont ensemble » en anglais, ils doivent être traduits comme une unité en français.
 
-définitions : transitif direct, transitif indirect, intransitif
+## Transitivité
+### définitions : transitif direct, transitif indirect, intransitif
 Les verbes transitifs ont par définition un objet, soit un objet direct, soit un objet indirect. Les verbes intransitifs n'ont jamais d'objets.
-Un verbe transitif direct agit directement sur son objet. Dans la première phrase ci-dessous, le téléphone est l'objet direct. Le verbe 'entendre' (entendre) prend toujours un complément ; on entend quelqu'un ou quelque chose.
+Un verbe *transitif direct* agit directement sur son **objet**. Dans la première phrase ci-dessous, le téléphone est l'objet direct. Le verbe 'entendre' prend toujours un complément ; on entend **quelqu'un** ou **quelque chose**.
 
+Un verbe *transitif indirect* agit **vers** ou **pour** son objet. Tex est l'objet de la préposition **à** dans la deuxième phrase puisque Joe-Bob lui parle.
 
+Les verbes *intransitifs*, en revanche, n'ont **aucun objet**. Le verbe dormir dans le dernier exemple n'a besoin d'aucun objet pour le compléter. En fait, parce que le verbe est intransitif, il ne peut pas prendre d'objet. Les verbes intransitifs (ainsi que les verbes transitifs) peuvent être modifiés par des adverbes ou des phrases prépositionnelles : « Joe-Bob dort dans la voiture ; il dort tout le temps. »
 
-Un verbe transitif-indirect agit vers ou pour son objet. Tex est l'objet de la préposition à dans la deuxième phrase puisque Joe-Bob lui parle.
-Les verbes intransitifs, en revanche, n'ont aucun objet. Le verbe dormirsleep) dans le dernier exemple, n'a besoin d'aucun objet pour le compléter. En fait, parce que le verbe est intransitif, il ne peut pas prendre d'objet. Les verbes intransitifs (ainsi que les verbes transitifs) peuvent être modifiés par des adverbes ou des phrases prépositionnelles : « Joe-Bob dort dans la voiture ; il dort tout le temps.
-Tex entend le téléphone. transitif-direct Tex entend le téléphone.
-Joe-Bob parle à Tex. transitif-indirect Job-Bob parle à Tex.
-Joe-Bob dort souvent au volant. intransitif Joe-Bob dort souvent au volant.
+* Tex entend **le téléphone**. (transitif direct)
+* Joe-Bob parle **à Tex**. (transitif indirect)
+* Joe-Bob **dort** souvent au volant. (intransitif)
 
-Pour plus d'exemples et de discussions, revoyez les remarques sur les verbes transitifs par rapport aux verbes intransitifs dans l'introduction.
+### verbes transitifs
+Parce que la transitivité concerne le sens, la plupart des verbes anglais et français maintiennent généralement la même distinction. Ainsi, les verbes transitifs en anglais sont également transitifs en français, et les verbes intransitifs en français sont également intransitifs en anglais. Les exemples suivants sont transitifs en français et en anglais.
 
+* Tex **mange** un croissant et il **boit** du café. (Tex **is eating** a croissant and **drinking** some coffee.)
+* Il **finit** son petit déjeuner (He **is finishing** his breakfast)
+* et il **lit** le journal. Dring, Dring. C'est Joe-Bob au téléphone. (and **reading** the newspaper. Ring ring. It's Joe-Bob on the telephone.)
 
-
-
-verbes transitifs
-Parce que la transitivité a à voir avec le sens, la plupart des verbes anglais et français maintiennent généralement la même distinction. Ainsi, les verbes transitifs en anglais sont également transitifs en français, et les verbes intransitifs en français sont également intransitifs en anglais. Les exemples suivants sont transitifs en français et en anglais.
-
-Tex mange un croissant et il boit du café. Tex mange un croissant et boit du café.
-Il finit son petit déjeuner Il termine son petit déjeuner
-et il a allumé le journal. Dring, Dring. C'est Joe et lire le journal. Ding Dong. C'est Bob au téléphone. Joe-Bob au téléphone.
-
-
-
-cas spéciaux
-objet direct en français / préposition + objet en anglais
+### cas spéciaux
+#### objet direct en français / préposition + objet en anglais
 Il existe cependant des cas particuliers où la transitivité des verbes français et anglais s'oppose. Il existe plusieurs verbes très courants qui prennent un objet direct en français, tandis que l'équivalent anglais est suivi d'une préposition (at, to, for) et d'un object. REDCAP est l'acronyme des verbes les plus fréquents de cette catégorie : Regarder, Ecouter, Demander, Chercher, Attendre, Payer.
 
+* Joe-Bob explique ce qui s'est passé :
+* Joe-Bob : Je roulais en voiture. Je **regardais** (was **looking at**) les filles.
+* J'**écoutais** (was **listening to**) de la musique country à la radio. J'écoutais de la musique country à la radio.
+* Et puis, oh, là là. J'ai eu un accident de voiture. La police est arrivée et le flic m'**a demandé** (**asked for**) mes papiers.
+* J'**ai cherché** (**looked for**) ma carte d'identité, mais je ne l'ai pas trouvée.
+* Pas de chance ! Je suis au commissariat et j'**attends** (am **waiting for**) mon avocat.
+* Tex, j'espère que tu vas **payer** (**pay for**) la contravention !
 
-Joe-Bob explique ce qui s'est passé :
-
-
-Joe-Bob : Je roulais en voiture. Je regarde Joe-Bob : Je conduisais. Je cherchais les filles. chez les filles.
-J'écoutais de la musique country à la radio. J'écoutais de la musique country à la radio.
-Et puis, oh, là là. J'ai eu un accident de voiture. La police est arrivée et le flic m'a demandé mes papiers.
-J'ai cherché ma carte d'identité, mais je ne l'ai pas trouvé.
-Pas de chance ! Je suis au commissariat et j'attends mon avocat.
-Tex, j'espère que tu vas payer la contravention !
-Et puis, oh, la, la. J'ai eu un accident. La police est venue et le flic a demandé mes papiers.
-J'ai cherché ma carte d'identité, mais je ne l'ai pas trouvée.
-Pas de chance! Je suis au commissariat et j'attends mon avocat.
-Tex, j'espère que tu paieras le billet.
-
-
-préposition + object en français / object direct en anglais
+#### préposition + object en français / object direct en anglais
 Il existe également plusieurs verbes qui ont une préposition et un objet en français, alors que l'équivalent anglais prend un objet direct.
-Joe-Bob téléphone à Tex. Joe-Bob téléphones à Tex.
-Voici des exemples de tels verbes. Ceux-ci sont discutés plus en détail avec les objets indirects et les pronoms d'objets indirects.
-obéir à, obéir répondre à, répondre
-pardonner à, pardonner, pardonner résister à, résister
-rendre visite à, rendre visite à (quelqu'un) ressembler à, ressembler
-renoncer à, renoncer, renoncer à téléphoner à, téléphoner
 
+* téléphoner à (call)
+* obéir à (obey)
+* répondre à (answer)
+* pardonner à (forgive)
+* résister à (resist)
+* rendre visite à (visit (someone))
+* ressembler à (resemble)
+* renoncer à (give up, renounce)
 
-objets énoncés et implicites
-Pour de nombreux verbes transitifs, tant en français qu'en anglais, l'objet est parfois implicite ou compris. Ne vous préoccupez pas d'étiqueter ces verbes, car le sens sera clair d'après le contexte ; et, comme la plupart des verbes, ils formeront leur passé composé avec avoir.
-verbe transitif / objet implicite verbe transitif / objet énoncé
-En voiture, Joe-Bob chante toujours. (Joe-En voiture, Joe-Bob chante toujours Bob chante toujours dans la voiture.) Freebird. (Joe-Bob chante toujours Freebird dans la voiture.)
-Il parle fort. (Il parle fort.) Il parle anglais. (Il parle anglais.)
-Je rêve. (Il rêve.) Il rêve de hamburgers et de filles. (Il rêve de hamburgers et de filles.)
+### objets énoncés et implicites
+Pour de nombreux verbes transitifs, tant en français qu'en anglais, l'objet est parfois implicite ou compris. Ne vous préoccupez pas d'étiqueter ces verbes, car le sens sera clair d'après le contexte ; et, comme la plupart des verbes, ils formeront leur passé composé avec **avoir**.
+| verbe transitif / objet implicite | verbe transitif / objet énoncé |
+| En voiture, Joe-Bob **chante** toujours. | En voiture, Joe-Bob **chante** toujours **Freebird**. |
+| Il **parle** fort. | Il **parle anglais**. |
+| Il **rêve**. | Il **rêve de hamburgers et de filles**. |
+| Il **grignotte** tout le temps. | Il **grignotte des cacahouettes**. |
 
+### verbes intransitifs
+Peut-être avez-vous déjà vu des verbes qui utilisent **être** pour former le passé composé. Ces verbes (**aller**, **arriver**, **partir**, **sortir**, etc.) sont les verbes intransitifs les plus fréquents. Les **verbes être** sont souvent décrits comme des verbes de mouvement, mais il est important de noter qu'il existe de nombreux autres verbes de mouvement intransitifs qui utilisent l'auxiliaire **avoir**, par exemple, « marcher » et « courir » : 'Tex a marché vite. Les enfants de Rita ont couru.'
 
+### transitif ou intransitif
+Certains verbes peuvent être transitifs ou intransitifs. Comparez les verbes suivants. Notez que le verbe **sortir** utilise le verbe auxiliaire **être** au passé composé comme verbe intransitif, mais **avoir** au passé composé lorsqu'il est utilisé transitivement.
 
-
-
-Il grignotte tout le temps. Il grignotte des cacahouettes.
-
-
-
-verbes intransitifs
-Peut-être avez-vous déjà vu des verbes qui utilisent être pour former le passé composé. Ces verbes être (aller, arriver, partir, sortir, etc.) sont les verbes intransitifs les plus fréquents et ils sont résumés dans l'Alamo d'être. Les verbes Etre sont souvent décrits comme des verbes de mouvement, mais il est important de noter qu'il existe de nombreux autres verbes de mouvement intransitifs qui utilisent l'auxiliaire avoir, par exemple, « marcher » (marcher) et « courir » (courir) : » Tex a marché vite. Les enfants de Rita ont couru.'
-
-transitif ou intransitif
-Certains verbes peuvent être transitifs ou intransitifs. Comparez les verbes suivants. Notez que le verbe sortir utilise le verbe auxiliaire être au passé composé comme verbe intransitif, mais avoir au passé composé lorsqu'il est utilisé
-transitivement.
-
- intransitif / pas d'objet transitif / utilisé avec un objet
-Le week-end passé, Joe-Bob est sorti. (Le week-end dernier Joe-Bob est sorti.) Le week-end passé, Joe-Bob a sorti son beau camion. (Le week-end dernier, Joe-Bob a sorti son beau camion.)
-Au commissariat, la tension de Joe-Bob monte. (Au poste de police, la tension artérielle de Joe-Bob augmente.)Joe-Bob monte l'escalier. (Joe-Bob monte les escaliers.)
-
+| intransitif / pas d'objet | transitif / utilisé avec un objet |
+| Le week-end passé, Joe-Bob **est sorti**. | Le week-end passé, Joe-Bob **a sorti son beau camion**. |
+| Au commissariat, la tension de Joe-Bob **monte**. | Joe-Bob **monte l'escalier**. |
 
 Il existe plusieurs cas où un verbe qui peut être transitif ou intransitif en anglais doit être traduit par deux verbes différents en français : 'to return' (retourner, rendre), 'to leave' (partir, laisser, quitter).
 
-
-verbes avec objets directs et indirects
-De nombreux verbes transitifs peuvent avoir à la fois un objet direct et un objet indirect, par exemple : Tex donne des conseils à Joe-Bob. Tex donne des conseils à Joe-Bob.
-
-
+### verbes avec objets directs et indirects
+De nombreux verbes transitifs peuvent avoir à la fois un objet direct et un objet indirect, par exemple :
+* Tex donne **des conseils à Joe-Bob**.
 
 Voici une liste de quelques verbes bivalents courants :
 
-acheter, acheter expliquer, expliquer apporter, apporter montrer, montrer apprendre, apprendre offrir, offrir (donner) demander, demander prêter, prêter donner, donner promettre, promettre écrire, écrire rendre, to donner retour emprunter, emprunter servir, servir envoyer, envoyer vendre, vendre
+* acheter, expliquer, apporter, montrer, apprendre, offrir, demander, prêter, donner, promettre, écrire, rendre, emprunter, servir, envoyer, vendre
 
 {% include links.html %}
