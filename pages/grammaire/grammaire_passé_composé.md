@@ -93,7 +93,7 @@ La négation se forme en plaçant **ne ... pas** autour du verbe conjugué, qui 
 ### l'Alamo d'être
 De nombreux verbes intransitifs, c'est-à-dire les verbes non suivis d'un complément d'objet direct, prennent **être** au passé composé. Beaucoup de ces verbes indiquent également le mouvement. Même naître (être né) et mourir (mourir) peut être considéré comme des termes de mouvement (par rapport à la vie) en termes métaphoriques. L'Alamo d'Être illustre ce groupe de verbes.
 
-![L'Alamo d'Être](/images/alamo.gif)
+{% include image.html file="alamo.gif" alt="L'Alamo d'Être" %}
 
 Quelques-uns de ces verbes de mouvement (**monter**, **descendre**, **sortir**, **passer**, **retourner**) peuvent parfois prendre un complément d'objet direct, devenant ainsi transitifs. Quand ils le font, l'auxiliaire utilisé est **avoir**, au lieu d'**être**. Exemple:
 

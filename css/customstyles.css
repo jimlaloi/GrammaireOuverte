@@ -928,7 +928,8 @@ span.soft {
 }
 
 /* this part adds an icon after external links, using FontAwesome*/
-a[href^="http://"]:after, a[href^="https://"]:after {
+/* I'm commenting it out because I don't want these icons after every external link - JL */
+/*a[href^="http://"]:after, a[href^="https://"]:after {
     content: "\f08e";
     font-family: FontAwesome;
     font-weight: normal;
@@ -936,7 +937,7 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     display: inline-block;
     text-decoration: none;
     padding-left: 3px;
-}
+} */
 
 /* Strip the outbound icon when this class is present */
 a[href].noCrossRef::after,
@@ -1200,4 +1201,31 @@ h4.panel-title {
     .collapse.in{
         display:block !important;
     }
+}
+
+.fa-custom{
+    display:inline-block;
+    font:normal normal normal 14px/1 FontAwesome;
+    font-size:inherit;
+    text-rendering:auto;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale
+}
+
+.fa-lg-custom{
+    font-size:1.33333333em;
+    line-height:.75em;
+    vertical-align:-15%
+}
+
+.fa-logo::before{
+    content: "";
+    display:inline-block;
+    height:2em;
+    width:2em;
+    background-size: 2em 2em;
+    background-image: url(/images/go_logo.svg);
+    background-repeat: no-repeat;
+    vertical-align: -.75em;
+    margin-top: -20px
 }

@@ -33,9 +33,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Grammaire Ouverte feedback
+feedback_subject_line: Grammaire Ouverte
 
-feedback_email: jimlaw@byu.edu
+feedback_email: contact@grammaireouverte.org
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
