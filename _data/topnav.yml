@@ -1,25 +1,15 @@
-## Topnav single links
-## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-#topnav:
-#- title: Topnav
-#  items:
-#    - title: GitHub
-#      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-#    - title: News
-#      url: /news
-
 #Topnav dropdowns
-#topnav_dropdowns:
-#- title: Topnav dropdowns
-#  folders:
-#    - title: Jekyll Help
-#      folderitems:
-#        - title: Jekyll Talk
-#          external_url: https://talk.jekyllrb.com
-#        - title: Jekyll documentation
-#          external_url: http://jekyllrb.com/docs/home/
-#        - title: Jekyll on Stack Overflow
-#          external_url: http://stackoverflow.com/questions/tagged/jekyll
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Accueil
+      folderitems:
+        - title: Page d'accueil
+          url: /index
+        - title: À propos
+          url: /accueil_àpropos
+        - title: Aux instructeurs
+          url: /accueil_instructeurs
 #        - title: Jekyll on my blog
 #          external_url: http://idratherbewriting.com/category-jekyll/
 #    - title: Products
@@ -30,5 +20,15 @@
 #          url: /grammaire_bienvenue.html
 #        - title: Product 2
 #          url: /p2_landing_page.html
+
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+#    - title: GitHub
+#      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+    - title: Nouvelles
+      url: /nouvelles
 
 # Copyright 2021 Google LLC

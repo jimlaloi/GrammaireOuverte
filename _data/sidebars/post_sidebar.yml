@@ -8,10 +8,13 @@ entries:
   - title: Navigation
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: Nouvelles récentes
+      url: /nouvelles.html
       output: web
-    - title: Grammaire
+    - title: Archives
+      url: /nouvelles_archives.html
+      output: web
+    - title: Accueil
       url: /index.html
       output: web
 

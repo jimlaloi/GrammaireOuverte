@@ -3,8 +3,9 @@ title: Aux instructeurs
 keywords: instructeurs, instructors
 summary: 
 sidebar: grammaire_sidebar
-permalink: grammaire_instructeurs.html
-folder: grammaire
+permalink: accueil_instructeurs.html
+folder: accueil
+toc: false
 ---
 
 ## Approche

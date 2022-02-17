@@ -19,22 +19,6 @@ entries:
       url: /tocpage.html
       output: pdf
       type: frontmatter
-      
-  - title: Information
-    output: web, pdf
-
-    folderitems:
-    - title: Bienvenue
-      url: /index.html
-      output: web
-
-    - title: Aux instructeurs
-      url: /grammaire_instructeurs.html
-      output: web, pdf
-
-    - title: Introduction aux termes
-      url: /grammaire_termes.html
-      output: web, pdf
 
   - title: Noms et pronoms
     output: web, pdf

@@ -1176,6 +1176,7 @@ h4.panel-title {
     }
     .navbar-toggle {
         display: block;
+        pointer-events: auto
     }
     .navbar-collapse {
         border-top: 1px solid transparent;
