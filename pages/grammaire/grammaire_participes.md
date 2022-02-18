@@ -7,59 +7,42 @@ permalink: grammaire_participes.html
 folder: grammaire
 ---
 
-## Heading
+## Participe présent
+Le participe présent est formé en supprimant la terminaison **-ons** de la forme **nous** au présent et en ajoutant **-ant**. Les participes présents sont invariables.
 
-Page under construction
+* chanter (nous **chant**ons) > **chantant**
+* finir (nous **finiss**ons) > **finissant**
+* lire (nous **lis**ons) > **lisant**
+* boire (nous **buv**ons) > **buvant**
+* suivre (nous **suiv**ons) > **suivant**
+* commencer (nous **commenç**ons) > **commençant**
+* manger (nous **mange**ons) > **mangeant**
+* se laver (nous nous **lav**ons) > **se lavant**
 
-Les participes présents sont invariables.
-formation régulière
-chanter (nous chantons) chantant
-finir (nous finissons)
-lire (nous lisons) lisant
-boire (nous buvons) buvant
-suivre (nous suivons) suivant
-commencer (nous commençons)
-manger (nous mangeons) mangeant
-se laver (nous nous lavons) se laver
+Seuls trois verbes, **être**, **avoir** et **savoir**, ont des participes présents irréguliers.
 
-Le participe présent est formé en supprimant les -ons se terminant par la forme nous au présent et en ajoutant -ant.
+* être: **étant**
+* avoir: **ayant**
+* savoir: **sachant**
 
-Seuls trois verbes, être, avoir et savoir, ont des participes présents irréguliers.
+Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une proposition relative avec **qui + verbe conjugué** soit à une proposition relative avec **puisque**.
 
-participes présents irréguliers
-être:étant avoir: ayant savoir: sachant
+* Tex : Les tatous **ayant une voiture** ont beaucoup de succès avec les filles. (Les tatous **qui ont une voiture**...)
+* Tex : **Tammy étant absente**, je peux t'emmener faire une balade en voiture, Bette. (**Puisque Tammy est absente**...)
 
-Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une proposition relative avec qui +
-verbe conjugué ou une proposition relative avec puisque.
-Tex : Les tatous ayant une voiture ont Les tatous qui ont une voiture sont très
-beaucoup de succès avec les filles. réussi avec les filles.
-(Les tatous qui ont une voiture ont
-beaucoup de succès avec les filles.)
-Tex : Tammy étant absente, je peux Puisque Tammy n'est pas là, je peux t'emmener
-t'emmener faire une balade envoiture, a ride in my car, Bette.
-Bette.
-(Puisque Tammy est absente, je peux
-t'emmener faire une balade en voiture,
-Bette.)
+**En + participe présent**, souvent appelé le gérondif, est utilisé pour indiquer que deux actions sont exécutées simultanément par le même sujet. Cela correspond à l'anglais 'while', 'upon' ou 'by'.
 
+* Tex drague les filles **en conduisant** sa décapotable.
+* Tex conduit **en écoutant** la radio.
 
-En + participe présent, communément appelé forme du gérondif, est utilisé pour indiquer que deux actions sont exécutées simultanément par le même sujet. Cela correspond à l'anglais 'while', 'upon' ou 'by'.
+**Tout en + participe présent** est utilisé pour souligner que deux actions sont simultanées (et parfois contradictoires). Pensez à faire la liaison entre **tout** et **en**.
 
-Tex drague les filles en Tex drague les filles en la conduisant au volant de sa décapotable. décapotable.
-Tex conduit en écoutant la Tex conduit en écoutant la radio. à la radio.
+* Tex siffle **tout en conduisant**.
+* Tex drague Bette **tout en pensant** à Tammy.
 
+Notez que les formes anglaises en **-ing** sont généralement traduites par une construction infinitive en français plutôt que par un participe présent. Par exemple:
 
-
-Tout en + participe présent est utilisé pour souligner que deux actions sont simultanées (et parfois contradictoires). Pensez à faire la liaison entre tout et en.
-
-Tex siffle tout en menant. Tex siffle et conduit en même temps.
-
-Tex drague Bette tout en pensant à Tammy. Tex tape sur Bette, tout en pensant à Tammy.
-Notez que les formes anglaises -ing sont généralement traduites par une construction infinitive en français plutôt qu'un présent
-participe. Par exemple:
-Avant de venir au Texas, Tex n'aimait pas Avant de venir au Texas, Tex n'aimait pas
-chatons. les minette.
-Mais Tex change d'avis. Mais Tex est en train de changer d'avis. 
-
+* **Avant de venir** au Texas, Tex n'aimait pas les minettes. (**Before coming** to Texas...)
+* Mais Tex **est en train de changer** d'avis. (But Tex **is changing** his mind.)
 
 {% include links.html %}
