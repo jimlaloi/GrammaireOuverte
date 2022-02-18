@@ -7,8 +7,6 @@ permalink: grammaire_mots_indéfinis.html
 folder: grammaire
 ---
 
-## Heading
-
-Page under construction
+Cette page est en construction.
 
 {% include links.html %}

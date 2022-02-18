@@ -7,8 +7,6 @@ permalink: grammaire_infinitif.html
 folder: grammaire
 ---
 
-## Heading
-
-Page under construction
+Cette page est en construction.
 
 {% include links.html %}
