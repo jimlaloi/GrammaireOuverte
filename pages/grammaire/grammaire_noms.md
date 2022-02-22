@@ -1,7 +1,7 @@
 ---
-title: Noms
+title: Les noms
 keywords: noms, nouns
-summary: "Noms en français"
+summary: "reconnaître et décliner les noms selon leur genre et nombre"
 sidebar: grammaire_sidebar
 permalink: grammaire_noms.html
 folder: grammaire

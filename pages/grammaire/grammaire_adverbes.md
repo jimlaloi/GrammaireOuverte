@@ -1,5 +1,5 @@
 ---
-title: Adverbes
+title: Les adverbes
 keywords: adverbes, adverbs
 summary: "Adverbes en français"
 sidebar: grammaire_sidebar

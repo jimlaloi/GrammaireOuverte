@@ -1,5 +1,5 @@
 ---
-title: Pronoms relatifs
+title: Les pronoms relatifs
 keywords: pronoms, relatif
 summary: "Pronoms relatifs en français"
 sidebar: grammaire_sidebar

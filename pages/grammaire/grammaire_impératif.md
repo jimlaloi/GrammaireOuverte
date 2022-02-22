@@ -1,5 +1,5 @@
 ---
-title: Impératif
+title: L'impératif
 keywords: impératif, imperative
 summary: "L'impératif en français"
 sidebar: grammaire_sidebar

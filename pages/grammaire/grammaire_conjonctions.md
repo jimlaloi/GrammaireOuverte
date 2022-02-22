@@ -1,5 +1,5 @@
 ---
-title: Conjonctions
+title: Les conjonctions
 keywords: conjonctions, conjunctions
 summary: "Conjonctions en français"
 sidebar: grammaire_sidebar

@@ -1,7 +1,7 @@
 ---
-title: Pronoms démonstratifs
+title: Les pronoms démonstratifs
 keywords: pronoms, démonstratif
-summary: "Pronoms démonstratifs en français"
+summary: "utiliser les pronoms démonstratifs correctement"
 sidebar: grammaire_sidebar
 permalink: grammaire_pronoms_démonstratifs.html
 folder: grammaire

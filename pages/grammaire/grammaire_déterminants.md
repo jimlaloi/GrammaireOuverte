@@ -1,5 +1,5 @@
 ---
-title: Déterminants
+title: Les déterminants
 keywords: déterminants, determiners
 summary: "Déterminants en français"
 sidebar: grammaire_sidebar

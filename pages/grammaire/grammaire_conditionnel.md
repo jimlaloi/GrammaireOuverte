@@ -1,5 +1,5 @@
 ---
-title: Conditionnel
+title: Le conditionnel
 keywords: conditionnel, conditional
 summary: "Le conditionnel en français"
 sidebar: grammaire_sidebar

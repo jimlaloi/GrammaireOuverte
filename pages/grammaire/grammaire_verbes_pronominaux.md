@@ -1,5 +1,5 @@
 ---
-title: Verbes pronominaux
+title: Les verbes pronominaux
 keywords: verbes, pronominaux
 summary: "Verbes pronominaux en français"
 sidebar: grammaire_sidebar

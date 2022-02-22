@@ -1,5 +1,5 @@
 ---
-title: Prépositions
+title: Les prépositions
 keywords: prépositions, prepositions
 summary: "Prépositions en français"
 sidebar: grammaire_sidebar

@@ -1,5 +1,5 @@
 ---
-title: Temps littéraires
+title: Les temps littéraires
 keywords: temps littéraires, verbes
 summary: "Les temps littéraires en français"
 sidebar: grammaire_sidebar

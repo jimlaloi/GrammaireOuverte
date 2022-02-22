@@ -1,5 +1,5 @@
 ---
-title: Participes
+title: Les participes
 keywords: participes, participles
 summary: "Participes en français"
 sidebar: grammaire_sidebar

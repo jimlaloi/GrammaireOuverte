@@ -1,5 +1,5 @@
 ---
-title: Imparfait
+title: L'imparfait
 keywords: imparfait, imperfect
 summary: "L'imparfait en français"
 sidebar: grammaire_sidebar

@@ -1,5 +1,5 @@
 ---
-title: Subjonctif
+title: Le subjonctif
 keywords: subjonctif, subjunctive
 summary: "Le subjonctif en français"
 sidebar: grammaire_sidebar

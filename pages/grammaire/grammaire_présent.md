@@ -1,5 +1,5 @@
 ---
-title: Présent
+title: Le présent
 keywords: présent, present
 summary: "Le présent en français"
 sidebar: grammaire_sidebar

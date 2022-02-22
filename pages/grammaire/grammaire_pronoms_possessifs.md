@@ -1,5 +1,5 @@
 ---
-title: Pronoms possessifs
+title: Les pronoms possessifs
 keywords: pronoms, possessifs
 summary: "Pronoms possessifs en français"
 sidebar: grammaire_sidebar

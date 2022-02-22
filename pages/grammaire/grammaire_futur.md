@@ -1,5 +1,5 @@
 ---
-title: Futur
+title: Le futur
 keywords: futur, future
 summary: "Le futur en français"
 sidebar: grammaire_sidebar

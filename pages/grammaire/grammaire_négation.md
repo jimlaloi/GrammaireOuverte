@@ -1,5 +1,5 @@
 ---
-title: Négation
+title: La négation
 keywords: négation, negation
 summary: "Négation en français"
 sidebar: grammaire_sidebar

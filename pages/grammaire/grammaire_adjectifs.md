@@ -1,5 +1,5 @@
 ---
-title: Adjectifs
+title: Les adjectifs
 keywords: adjectifs, adjectives
 summary: "Adjectifs en français"
 sidebar: grammaire_sidebar

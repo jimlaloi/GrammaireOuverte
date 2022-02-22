@@ -1,5 +1,5 @@
 ---
-title: Passé composé
+title: Le passé composé
 keywords: passé, composé, past
 summary: "Le passé composé en français"
 sidebar: grammaire_sidebar

@@ -1,5 +1,5 @@
 ---
-title: Verbes semi-auxiliaires
+title: Les verbes semi-auxiliaires
 keywords: verbes semi-auxiliaires, verbes, auxiliaires, semi-auxiliaires
 summary: "Verbes semi-auxiliaires en français"
 sidebar: grammaire_sidebar

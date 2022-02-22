@@ -1,5 +1,5 @@
 ---
-title: Mots indéfinis
+title: Les mots indéfinis
 keywords: indéfini, indéfinis, indefinite
 summary: "Mots indéfinis en français"
 sidebar: grammaire_sidebar

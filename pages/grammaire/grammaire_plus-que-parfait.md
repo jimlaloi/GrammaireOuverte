@@ -1,5 +1,5 @@
 ---
-title: Plus-que-parfait
+title: Le plus-que-parfait
 keywords: plus-que-parfait, pluperfect, past, passé
 summary: "Le plus-que-parfait en français"
 sidebar: grammaire_sidebar

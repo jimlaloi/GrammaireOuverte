@@ -1,5 +1,5 @@
 ---
-title: Pronoms personnels
+title: Les pronoms personnels
 keywords: pronoms, personnel
 summary: "Pronoms personnels en français"
 sidebar: grammaire_sidebar

@@ -1,5 +1,5 @@
 ---
-title: Infinitif
+title: L'infinitif
 keywords: infinitif, infinitive
 summary: "L'infinitif en français"
 sidebar: grammaire_sidebar

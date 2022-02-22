@@ -1,5 +1,5 @@
 ---
-title: Comparatif et superlatif
+title: Le comparatif et le superlatif
 keywords: comparatif, comparative, superlatif, superlative
 summary: "Le comparatif et le superlatif en français"
 sidebar: grammaire_sidebar
