@@ -77,4 +77,49 @@ Notez les phrases suivantes avec **autre** : **autre chose**, **l'un et l'autre*
 
 * Tammy : Je n'ai jamais vu une jalousie **telle que** la tienne !
 
+## Tout
+
+### 'tout' comme adjectif
+**Tout** veut dire 'all' ou 'every' quand il modifie un nom. Il s'accorde en nombre et en genre avec le nom qui suit.
+
+| Masculin singulier | Masculin pluriel | Féminin singulier | Féminin pluriel |
+| **tout** | **tous** | **toute** | **toutes** |
+
+Ces formes de **tout** sont le plus souvent utilisées avec les articles définis **le**, **les**, **la**, **l'**, mais elles peuvent aussi être utilisées avec un déterminant possessif : **tous mes** poèmes, **toute sa** vie etc.
+
+* Tex récite l'un des ses poèmes :
+* Malgré **toutes** les filles que j'ai connue,
+* je pense à toi...
+* **tout** le temps,
+* **toute** la journée,
+* **tous** les soirs,
+* **toutes** les nuits.
+
+Notez que le **s** final de **tous** n'est pas prononcé lorsqu'il est utilisé comme adjectif.
+
+**Tout** ou **toute** peut également être utilisé sans article pour signifier « every ». 
+
+* Tex : **Tout** tatou est poète !
+
+### 'tout' comme pronom
+**Tout** est invariable lorsqu'il fonctionne comme pronom indéfini signifiant « everything » ou « all », comme dans la première phrase ci-dessous.
+
+Les pronoms pluriels **tous** et **toutes** s'accordent avec les noms qu'ils remplacent. Comparez les exemples ci-dessous.
+
+* Tammy : Tex, tu as vu ton éditeur ? **Tout** s'est bien passé? ('tout' singulier indéfini)
+* Tex : Les éditeurs sont des imbéciles, je les déteste **tous**! Les maisons d'éditions ne comprennent pas mon art. **Toutes** refusent mes poèmes érotiques ! (Pour remplacer un nom pluriel)
+
+Notez que le **s** final du pronom **tous** est prononcé, contrairement au **s** non prononcé de **tous** comme adjectif.
+
+### 'tout' comme adverbe
+**Tout** peut aussi être un adverbe signifiant « all », « completely » ou « quite » lorsqu'il modifie un autre adverbe, une préposition ou un adjectif. Bien que **tout** soit invariable devant un adverbe, une préposition ou un adjectif masculin, les formes féminines **toute** et **toutes** sont utilisées avant les adjectifs féminins commençant par une consonne.
+* Tex : Les éditeurs ne comprennent rien. Mes thèmes sont **tout** nouveaux. (Invariable)
+* Tex : Et ma poésie est **toute** moderne. (Devant un adjectif féminin commençant par une consonne)
+
+
+### 'tout' dans des phrases idiomatiques courantes
+Voici une liste de phrases idiomatiques courantes avec tout :
+pas du tout, en tout cas, tout de suite, malgré tout, tout le monde, tout à l'heure, tout le temps, tout à coup, tous les jours, tout à fait, tous (toutes) les deux, tout droit, tous les deux jours, tous les trois jours ... etc., tout de même, toutes les deux semaines, tout le temps, tout en + participe présent
+
+
 {% include links.html %}

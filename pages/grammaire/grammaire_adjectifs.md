@@ -19,16 +19,6 @@ Un **adjectif** est un mot qui décrit un nom ou un pronom. Les différences maj
 * Fiona est **travailleuse**. (f)
 * Mais Joe-Bob n'est pas **travailleur**. (m)
 
-### adjectif vs adverbe
-Il est courant en anglais non standard que les locuteurs utilisent des adjectifs à la place des adverbes.
-* Joe-Bob dit: "Gee, Tex writes real good." (au lieu de : "Tex writes **well**.") 
-* Joe-Bob dit "Gosh, Edouard, you walk real slow." (au lieu de : "Edouard, you walk **slowly**.")
-
-Les adjectifs français sont rarement utilisés à la place de la forme adverbiale. Rappelez-vous que les adjectifs modifient les noms et
-les adverbes modifient les verbes, les adjectifs et autres adverbes !
-* Tex écrit **bien**. (l'adverbe modifie le verbe) 
-* La poésie de Tex est **bonne**. (l'adjectif modifie le nom)
-
 ## Forme
 Les adjectifs s'accordent en nombre et en genre avec le nom ou le pronom qu'ils modifient. Pour les adjectifs réguliers, la forme masculine est la forme de base à laquelle les terminaisons sont ajoutées. L'adjectif féminin est formé en ajoutant un **e**. L'adjectif pluriel est formé en ajoutant **s**.
 
@@ -45,34 +35,6 @@ Notez comment les formes singulière et plurielle de l'adjectif masculin ont la 
 L'adjectif prend le masculin pluriel lorsque les noms qu'il modifie sont de genres différents : Tammy et Tex sont petit**s**.
 
 Les adjectifs irréguliers ne suivent pas les règles données ci-dessus.
-
-## Placement
-En français, la plupart des adjectifs suivent le nom, contrairement à l'anglais où l'adjectif précède le nom. Voici quelques exemples d'adjectifs après le nom :
-
-* Tex porte toujours un béret **rond**, même quand il fait du sport. Il aime les romans **existentialistes**. Dans son enfance, Tex a habité chez des nonnes **catholiques**.
-* Tammy a un nez **pointu**. C'est une tatou **mince** et **sympathique**. Elle apprend la langue **française** et fait des études **littéraires**.
-* Bette est de caractère **méfiant**. Elle est d'humeur **changeante**. C'est une chatte très **maline**.
-
-Notez qu'il y a un petit groupe d'adjectifs qui précèdent normalement le nom. Certains adjectifs peuvent également être placés avant ou après le nom mais changer la position des adjectifs peut modifier leur sens.
-
-## Adjectifs qui précèdent le nom
-
-Le placement de la plupart des adjectifs en français se fait après le nom : un escargot **parlant**, une fourmi **travailleuse**, des tatous **intelligents**, etc. Il existe cependant un petit groupe d'adjectifs qui précèdent normalement le nom. Ces adjectifs peuvent être classés comme des adjectifs de Beauty, Age, Numbers, Goodness, et Size (BANGS).
-
-* autre, beau (belle), bon (bonne), grand (grande), gros (grosse), jeune, joli (jolie), mauvais (mauvaise), nouveau (nouvelle), petit (petite), vieux (vieille), premier (première), deuxième, troisième, etc.
-
-* Tammy est une **belle** américaine. C'est aussi une **bonne** amie. C'est une **petite** tatou.
-* Trey est le **jeune** frère de Tex. C'est le **troisième** enfant de la famille.
-
-### beau, nouveau, vieux
-**Beau**, **nouveau** et **vieux** ont des formes irrégulières. Notez les formes spéciales au masculin singulier lorsqu'elles précèdent un mot commençant par une voyelle ou un **h** muet.
-
-| masculin singulier | masculin devant une voyelle | féminin singulier | masculin pluriel | féminin pluriel |
-| beau | bel | belle | beaux | belles |
-| nouveau | nouvel | nouvelle | nouveaux | nouvelles |
-| vieus | vieil | vieille | vieux | vieilles |
-
-Les adjectifs qui précèdent le nom doivent s'accorder en nombre et en genre avec le nom qu'ils modifient. Sachez que changer la position de certains adjectifs peut changer leur sens.
 
 ## Adjectifs irréguliers
 
@@ -111,6 +73,16 @@ Certains adjectifs ont des formes masculines et féminines identiques. C'est gé
 
 * pauvre, difficile, sensible, riche, calme, semblable, mince, minuscule, ridicule, propre, ironique, imaginaire
 
+### beau, nouveau, vieux
+**Beau**, **nouveau** et **vieux** ont des formes irrégulières. Notez les formes spéciales au masculin singulier lorsqu'elles précèdent un mot commençant par une voyelle ou un **h** muet.
+
+| masculin singulier | masculin devant une voyelle | féminin singulier | masculin pluriel | féminin pluriel |
+| beau | bel | belle | beaux | belles |
+| nouveau | nouvel | nouvelle | nouveaux | nouvelles |
+| vieus | vieil | vieille | vieux | vieilles |
+
+Les adjectifs qui précèdent le nom doivent s'accorder en nombre et en genre avec le nom qu'ils modifient. Sachez que changer la position de certains adjectifs peut changer leur sens.
+
 ### nombre
 La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un **-s** est ajouté aux formes singulières masculines ou féminines. Il existe deux exceptions majeures à cette règle :
 
@@ -122,7 +94,23 @@ La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un **-s
 
 Le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier : Tex aime lire la presse **internationale**. Tex aime aussi les revues **internationales**.
 
-## Adjectifs dont le sens varie selon le placement
+## Place
+En français, la plupart des adjectifs suivent le nom, contrairement à l'anglais où l'adjectif précède le nom. Voici quelques exemples d'adjectifs après le nom :
+
+* Tex porte toujours un béret **rond**, même quand il fait du sport. Il aime les romans **existentialistes**. Dans son enfance, Tex a habité chez des nonnes **catholiques**.
+* Tammy a un nez **pointu**. C'est une tatou **mince** et **sympathique**. Elle apprend la langue **française** et fait des études **littéraires**.
+* Bette est de caractère **méfiant**. Elle est d'humeur **changeante**. C'est une chatte très **maline**.
+
+Notez qu'il y a un petit groupe d'adjectifs qui précèdent normalement le nom. Ces adjectifs peuvent être classés comme des adjectifs de Beauty, Age, Numbers, Goodness, et Size (BANGS).
+
+* autre, beau (belle), bon (bonne), grand (grande), gros (grosse), jeune, joli (jolie), mauvais (mauvaise), nouveau (nouvelle), petit (petite), vieux (vieille), premier (première), deuxième, troisième, etc.
+
+* Tammy est une **belle** américaine. C'est aussi une **bonne** amie. C'est une **petite** tatou.
+* Trey est le **jeune** frère de Tex. C'est le **troisième** enfant de la famille.
+
+ Certains adjectifs peuvent également être placés avant ou après le nom mais changer la position des adjectifs peut modifier leur sens.
+
+ ## Adjectifs dont le sens varie selon le placement
 Certains adjectifs peuvent être placés avant ou après le nom qu'ils décrivent. Leur position détermine leur sens. Lorsque l'adjectif est placé avant le nom, il a tendance à avoir un sens figuré ou métaphorique. Lorsqu'il suit le nom, il a un sens plus littéral ou réel. Considérez les exemples suivants :
 
 | **adjectif** | **sens litéral après le nom** | **sens figuratif avant le nom** |

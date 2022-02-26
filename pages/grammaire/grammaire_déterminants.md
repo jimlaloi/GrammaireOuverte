@@ -107,21 +107,6 @@ Cependant, un article indéfini est utilisé si un adjectif vient **avant** la p
 
 L'article défini est également toujours utilisé lorsque les verbes pronominaux font référence à des parties du corps.
 
-### pas d'article
-Les **villes** n'exigent généralement pas d'article en français. Par exemple:
-
-* Tex habite à Austin, mais il préfère Paris.
-
-Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions, généralement des îles : Haïti, Israël, Madagascar . Voir les prépositions avec les noms de lieux pour plus d'informations.
-
-Les **mois** ne nécessitent jamais d'article : janvier, février, mars, etc.
-
-* Cependant, Tex adore mars à Austin.
-
-Les **jours de la semaine** ne nécessitent pas d'article dans les cas où ils n'indiquent pas une récurrence habituelle. Par exemple : 
-
-* Lundi, il a rendez-vous avec Tammy.
-
 ## Les articles indéfinis
 Voici les articles indéfinis en français :
 masculin singulier : **un** - Tex est **un** tatou. Joe-Bob est **un** écureuil.
@@ -182,6 +167,30 @@ Alors que l'article défini désigne quelque chose dans sa totalité ou dans son
 * **Le** vin rouge est bon pour la santé ! (défini)
 * En fait, nous avons **un** Beaujolais nouveau ou **un** Chambertin, **un** Châteauneuf-du-Pape, ou j'ai **un** excellent Médoc pour vous, ou **un** tout petit vin gris de Savoie. (indéfini)
 
+#### Expressions de quantité
+Il existe de nombreuses manières d'exprimer la quantité : les nombres (**deux** crêpes), l'article indéfini (**un** tatou) et l'article partitif (**du** lait). Les quantités peuvent également être exprimées à l'aide d'adverbes et d'expressions adverbiales, telles que **assez**, **beaucoup**, ou **trop**.
+Lorsqu'elles sont utilisées avec des noms, les expressions de quantité sont toujours suivies de **de** (**d'** si le nom commence par une voyelle).
+
+* Tammy et Tex reçoivent des amis ce soir. Tammy est dans la cuisine. Tex regarde la télévision.
+* Tammy : **Une douzaine de** crêpes, c'est **trop** pour quatre personnes ?
+* Tex : Mais non, Tammy, ce n'est pas **assez**.  Il faut préparer **beaucoup de** crêpes.
+
+Voici une liste d'expressions adverbiales de quantité courantes : **assez de**, **plein de**, **beaucoup de**, **un tas de**, **un peu de**, **trop de**
+
+Notez que ces expressions de quantité ne changent pas dans les phrases négatives : 
+
+* Tex : On ne prépare jamais **trop de** crêpes.
+
+On peut exprimer la quantité en utilisant des noms ou des adverbes spécifiques de quantité, ainsi que des mesures de poids, de distance ou de volume, en particulier en ce qui concerne la nourriture. Par exemple:
+
+* une boîte de,  un litre de, un bol de, une livre de, un bout de, un morceau de, une bouteille de, une part de, une cuillère de, une pincée de, une douzaine de, une tasse de, 50 grammes de, une tranche de, un kilo de, un verre de
+
+L'article défini peut être utilisé avec ces expressions pour indiquer la quantité d'une chose spécifique. Rappelez-vous que **de** + **le** et **de** + **les** forment respectivement les contractions **du** et **des**.
+
+* un morceau du gâteau qu'Edouard a préparé 
+* un verre du vin rouge, pas du blanc
+* beaucoup des invités parlent français
+
 #### après le négatif
 Dans les phrases négatives, **du**, **de la**, **des**, **de l'** se change en **de**:
 
@@ -240,72 +249,19 @@ Les déterminants démonstratifs peuvent désigner quelque chose de proche ou de
 * Tex : Tu vois Tammy, **cette** étoile**-ci** s'appelle Vénus. Mais **ces** étoiles**-là**, c'est la Voie Lactée.
 * Tammy : Vénus... la voie lactée... oh Tex, j'aime bien quand tu me parles d' astronomie !
 
-## Expressions de quantité
-Il existe de nombreuses manières d'exprimer la quantité : les nombres (**deux** crêpes), l'article indéfini (**un** tatou) et l'article partitif (**du** lait). Les quantités peuvent également être exprimées à l'aide d'adverbes et d'expressions adverbiales, telles que **assez**, **beaucoup**, ou **trop**.
-Lorsqu'elles sont utilisées avec des noms, les expressions de quantité sont toujours suivies de **de** (**d'** si le nom commence par une voyelle).
+## Omission de l'article
+Les **villes** n'exigent généralement pas d'article en français. Par exemple:
 
-* Tammy et Tex reçoivent des amis ce soir. Tammy est dans la cuisine. Tex regarde la télévision.
-* Tammy : **Une douzaine de** crêpes, c'est **trop** pour quatre personnes ?
-* Tex : Mais non, Tammy, ce n'est pas **assez**.  Il faut préparer **beaucoup de** crêpes.
+* Tex habite à Austin, mais il préfère Paris.
 
-Voici une liste d'expressions adverbiales de quantité courantes : **assez de**, **plein de**, **beaucoup de**, **un tas de**, **un peu de**, **trop de**
+Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions, généralement des îles : Haïti, Israël, Madagascar . Voir les prépositions avec les noms de lieux pour plus d'informations.
 
-Notez que ces expressions de quantité ne changent pas dans les phrases négatives : 
+Les **mois** ne nécessitent jamais d'article : janvier, février, mars, etc.
 
-* Tex : On ne prépare jamais **trop de** crêpes.
+* Cependant, Tex adore mars à Austin.
 
-On peut exprimer la quantité en utilisant des noms ou des adverbes spécifiques de quantité, ainsi que des mesures de poids, de distance ou de volume, en particulier en ce qui concerne la nourriture. Par exemple:
+Les **jours de la semaine** ne nécessitent pas d'article dans les cas où ils n'indiquent pas une récurrence habituelle. Par exemple : 
 
-* une boîte de,  un litre de, un bol de, une livre de, un bout de, un morceau de, une bouteille de, une part de, une cuillère de, une pincée de, une douzaine de, une tasse de, 50 grammes de, une tranche de, un kilo de, un verre de
-
-L'article défini peut être utilisé avec ces expressions pour indiquer la quantité d'une chose spécifique. Rappelez-vous que **de** + **le** et **de** + **les** forment respectivement les contractions **du** et **des**.
-
-* un morceau du gâteau qu'Edouard a préparé 
-* un verre du vin rouge, pas du blanc
-* beaucoup des invités parlent français
-
-## Tout
-
-### 'tout' comme adjectif
-**Tout** veut dire 'all' ou 'every' quand il modifie un nom. Il s'accorde en nombre et en genre avec le nom qui suit.
-
-| Masculin singulier | Masculin pluriel | Féminin singulier | Féminin pluriel |
-| **tout** | **tous** | **toute** | **toutes** |
-
-Ces formes de **tout** sont le plus souvent utilisées avec les articles définis **le**, **les**, **la**, **l'**, mais elles peuvent aussi être utilisées avec un déterminant possessif : **tous mes** poèmes, **toute sa** vie etc.
-
-* Tex récite l'un des ses poèmes :
-* Malgré **toutes** les filles que j'ai connue,
-* je pense à toi...
-* **tout** le temps,
-* **toute** la journée,
-* **tous** les soirs,
-* **toutes** les nuits.
-
-Notez que le **s** final de **tous** n'est pas prononcé lorsqu'il est utilisé comme adjectif.
-
-**Tout** ou **toute** peut également être utilisé sans article pour signifier « every ». 
-
-* Tex : **Tout** tatou est poète !
-
-### 'tout' comme pronom
-**Tout** est invariable lorsqu'il fonctionne comme pronom indéfini signifiant « everything » ou « all », comme dans la première phrase ci-dessous.
-
-Les pronoms pluriels **tous** et **toutes** s'accordent avec les noms qu'ils remplacent. Comparez les exemples ci-dessous.
-
-* Tammy : Tex, tu as vu ton éditeur ? **Tout** s'est bien passé? ('tout' singulier indéfini)
-* Tex : Les éditeurs sont des imbéciles, je les déteste **tous**! Les maisons d'éditions ne comprennent pas mon art. **Toutes** refusent mes poèmes érotiques ! (Pour remplacer un nom pluriel)
-
-Notez que le **s** final du pronom **tous** est prononcé, contrairement au **s** non prononcé de **tous** comme adjectif.
-
-### 'tout' comme adverbe
-**Tout** peut aussi être un adverbe signifiant « all », « completely » ou « quite » lorsqu'il modifie un autre adverbe, une préposition ou un adjectif. Bien que **tout** soit invariable devant un adverbe, une préposition ou un adjectif masculin, les formes féminines **toute** et **toutes** sont utilisées avant les adjectifs féminins commençant par une consonne.
-* Tex : Les éditeurs ne comprennent rien. Mes thèmes sont **tout** nouveaux. (Invariable)
-* Tex : Et ma poésie est **toute** moderne. (Devant un adjectif féminin commençant par une consonne)
-
-
-### 'tout' dans des phrases idiomatiques courantes
-Voici une liste de phrases idiomatiques courantes avec tout :
-pas du tout, en tout cas, tout de suite, malgré tout, tout le monde, tout à l'heure, tout le temps, tout à coup, tous les jours, tout à fait, tous (toutes) les deux, tout droit, tous les deux jours, tous les trois jours ... etc., tout de même, toutes les deux semaines, tout le temps, tout en + participe présent
+* Lundi, il a rendez-vous avec Tammy.
 
 {% include links.html %}
