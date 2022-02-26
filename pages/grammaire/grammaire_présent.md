@@ -1,5 +1,5 @@
 ---
-title: Le présent
+title: Le présent de l'indicatif
 keywords: présent, present
 summary: "Le présent en français"
 sidebar: grammaire_sidebar

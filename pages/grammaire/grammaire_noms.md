@@ -156,55 +156,23 @@ Le genre des noms qui font référence à des choses et des abstractions est arb
 | le romant**isme** | la différ**ence** |
 | | la philosoph**ie** |
 
-## Expressions présentatives
 
-Il y a et voilà sont deux moyens d'introduire un nom. Ils sont traduits en anglais comme 'there is / there are' ou 'here is / here are.'
+## Observations sur quelques noms
 
-### il y a
+### *temps*, *heure*, et *fois*
 
-Il y a + nom indique généralement l'existence d'une personne ou d'une chose dans le contexte d'un cadre particulier. Il est souvent traduit par « there is » ou « there are ». Par exemple:
-
-* A Austin, **il y a** une grande université.
-* Dans cette université, **il y a** plusieurs animaux qui parlent français !
-* Parmi ces animaux, **il y a** des tatous, un escargot, une chatte, un écureuil, et plusieurs insectes ! Attention!
-
-La négation de *il y a* est *il n'y a pas*, 'there is/are not'. Vous trouverez également ces formes : il n'y a plus, il n'y a jamais.
-
-* A Austin, il **n**'y a **jamais** de neige.
-* Donc parmi ces animaux francophones, il **n**'y a **pas** de pingouin !
-
-Le verbe *avoir* dans l'expression *il y a* peut être conjugué à n'importe quel temps ou mode, par exemple, au passé (il y avait) ou au futur (il y aura).
-
-### voilà / voici
-
-*Voilà + nom* et *voici + nom* sont souvent traduits par « here is/are ». Ils sont utilisés pour indiquer l'apparition soudaine de quelque chose ou de quelqu'un, pour présenter des personnes ou des idées. L'alternance entre *voici* et *voilà* se fait souvent lorsque l'on fait référence à plus d'un élément.
-
-* Tammy montre le campus à Tex : **Voici** la bibliothèque et **voilà** la célèbre tour !
-* Tex : Oui, oui...
-* Tammy présente Tex : Tex, **voici** Joe-Bob et Corey... et **voilà** Edouard qui arrive.
-* Joe-Bob : Bonjour, Tex. 
-* Corey : Salut, Tex. 
-* Tex : Oh, la, la, de vrais Texans...
-
-
-## Les noms *temps*, *heure*, et *fois*
-
-Il y a trois noms en français, *temps*, *heure* et *fois*, qui sont traduits par 'time' en anglais, mais chacun a des usages et des nuances très spécifiques.
-
-### temps
-
-Temps peut signifier soit « time » soit « weather » (auquel cas il est presque toujours accompagné du verbe *faire*).
+**Temps** peut signifier soit « time » soit « weather » (auquel cas il est presque toujours accompagné du verbe *faire*).
 
 * Tex téléphone à Paw-Paw.
 * Paw-Paw : Tex, tu es où ? Tu es en retard !
 * Tex : Mais non, j'ai le **temps** ! Je suis en train de faire ma valise. Quel **temps** fait-il à Opelousas ?
 
-*Temps* est généralement singulier mais peut être utilisé au pluriel, en particulier dans les phrases suivantes :
+**Temps** est généralement singulier mais peut être utilisé au pluriel, en particulier dans les phrases suivantes :
 
 * Paw-Paw : Tex, tu es un petit-fils ingrat ! Tu ne viens jamais me voir! **Les temps changent**...
 * Tex : Allons Paw-Paw, tu sais bien que je viens aujourd'hui. « **Laissez les bons temps rouler** », comme on dit en Louisiane ! Dis, tu sais que personne ne connaît cette expression en France ?
 
-Voici les expressions les plus couramment utilisées avec *temps* :
+Voici les expressions les plus couramment utilisées avec **temps** :
 
 * **De temps en temps**, Tex va voir Paw-Paw à Opelousas le week-end.
 * Paw-Paw parle **tout le temps** de ses rhumatismes. Il **prend son temps**.
@@ -214,9 +182,7 @@ Voici les expressions les plus couramment utilisées avec *temps* :
 * Ils ont **le temps de** faire la fête.
 * Pauvre Tex ! Il rentre à Austin le lundi matin, juste **à temps pour** faire cours.
 
-### heure
-
-*Heure* est féminin et peut être utilisé au singulier ou au pluriel. Il est utilisé pour désigner l'heure de l'horloge.
+**Heure** est féminin et peut être utilisé au singulier ou au pluriel. Il est utilisé pour désigner l'heure de l'horloge.
 
 * Tammy : Tex, tu as **l'heure** ? 
 * Tex : Oui, j'ai **l'heure**. 
@@ -225,9 +191,7 @@ Voici les expressions les plus couramment utilisées avec *temps* :
 * Tammy : Chouette ! C'est **l'heure** d'Oprah, mon émission préférée ! 
 * Tex : Et pour moi, c'est **l'heure** de faire la sieste !
 
-### fois
-
-*Fois* est féminin et ses formes singulières et plurielles sont identiques. Il est utilisé pour désigner un ou plusieurs cas d'un évènement.
+**Fois** est féminin et ses formes singulières et plurielles sont identiques. Il est utilisé pour désigner un ou plusieurs cas d'un évènement.
 
 * Tammy: Tex, réveille-toi! Paw-Paw est au téléphone, il veut te parler. 
 * Tex: Comment? Il a appelé quatre **fois** aujourd'hui! 
