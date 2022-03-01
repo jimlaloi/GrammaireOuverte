@@ -7,6 +7,14 @@ permalink: grammaire_verbes_introduction.html
 folder: grammaire
 ---
 
+## Les verbes
+Un verbe peut être défini comme le « mot d'action de la phrase ». Pour déterminer si un mot est un verbe ou non, considérez son rôle dans la phrase. Comment le mot « access » est-il utilisé dans les phrases suivantes ?
+
+* Never give strangers **access** to your bank account.
+* If you can't **access** the web pages during peak hours, try again.
+
+Dans la première phrase, « access » est une chose (un nom) que vous pouvez donner à quelqu'un. Dans la deuxième phrase, « access » est quelque chose que vous faites (un verbe) avec votre ordinateur. Si un mot est considéré comme un nom ou un verbe dépend de la façon dont il est utilisé dans la phrase.
+
 ## Temps, aspect, mode, et voix
 ### temps
 Le **temps** est le terme grammatical qui désigne le moment où se produit l'action du verbe : passé, présent, futur. Le cadre temporel d'une action est généralement établi en se référant au moment présent ; par exemple, le passé composé et le futur sont respectivement passé et futur par rapport au présent.
@@ -26,13 +34,13 @@ Le passé composé est utilisé pour le premier plan, c'est-à-dire les événem
 * Tex **a sorti** une cigarette de son paquet. Il l'**a allumée** et il **a tiré** une grande bouffée. Mmm... extase !
 
 ### mode
-Le mode est une catégorie grammaticale qui distingue les temps verbaux. Il existe quatre modes en français : **l'indicatif**, **le subjonctif**, **le conditionnel** et **l'impératif**. Tous ces modes, à l'exception de l'impératif, peuvent être conjugués à des temps différents. Chacun de ces modes a une fonction différente.
+Le mode d'un verbe décrit comment son action est envisagé. Il existe six modes en français : **l'indicatif**, **le subjonctif**, **le conditionnel**, **l'impératif**, **l'infinitif**, et **le participe**. La conjugaison selon un temps est indépendant du mode, et chaque mode peut être conjugué à des temps différents.
 
 **Le mode indicatif** est le plus courant et est utilisée pour relier des faits et des déclarations objectives.
 
 * Tammy se réveille tôt le matin.
 
-**Le mode subjonctif** est plus utilisé en français qu'en anglais. Il est utilisé pour exprimer des opinions et des sentiments (pensées subjectives).
+**Le mode subjonctif** est plus utilisé en français qu'en anglais. Il est utilisé pour exprimer une interprétation subjective.
 
 * Il est dommage que les parents de Tex **soient** morts.
 
@@ -40,25 +48,26 @@ Le mode est une catégorie grammaticale qui distingue les temps verbaux. Il exis
 
 * Si Corey était beau, il **aurait** une copine.
 
-**Le mode impératif** est utilisé pour donner des ordres ou des commandes directs.
+**Le mode impératif** est utilisé pour donner des ordres ou des interdictions directs.
 
 * Tex, **réveille-toi** !
+
+**L'infinitif** est un mode impersonnel, car il n'a pas de personne grammaticale. L'infinitif partage certaines caractéristiques avec les noms, car il peut être le sujet ou le complément d'un verbe conjugué.
+
+**Le participe** est aussi un mode impersonnel, et se manifeste en deux formes: le participe présent et le participe passé. Le participe partage certaines caractéristiques avec les adjectifs, car il est souvent capable de modifier les noms.
 
 ### voix
 La voix est une catégorie grammaticale décrivant la relation entre un verbe et son sujet. La voix est **active** ou **passive**. La voix active fait référence à la situation où le sujet de la phrase exécute l'action du verbe.
 
 * Les autorités **ont expulsé** Tex de France.
 
-D'autre part, la voix passive fait référence à la situation où le sujet reçoit l'action du verbe.
+**La voix passive**, quant à elle, fait référence à une phrase dans laquelle le sujet reçoit l'action. En d'autres termes, le sujet est passif, ou agi par l'agent.
 
 * Tex **a été expulsé** de France (par les autorités).
 
-## Les voix active et passive
-« Voix » fait référence à la relation entre le sujet et le verbe dans une phrase. Une phrase est dite à **la voix active** si le sujet exécute l'action du verbe. Par exemple, « Tex appelle Tammy ». Dans cette phrase, le sujet (Tex) effectue l'action d'appeler Tammy. Les sujets actifs sont appelés « agents ».
-**La voix passive**, quant à elle, fait référence à une phrase dans laquelle le sujet reçoit l'action. En d'autres termes, le sujet est passif, ou agi par l'agent. Par exemple : « Tammy est appelée par Tex ». Dans cette phrase, Tammy reçoit l'action effectuée par Tex, l'agent.
+*voix passive* = *forme conjuguée de **être*** + *participe passé du verbe principal* (+ **par** + agent). 
 
-### forme
-= forme conjuguée de **être** + participe passé du verbe principal (+ **par** + agent). Notez que le participe passé s'accorde toujours en nombre et en genre avec le sujet.
+Notez que le participe passé s'accorde toujours en nombre et en genre avec le sujet.
 
 * Les Aggies **sont battus** (**par** les Longhorns).
 * Les Aggies **ont été battus** (**par** les Longhorns).
@@ -69,7 +78,6 @@ L'agent, lorsqu'il est mentionné, suit généralement **par**. Cependant, avec 
 * Tammy est aimée **de** Tex.
 * Tex est bien connu **de** toutes les étudiantes et respecté **de** tous les professeurs.
 
-### usage
 La voix passive met l'accent sur l'objet du verbe plutôt que sur le sujet :
 
 * **Tex** a écrit le livre *Guerre et Amour*.
@@ -85,7 +93,6 @@ La voix passive est souvent utilisée pour des inventions, des lois et, assez lo
 * La loi SOS-tatou **a été votée**.
 * Un nouveau genre de grammaire **a été créé**.
 
-### moyens d'éviter le passif
 La voix passive est plus utilisée en anglais qu'en français. Ainsi, en français, lorsque l'agent du verbe peut être
 identifié, il vaut mieux utiliser la voix active et faire de l'agent le sujet du verbe. Une façon courante d'éviter le passif en français est d'utiliser la voix active avec **on** comme sujet. Par exemple, « I was told that Tex loves Tammy » serait traduit par « **On m'a dit** que Tex aimait Tammy ».
 
@@ -96,24 +103,7 @@ Pour faire des déclarations générales sur des faits connus, les verbes pronom
 Les frites **se mangent** avec du ketchup.
 Le français **se parle** en Louisiane.
 
-## Les verbes
-Un verbe peut être défini comme le « mot d'action de la phrase ». Pour déterminer si un mot est un verbe ou non, considérez son rôle dans la phrase. Comment le mot « access » est-il utilisé dans les phrases suivantes ?
-
-* Never give strangers **access** to your bank account.
-* If you can't **access** the web pages during peak hours, try again.
-
-Dans la première phrase, « access » est une chose (un nom) que vous pouvez donner à quelqu'un. Dans la deuxième phrase, « access » est quelque chose que vous faites (un verbe) avec votre ordinateur. Le fait est que si un mot est considéré comme un nom ou un verbe dépend de la façon dont il est utilisé dans la phrase.
-
-### infinitifs et conjugaisons
-Lorsque vous étudiez les verbes, vous aurez besoin de connaître la différence entre la forme infinitive du verbe et les formes finies, ou formes conjuguées. Les infinitifs anglais sont précédés du mot 'to'.
-
-* **to eat**, **to drink**, **to sleep**
-
-Ces verbes sont appelés infinitifs car, comme le concept d'infini, ils ne sont pas liés par le temps. De l'infinitif, nous dérivons les formes conjuguées du verbe, également connues sous le nom de *formes finies* du verbe. Ils sont dits *finis* car ils renvoient à des événements ancrés dans le temps, c'est-à-dire à des événements qui ont un temps particulier : passé, présent, futur. Notez les formes conjuguées de l'infinitif « to study ».
-* I **studied** French in high school. (passé)
-* I **am studying** French in college this semester. (présent)
-* I **will study** French next year overseas. (futur)
-
+## La conjugaison
 Les conjugaisons verbales sont traditionnellement présentées dans les manuels selon des **paradigmes**. Un paradigme comprend toujours l'infinitif suivi des conjugaisons selon la **personne** qui se divise en première, deuxième et troisième, ainsi que le **nombre**, qui est la distinction entre singulier et pluriel.
 
 Voici le paradigme du présent du verbe **parler**.
@@ -134,21 +124,6 @@ Les verbes réguliers du français se répartissent en trois classes basées sur
 
 | 3ème conjugaison (verbes -re) |
 | vendre | entendre |
-
-### participes
-Un participe est une forme verbale spéciale qui est dérivée de l'infinitif mais qui n'est pas conjuguée. Autrement dit, alors que les conjugaisons se présentent sous des paradigmes de six formes selon six personnes différentes, les participes n'ont que deux formes, nommées selon leurs usages : le participe présent et le participe passé.
-
-Un participe présent en français se termine par **-ant** et est fréquemment utilisé comme adjectif. Les participes présents français sont généralement traduits par la forme **-ing** du verbe anglais. Notez que la forme adjectivale du participe présent doit s'accorder en nombre et en genre avec le nom qu'elle modifie. Dans l'exemple, le participe est mis en accord avec le nom pluriel (les animaux) en ajoutant **-s**.
-
-* Les tatous ​​sont des animaux **fascinants**.
-
-Un participe passé en français est utilisé pour former des temps composés, comme le passé composé. Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'accorde en nombre et en genre
-avec le nom il qualifie.
-
-* Tex a **perdu** une lettre d'amour de Bette.
-* Et Tammy a trouvé la lettre **perdue**!
-
-Dans le premier exemple, le participe 'perdu' se combine avec le verbe auxiliaire pour former le passé de **perdre**. Dans le deuxième exemple, le participe est utilisé comme adjectif pour modifier le nom 'la lettre'. Notez comment le **-e** final sur le participe indique l'accord avec le nom féminin.
 
 ### auxiliaires communs et modaux
 Les auxiliaires sont des verbes qui se combinent avec le verbe principal pour former une phrase verbale. Il existe deux groupes de verbes auxiliaires : les auxiliaires communs et les modaux. Les deux verbes auxiliaires communs en français, **avoir** et **être**, sont utilisés pour former de nombreux temps. Un temps qui n'a qu'un verbe principal et aucun auxiliaire est appelé un temps simple. Un temps verbal composé d'un verbe principal et de son auxiliaire est appelé un temps composé.
@@ -252,5 +227,49 @@ De nombreux verbes transitifs peuvent avoir à la fois un objet direct et un obj
 Voici une liste de quelques verbes bivalents courants :
 
 * acheter, expliquer, apporter, montrer, apprendre, offrir, demander, prêter, donner, promettre, écrire, rendre, emprunter, servir, envoyer, vendre
+
+## Expressions impersonnelles
+Le pronom impersonnel **il** est utilisé en français lorsqu'une action n'a pas d'agent, c'est-à-dire lorsqu'il n'y a pas de personne ou d'animé responsable de l'action. Le verbe conjugué est toujours à la troisième personne du singulier, quel que soit le temps que prend le verbe impersonnel.
+
+* Tex : Tiens, **il** pleut très fort !
+
+L'action du verbe (**pleut**) est une force naturelle et impersonnelle. Le pronom impersonnel **il** est souvent appelé "sujet factice" car il remplit la position syntaxique du sujet mais n'a pas de sens réel.
+
+### expressions météorologiques
+Les expressions météorologiques en français et en anglais nécessitent des sujets impersonnels. L'infinitif des « verbes météorologiques » ne peut être conjugué qu'à la troisième personne du singulier (la forme **il**).
+* pleuvoir : Il pleut.
+* neiger : Il neige.
+* grêler : Il grêle.
+* geler : Il gèle.
+* bruiner : Il bruine.
+
+Les conditions météorologiques sont également exprimées en français à l'aide du verbe **faire** suivi d'un adjectif ou d'un nom. Bien sûr, lorsque le verbe **faire** est utilisé de manière impersonnelle dans de telles expressions météorologiques, il ne peut être conjugué qu'à la troisième personne du singulier (**il fait**).
+* Il fait chaud.
+* Il fait du vent.
+* Il fait beau.
+
+### falloir (il faut ...)
+Le verbe **falloir** n'existe qu'à la forme impersonnelle (**il faut**). Il exprime toujours la notion de nécessité ou d'obligation qui est traduite en anglais de diverses manières ("must", "should", "have to"). **Falloir** peut être suivi d'un infinitif, d'un nom, ou d'une proposition subordonnée introduite par que ; notez que le verbe dans la proposition subordonnée requiert le mode subjonctif. Enfin, il peut être précédé d'un pronom faisant office d'objet indirect, un moyen d'éviter le subjonctif.
+
+* Comme la majorité des Français, Tex ne voit pas l'intérêt du scandale Lewinsky.
+* Tammy (choquée): Il **faut que** nous sachions la vérité. [faut que + proposition]
+* Il **nous faut** des preuves. [objet indirect + faut]
+* Il **faut** une enquête. [faut + nom] 
+* Tex : Mais tu sais bien ce qui s'est passé ! Il **faut** te calmer. [faut + infinitif]
+
+### expressions impersonnelles avec 'être' + [adjectif]
+Le sujet impersonnel **il** peut apparaître avec le verbe **être** suivi d'un adjectif et d'un infinitif. Notez que l'infinitif est toujours introduit par la préposition **de** dans de telles expressions impersonnelles :
+
+Il est + [adjectif] + de + [infinitif]
+
+* Tex : **Il est amusant de** lire les journaux américains !
+* Tammy : **Il est difficile de** comprendre ton humour.
+
+### d'autres expressions impersonnelles courantes
+
+* Il y a,
+* il est + heure
+* il s'agit de
+* il vaut mieux
 
 {% include links.html %}

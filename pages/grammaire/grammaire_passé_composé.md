@@ -7,36 +7,18 @@ permalink: grammaire_passé_composé.html
 folder: grammaire
 ---
 
-## Le passé immédiat (venir de + infinitif)
-Lorsque **venir** se conjugue au présent et est suivi de **de + infinitif**, cela signifie « avoir fait quelque chose tout récemment ». Cette construction s'appelle le passé immédiat.
-
-* Tex et Tammy **viennent de** regarder une vidéo romantique. Et ils **viennent de** finir toute une bouteille de vin. Il n'en reste plus une goutte !
-* Tammy : Oh chéri, je t'aime de tout mon coeur.
-* Tex : Embrasse-moi, mon petit quadrupède ! [SMACK !]
-
-Quand **venir** se conjugue à l'imparfait suivi de **de + infinitif**, cela veut dire « avait fait quelque chose tout récemment » :
-
-* Tex et Tammy **venaient de** s'embrasser quand Bette est arrivée.
-* Bette : Oh, excusez-moi... Je vous interromps ?
-* Tammy : En effet, nous passons une soirée tranquille...
-* Tex : Salut Bette, oh, c'est pas grave. On **vient** de regarder une vidéo. Assieds-toi.
-* Tammy : Mais Tex...
-* Bette ronronne.
-
-## Passé composé avec avoir
-
-### usage
+## Forme
 Le passé composé est le temps le plus couramment utilisé pour désigner des actions accomplies dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
 
 * Tex **a mangé** toute la viande ! ('Tex ate all the meat', 'Tex has eaten all the meat', 'Tex did eat all the meat')
 
-### forme
 Ce temps s'appelle le passé composé car il est composé de deux éléments : le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé :
 
 *passé composé* = *présent de l'auxiliaire* + *participe passé*
 
 Notez que dans la plupart des cas, le verbe auxiliaire est **avoir**, mais certains verbes nécessitent **être** comme auxiliaire.
 
+### le participe passé
 Pour les verbes réguliers avec une terminaison infinitive en **-er**, le participe passé est formé en remplaçant le **-er** final de l'infinitif par **-é**.
 
 | parler |
@@ -62,24 +44,26 @@ Notez que de nombreux verbes, cependant, ont des participes passés irréguliers
 
 * avoir (eu), être (été), faire (fait), ouvrir (ouvert), prendre (pris), mettre (mis), suivre (suivi), boire (bu), croire (cru), voir (vu), savoir (su), connaître (connu), dire (dit), lire (lu), écrire (écrit), pouvoir (pu), vouloir (voulu), devoir (dû), tenir (tenu), recevoir (reçu)
 
-### négation
-La négation du passé composé se forme en plaçant **ne ... pas** autour du verbe conjugué, qui, dans ce cas, est l'auxiliaire **avoir**.
+## L'auxiliaire
+Le choix de l'auxiliaire dépend du verbe. La plupart des verbes prennent *avoir* comme auxiliaire, mais tous les verbes pronominaux et certains verbes intransitifs prennent *être*. Ces verbes appartiennent à quelques classes sémantiques -- c'est à dire qu'ils ont des sens reliés. Mais comme c'est souvent le cas, ces classes ne sont pas sans exceptions. Il faut donc mémoriser la liste des verbes intransitifs qui prennent *être* comme auxiliaire. Certaines classes de verbes prennent *être* comme auxiliaire avec très peu d'exceptions, alors que d'autres en ont plus. Le tableau suivant présente ces classes de verbes dans une hierarchie de leur association avec l'auxiliaire *être*.
 
-* Oh, regardez ! Tex a mangé toute la viande ! Tammy, au contraire, **n'**a **pas** mangé de viande ! Elle est végétarienne, comme la plupart des tatous.
+| **classe de verbes** | **exemples (avec *être*)** | **exceptions (avec *avoir*)** |
+| verbes pronominaux | *se laver*, *se parler*, *se dépêcher*, *se reposer*, etc. | (sans exception) |
+| changement de lieu | *aller*, *(re)venir*, *arriver*, *retourner*, *(r)entrer*, *partir*, *sortir*, *monter*, *descendre*, *tomber*, *passer*, *apparaître* | quelques exceptions: *bouger*, *voyager*, etc. |
+| changement d'état | *devenir*, *naître*, *mourir*, *décéder* | plusieurs exceptions: *périr*, *rougir*, *fondre*, *grandir*, etc. |
+| persistance de lieu/état | *rester*, *demeurer* | beaucoup d'exceptions: *exister*, *durer*, *continuer*, *stagner*, *être*, etc. |
 
-## passé composé avec être
+{% include variation.html content="Pour certains verbes, le choix de l'auxiliaire est absolu. Pour d'autres (typiquement des verbes moins communs) on observe de la variation. Le verbe *apparaître* prend normalement *être*, mais il n'est pas rare qu'il se voie avec l'auxiliaire *avoir*. De l'autre côté, les verbes *paraître* et *disparaître* prennent typiquement *avoir*, mais peuvent se conjuguer avec *être*, surtout pour souligner l'état résultant. Certains locuteurs préfèrent *avoir* pour les verbes *monter* et *descendre* pour évoquer le trajet plutôt que la destination. Cette variation est parfois régionale. Par exemple, dans plusieurs variétés nord-américaines, *avoir* est choisi assez souvent pour des verbes comme *passer*, *retourner*, et *rester*, même si la sélection d'*être* est toujours en vigueur pour d'autres verbes comme *aller* et *venir*." %}
 
-### usage
-Il existe plusieurs temps passés en français, et chacun est utilisé dans des situations très spécifiques. Le passé composé est le passé le plus courant ; il est utilisé pour relater des actions ou des événements accomplis dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
+N'oubliez pas que c'est seulement les verbes intransitifs (et pronominaux) qui peuvent se conjuguer avec *être*. Cela veut dire que si un verbe a un complément direct (même si le verbe prend normalement *être*), il prendra *avoir* comme auxiliaire.
 
-* Tex **est allé** à l'Alamo. ('Tex went to the Alamo', 'Tex has gone to the Alamo', 'Tex did go to the Alamo')
+{% include callout.html content="Il **a sorti** *un stylo* de sa veste et **retourné** *son sous-bock*." type="primary" %}
 
-### forme
-Le passé composé se compose de deux parties, le présent d'un auxiliaire (soit **avoir** ou **être**), et un participe passé. Dans la plupart des cas, le verbe auxiliaire utilisé est **avoir**.
+Alors que *sortir* et *retourner* prennent l'auxiliaire *être* au passé composé lorsqu'ils sont intransitifs, dans cet exemple ils sont utilisés transitivement (avec les compléments directs *un stylo* et *son sous-bock*). Ils prennent donc *avoir*.
 
-*passé composé* = *présent de l'auxiliaire* + *participe passé*
+{% include information.html content="Pourquoi est-ce que le français a deux auxiliaires, et qu'est-ce qui distingue les verbes qui utilisent *être* ? C'est dû à la transitivité. Les verbes transitifs ont deux participants: un sujet, qui est plutôt actif dans l'action, et un objet, qui est plutôt passif dans l'action. Les verbes intransitifs n'ont qu'un participant, qui est plutôt actif ou passif selon le verbe. Le sujet de *danser* est un agent qui montre de la volonté, alors que le sujet de *tomber* est un victime non-volontaire. Plusieurs langues reflètent cette différence dans la grammaire. Mais l'inventaire précis de ces deux groupes de verbes intransitifs (appelés *inergatifs* et *inaccusatifs* par les linguistes) diffère d'une langue à une autre. Les exceptions apparaissent quand la tendance de distinguer ces deux types de verbes se manifeste en conflit avec la tendance opposée de régulariser un maximum de verbes en utilisant le même auxiliaire." %}
 
-Cependant, plusieurs verbes intransitifs, comme **aller**, nécessitent à la place l'auxiliaire **être**. Notez que le participe passé s'accorde en nombre et en genre avec le sujet.
+Notez que le participe passé des verbes intransitifs avec l'auxiliaire *être* s'accorde en nombre et en genre avec le sujet.
 
 | aller |
 | je suis allé(e) | nous sommes allé(e)s |
@@ -87,20 +71,6 @@ Cependant, plusieurs verbes intransitifs, comme **aller**, nécessitent à la pl
 | il est allé | ils sont allés |
 | elle est allée | elles sont allées |
 | on est allé(e)(s) | |
-
-La négation se forme en plaçant **ne ... pas** autour du verbe conjugué, qui dans ce cas, est l'auxiliaire **être** : Je **ne** suis **pas** allé(e), Tu **n'**es **pas** allé(e), etc.
-
-### l'Alamo d'être
-De nombreux verbes intransitifs, c'est-à-dire les verbes non suivis d'un complément d'objet direct, prennent **être** au passé composé. Beaucoup de ces verbes indiquent également le mouvement. Même naître (être né) et mourir (mourir) peut être considéré comme des termes de mouvement (par rapport à la vie) en termes métaphoriques. L'Alamo d'Être illustre ce groupe de verbes.
-
-{% include image.html file="alamo.gif" alt="L'Alamo d'Être" %}
-
-Quelques-uns de ces verbes de mouvement (**monter**, **descendre**, **sortir**, **passer**, **retourner**) peuvent parfois prendre un complément d'objet direct, devenant ainsi transitifs. Quand ils le font, l'auxiliaire utilisé est **avoir**, au lieu d'**être**. Exemple:
-
-* Tex **est** sorti.
-* Tex n'**a** pas sorti la poubelle.
-
-Il est important de noter que de nombreux verbes de mouvement intransitifs, comme **courir** et **marcher**, n'utilisent pas **être** mais **avoir**. Les verbes pronominaux forment un autre groupe important de verbes qui utilisent **être** comme auxiliaire au passé composé.
 
 ### participes passés irréguliers
 Les participes passés des verbes qui utilisent **être** comme auxiliaire sont réguliers à l'exception des verbes suivants :
@@ -147,13 +117,31 @@ De plus, dans les cas où le pronom réfléchi est un objet indirect plutôt qu'
 
 * Tammy : Puis, Bette et moi, **nous nous sommes parlé**.
 
-### négation
-A la négative, le **ne** précède le pronom réfléchi et le **pas** suit l'auxiliaire :
+## négation
+La négation du passé composé se forme en plaçant **ne ... pas** autour du verbe conjugué, l'auxiliaire **avoir** ou **être** : Je **ne** suis **pas** allé(e), Tu **n'**as **pas** fait, etc.
+
+Pour les verbes pronominaux, le **ne** précède le pronom réfléchi et le **pas** suit l'auxiliaire :
 
 | je **ne** me suis **pas** amusé(e) | nous **ne** nous sommes **pas** amusé(e)s |
 | tu **ne** t'es **pas** amusé(e) | vous **ne** vous êtes **pas** amusé(e)(s) |
 | il **ne** s'est **pas** amusé | ils **ne** se sont **pas** amusés |
 | elle **ne** s'est **pas** amusée | elles **ne** se sont **pas** amusées |
 | on **ne** s'est **pas** amusé(e)(s) | |
+
+## Le passé immédiat (venir de + infinitif)
+Lorsque **venir** se conjugue au présent et est suivi de **de + infinitif**, cela signifie « avoir fait quelque chose tout récemment ». Cette construction s'appelle le passé immédiat.
+
+* Tex et Tammy **viennent de** regarder une vidéo romantique. Et ils **viennent de** finir toute une bouteille de vin. Il n'en reste plus une goutte !
+* Tammy : Oh chéri, je t'aime de tout mon coeur.
+* Tex : Embrasse-moi, mon petit quadrupède ! [SMACK !]
+
+Quand **venir** se conjugue à l'imparfait suivi de **de + infinitif**, cela veut dire « avait fait quelque chose tout récemment » :
+
+* Tex et Tammy **venaient de** s'embrasser quand Bette est arrivée.
+* Bette : Oh, excusez-moi... Je vous interromps ?
+* Tammy : En effet, nous passons une soirée tranquille...
+* Tex : Salut Bette, oh, c'est pas grave. On **vient** de regarder une vidéo. Assieds-toi.
+* Tammy : Mais Tex...
+* Bette ronronne.
 
 {% include links.html %}

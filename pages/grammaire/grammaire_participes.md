@@ -7,6 +7,22 @@ permalink: grammaire_participes.html
 folder: grammaire
 ---
 
+### participes
+Un participe est une forme verbale spéciale qui est dérivée de l'infinitif mais qui n'est pas conjuguée. Autrement dit, alors que les conjugaisons se présentent sous des paradigmes de six formes selon six personnes différentes, les participes n'ont que deux formes, nommées selon leurs usages : le participe présent et le participe passé.
+
+Un participe présent en français se termine par **-ant** et est fréquemment utilisé comme adjectif. Les participes présents français sont généralement traduits par la forme **-ing** du verbe anglais. Notez que la forme adjectivale du participe présent doit s'accorder en nombre et en genre avec le nom qu'elle modifie. Dans l'exemple, le participe est mis en accord avec le nom pluriel (les animaux) en ajoutant **-s**.
+
+* Les tatous ​​sont des animaux **fascinants**.
+
+Un participe passé en français est utilisé pour former des temps composés, comme le passé composé. Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'accorde en nombre et en genre
+avec le nom il qualifie.
+
+* Tex a **perdu** une lettre d'amour de Bette.
+* Et Tammy a trouvé la lettre **perdue**!
+
+Dans le premier exemple, le participe 'perdu' se combine avec le verbe auxiliaire pour former le passé de **perdre**. Dans le deuxième exemple, le participe est utilisé comme adjectif pour modifier le nom 'la lettre'. Notez comment le **-e** final sur le participe indique l'accord avec le nom féminin.
+
+
 ## Participe présent
 Le participe présent est formé en supprimant la terminaison **-ons** de la forme **nous** au présent et en ajoutant **-ant**. Les participes présents sont invariables.
 
