@@ -48,7 +48,7 @@ L'imparfait est également utilisé pour énoncer des actions habituelles dans l
 
 * Edouard : Tu te rappelles, en été à Paris, quand il **faisait** chaud ? On **allait** toujours à 10 heures du soir chez Berthillon ... Oh, là, là, leurs glaces, leurs sorbets--fraise, framboise, noisette, pistache, des parfums exotiques. Et puis, on **se promenait** le long des quais, on **voyait** la Seine qui **coulait**, on **chantait**, on **se récitait** même des vers. Ah, Paris la nuit, Paris là-bas, mmm, en été.
 
-## Usages idiomatiques
+## Emplois idiomatiques
 L'imparfait a deux utilisations principales : pour décrire des actions en cours ou des états dans le passé, et pour énoncer des actions habituelles dans le passé. L'imparfait a aussi plusieurs usages idiomatiques que l'on retrouve dans les contextes suivants :
 
 ### suggestions

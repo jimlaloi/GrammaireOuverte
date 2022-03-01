@@ -320,28 +320,6 @@ Le passé du subjonctif est normalement utilisé dans des propositions subordonn
 
 Notez que le temps du verbe dans la proposition principale ne prédit pas le temps du subjonctif dans la proposition subordonnée. Le choix entre le subjonctif présent et passé dépend de la relation chronologique entre les deux propositions.
 
-## Résumé du subjonctif
-WEDDINGS est un dispositif mnémotechnique qui peut vous aider à vous rappeler les principaux points concernant le subjonctif. Quels sont les éléments essentiels d'un mariage ?
-
-Premièrement, il y a toujours deux personnes qui se marient lors d'un mariage. Et tout comme un mariage, le subjonctif requiert **deux sujets différents** dans deux propositions différentes.
-
-Deuxièmement, une alliance est souvent utilisée pour symboliser l'union du couple lors d'un mariage. Et tout comme l'alliance, la conjonction de subordination **que** est essentielle pour réunir les deux propositions.
-
-Rappelez-vous qu'il y a aussi certaines autres conjonctions qui nécessitent toujours le subjonctif.
-
-Et enfin, les mariés et leurs invités couvrent souvent toute la gamme des émotions lors de la cérémonie de mariage : doute, bonheur, tristesse, désir. De même, le subjonctif est un mode qui indique l'attitude ou l'opinion d'un locuteur sur les événements exprimés. L'utilisation du subjonctif est souvent déclenchée par une expression d'émotion.
-
-En résumé, rappelez-vous qu'un mariage contient toujours les éléments suivants : deux personnes (**sujets**) différentes reliées par une alliance (**que**) dans un **contexte chargé d'émotion** ! Les différentes catégories qui décrivent les contextes du subjonctif sont représentées par le mot WEDDINGS :
-
-| WILL (volonté) | Moi, je veux seulement que voys soyez heureux. |
-| EMOTION (émotion) | Je suis heureuse que tu veuilles m'épouser, Tex! |
-| DOUBT (doute) | Mais Tammy, euh, je ne crois pas que tu sois prête pour le mariage. |
-| DESIRE (désir) | Je désire que tu m'épouses, Tex! |
-| INTERROGATIVES (interrogatifs) | Existe-t-il une seule fille qui ne soit pas obsédée par le mariage ? |
-| NEGATIVES (négatifs) | Je n'ai pas l'impression que Tammy soit la femme de ta vie, Tex! |
-| GENERAL STATEMENTS (énoncés génériques) | Tex, mon cher, il faut que tu saches que la vie est courte. |
-| SUPERLATIVES (superlatifs) | Tammy est la plus belle tatou que je connaisse ! |
-
 ## Moyens d'éviter le subjonctif
 Alors que le subjonctif est utilisé fréquemment en français, de nombreuses constructions alternatives sont également utilisées pour l'éviter.
 

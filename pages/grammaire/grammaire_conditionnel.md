@@ -148,8 +148,8 @@ Tout comme le conditionnel représente le futur dans une narration du temps pass
 
 * Tex a dit qu'il **serait rentré** plus tôt, si l'orage n'avait pas éclaté.
 
-## Propositions avec si
-Les propositions avec **si** indiquent des possibilités, qui peuvent ou non devenir réalité. Ils renvoient au présent, au passé et au futur. Ces phrases conditionnelles ont deux parties : la condition, marquée par **si**, et la proposition principale ou résultat qui indique ce qui se passera si la condition de la proposition avec **si** est remplie.
+## Phrases conditionnelles avec si
+Les phrases conditionnelles avec **si** indiquent des possibilités, qui peuvent ou non devenir réalité. Ils renvoient au présent, au passé et au futur. Ces phrases conditionnelles ont deux parties : la condition, marquée par **si**, et la proposition principale ou résultat qui indique ce qui se passera si la condition de la proposition avec **si** est remplie.
 
 Le temps de la proposition de résultat dépend du temps de la proposition avec si. En d'autres termes, le temps des deux propositions suit une séquence prescrite.
 
