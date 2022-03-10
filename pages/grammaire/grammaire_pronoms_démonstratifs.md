@@ -21,36 +21,23 @@ Ils sont suivis de la préposition **de** ou d'un pronom relatif (**qui**, **que
 
 **Celui de**/**d'**, **celle de**/**d'** etc. indiquent la possession. Ils sont généralement traduits par 'that of', 'those of' ou par la forme possessive.
 
-* Tammy : Tu aimes l'accent d'Edouard ?
-* Bette : Je préfère **celui de** Tex.
-* Tammy : Tu aimes la voix d'Edouard ?
-* Bette : Oh, je préfère **celle de** Tex.
-* Tammy : Tu aimes les yeux d'Edouard ?
-* Bette : Oui, mais je préfère **ceux de** Tex.
-* Tammy : Tu aimes les oreilles d'Edouard ?
-* Bette : Oui, mais je préfère **celles de** Tex.
+{% include callout.html content="C'était son rêve depuis ses 16 ans, ou plutôt **celui** de sa mère.
+<br/><br/>Ses valeurs ne sont pas compatibles avec **celles** de la République." type="primary" %}
 
 *Pronom démonstratif* + *pronom relatif* introduit une proposition relative où ces pronoms ont la fonction du sujet, de l'objet du verbe, ou de l'objet d'une préposition.
 
-* Bette : Moi, j'aime les tatous.
-* Tammy : Moi aussi, surtout **ceux qui** portent le béret.
-
-* Tammy : Et toi Bette, qui est-ce que tu aimes?
-* Bette : **Celui que** j'aime ne m'aime pas !
-
-* Tammy : De qui tu parles ?
-* Bette : Tu ne connais pas **celui dont** je parle.
+{% include callout.html content="Là encore, il faut reconnaître que **ceux qui** ont organisé cette expérience ont bien fait les choses.
+<br/><br/>Et voici maintenant **celui que** vous attendez tous!<br/><br/>Ma mère n'est pas comme **celle dont** je parle dans le spectacle." type="primary" %}
 
 **-ci** et **-là** sont ajoutés aux pronoms démonstratifs pour indiquer la proximité ou l'éloignement comme la distinction entre 'this one' et 'that one' en anglais.
 
-* Bette : Tammy, regarde mes dernières photos de Tex ! Tu préfères **celle-ci** ou **celle-là** ?
+{% include callout.html content="**Celle-ci**, elle a un écran très grand tandis que **celle-là**, beaucoup plus petit." type="primary" %}
 
 ## ceci, cela
 
 **Ceci** et **cela** sont des pronoms démonstratifs invariables. Ils font référence à des choses qui ne peuvent pas avoir de genre spécifique, comme des idées ou des déclarations. **Ça** est souvent utilisé dans un style familier ou conversationnel à la place de **cela**.
 
-* Tammy : Tu es amoureuse de Tex, **cela** me semble évident !!
-* Bette : Qu'est-ce que tu racontes ?! Tu crois vraiment que je ne respecte pas l'amour entre toi et Tex ?! **Ça** me fait de la peine, **ça** !
+{% include callout.html content="Mais à quelles conditions pouvons-nous affirmer **ceci** ? Il nous faut pour **cela** reprendre notre confrontation.<br/><br/>Ses valeurs ne sont pas compatibles avec **celles** de la République.<br/><br/>Il est encore trop tôt mais **ça** pourrait arriver." type="primary" %}
 
 ## C'est et il/elle est
 
@@ -62,29 +49,45 @@ Le choix entre **c'est** et **il**/**elle est** n'est pas toujours facile, mais 
 
 **C'est** et **ce sont** sont suivis de :
 
- + nom, y compris les noms modifiés (Tex? **C'est** un tatouage. **C'est** un Américain. **C'est** un petit tatou bilingue. Tammy et Tex ? Non, **ce ne sont pas** des chats ! **Ce sont** des tatous.)
+ + nom, y compris les noms modifiés 
+ 
+ {% include callout.html content="**C'est** un effort presque impossible à faire.<br/><br/>**Ce sont** des pilotes très bien payés qui font grève." type="primary" %}
 
-+ nom propre (**C'est** Tex.)
++ nom propre
 
-+ pronom disjonctif (Tammy : Allô Tex ? **C'est** moi. Tex : Qui est-ce ? Ah, **c'est** toi Tammy !)
+{% include callout.html content="**C'est** Vincent qui est en tête." type="primary" %}
 
-+ dates (Tex : Mon anniversaire ? **C'est** le quatorze juillet. **C'est** jeudi prochain !)
++ pronom disjonctif
 
-+ un infinitif comme sujet (Tex : Vivre, **c'est** parler français.)
+{% include callout.html content="**C'est** lui qui me l'a dit." type="primary" %}
 
-+ adjectif pour référents non spécifiques (Tex : Ah **c'est** chouette ! **C'est** incroyable !)
++ dates
+
+{% include callout.html content="Mais s'il n'y a ni gardien, ni chien, ni système de sécurité, c'est parce que **c'est** le 31 décembre et que c'est la grande nouba.<br/><br/>Demain, **c'est** jeudi, pas cours." type="primary" %}
+
++ un infinitif comme sujet
+
+{% include callout.html content="Mais parler de protectionnisme intelligent, **c'est** être un mauvais citoyen." type="primary" %}
+
++ adjectif pour référents non spécifiques
+
+{% include callout.html content="**C'est** intéressant, mais il faut être prudent." type="primary" %}
 
 ### il/elle est - ils/elles sont
 
 Utilisez **il**/**elle est** ou **ils**/**elles sont** pour introduire les éléments suivants :
 
-+ adjectif seul (Tex ? **Il est** arrogant ! **Il n'est pas** français. **Il est** américain. Tammy ? **Elle est** gentille.)
++ adjectif seul
 
-+ nationalité, profession, religion (utilisés comme adjectifs en français) (Tex ? **Il est** poète. Trey? **Il est** musicien. Tammy ? Elle est étudiante.)
+{% include callout.html content="**Ils étaient** beaux, **ils étaient** fiers, mes mots à moi." type="primary" %}
+
++ nationalité, profession, religion (utilisés comme adjectifs en français)
+
+{% include callout.html content="**Elle est** américaine .<br/><br/>**Ils sont** ingénieurs et designers.<br/><br/>**Il est** musulman, non pratiquant." type="primary" %}
 
 Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à une chose spécifique. **Ce** ne fait pas référence à une personne ou à une chose en particulier ; il est généralement traduit comme « that ».
 
-* **Il est** stupide. (**He**'s stupid.) **C'est** stupide. (**That**'s stupid.)
+{% include callout.html content="**Il est** bête, ce Patrick.<br/><br/>**C'est** bête de gaspiller deux cartouches pour rien." type="primary" %}
 
 
 {% include links.html %}
