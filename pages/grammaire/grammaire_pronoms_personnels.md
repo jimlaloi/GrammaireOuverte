@@ -74,24 +74,19 @@ Le pronom **on** signifie « one », ou « they » dans un sens non spécifique 
 
 Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme **tu** est considérée comme un manque de respect.
 
-* Tammy : Bonjour, Paw-Paw. **Vous** allez bien?
-* Paw-Paw : Ah, oui ! Et **vous**, mes enfants, Tex, Tammy, **vous** allez bien ?
+{% include callout.html content="Monsieur le ministre, **vous** êtes en train d'organiser un vaste tripatouillage électoral.<br/><br/>**Vous** êtes prêts, les enfants ? C'est parti." type="primary" %}
 
 **il/elle**
 
-Il et elle, en plus de signifier « he » et « she », peuvent tous deux exprimer le sens « it » selon le genre du nom remplacé. Par exemple : 
+**Il** et **elle**, en plus de signifier « he » et « she », peuvent tous deux exprimer le sens « it » selon le genre du nom remplacé. Par exemple : 
 
-* Bette : **La musique** est bonne, n'est-ce pas ?
-* Tex : Non, **elle** est terrible ! Je déteste la musique country.
-* Bette : Oh, qu'est-ce que tu as fait, Tex ? **Le juke-box** est cassé ?
-* Tex : Oui, **il** est cassé !
+{% include callout.html content="C'est une question à laquelle je vous rends attentifs, **elle** est tout de même préoccupante.<br/><br/>La question est alors de savoir si le plaisir a la moindre valeur morale, s'**il** constitue un bien." type="primary" %}
 
 **ils/elles**
 
 **Ils** et **elles** sont similaires à **il** et **elle** puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. **Ils** et **elles** peuvent désigner des personnes ou des choses. **Elles** est utilisé pour signifier « they » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, **ils** est utilisé pour signifier « they » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
 
-* Bette et Tex sont de bons amis.
-* Normalement **ils** s'entendent bien, mais pas aujourd'hui !
+{% include callout.html content="**Ils** sont frère et soeur, artistes." type="primary" %}
 
 ## Pronoms compléments
 
@@ -103,15 +98,9 @@ Le tableau suivant décrit l'ordre des pronoms compléments dans la phrase.
 | | vous | les | leur | | | |
 | | se | | | | | |
 
-* Joe-Bob prépare sa leçon : Mon dieu, comme c'est difficile, l'ordre des pronoms compléments ! Le prof me dit qu'il faut les apprendre par coeur. Voici ma chanson ...
-
 Parfois, il y aura à la fois un pronom d'objet direct et un pronom indirect dans la même phrase. Le pronom d'objet direct est généralement le plus proche du verbe dont il est l'objet. Cependant, l'ordre des pronoms d'objets directs/indirects est inversé à la troisième personne du singulier et à la troisième personne du pluriel (**le lui**, **le leur**, etc.). Dans ce cas, l'objet indirect est le plus proche du verbe.
 
-**son parfum?**
-
-| Fiona **me le** donne | Fiona **nous le** donne |
-| Fiona **te le** donne | Fiona **vous le** donne |
-| Fiona **le lui** donne | Fiona **le leur** donne |
+{% include callout.html content="S'il a un souci, il **me le** dit.<br/><br/>Je **le leur** ai dit, d'ailleurs." type="primary" %}
 
 Cependant, à l'impératif affirmatif, les pronoms compléments suivent le verbe.
 
@@ -122,15 +111,12 @@ Cependant, à l'impératif affirmatif, les pronoms compléments suivent le verbe
 
 Souvenez-vous qu'à l'impératif affirmatif, **me** et **te** deviennent **moi** et **toi**.
 
-* Tammy : Fiona ! Fiona ! Ton parfum, tu **me le** donnes! ? Tu vas **me le** donner ? Donne-**le**-**moi** !
-* Fiona : Pardon, je ne comprends pas. Vous voulez du parfum pour aller au gymnase ?
+{% include callout.html content="Tu **me le** donnes et je me barre...<br/><br/>La mère a refusé de **me le** donner.<br/><br/>T'as de l'argent, donne-**le**-**moi** ou je te tape." type="primary" %}
 
 ### négation
 Dans les temps simples, comme le présent, le futur, l'imparfait et le passé simple, les pronoms d'objets sont placés entre le **ne** et le verbe. Aux temps composés, comme le passé composé, le plus-que-parfait etc., les pronoms d'objets sont placés entre le **ne** et le verbe auxiliaire.
 
-* Plus tard au gymnase.
-* Tammy : Personne ne fait attention à nous ! Tu vois, sans parfum, aucun mec ! Pourquoi est-ce que Fiona **ne nous en** a **pas** donné?
-* Bette : Et bien, c'est parce qu'elle ne comprend pas l'art de la séduction.
+{% include callout.html content="Il **ne nous en** a **pas** parlé." type="primary" %}
 
 ### Pronoms d'objet direct
 
@@ -143,31 +129,19 @@ Un objet direct est un nom qui suit le verbe qui répond aux questions « quoi�
 
 Devant un mot qui commence par une voyelle, **le** et **la** deviennent **l'** ; **me** devient **m'**; **te** devient **t'**.
 
-* Tammy : Dis, tu **m**'appelles ce soir, Tex ? 
-* Tex : Oui, ma belle, je **t**'appelle ce soir.
-* Corey : Edouard et moi, tu **nous** appelles ce soir, Tex ?
-* Tex : Non, je ne **vous** appelle pas ce soir.
-Joe-Bob : Moi, je peux **les** appeler ce soir !
+{% include callout.html content="Tu **l'**as ramassé, donc.<br/><br/>Il **m'**avait félicité avec assez peu de chaleur.<br/><br/>Mais je **t'**assure que je **le** sens bien, moi." type="primary" %}
 
 Les pronoms d'objet direct en français s'accordent en nombre et en genre avec les noms qu'ils remplacent.
 
-* Tex cherche le numéro de téléphone de Tammy. Enfin il **le** trouve et il **l**'appelle.
-* Joe-Bob cherche les numéros d'Edouard et de Corey. Enfin il **les** trouve et il **les** appelle.
+{% include callout.html content="Les ordres qui vous sont donnés, c'est à moi de **les** assumer et de **les** prendre aussi." type="primary" %}
 
 Notez que **le**/**l**' peut remplacer un adjectif ou un verbe.
 
-* Tex et Tammy sont amoureux ? Oui, ils **le** sont.
-* Tex est quelquefois jaloux? Oui, il **l**'est.
-* Joe-Bob : Tu veux que j'appelle Tammy ? Tex : Non, moi, je vais **le** faire.
+{% include callout.html content="Comme d'habitude vous dites n'importe quoi, je pense que vous **le** faites exprés!<br/><br/>J'ai des amis qui n'étaient pas racistes et **le** sont devenus une fois entrés dans la police." type="primary" %}
 
 Le participe passé s'accorde en genre et en nombre avec un objet direct précédent. En d'autres termes, si le pronom objet direct est féminin, ajoutez un **e** à la fin du participe passé ; si le pronom est masculin pluriel, ajoutez un **s** (à moins que le participe passé se termine déjà par **s**); s'il s'agit d'un pluriel féminin, ajoutez **es**.
 
-* Un peu plus tard... Un peu plus tard...
-* Bette : Tammy ? Tu sais, Tex **m**'a embrassé**e**.
-* Tammy : Ce n'est pas vrai !
-* Bette : Demande-lui. Il arrive.
-* Tammy : Tex, tu **l**'as embrassé**e**, Bette ?
-* Tex : Qui ? Bette ? Mais non. Je ne l'ai pas embrassé**e**. C'est elle qui **m**'a embrassé ! PAF ! Aïe !
+{% include callout.html content="On **m'**a mis**e** dans un atelier couture.<br/><br/>Elle **nous** a quitté**s** mais la relève est là." type="primary" %}
 
 ### Pronoms d'objet indirect
 
@@ -180,53 +154,39 @@ Un objet indirect est une personne qui reçoit indirectement l'action d'un verbe
 
 Devant un mot commençant par une voyelle, **me** et **te** deviennent **m'** et **t'**.
 
-* Tammy : Tex, tu **m**'offres des fleurs ? Et à Bette, tu **lui** offres des fleurs aussi, n'est-ce pas?
-* Tex : Oui, mais je **t**'offre des fleurs plus souvent.
-* Joe-Bob : Tu **leur** as offert des fleurs, à toutes les deux ! Bravo, quel tombeur !
-* Tammy : Paf !
+{% include callout.html content="Souvent, on **m'**envoie des messages, on **me** dit que c'est de la folie.<br/><br/>Arthur, je venais **t'**emprunter ta voiture." type="primary" %}
 
 ### Pronom y
 
 **Y** remplace une préposition indiquant l'emplacement plus son objet : 'à UT' (à UT), 'devant la Tour' (devant la Tour). Il est généralement traduit par **là**. Les prépositions qui indiquent l'emplacement incluent **à**, **en**, **dans**, **devant**, **derrière**, **sous**, **sur**. Les objets nominaux de ces prépositions sont des lieux et des choses qui indiquent un lieu. L'exception est la préposition **chez** qui est utilisée avec une personne, comme dans 'chez Bette'. Notez que **à + personne** est remplacé par un pronom objet indirect sauf avec certains verbes.
 
-* Bette : Tammy, tu vas à Waco ?
-* Tammy : Oui, j'**y** vais ce week-end pour un bal à Baylor.
-* Bette : Mais on ne peut pas **y** danser.
-* Tammy : Mais si, les étudiants à Baylor ont maintenant le droit de danser.
-* Bette : Super, on **y** va !
+{% include callout.html content="Incapable d'**y** demeurer plus longtemps, la jeune fille se dépêcha de sortir par où elle était venue." type="primary" %}
 
-Avec certains verbes, **y** remplace la préposition **à** lorsque son objet est une idée ou une chose, mais pas une personne. Certains de ces verbes sont **penser à**, **réfléchir à**, **s'intéresser à**, **répondre à**, **participer à**. Dans ces expressions, la préposition **à** est idiomatique. Il n'indique pas l'emplacement ni le mouvement.\
+Avec certains verbes, **y** remplace la préposition **à** lorsque son objet est une idée ou une chose, mais pas une personne. Certains de ces verbes sont **penser à**, **réfléchir à**, **s'intéresser à**, **répondre à**, **participer à**. Dans ces expressions, la préposition **à** est idiomatique. Il n'indique pas l'emplacement ni le mouvement.
 
-* Tex s'intéresse à la philo. Il s'**y** intéresse énormément.
-* Tex pense toujours à l'existentialisme. Il **y** pense jour et nuit.
+{% include callout.html content="Il a dû **y** renoncer suite au tollé que ça avait suscité.<br/><br/>Moi, je m'**y** intéresse." type="primary" %}
 
-Lorsque ces verbes sont suivis d'une personne, le pronom disjonctif sera utilisé, par exemple, « Bette pense souvent à Tex. Elle pense souvent à lui ».
+Lorsque ces verbes sont suivis d'une personne, le pronom disjoint sera utilisé.
+
+{% include callout.html content="Vous ne voyez pas que cette enfant a besoin qu'on s'intéresse **à elle** ?" type="primary" %}
 
 ### Pronom en
 
 **En** est un pronom qui remplace généralement **de + un nom** ; cela inclut les noms introduits par des déterminants partitifs ou indéfinis (**de**, **du**, **de l'**, **de la**, **des**).
 
-* Tammy, Edouard et Tex sont à table.
-* Tammy : Edouard, tu veux de la soupe ?
-* Edouard : Oui, merci. Elle est délicieuse.
-* Tex : Il y a du vin ? 
-* Tammy : Oui il y **en** a. Tu **en** veux ?
+{% include callout.html content="Des câlins, il **en** voudrait tellement.<br/><br/>Quand on prend du safran, on n'**en** prend pas beaucoup." type="primary" %}
 
 De la même manière, **en** remplace un nom introduit par un nombre ou une expression de quantité. Notez que l'équivalent de **en** n'est pas toujours exprimé en anglais, bien que **en** doit toujours être utilisé dans la phrase française :
 
-* Tammy : Edouard, tu as assez de pain ?
-* Edouard : Oui, merci, j'**en** ai **assez**.
-* Tammy : Tex, tu veux un peu de pain ?
-* Tex : Non, merci, je n'**en** veux pas. J'**en** ai encore **une tranche**.
+{% include callout.html content="Les Français **en** mangent en moyenne **8 kilos** par an.<br/><br/>Il **en** coupa **plusieurs tranches** qu'il laissa en tas au milieu de la table.<br/><br/>L'argent ? Sûrement pas, il **en** a **assez**." type="primary" %}
 
 **En** remplace également les expressions introduites par la préposition **de** par les verbes suivants : **s'occuper de**, **parler de**, **remercier de**, **revenir de**, **venir de**
 
-* Tammy : Alors Edouard, comment s'est passée ton interview au restaurant ?
-* Edouard : J'**en** reviens tout juste ! C'était dégoûtant.
-* Tammy : Tu veux **en** parler ?
-* Edouard : Tu sais bien que j'ai envie de gagner plus d'argent, j'**en** ai vraiment besoin, mais servir du barbecue ! Jamais ! Edouard ne travaillera jamais dans un restaurant qui s'appelle le Bon Barbecue!
+{% include callout.html content="Il va falloir que je m'**en** occupe tout seul.<br/><br/>J'**en** parle parce que je vais m'y engager personnellement.<br/><br/>Je connais votre détermination et vous **en** remercie." type="primary" %}
 
 Notez qu'un pronom disjoint est utilisé avec ces verbes pour remplacer les expressions lorsque l'objet de la préposition **de** est une personne plutôt qu'une chose.
+
+{% include callout.html content="Je parle **de lui** tous les jours.<br/><br/>Le mercredi, c'est elle qui s'occupe **d'eux**." type="primary" %}
 
 ## Pronoms disjoints
 
@@ -240,33 +200,39 @@ Les pronoms disjonctifs (également appelés pronoms toniques ou accentués) fon
 On utilise les pronoms disjoints...
 
 après les prépositions
-: Tammy adore Tex. Elle ne peut pas vivre sans **lui**. Elle vit pour **lui**. Elle veut se marier avec **lui**.
+
+{% include callout.html content="Je n'aurais pas pu vivre sans **lui**.<br/><br/>Ton amour est trop grand pour **moi**.<br/><br/>Il se souvient de sa première rencontre avec **elle**." type="primary" %}
 
 dans des réponses courtes ou des exclamations quand aucun verbe n'est exprimé
-: Corey : Qui sort avec Tammy ?
-Tex : **Moi** !
+
+{% include callout.html content="Quand il y a un pépin avec le réseau WiFi de la maison, qui appelle-t-on à la rescousse ? **Lui** !" type="primary" %}
 
 avec ni...ne, ne...que
-: Tex (à Tammy) : Je n'aime que **toi** ma chérie.
+
+{% include callout.html content="Cela ne nous concerne ni **vous** ni **moi**.<br/><br/>Il n'y a que **toi** qui me soigne." type="primary" %}
 
 dans un sujet ou objet composé
-: Tammy : Tex et **moi** , nous aimons aller en boîte.
+
+{% include callout.html content="Mes camarades et **moi** avons essayé d'interroger des personnes dans la rue." type="primary" %}
 
 dans de simples accords ou désaccords lorsqu'aucun verbe n'est exprimé
-: Joe-Bob : **Moi** aussi !
-Corey : Pas **moi** !
-Fiona : **Moi** non plus !
+
+{% include callout.html content="A: J'ai déjà mangé ! B: Pas **moi** !" type="primary" %}
 
 pour l'accent
-: Joe-Bob : **Eux**, ils s'amusent, mais **vous**, vous ne sortez jamais.
+
+{% include callout.html content="Son père était maladroit mais **lui** au moins disait ce qu'il pensait!" type="primary" %}
 
 après c'est ou ce sont
-: Corey : C'est **moi** le plus nul.
+
+{% include callout.html content="Ce sont **elles** qui ont gagné les élections municipales et cantonales et je veux ici les saluer." type="primary" %}
 
 avec *-même*
-: Tammy : Arrête de t'apitoyer sur toi-même !
+
+{% include callout.html content="Tu disais **toi-même** qu'il y avait beaucoup de besoins." type="primary" %}
 
 en comparaison
-: Corey : Il n'y a personne qui soit plus pitoyable que **moi** !
+
+{% include callout.html content="Ces poissons sont plus âgés que **moi**." type="primary" %}
 
 {% include links.html %}
