@@ -10,8 +10,7 @@ folder: grammaire
 ## formes et usages
 Un pronom possessif remplace un nom précédé d'un déterminant possessif comme **mon**, **ton**, **son**, etc.
 
-* Tammy : C'est **ton** béret Tex ? 
-* Tex : Oui, c'est **le mien**.
+{% include callout.html content="De toute façon **ton** pays et **le mien** ne veulent pas se faire la guerre." type="primary" %}
 
 En français, les pronoms possessifs indiquent à la fois le possesseur et le nombre et le genre de l'objet possédé : **le mien** indique que le possesseur est « je » et que la possession est au masculin singulier.
 
@@ -28,47 +27,28 @@ Dans le tableau suivant, le choix entre la forme singulière ou plurielle et ent
 
 Selon le contexte, **le sien**, **la sienne**, **les siens**, **les siennes** peut signifier « his », « hers » ou « its ». Notez que pour les autres, les quatre formes de chaque pronom possessif ont une seule traduction en anglais.
 
-* Tex : Mon frère est musicien.
-* Tammy : **Le mien** est professeur.
-* Tex : Ma soeur est secrétaire. 
-* Tammy : **La mienne** est PDG. 
-* Tex : Mes parents sont américains.
-* Tammy : **Les miens** aussi.
+{% include callout.html content="Heureusement que sa chambre est éloignée de **la mienne**.<br/><br/>C'était la rencontre des parents de mon copain et **des miens**.<br/><br/>Vos querelles ne sont pas **les miennes**." type="primary" %}
 
 Notez que **à** + les articles définis **le** et **les** forment respectivement les contractions **au** et **aux**. Par exemple:
 
-* Tammy : Je pense souvent à mes neveux. 
-* Tex : Je pense rarement **aux miens**.
-* Tammy : Oh ! Tex, tu es si égoïste !
+{% include callout.html content="On n'a qu'à parler à tes parents et **aux miens**." type="primary" %}
 
 ## d'autres manières d'exprimer la possession
 Les pronoms possessifs sont une façon d'exprimer la possession de choses ou de personnes. Cependant, vous pouvez également utiliser la construction [**être** + **à** + pronom disjonctif], les déterminants possessifs ou [**de** + nom] :
 
-* Fiona : A qui appartient cette photo ?
-* Tex : **Elle est à moi**.
-* Tammy : Oui c'est **la sienne**. Tu ne connais pas Rita ?
-* Fiona : Qui est Rita ? 
-* Tammy : C'est **la soeur de Tex**. 
-* Fiona : **Ta** soeur est très belle. Tu lui ressemble. 
-* Tex : Non, je ne lui ressemble pas.
+{% include callout.html content="Je suis **ton** fils **à toi** aussi.<br/><br/>Car ce sont les mêmes qui, dans les premiers films **de Méliès**, interprètent les textes classiques." type="primary" %}
 
 ## usages idiomatiques
 Les formes masculines plurielles des pronoms possessifs peuvent être utilisées seules pour désigner des parents, des amis, des alliés, etc. **Etre des nôtres**, **être des vôtres** sont des expressions courantes avec une telle signification du pronom possessif.
 
-* Tammy : Quand j'étais à Lyon, je pensais souvent **aux miens**.
-* Tammy : Fiona, j'invite des amis ce soir. Tu **es des nôtres** ?
+{% include callout.html content="Je ne penserai pas davantage **aux miens** qui passeront les fêtes sans moi.<br/><br/>Beaucoup **des nôtres** ont tiré sur les militaires qui ont fui." type="primary" %}
 
 **Y mettre du sien** est une expression courante qui peut être utilisée avec n'importe quel pronom possessif pour signifier que vous faites votre part, que vous faites de votre mieux, que vous faites un réel effort pour contribuer.
 
-* Tammy : Tex, nous avons des invités ce soir. Il y a beaucoup de choses à préparer. J'espère que **tu vas y mettre du tien**.
+{% include callout.html content="Je fais ce que je peux, tu n'as qu'a **y mettre du tien** aussi." type="primary" %}
 
 **Faire des** + **miennes**, **tiennes**, **siennes**, **nôtres**, **vôtres** ou **leurs** sont des phrases suggérant une mauvaise conduite.
 
-* Tammy : Bette **a encore fait des siennes**. Hier elle a dragué Tex toute la soirée devant tout le monde.
-
-
-
-
-
+{% include callout.html content="Cela devient encore plus problématique lorsque l'ordinateur **fait des siennes**.<br/><br/>Oh toi ! Tu as encore **fais des tiennes** ...tu peux pas te retenir." type="primary" %}
 
 {% include links.html %}
