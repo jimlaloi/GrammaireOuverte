@@ -14,37 +14,33 @@ Les **articles** constituent le principal groupe de déterminants en français. 
 
 Les **articles définis** (le, la, les) sont utilisés lorsque le nom est spécifique.
 
-* Le serveur donne **la** carte des vins à Tex.
+{% include callout.html content="**Les** yeux perdus dans **la** lumière de l'écran, il réfléchissait." type="primary" %}
 
 Les **articles indéfinis** (un, une, des) introduisent des noms qui ne sont pas spécifiques.
 
-Tex choisit **un** vin.
+{% include callout.html content="Bonjour, tu me fais **un** bisou ?" type="primary" %}
 
 Les **articles partitifs** (du, de la, de l') sont utilisés pour introduire des noms de masse, c'est-à-dire des noms qui sont conçus comme une masse de quantité indéterminée.
 
-Tex boit **du** vin.
+{% include callout.html content="Nous avons, tous ensemble, **du** travail à faire." type="primary" %}
 
 Les **déterminants démonstratifs** (ce, cet, cette, ces) indiquent quelque chose, typiquement quelque chose à portée de vue. Ils peuvent être traduits en anglais par 'this', 'that', 'these', 'those' selon le nombre (singulier ou pluriel) et la proximité (proche ou lointaine).
 
-* Tex explique : **Ce** bassin est Barton Spring. **Cette** piscine s'appelle Deep Eddy.
+{% include callout.html content="Pour autant, **cette** question n'a pas à intervenir dans **ce** projet de loi." type="primary" %}
 
 Les **déterminants possessifs** (mon, ma, mes, etc.) indiquent la possession.
 
-* Tex présente sa famille : Voici **mon** frère Trey, **ma** soeur Rita avec **ses** enfants et **leur** chien Fido. **Notre** famille est formidable.
+{% include callout.html content="Devant **ta** beauté, **ma** vie prend enfin **son** sens." type="primary" %}
 
 Les **déterminants indéfinis** qualifient les noms et expriment l'idée indéfinie de qualité ou de quantité. Ils s'accordent en nombre et en genre avec le nom qu'ils modifient. Certains déterminants indéfinis peuvent être utilisé comme pronoms indéfinis pour remplacer un nom. Voici une liste de déterminants indéfinis communs : aucun (aucune), certains (certaines), chaque, différents (différentes), divers (diverses), plusieurs, quelques, tout.
 
-* Bette : Il n'y a **aucun** doute. Tu finiras mère au foyer!
-* Tammy : Chaque jour, tu trouves une méchanceté à dire. **Aucune** chatte n'est aussi désagréable que toi !
-* Bette : Mais ouvre les yeux Tammy ! Ton futur mari a **plusieurs** défauts. Il est snob, prétentieux, et veut toujours avoir raison.
-* Tammy : Mais il a aussi **quelques** qualités : il est beau et talentueux. **Certains** éditeurs pensent qu'il est le prochain prix Goncourt.
-* Bette tout bas : Tu parles !
+{% include callout.html content="À ce jour, **aucune** information n'a été donnée sur la réalité de la pollution.<br/><br/>Il le lui a dit à **plusieurs** reprises.<br/><br/>Différents sujets me préoccupent en ce moment, vous le savez bien.<br/><br/>La France sait bien que, dans une communauté, il faut accepter **certaines** règles, **certaines** sujétions." type="primary" %}
 
 ## Les articles définis 
 En français, peu de noms peuvent tenir seuls. La plupart doivent être introduits ou « déterminés » par un article. Comme en anglais, un article est soit défini ('the') ou indéfini ('a', 'an'). Par ailleurs, les articles français sont également masculins ou féminins, singuliers ou pluriels, selon le genre et le nombre du nom qu'ils déterminent. Voici les articles définis en français :
-Masculin singulier : **le** (**l'**) - Tex **le** tatou, Joe-Bob **l'**écureuil
-Féminin singulier : **la** (**l'**) - Bette **la** chatte, **l'**Université du Texas
-Masculin et féminin pluriel : **les** - **les** tatous, **les** écureuils, **les** chats, **les** universités
+Masculin singulier : **le** (**l'**)
+Féminin singulier : **la** (**l'**)
+Masculin et féminin pluriel : **les**
 
 ### élision et liaison
 Dans les exemples ci-dessus, notez que **le** et **la** deviennent tous les deux **l'** lorsqu'ils précèdent un nom commençant par une voyelle ou un **h** muet : **l'**escargot, **l'**université. C'est ce qu'on appelle **l'élision**.
@@ -52,8 +48,8 @@ Dans les exemples ci-dessus, notez que **le** et **la** deviennent tous les deux
 Contrairement à **le** et **la**, **les** n'a pas de forme contractée et réduite. Lorsque **les** est suivi d'un mot commençant par une voyelle, le **s** final normalement silencieux de **les** est prononcé, produisant un son **/z/**. Ce son supplémentaire reliant deux mots est appelé **liaison**.
 
 | Liaison obligatoire avec une voyelle ou un h muet | Pas de liaison avec une consonne |
-| le**s i**nsectes | les tatous |
-| le**s a**nimaux | les fourmis |
+| le**s i**nsectes | les gens |
+| le**s a**nimaux | les maisons |
 | le**s h**ommes | |
 
 Notez que l'élision et la liaison apparaissent avec la plupart des mots commençant par **h** : **l'h**omme, **les h**ommes, **l'h**iver, **les h**ivers. Les exceptions à cette règle sont les mots commençant par un **h** aspiré.
@@ -61,94 +57,73 @@ Notez que l'élision et la liaison apparaissent avec la plupart des mots commen�
 ### identifier un nom spécifique
 L'article défini est utilisé pour identifier un nom spécifique ou pour faire référence à un nom qui a déjà été spécifié.
 
-* Corey : Tu connais **la** tour de l'Université du Texas?
-* Tex : Bien sûr, c'est **le** symbole de **l'**Université !
-* Corey : Et **la** Sixième rue ?
-* Tex : Eh bien, c'est **les** Champs-Elysées d'Austin !
+{% include callout.html content="**Le** matériel pour **les** exercices n'était pas forcément très adapté." type="primary" %}
 
 ### exprimer des vérités ou des concepts généraux
 
 Le français utilise l'article défini pour exprimer des vérités ou des concepts généraux. L'anglais, en revanche, n'utilise aucun article. Comparer les phrases suivantes:
 
-* Tex : **L'**argent ne rend pas **l'**homme heureux ! 'Money does not make man happy'
-* Tammy : Tu as raison. **L'**amour et **la** santé sont plus importants ! 'You are right. Love and health are more important.'
-* Tex : Bien sûr, pour **les** insectes et **les** animaux, **l'**argent n'existe pas ! Mais **l'**amour est aussi important pour nous que pour **les** humains. Ah oui... **l'**amour, **l'**amour, toujours **l'**amour ! 'Of course, for insects and animals, money doesn't exist! But love is as important for us as it is for humans. Ah yes, love, love, always love!'
+{% include callout.html content="Les enfants ne viennent que quand ils veulent.<br/><br/>**L'**argent et **le** pouvoir ne nous survivent pas." type="primary" %}
 
 ### exprimer ses goûts et ses aversions
 Les Français utilisent aussi l'article défini avec des **verbes de préférence**, comme **aimer**, **préférer**, **détester**. Encore une fois, l'anglais omet l'article dans ces déclarations générales. Par exemple:
 
-* Tex adore **les** croissants. 'Tex loves croissants.'
-* Joe-Bob préfère **les** doughnuts. 'Joe-Bob prefers doughnuts.'
-* Tammy n'aime pas **le** café. 'Tammy doesn't like coffee.'
-* Edouard apprécie **la** bonne cuisine française. 'Edouard appreciates good French cuisine.'
+{% include callout.html content="J' adore **les** cacahuètes.<br/><br/>C'est marrant que t'aimes pas **le** foot.<br/><br/>Son caractère lui fait préférer **les** moyens pacifiques à **la** violence." type="primary" %}
 
 ### pour indiquer une action répétée ou habituelle
 L'article défini est utilisé en français avec des moments de la journée, des jours de la semaine et des saisons pour indiquer la récurrence habituelle. Par exemple:
 
-* **Le** matin, Tammy va en cours. 
-* **L'**après-midi, elle va à la bibliothèque. 
-* **Le** lundi, Tex fait son jogging. 
-* **L'**été, il se baigne avec Tammy à Barton Springs. **L'**hiver, il skie au Purgatoire.
+{% include callout.html content="Allez-y tôt **le** matin ou tard **le** soir.<br/><br/>Il allait à la messe **le** samedi soir car il ne pouvait pas y aller **le** dimanche.<br/><br/>**L'**été, on mange dehors, sous les arbres." type="primary" %}
 
 ### dans une série
 L'article est généralement répété dans une série, contrairement à l'anglais. Par exemple:
 
-* Tammy : Tex, aide-moi à mettre la table ! Apporte **les** assiettes, **les** couteaux, **les** verres, **les** serviettes et **le** vin.
+{% include callout.html content="Il enregistre **les** appels, **les** e-mails, et **les** SMS." type="primary" %}
 
 ### avec des parties du corps
-L'article défini est souvent utilisé avec des parties du corps au lieu d'un déterminant possessif (**mon**, **ma**, **mes**, etc.). Les phrases avec cette structure utilisent toujours le verbe **avoir** pour indiquer que le possesseur est le sujet de la phrase. Les phrases françaises suivantes sont équivalentes.
+L'article défini est souvent utilisé avec des parties du corps au lieu d'un déterminant possessif (**mon**, **ma**, **mes**, etc.).
 
-* Tex rêve : Ah, Tammy ! Tu as **les** yeux brûlants, **la** bouche pulpeuse fougueuse, **les** cheveux si doux...
-* Tex rêve : Ah Tammy ! **Ton** regard est brûlant, **ta** bouche pulpeuse, **tes** cheveux si doux...
+{% include callout.html content="Simon lui jeta un regard sombre, alors il ferma **la** bouche et baissa **les** yeux ." type="primary" %}
 
 Cependant, un article indéfini est utilisé si un adjectif vient **avant** la partie du corps :
 
-* Tex continue : Tammy, tu as **un petit** nez pointu et **de grandes** oreilles décollées...
+{% include callout.html content="Un patient entre avec **un énorme** nez et **d'immenses** oreilles." type="primary" %}
 
 L'article défini est également toujours utilisé lorsque les verbes pronominaux font référence à des parties du corps.
 
 ## Les articles indéfinis
 Voici les articles indéfinis en français :
-masculin singulier : **un** - Tex est **un** tatou. Joe-Bob est **un** écureuil.
-féminin singulier : **une** - Bette est **une** chatte. UT est **une** université.
-pluriel : **des** - **des** tatous, **des** écureuils, **des** chats, **des** universités
+masculin singulier : **un**
+féminin singulier : **une**
+pluriel : **des**
 
-Dans les exemples ci-dessus, attention à la différence de prononciation de **un** et **des** devant les mots commençant par une consonne (un tatou, des tatous) et devant un mot commençant par une voyelle (un écureuil, des écureuils). Ce sont des exemples de liaison.
+Dans les exemples ci-dessus, attention à la différence de prononciation de **un** et **des** devant les mots commençant par une consonne (un livre, des livres) et devant un mot commençant par une voyelle (un ami, des amis). Ce sont des exemples de liaison.
 
 ### les usages
 Comme l'anglais 'a' 'an' ou 'some', les articles indéfinis **un**, **une**, **des** se réfèrent à des noms qui ne sont pas spécifiques. **Un** ou **une** peut également indiquer une quantité, « a » ou « an » dans le sens de « one ». Comparez l'utilisation des articles indéfinis et définis dans les deux premières phrases ci-dessous. Le pluriel indéfini **des** est toujours exprimé en français, mais son équivalent anglais « some » est souvent omis.
 
-* Joe-Bob et Corey ont **une** chambre dans **une** résidence universitaire à Austin.
-* Ils ont **la** chambre numéro 1735 dans **la** résidence Jester.
-* Joe-Bob et Corey sont **des** camarades de chambre.
+{% include callout.html content="Vous seriez mieux dans **une** chambre, **une** belle chambre, avec **des** rideaux." type="primary" %}
 
 #### 'de' après le négatif
 Dans une phrase négative, les articles indéfinis **un**, **une**, **des** sont remplacés par **de** ou **d'** :
 
-* Tex : Joe-Bob, tu as **un** chien ?
-* Joe-Bob : Mais non ! Je n'ai pas **de** chien. Je suis **un** écureuil.
-* Tex : Corey, tu as **des** amis ?
-* Corey : Mais non ! Je n'ai pas **d'**amis. Je suis **un** cafard.
+{% include callout.html content="Il n'y a pas **de** danger imminent.<br/><br/>Je mange du poisson, mais pas **de** viande animale." type="primary" %}
 
 Cependant, à la suite du verbe **être**, les articles indéfinis **un**, **une**, **des** restent inchangés à la négative :
 
-* Edouard : Joe-Bob, c'est **un** écureuil. Ce n'est pas **un** tatou !
-* Tex et Tammy, ce sont **des** tatous. Ce sont pas **des** escargots.
+{% include callout.html content="La défaite n'est pas **une** option.<br/><br/>Ce ne sont pas **des** principes cohérents à mes yeux." type="primary" %}
 
 #### devant un adjectif pluriel
 
 Devant un adjectif pluriel qui précède un nom, **des** devient généralement **de**. Si l'adjectif vient après le nom, **des** ne change pas en **de**.
 
-* Edouard : Tex et Tammy sont **de** charmants amoureux.
-* Bette : Ah bon ? Ce ne sont pas seulement **de** bons amis ?
-* Edouard : Tu ne trouves pas que Tex et Tammy sont **des** tatous parfaits l'un pour l'autre ?
-* Bette : Absolument pas !
+{% include callout.html content="Il a laissé aussi **de** nombreux sermons.<br/><br/>Oui, il y a **de** belles pièces.<br/><br/>On lui fait faire **des** examens médicaux sans arrêt." type="primary" %}
 
 #### avec des adjectifs de profession, de nationalité et de religion
 
 Les professions, les nationalités et les religions sont considérées comme des adjectifs en français et ne nécessitent pas d'article après les verbes **être** et **devenir**.
 
-* Edouard : Tex devient professeur ; il est américain; il n'est pas catholique.
+{% include callout.html content="Vincent a failli devenir professeur de lettres.<br/><br/>Mes parents sont vietnamiens.<br/><br/>J'ai des amis qui ne sont pas chrétiens." type="primary" %}
 
 ## Les articles partitifs
 Il y a trois articles partitifs en français. 
@@ -159,27 +134,23 @@ Masculin ou féminin devant une voyelle : **de l'** - **de l'**ail, **de l'**eau
 ### usages 
 Les articles partitifs sont utilisés aussi bien en anglais qu'en français pour exprimer des quantités qui ne peuvent être comptées. Alors que l'article indéfini (un, une, des) s'emploie avec des quantités dénombrables (un oeuf, deux oeufs...), l'article partitif s'emploie devant les noms de masse, noms indivisibles ou indénombrables. En anglais l'article « some » est souvent omis.
 
-* Edouard : Comme dessert, nous avons **de la** mousse au chocolat, **de la** glace parfumée à la vanille et **du** sorbet à l'ananas.
+{% include callout.html content="Je mets également **du** sucre et **du** lait dans mon café.<br/><br/>Il y a **de la** glace et **de la** neige partout." type="primary" %}
 
 Alors que l'article défini désigne quelque chose dans sa totalité ou dans son ensemble, l'article partitif désigne une partie du tout. Notez que selon ce que vous voulez dire, le même nom peut être introduit par un article défini, indéfini ou partitif. Comparez ces exemples :
 
-* Edouard : Vous prenez **du** vin, n'est-ce pas ? (partitif)
-* **Le** vin rouge est bon pour la santé ! (défini)
-* En fait, nous avons **un** Beaujolais nouveau ou **un** Chambertin, **un** Châteauneuf-du-Pape, ou j'ai **un** excellent Médoc pour vous, ou **un** tout petit vin gris de Savoie. (indéfini)
+{% include callout.html content="On fait **du** vin ici depuis le XVIIIe siècle. (partitif)<br/><br/>Ici, **le** vin est encore un produit de luxe. (défini)<br/><br/>Le champagne est **un** vin relativement cher par rapport à tous les autres. (indéfini)" type="primary" %}
 
 #### Expressions de quantité
-Il existe de nombreuses manières d'exprimer la quantité : les nombres (**deux** crêpes), l'article indéfini (**un** tatou) et l'article partitif (**du** lait). Les quantités peuvent également être exprimées à l'aide d'adverbes et d'expressions adverbiales, telles que **assez**, **beaucoup**, ou **trop**.
+Il existe de nombreuses manières d'exprimer la quantité : les nombres (**deux** crêpes), l'article indéfini (**un** sandwich) et l'article partitif (**du** lait). Les quantités peuvent également être exprimées à l'aide d'adverbes et d'expressions adverbiales, telles que **assez**, **beaucoup**, ou **trop**.
 Lorsqu'elles sont utilisées avec des noms, les expressions de quantité sont toujours suivies de **de** (**d'** si le nom commence par une voyelle).
 
-* Tammy et Tex reçoivent des amis ce soir. Tammy est dans la cuisine. Tex regarde la télévision.
-* Tammy : **Une douzaine de** crêpes, c'est **trop** pour quatre personnes ?
-* Tex : Mais non, Tammy, ce n'est pas **assez**.  Il faut préparer **beaucoup de** crêpes.
+{% include callout.html content="Il faut **une douzaine de** jours pour y arriver.<br/><br/>Tu as fait **assez de** bêtises pour ce soir.<br/><br/>Déjà trois nuits sans toi c'est **trop**." type="primary" %}
 
 Voici une liste d'expressions adverbiales de quantité courantes : **assez de**, **plein de**, **beaucoup de**, **un tas de**, **un peu de**, **trop de**
 
 Notez que ces expressions de quantité ne changent pas dans les phrases négatives : 
 
-* Tex : On ne prépare jamais **trop de** crêpes.
+{% include callout.html content="On ne mettra jamais **trop d'**argent dans l'éducation." type="primary" %}r2r2r2r2rr22rqreqsavxcqx s   vrdxx   3wrt3wvwvwv2
 
 On peut exprimer la quantité en utilisant des noms ou des adverbes spécifiques de quantité, ainsi que des mesures de poids, de distance ou de volume, en particulier en ce qui concerne la nourriture. Par exemple:
 
@@ -187,26 +158,16 @@ On peut exprimer la quantité en utilisant des noms ou des adverbes spécifiques
 
 L'article défini peut être utilisé avec ces expressions pour indiquer la quantité d'une chose spécifique. Rappelez-vous que **de** + **le** et **de** + **les** forment respectivement les contractions **du** et **des**.
 
-* un morceau du gâteau qu'Edouard a préparé 
-* un verre du vin rouge, pas du blanc
-* beaucoup des invités parlent français
+{% include callout.html content="C'est un petit morceau **du** mur de Berlin.<br/><br/>Beaucoup **des** textes suivants sont des textes classiques, souvent donnés au bac." type="primary" %}
 
 #### après le négatif
 Dans les phrases négatives, **du**, **de la**, **des**, **de l'** se change en **de**:
 
-* Joe-Bob mange **de la** viande. Tammy ne mange pas **de** viande.
-* Tex boit **du** café. Tammy ne boit jamais **de** café.
-* Il y a encore **du** vin. Il n'y a plus **de** vin.
+{% include callout.html content="Il a **un** nom précis.<br/><br/>Tu n'as pas **de** nom, et je n'ai pas non plus **de** nom.<br/><br/>Il portait **des** jeans moulants et son corps maigre était musclé et nerveux.<br/><br/>Avant, je ne portais jamais **de** jeans." type="primary" %}
 
 Les articles partitifs et indéfinis peuvent être utilisés dans des phrases négatives, cependant, pour souligner le nom positif contrasté. Par exemple:
 
-* Entre Tex et Tammy, ce n'est pas **de l'**amitié, c'est **de l'**amour!
-* Edouard sert **du** poulet, pas **des** escargots !
-
-Remarquez l'utilisation des articles indéfinis et partitifs dans le dialogue suivant.
-
-* Tammy est au téléphone : Allô, Edouard ? Je reçois **des** amis ce soir. Je voudrais faire **des** crêpes, mais j'ai oublié la recette. Tu m'aides ?
-* Edouard : Rien de plus facile ! Tu mélanges **de la** farine et **des** oeufs. Tu ajoutes ensuite **du** lait, **du** sel et **de l'**huile. Tu vers cette pâte dans une poêle. Quand la pâte est cuite, tu garnis la crêpe avec **du** fromage râpé, **du** jambon, ou **des** cèpes. Mais n'oublie pas Tammy, avec **des** crêpes, on ne boit pas **de** vin. Il faut boire **du** cidre et porter une coiffe bretonne !
+{% include callout.html content="On a **des** adversaires mais pas **des** ennemis." type="primary" %}
 
 ## les déterminants possessifs
 Les déterminants possessifs servent à exprimer la possession (d'où le nom). Ils sont aussi souvent appelés adjectifs possessifs parce qu'ils s'accordent en genre et en nombre avec le nom qu'ils introduisent.
@@ -219,49 +180,48 @@ Les déterminants possessifs servent à exprimer la possession (d'où le nom). I
 | votre | votre | vos | your (formel) |
 | leur | leur | leurs | their (pluriel) |
 
-Les articles possessifs, comme tous les articles, doivent s'accorder avec le nom qu'ils modifient. Ainsi, si le nom est féminin, l'article possessif doit être également féminin. Dans l'exemple suivant, le nom féminin **famille** requiert une forme féminine – **sa**. Notez que **sa** a trois traductions potentielles en anglais : 'his', 'her' ou 'its'. Alors, comment savez-vous quel sens est visé? Le contexte! Étant donné que l'exemple suivant fait référence à Tex, nous savons que **sa** signifie « his ».
+Les articles possessifs, comme tous les articles, doivent s'accorder avec le nom qu'ils modifient. Dans l'exemple suivant, le nom féminin **femme** requiert une forme féminine – **sa** – alors que le nom **fauteuil** requiert la forme masculine **son**. La traduction en anglais dépend du contexte. Étant donné que la phrase fait référence à Pierre, nous savons que **sa** signifie « his ». Cependant, le possesseur du fauteuil est ambigu, donc ce n'est pas clair si **son** se traduirait par **his** ou par **her**.
 
-* Tex présente **sa** famille : Voici **mon** frère, Trey, et **ma** soeur, Rita, avec **ses** enfants et **son** chien Fido. **Notre** famille est formidable !
+{% include callout.html content="Pierre installe **sa** femme dans **son** fauteuil." type="primary" %}
 
 ### liaison
 N'oubliez pas de faire la liaison entre les formes plurielles des déterminants possessifs et les mots commençant par une voyelle. **Ma**, **ta**, **sa** deviennent **mon**, **ton**, **son** devant des noms féminins commençant par une voyelle.
 
-* Tex : Voici Tammy, mo**n a**mie, et se**s a**mies, Bette et Fiona, c'est-à-dire no**s a**mies.
+{% include callout.html content="Tu es vraiment mo**n a**mie, toi.<br/><br/>On peut connecter so**n a**mpoule à sa tablette ou à son téléphone." type="primary" %}
 
 ## Les déterminants démonstratifs
 Les déterminants démonstratifs sont utilisés pour désigner des choses ou des personnes. Ils sont aussi parfois appelés adjectifs démonstratifs ; ils s'accordent en nombre et en genre avec le nom qu'ils introduisent.
 
-Masculin singulier: **ce** - **ce** tatou
-Masculin singulier devant une voyelle ou un **h** muet: **cet** - **cet é**cureuil
-Féminin singulier: **cette** - **cette** chatte
-Pluriel (masculin ou féminin): **ces** - **ces** tatous, **ces** écureuils
+Masculin singulier: **ce**
+Masculin singulier devant une voyelle ou un **h** muet: **cet**
+Féminin singulier: **cette**
+Pluriel (masculin ou féminin): **ces**
 
 Notez que la liaison est obligatoire entre **ces** et les mots commençant par une voyelle ou un **h** muet.
 
 ### les usages
 En général, les déterminants démonstratifs désignent quelque chose que l'on peut voir ou montrer :
 
-* Tex explique : **Ce** bassin, **c'**est Barton Springs. **Cette** piscine s'appelle Deep Eddy.
+{% include callout.html content="Tu peux jeter **cette** perruque et **ces** lunettes." type="primary" %}
 
 #### -ci et -là
 Les déterminants démonstratifs peuvent désigner quelque chose de proche ou de lointain : pour distinguer deux éléments ou plus, vous pouvez ajouter les suffixes **-ci** ou **-là** au déterminant démonstratif. Le suffixe **-ci** indique que l'élément est relativement proche du locuteur ; **-là** suggère que quelque chose est plus loin. En anglais, ils sont généralement traduits par 'this' et 'that' :
 
-* Tex : Tu vois Tammy, **cette** étoile**-ci** s'appelle Vénus. Mais **ces** étoiles**-là**, c'est la Voie Lactée.
-* Tammy : Vénus... la voie lactée... oh Tex, j'aime bien quand tu me parles d' astronomie !
+{% include callout.html content="Mais qui peut bien nous appeler à **cette** heure**-ci** ?<br/><br/>Je danse entre **ces** deux choses**-là**." type="primary" %}
 
 ## Omission de l'article
 Les **villes** n'exigent généralement pas d'article en français. Par exemple:
 
-* Tex habite à Austin, mais il préfère Paris.
+{% include callout.html content="Il quitta Berlin comme il avait quitté Paris." type="primary" %}
 
-Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions, généralement des îles : Haïti, Israël, Madagascar . Voir les prépositions avec les noms de lieux pour plus d'informations.
+Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions, généralement des îles : Haïti, Israël, Madagascar.
 
 Les **mois** ne nécessitent jamais d'article : janvier, février, mars, etc.
 
-* Cependant, Tex adore mars à Austin.
+{% include callout.html content="Or les budgets municipaux ne sont pas votés avant février ou mars." type="primary" %}
 
 Les **jours de la semaine** ne nécessitent pas d'article dans les cas où ils n'indiquent pas une récurrence habituelle. Par exemple : 
 
-* Lundi, il a rendez-vous avec Tammy.
+{% include callout.html content="Je vous rappelle que je serai à Paris de mercredi à samedi." type="primary" %}
 
 {% include links.html %}
