@@ -12,94 +12,77 @@ folder: grammaire
 ### comparaisons avec des adjectifs
 Les adjectifs sont fréquemment utilisés pour comparer des choses, des personnes, des événements, des idées, etc. ***Plus ... que*** transmet l'idée de 'more... than', **moins ... que** l'idée de 'less than'.
 
-* Tex est **plus** intelligent **que** Joe-Bob.
-* Mais Joe-Bob est **moins** prétentieux **que** Tex.
-* Bien sûr, il est **plus** difficile d'être poète **que** d'être écureuil !
+{% include callout.html content="Ce phénomène est **plus** fréquent **que** tu ne le penses.<br/><br/>Ce citron est **moins** acide **que** les autres." type="primary" %}
 
 **Aussi ... que** transmet l'idée de 'as ... as'.
 
-* Fiona est **aussi** belle **que** Tammy. Mais elles ne sont pas **aussi** séduisantes **que** Bette.
+{% include callout.html content="La surface était **aussi** dure **qu'**un mur en béton." type="primary" %}
 
 ### comparaisons avec des adverbes
 **Plus + adverbe + que** exprime l'idée de 'more ... than', **moins + adverbe + que** l'idée de 'less ... than'. **Aussi + adverbe + que** exprime l'idée de "as ... as".
 
-* Joe-Bob court **plus** vite **qu'**Edouard.
-* Tex court **moins** vite **que** Joe-Bob.
-* Qui court **aussi** lentement **qu'**Edouard ? Personne, bien sûr !
+{% include callout.html content="Des plumes sont emportées **plus** loin **que** des cailloux par le vent.<br/><br/>Les débutants répondent **moins** bien **que** les personnes de niveau avancé.<br/><br/>Il court **aussi** vite **qu'**un cheval." type="primary" %}
 
 ### comparatifs irréguliers
 
 Notez que **mieux** est la forme comparative irrégulière de l'adverbe **bien**. Les autres formes comparatives de **bien** sont régulières (**moins bien que**, **aussi bien que**).
 
-* Joe-Bob : Vous allez **bien** aujourd'hui ? Vous êtes en forme pour la course?
-* Tex : Ah, oui, je vais **mieux qu'**hier. Je n'ai pas fumé depuis 24 heures.
-* Edouard : Moi, je vais **moins bien qu'**hier. J'ai tellement travaillé que j'ai des courbatures.
-* Corey : Oh, je vais **aussi bien qu'**hier. Je suis dopé, comme d'habitude.
+{% include callout.html content="Moi je voudrais m'inspirer de ce que les autres ont fait **mieux que** nous.<br/><br/>Ces jeunes propriétaires vivent **moins bien que** leurs parents.<br/><br/>Je connais la campagne **aussi bien que** vous !" type="primary" %}
 
 Les adjectifs **bon** et **mauvais** ont des formes irrégulières de comparaison, **meilleur** et **pire**. Cependant, la forme régulière **plus mauvais que** est devenue communément acceptée. Notez que cette irrégularité se retrouve également en anglais avec **better** (pas **more good**) et **worse** (pas **more bad**).
 
-* D'après Tex, Tammy est un bon parti. Mais Bette pense qu'elle serait un **meilleur** parti **que** Tammy.
-* Mais il est évident que le caractère de Bette est **plus mauvais que** celui de Tammy.
+{% include callout.html content="Ils sont en moyenne en **meilleure** santé **que** les ouvriers.<br/><br/>Tu es en **pire** état **que** moi.<br/><br/>Cet escalier se révélait en **plus mauvais** état **qu'**il n'était apparu de loin." type="primary" %}
 
 **Bon** est un adjectif. Bien qu'il ait une forme féminine irrégulière, **bonne**, le pluriel se forme régulièrement en ajoutant un **-s** à l'adjectif masculin ou féminin. **Bien** est un adverbe. L'adjectif **bon** modifie un nom, tandis que l'adverbe **bien** modifie des verbes, des adjectifs ou d'autres adverbes.
 
 bon (adjectif)
 
-* La cuisine de Tammy est **bonne**.
-* Tammy est une **bonne** cuisinière.
+{% include callout.html content="Au goût, la texture est **bonne**, mais ça reste relativement neutre." type="primary" %}
 
 bien (adverbe)
 
-* Mmm... Tammy fait **bien** la cuisine.
-* Tammy lit la recette **bien** attentivement.
-* Ooh, la soupe de Tammy est **bien** assaisonnée.
+{% include callout.html content="Je sens **bien** qu'elle veut me protéger à tout prix.<br/><br/>Ces termes sont **bien** évidemment empruntés au grec.<br/><br/>J'ai recopié pour que ce soit **bien** lisible." type="primary" %}
 
 Les comparaisons avec **bon** et **bien** ne sont pas faites de manière régulière en utilisant 'plus ... que'. Utilisez plutôt **meilleur(e)(s) que** et **mieux que** :
 
 bon/meilleur (adjectif)
 
-* Tammy est une **meilleure** cuisinière que Fiona.
-* Les gâteaux de Tammy sont **meilleurs** que les gâteaux de Fiona.
+{% include callout.html content="On fait un **meilleur** score **qu'**il y a 15 jours.<br/><br/>La défense parisienne est **meilleure que** la défense marseillaise." type="primary" %}
 
 bien/mieux (adverbe)
 
-* Mais si, Tammy cuisine **mieux** que Fiona.
-* Et la soupe de Tammy est **mieux** assaisonnée que la soupe de Fiona.
-
+{% include callout.html content="Il le fera **mieux que** moi.<br/><br/>Malgré ces difficultés, ces pays semblent **mieux** armés **qu'**en 1997-1998." type="primary" %}
 
 L'adverbe **bien** est un intensificateur et peut être traduit par « much » en anglais. Notez que « much better » est parfois traduit par **bien meilleur**, parfois par **bien mieux**.
 
-* Tammy est **bien meilleure** cuisinière que Fiona.
-* Tammy fait **bien mieux** la cuisine qu Fiona.
+{% include callout.html content="Mais votre anglais est **bien meilleur que** mon français.<br/><br/>Ils font ça **bien mieux que** moi." type="primary" %}
 
 **Aussi bon que** transmet l'idée de « as good as ». **Aussi bien que** transmet l'idée de « as well as ».
 
 aussi bon que (adjectif)
 
-* Mais Bette est une **aussi bonne** cuisinière **que** Tammy.
-* La cuisine de Bette est **aussi bonne que** la cuisine de Tammy.
+{% include callout.html content="Ta cuisine est **aussi bonne que** ta personnalité." type="primary" %}
 
 aussi bien que (adverbe)
 
-* Bette cuisine **aussi bien que** Tammy.
+{% include callout.html content="Je mesurais le risque **aussi bien qu'**elle." type="primary" %}
 
 ## Le superlatif
 ### superlatif des adjectifs
 En français comme en anglais, le superlatif est une forme d'adjectif exprimant « le meilleur », « le plus petit », « le plus intéressant ». Pour former le superlatif, utilisez l'article défini (**le**, **la**, **les**) et l'adverbe **plus** ou **moins** avant l'adjectif. Notez que le superlatif d'un adjectif s'accorde avec le nom qu'il modifie en genre et en nombre. Le placement du superlatif correspond au placement habituel de l'adjectif. En d'autres termes, si l'adjectif suit le nom, alors le superlatif suivra aussi le nom. Et inversement, si l'adjectif précède le nom, alors l'adjectif superlatif précédera également le nom. Notez que si l'adjectif suit le nom, l'article défini est utilisé deux fois.
 
 | superlatif | le (la, les) plus | le (la, les) moins |
-| adjectif après le nom | Bette est **la** chatte **la plus rusée** du monde. | Tammy est **la** tatou **la moins rusée** du monde. |
-| adjectif avant le nom | Tammy est **la plus gentille** tatou du monde. | Bette est **la moins gentille** chatte du monde. |
+| adjectif après le nom | C'est **la** solution **la plus raisonnable** compte tenu de nos moyens et de nos opportunités. | Astérix est **le** personnage **le moins sexy** de la série. |
+| adjectif avant le nom | C'est **le plus beau** jour de ma vie. | Il n'empêche qu'il nous faut maintenant adopter **la moins mauvaise** solution. |
 
-Notez qu'au lieu de l'article défini, vous pouvez utiliser un déterminant possessif (**mon**, **ma**, **mes**, etc.), ainsi Tex pourrait dire : 'Edouard est **mon** ami le plus distingué'.
+Notez qu'au lieu de l'article défini, vous pouvez utiliser un déterminant possessif (**mon**, **ma**, **mes**, etc.):
+
+{% include callout.html content="Il jette **ses** habits les plus moches ." type="primary" %}
 
 ### superlatif des adverbes
 En français comme en anglais, le superlatif est une manière d'exprimer une qualité ou une capacité maximale ou minimale. Pour former le superlatif d'un adverbe, on utilise toujours la forme masculine singulière de l'article défini : **le**, suivi de **plus** ou **moins** avant l'adverbe. Notez que le superlatif d'un adverbe n'a qu'une seule forme. **Le mieux** et **le moins bien** sont les formes superlatives de l'adverbe **bien**.
 
-* Joe-Bob, Tex, Corey et Edouard se préparent à faire une course.
-* Corey : Qui va gagner ?
-* Joe-Bob : Moi, bien sûr ! je cours **le plus vite** et Edouard va être le dernier parce qu'il court **le moins vite** !
-* Edouard (vexé) : Tu dis ça parce que je suis un escargot ! Mais tout le monde sait que je cours **le plus élégamment** ! 
+{% include callout.html content="C'est d'ailleurs la religion qui aurait progressé **le plus vite** sur ces 10 dernières années.<br/><br/>C'est le type de triangle **le moins fréquemment** observé." type="primary" %}
 
 ### superlatifs irréguliers
 Les adjectifs **bon** et **mauvais** ont des formes irrégulières au superlatif. Notez qu'il existe deux formes pour exprimer « the worst »: la forme irrégulière **le (la) pire** et le plus commun **le (la) plus mauvais(e)**.
@@ -112,20 +95,17 @@ Les adjectifs **bon** et **mauvais** ont des formes irrégulières au superlatif
 
 Le superlatif de **mauvais** est toujours soit **le pire**, soit **le plus mauvais**. Mais alors que vous pouvez dire « la plus mauvaise université » ou « la pire université », vous ne pouvez dire que « les pires ploucs », « les pires catastrophes », « les pires crimes », etc. Pourquoi ? Parce que 'plouc', 'catastrophe', 'crime' sont déjà négatifs et il serait redondant d'utiliser 'mauvais' ou son superlatif, 'le plus mauvais' devant eux.
 
-* Tammy : Texas A&M est **la plus mauvaise** université du monde. Elle a **la moins bonne** équipe de foot. Elle attire **les pires** ploucs ! **Les meilleurs** étudiants viennent à UT parce qu'Austin est **la** ville **la plus cool** du Texas!
-* Joe-Bob : Tu parles ! UT craint ! C'est **la plus grande** université du Texas ! En plus, les étudiants de UT sont **les plus snobs** ! College Station est **la plus belle** ville du monde!
+{% include callout.html content="**La meilleure** équipe début juin n'est pas forcément **la meilleure** à la rentrée." type="primary" %}
 
 ### le meilleur/le mieux : formes superlatives
 En français comme en anglais, le superlatif est une forme exprimant une qualité ou une capacité maximale ou minimale. En anglais, 'good' et 'well' ont le même superlatif maximum : 'the best'. En français, cependant, les superlatifs maximaux sont différents ; ils sont formés avec les articles définis **le (la, les) meilleur(s)** (adjectifs superlatifs) ou **le mieux** (adverbes superlatifs). Les superlatifs minimaux (**le moins bon**, **le moins bien**) se forment régulièrement.
 
 adjectifs superlatifs
 
-* Qui fait la meilleure tarte ?
-* Qui fait **les moins bonnes** cuisses de grenouilles ?
+{% include callout.html content="C'est totalement contrôlé par **la meilleure** amie de Carla.<br/><br/>**Les moins bons** lecteurs ne détectent pas les mots qui leur posent problème." type="primary" %}
 
 adverbes superlatifs
 
-* Qui cuisine **le mieux**?
-* Et qui cuisine **le moins bien** ?
+{% include callout.html content="Je suis quand même **le mieux** placé.<br/><br/>Celle que je parle **le moins bien**, c'est le grec." type="primary" %}
 
 {% include links.html %}
