@@ -23,15 +23,11 @@ Les verbes pronominaux expriment souvent des actions réfléchies, c'est-à-dire
 
 Comparez la différence de sens entre **se raser** et **raser** dans les phrases suivantes. Notez que l'anglais n'indique généralement pas explicitement le sens réfléchi, car il peut être déduit du contexte. Cependant, si le sens réfléchi est voulu en français, alors il doit être explicitement énoncé en utilisant un pronom réfléchi.
 
-* Est-ce que Tex **se rase** ? Mais non, Tex, c'est un tatou. Il n'a pas de cheveux.
-* Qu'est-ce qu'il fait, Tex, avec le rasoir ? Il **rase** Joe-Bob pour l'été.
+{% include callout.html content="Papa voulait peut-être **se raser** la barbe.<br/><br/>Pourquoi vous obstinez-vous à faire **raser** ce pauvre animal ?" type="primary" %}
 
 Pour mettre les verbes pronominaux à la forme négative, placez le **ne** avant le pronom réfléchi et le **pas** après le verbe. Lorsqu'il est utilisé avec un verbe auxiliaire comme **aimer**, l'infinitif d'un verbe pronominal s'accorde avec son sujet. Lorsque les verbes pronominaux sont utilisés avec des parties du corps, ils prennent l'article défini (**le**, **la**, **les**) plutôt que l'article possessif comme en anglais :
 
-* Joe Bob : Edouard, est-ce que **tu te rases** ?
-* Edouard : Non, je **ne me rase pas**.
-* Les escargots **ne se rasent pas**. Pourtant, **nous nous lavons le** visage tous les jours.
-* Joe-Bob : Ah, tu as de la chance. Je déteste **me raser**.
+{% include callout.html content="Cette fois, la pop star **ne se cache plus**, ni derrière des images, ni derrière un groupe.<br/><br/>On ne les voit pas car elles aiment **se cacher**.<br/><br/>Le général ordonna à ses hommes de **se cacher le** visage." type="primary" %}
 
 ### verbes réciproques
 Une autre catégorie de verbes pronominaux exprime une action réciproque entre plus d'une personne, **s'aimer** ou **se parler**, par exemple. L'équivalent anglais utilise souvent l'expression « each other » pour représenter cette action réciproque. Voici une liste de verbes réciproques courants :
