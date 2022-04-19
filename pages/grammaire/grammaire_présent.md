@@ -11,23 +11,16 @@ folder: grammaire
 
 Le présent indique une action qui se produit soit au moment où l'on parle, soit une vérité générale, une soi-disant « vérité éternelle ». Le présent français peut être traduit de trois manières différentes en anglais selon le sens recherché. 
 
-**Tex boit du café** : 
-* 'Tex is drinking coffee' (en ce moment, action progressive)
-* 'Tex drinks coffee' (en général, action habituelle)
-* 'Tex does drink coffee' (emphatique ou contrasté)
+{% include callout.html content="**Léon fait de la sculpture.**<br/><br/>*Léon is sculpting* (en ce moment, action progressive)<br/><br/>*Léon sculpts* (en général, action habituelle)<br/><br/>*Léon does sculpt* (emphatique ou contrasté)" type="primary" %}
 
 Alors qu'un énoncé français au présent peut être traduit par trois phrases différentes en anglais, le sens spécifique est récupérable à partir du contexte. En fait, le français indique les différentes nuances des formes anglaises progressives, habituelles ou emphatiques en ajoutant des éléments pour clarifier le contexte.
 
 Notez les exemples suivants :
-* Tex oublie **toujours** de prendre un bon petit déjeuner. ('always forgets' : habitude)
-* Tammy : Tex, il faut manger au petit déjeuner. C'est le repas le plus important de la journée.
-* Tex : Oh, ma chérie, tu t'inquiètes trop. **Regarde**, je mange un beignet. ('am eating' : à l'heure actuelle, action progressive)
-* Tammy : Un beignet !? Tu rigoles ? Mais, ça ne compte pas !
-* Tex : Mais **si**, ça compte. ('it does count' : emphatique) Du sucre et du beurre me font du bien le matin ... et puis une cigarette.
+{% include callout.html content="August vient **toujours** se promener par ici. ('always comes' : habitude)<br/><br/>**Regardez**, vous penchez trop votre verre. ('are tilting' : à l'heure actuelle, action progressive)<br/><br/>**Mais si**, vous le connaissez. ('you do know him' : emphatique)" type="primary" %}
 
-De plus, le présent est parfois utilisé à la place du passé ou du futur dans la narration informelle :
+De plus, le présent est parfois utilisé à la place du passé ou du futur dans la narration :
 
-* La vie de Tex **est** toute une histoire ... En 1975, alors bébé, Tex **se perd** à l'aéroport Bush International à Houston. On le **met** par erreur avec les bagages dans un avion à destination de la France. A Paris, il **rencontre** des nonnes qui **viennent** de faire un voyage aux Etats-Unis. Elles **ont** pitié de ce pauvre tatou égaré et elles l'**amènent** au couvent à Lyon. Tex **passe** son enfance en France. Un jour, on **découvre** que Tex n'**a** pas de papiers--pas de passeport, pas de visa. Alors, il **retourne** au Texas. Malheureusement, il ne **se sent** pas chez lui au Texas. La vie américaine n'**est** pas facile pour un tatou francisé.
+{% include callout.html content="En 1805, le musicien **rapporte** des difficultés à entendre les instruments à vent lors des concerts." type="primary" %}
 
 ## verbes -er au présent
 
@@ -43,9 +36,7 @@ Les terminaisons données ci-dessous (**-e**, **-es**, **-e**, **-ons**, **-ez**
 
 Faites attention à la prononciation des phrases suivantes. Notez que la prononciation de chacun des verbes est pareille même si les conjugaisons s'écrivent différemment.
 
-* Tex, il **parle** français ? Mais c'est un tatou.
-* Tex : Bien sûr je **parle** français et Tammy, elle aussi, elle **parle** français.
-* Eh bien dis donc, même les tatous **parlent** français au Texas ?
+{% include callout.html content="Ce sont les crèmes dont je **parle**.<br/><br/>Il **parle** tous les jours sur tout et n'importe quoi.<br/><br/>Ils n'en **parlent** pas du tout." type="primary" %}
 
 Voici une liste de verbes courants en **-er** : 
 
@@ -55,9 +46,7 @@ Voici une liste de verbes courants en **-er** :
 
 Notez également que le **s** dans les pronoms pluriels (**nous**, **vous** et **ils**/**elles**) est généralement muet sauf lorsqu'il est suivi d'un verbe qui commence par une voyelle. Dans un tel cas, le **s** muet se prononce comme un /**z**/ et relie le pronom au verbe. Ce phénomène est appelé **liaison** et est très caractéristique du français. Lisez les phrases ci-dessous. Quelles phrases contiennent des exemples de liaison ?
 
-* Tex et Tammy, ils **écoutent** de la musique cadienne avec Paw-Paw!
-Tammy : Nous **adorons** danser.
-Tex : Oui, oui, c'est vrai. Nous **dansons** beaucoup.
+{% include callout.html content="Ils **écoutent** la radio quand il y a des infos politiques.<br/><br/>C'est un chanteur que nous **adorons**.<br/><br/>Nous **dansons** sur le balcon." type="primary" %}
 
 ### verbes -er qui changent de radical
 Des changements d'orthographe se produisent dans les radicaux de plusieurs groupes de verbes **-er** au présent. Ces changements d'orthographe reflètent la prononciation des formes du présent.
@@ -263,7 +252,7 @@ Les verbes irréguliers **dire**, **lire** et **écrire** ont des conjugaisons s
 | il/elle/on dit | ils/elles disent |
 | participe passé : dit |
 
-Vous avez peut-être déjà vu le verbe **dire** dans des expressions comme **Comment dit-on ... ?** et **Qu'est-ce que ça veut dire?** **Dire** signifie 'to say' tandis que **parler** signifie 'to speak'. **Dire** est souvent utilisé pour commencer une phrase ou pour attirer l'attention de quelqu'un (**Dis, Tex, tu viens ?**).
+Vous avez peut-être déjà vu le verbe **dire** dans des expressions comme **Comment dit-on ... ?** et **Qu'est-ce que ça veut dire?** **Dire** signifie 'to say' tandis que **parler** signifie 'to speak'.
 
 Notez la forme vous **dites**. C'est atypique car il ne se termine pas par **-ez**. **Dire** est l'un des trois verbes où c'est le cas (les autres sont **être** : vous **êtes** et **faire** : vous **faites**).
 
@@ -292,20 +281,15 @@ Le verbe **avoir** est irrégulier au présent. Notez la prononciation du **-s**
 
 **Avoir** sert aussi d'auxiliaire aux temps composés (passé composé, plus-que-parfait, futur antérieur, etc.). Outre la possession, le verbe **avoir** exprime l'âge en français, contrairement à l'équivalent anglais qui utilise le verbe **être**.
 
-* Tex, tu **as** des frères et des soeurs ?
-* Tex : Oui, j'**ai** une soeur et un frère.
-* Quel âge **ont**-ils?
-* Tex : Ma soeur Rita **a** 30 ans et mon frère Trey **a** 16 ans.
+{% include callout.html content="Quel âge **ont** tes enfants?<br/><br/>Ils **ont** 8 ans et 5 ans." type="primary" %}
 
 **Avoir** est utilisé dans l'expression impersonnelle **il y a**, qui signifie « there is » ou « there are ». **Il y a** est utilisé pour exprimer l'existence d'une personne ou d'une chose, ou pour faire une liste ou un inventaire de personnes ou de choses. L'article indéfini (**un**, **une**, **des**) est généralement utilisé avec **il y a**.
 
-* Tex : A Paris **il y a** une tour, la Tour Eiffel.
-* En France **il y a** des cathédrales, des châteaux, des monuments anciens ...
+{% include callout.html content="A Copenhague, **il y a** des canaux.<br/><br/>Dans un repas typiquement vietnamien, **il y a** une soupe et un plat salé." type="primary" %}
 
 Le négatif d'**il y a** est **il n'y a pas**. L'article indéfini (**un**, **une**, **des**) devient **de** ou **d'** après cette expression négative. Cela correspond au mot anglais « any ».
 
-* Tex : Au Texas **il n'y pas de** cathédrales, **il n'y a pas de** châteaux, **il n'y pas de** monuments anciens,
-* Tammy : Mais **il y a** une tour à l'Université du Texas à Austin.
+{% include callout.html content="**Il n'y a pas de** temps à perdre.<br/><br/>**Il n'y a pas d'**amis dans les affaires." type="primary" %}
 
 **Avoir** est utilisé dans de nombreuses expressions idiomatiques. Notez que la traduction anglaise utilise souvent le verbe 'to be' plutôt que 'to have.'
 
@@ -363,31 +347,27 @@ D'autres expressions météorologiques qui n'utilisent pas **faire** comprennent
 La construction causative **faire + infinitif** indique que le sujet provoque une action à faire par quelqu'un ou
 quelque chose d'autre. Comparez les phrases suivantes :
 
-* Tex **répare** sa voiture? Mais non, Tex ne sait pas réparer les voitures.
-* Tex **fait réparer** sa voiture au garage. (par un mécanicien)
+{% include callout.html content="J'**ai réparé** ton vélo.<br/><br/>J'ai **fait réparer** le toit et **repeindre** la façade." type="primary" %}
 
-Dans les constructions causatives, le verbe **faire** peut être conjugué à n'importe quel temps, par exemple le futur périphrastique (futur proche) ou le passé composé (Tex **va faire réparer** sa voiture. Tex **a fait réparer** sa voiture. etc.)
+Dans les constructions causatives, le verbe **faire** peut être conjugué à n'importe quel temps :
 
-La construction causative **faire** est souvent suivie par des objets nom ou pronom. S'il y a un objet, c'est un objet direct (**sa voiture** dans l'exemple ci-dessus, ou **Tammy** dans la première phrase ci-dessous). Dans le cas de deux objets, comme dans la deuxième phrase ci-dessous, l'un sera direct (**la Marseillaise**) et l'autre indirect (**Tammy**).
+{% include callout.html content="Il **va falloir faire réparer** cette fenêtre.<br/><br/>Pour ce prix là tu **faisais réparer** la chaudière.<br/><br/>Il les **fait réparer** et les revend plus cher." type="primary" %}
 
-* Tex fait chanter **Tammy**.
-* Tex fait chanter **la Marseillaise** à **Tammy**.
+La construction causative **faire** est souvent suivie par des objets nom ou pronom. S'il y a un objet, c'est un objet direct (**cette fenêtre** ou **la chaudière** dans les premiers deux exemples ci-dessus, ou **les** dans le troisième exemple). Dans le cas de deux objets, comme dans la phrase ci-dessous, l'un sera direct (**cela**) et l'autre indirect (**ma fille**).
+
+{% include callout.html content="J'espère ne pas faire subir **cela** à **ma fille**." type="primary" %}
 
 Les pronoms d'objet précèdent **faire**, sauf à l'impératif affirmatif. Notez la position des pronoms dans ces exemples :
 
-* Tex **la** fait réparer. (sa voiture)
-* Tex **la** fait chanter. (Tammy)
-* Corey : Fais-**la** chanter !
-* Tammy : Allons, enfants de la patrie...
-* Joe-Bob : Ne **la** fais pas chanter !
+{% include callout.html content="Je ne voudrais pas **le** faire attendre.<br/><br/>Un petit plaisir sucré de temps en temps ne **les** fera pas grossir.<br/><br/>Faites-**le** réparer au plus tôt avant qu'il y ait un accident." type="primary" %}
 
 Une autre construction causative implique l'utilisation de **se faire + infinitif** pour indiquer qu'une personne ou une chose s'est fait quelque chose.
 
-* Rita **s'est fait faire** une robe noire pour l'enterrement de ses parents.
+{% include callout.html content="Il **s'est fait faire** un faux tatouage." type="primary" %}
 
-Cependant, cette construction peut parfois être utilisée pour décrire des actions qui se produisent par inadvertance, malgré les souhaits du sujet. Tex explique ce qui s'est passé :
+Cependant, cette construction peut parfois être utilisée pour décrire des actions qui se produisent par inadvertance, malgré les souhaits du sujet.
 
-* Tex : Mes parents **se sont fait écraser** par un camion.
+{% include callout.html content="Ma grand-mère **s'est fait plaquer**." type="primary" %}
 
 Notez que le participe passé **fait** est toujours invariable dans la construction causative.
 
@@ -434,28 +414,25 @@ Les verbes **partir**, **sortir**, **quitter** et **laisser** signifient tous «
 #### partir
 **Partir** est un verbe irrégulier en **-ir** qui transmet le sens particulier de « leaving with the intention of going somewhere ». Il est souvent suivi de la préposition **pour**.
 
-* Joe-Bob : Je **pars** pour College Station.
+{% include callout.html content="A 19 ans, il **part pour** Paris sans connaître un mot de français." type="primary" %}
 
 #### sortir
 **Sortir** est un verbe irrégulier en **-ir** qui transmet le sens particulier de « going out or exiting from an enclosed space ». Il est
 souvent suivi de la préposition **de**.
 
-* Bette : Je vais **sortir** ce soir.
-* Corey **sort** de sa chambre sans fermer la porte.
+{% include callout.html content="Je n'ai pas envie de **sortir** ce soir.<br/><br/>Je suis **sortie** de derrière mes rideaux." type="primary" %}
 
 #### quitter
 **Quitter** est un verbe régulier en **-er** qui est utilisé pour « leaving someone or someplace ».
 
-* Tammy **quitte** la maison à 8 heures chaque matin.
-* Rita **quitte** son mari.
+{% include callout.html content="Les rats **quittent** le navire avant le naufrage.<br/><br/>Elle a **quitté** son mari et elle a déménagé." type="primary" %}
 
-Notez que **quitter** est un verbe transitif, c'est-à-dire qu'il prend toujours un objet direct : **son mari** ou **la maison** dans les exemples ci-dessus. **Sortir** est généralement intransitif (pas d'objet) et a besoin de la préposition **de** pour exprimer l'idée de « leaving from somewhere ».
+Notez que **quitter** est un verbe transitif, c'est-à-dire qu'il prend toujours un objet direct : **le navire** ou **son mari** dans les exemples ci-dessus. **Sortir** est généralement intransitif (pas d'objet) et a besoin de la préposition **de** pour exprimer l'idée de « leaving from somewhere ».
 
 #### laisser
 **Laisser** est un verbe régulier en **-er** qui signifie « leaving something or someone behind ».
 
-* Rita : Les gosses **laissent** leurs jouets partout.
-* Et toi, bon à rien, **laisse**-moi tranquille. Quelle vie de chien !
+{% include callout.html content="Il faut **laisser** les papiers et le numéro du vétérinaire.<br/><br/>Tu veux que je te **laisse** tranquille ?" type="primary" %}
 
 ## Verbes modaux
 **Vouloir**, **pouvoir** et **devoir** sont appelés des verbes modaux. Lorsqu'ils sont utilisés avec un infinitif, ils agissent comme des verbes auxiliaires ou semi-auxiliaires.
