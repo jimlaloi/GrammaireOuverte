@@ -10,7 +10,7 @@ folder: grammaire
 ## Forme
 Le passé composé est le temps le plus couramment utilisé pour désigner des actions accomplies dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
 
-* Tex **a mangé** toute la viande ! ('Tex ate all the meat', 'Tex has eaten all the meat', 'Tex did eat all the meat')
+{% include callout.html content="Elle **a mangé** un peu de purée. ('She ate some mashed potatoes', 'She has eaten some mashed potatoes', 'She did eat some mashed potatoes'" type="primary" %}
 
 Ce temps s'appelle le passé composé car il est composé de deux éléments : le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé :
 
@@ -80,11 +80,7 @@ Les participes passés des verbes qui utilisent **être** comme auxiliaire sont 
 ### accord du participe passé
 Le participe passé d'un verbe qui prend **être** s'accorde en genre et en nombre avec le sujet ; cela signifie qu'un **-e** est ajouté au participe passé pour s'accorder avec un sujet féminin et un **-s** est ajouté pour un sujet pluriel. Si le sujet est féminin et pluriel, **-es** est ajouté.
 
-* Joe-Bob : Tex, Corey et toi, vous **êtes rentrés** de l'Alamo ?
-* Tex : Oui. Tammy et Bette **sont restées** à San Antonio pour faire des achats.
-* Corey : Tu n'as pas entendu ? Tout d'un coup Tammy **est devenue** toute pâle et elle **est tombée** dans la rivière!
-* Joe-Bob : Mais, qu'est-ce qui s'est passé ?
-* Corey : Calme-toi. Elle n'**est** pas **morte** ! Tex et moi **sommes arrivés** pour la sauver !
+{% include callout.html content="Elles **sont** donc **parties** et elles **sont allées** chez un docteur.<br/><br/>Maria **est morte** des fièvres il y a quelques mois.<br/><br/>On **est montés** dans la voiture, on a démarré.<br/><br/>La nuit, le thermomètre **est descendu** aux environs de vingt degrés sous zéro." type="primary" %}
 
 ## passé composé des verbes pronominaux
 Un verbe pronominal est un verbe qui a un pronom réfléchi, c'est-à-dire un pronom renvoyant à son sujet. Ces verbes sont facilement reconnaissables par le pronom **se** avant l'infinitif : **se lever**, **se laver**, **se promener**, etc.
@@ -102,20 +98,18 @@ Au passé composé, les verbes pronominaux sont conjugués avec **être** comme 
 ### accord du participe passé
 Il est important de noter que, dans la plupart des cas, le participe passé des verbes pronominaux s'accorde en genre et en nombre avec le genre et le nombre du pronom réfléchi, c'est-à-dire qu'un **-e** est ajouté au participe passé pour s'accorder avec un sujet féminin et un **-s** est ajouté pour un sujet pluriel.
 
-* Tammy : Je **me suis réveillée** très tôt ce matin.
-* Tex : Moi, je **me suis réveillé** très tard !
+{% include callout.html content="Très rapidement, il **s'est réveillé.**<br/><br/>Victoire **s'est réveillée** à 6h en pleine forme.<br/><br/>Le matin, on **s'est réveillés** avec un super soleil et une super vue!" type="primary" %}
 
 ### accord du participe passé : exceptions
 Le participe passé ne s'accorde pas s'il y a un complément direct après le verbe qui est une partie du corps : 
 
-* Tammy : Je **me suis lavée**.
-* Et ensuite je **me suis lavé** les cheveux.
+{% include callout.html content="Elle **s'est maquillée** et **coiffée**.<br/><br/>Elle **s'est cassé** les dents de devant." type="primary" %}
 
-Dans le deuxième exemple, l'objet direct **les cheveux** est placé après le verbe; il n'y a donc pas d'accord.
+Dans le deuxième exemple, l'objet direct **les dents de devant** est placé après le verbe; il n'y a donc pas d'accord.
 
 De plus, dans les cas où le pronom réfléchi est un objet indirect plutôt qu'un objet direct, comme dans le verbe **se parler**, il n'y a pas d'accord.
 
-* Tammy : Puis, Bette et moi, **nous nous sommes parlé**.
+{% include callout.html content="Hier, les deux présidents **se sont parlé**." type="primary" %}
 
 ## négation
 La négation du passé composé se forme en plaçant **ne ... pas** autour du verbe conjugué, l'auxiliaire **avoir** ou **être** : Je **ne** suis **pas** allé(e), Tu **n'**as **pas** fait, etc.
@@ -131,17 +125,10 @@ Pour les verbes pronominaux, le **ne** précède le pronom réfléchi et le **pa
 ## Le passé immédiat (venir de + infinitif)
 Lorsque **venir** se conjugue au présent et est suivi de **de + infinitif**, cela signifie « avoir fait quelque chose tout récemment ». Cette construction s'appelle le passé immédiat.
 
-* Tex et Tammy **viennent de** regarder une vidéo romantique. Et ils **viennent de** finir toute une bouteille de vin. Il n'en reste plus une goutte !
-* Tammy : Oh chéri, je t'aime de tout mon coeur.
-* Tex : Embrasse-moi, mon petit quadrupède ! [SMACK !]
+{% include callout.html content="Ce que vous **venez de dire** est très intéressant.<br/><br/>La version 3 **vient de sortir** et elle est disponible sur Internet." type="primary" %}
 
 Quand **venir** se conjugue à l'imparfait suivi de **de + infinitif**, cela veut dire « avait fait quelque chose tout récemment » :
 
-* Tex et Tammy **venaient de** s'embrasser quand Bette est arrivée.
-* Bette : Oh, excusez-moi... Je vous interromps ?
-* Tammy : En effet, nous passons une soirée tranquille...
-* Tex : Salut Bette, oh, c'est pas grave. On **vient** de regarder une vidéo. Assieds-toi.
-* Tammy : Mais Tex...
-* Bette ronronne.
+{% include callout.html content="Je **venais de rentrer** quand Maurice est arrivé.<br/><br/>Ce qu'elle **venait d'entendre** lui semblait complètement incroyable." type="primary" %}
 
 {% include links.html %}
