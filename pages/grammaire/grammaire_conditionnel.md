@@ -73,33 +73,24 @@ D'autres verbes avec des changements d'orthographe, comme **appeler**, **employe
 
 ### fonction
 #### souhaits ou demandes
-Le conditionnel exprime la potentialité. Il est utilisé pour exprimer un souhait ou une suggestion, pour faire une demande, ou pour accepter ou présenter des invitations. C'est moins direct et plus poli que l'impératif. Les verbes 'pouvoir', 'vouloir' et 'devoir' se trouvent souvent au conditionnel pour diminuer la force d'une commande. Dans la plupart des cas, le conditionnel est traduit comme 'would' en anglais. Cependant, **je pourrais** signifie 'I could', **je devrais** signifie 'I should' et **je voudrais** signifie 'I would like'. Ne confondez pas non plus 'would' en anglais signifiant 'used to' qui devrait être traduit comme un imparfait en français, et non comme le conditionnel : A Paris, Joe-Bob allait au MacDo tous les jours. (In Paris, Joe-Bob would/used to go to McDonald's everyday)
+Le conditionnel exprime la potentialité. Il est utilisé pour exprimer un souhait ou une suggestion, pour faire une demande, ou pour accepter ou présenter des invitations. C'est moins direct et plus poli que l'impératif. Les verbes 'pouvoir', 'vouloir' et 'devoir' se trouvent souvent au conditionnel pour diminuer la force d'une commande. Dans la plupart des cas, le conditionnel est traduit comme 'would' en anglais. Cependant, **je pourrais** signifie 'I could', **je devrais** signifie 'I should' et **je voudrais** signifie 'I would like'. Ne confondez pas non plus 'would' en anglais signifiant 'used to' qui devrait être traduit comme un imparfait en français, et non comme le conditionnel :
 
-* Joe-Bob et Tammy se trouvent au restaurant où Edouard travaille comme serveur.
-* Edouard : Bonsoir Madame, Monsieur. **Aimeriez**-vous commander un apéritif pour commencer ?
-* Tammy : Oh oui ! **Pourrions**-nous avoir un Ricard et un Perrier ? Ensuite, je **voudrais** une salade verte, s'il vous plaît.
-* Joe-Bob : Je veux un hamburger.
-* Edouard : Monsieur, vous **devriez** être plus poli dans ce restaurant, sinon, je **pourrais** oublier votre commande !
+{% include callout.html content="**Imparfait** : Moi, j'**allais** à la messe tous les jours. (*I would/used to go to mass every day.*)<br/><br/>**Conditionnel** : J'**aimerais** vraiment une réponse à cette question.<br/><br/>**Conditionnel** : Cette somme **pourrait** et **devrait** être consacrée au financement de la construction de logements sociaux." type="primary" %}
 
 #### action hypothétique
 Le conditionnel est utilisé pour faire des déclarations qui sont contraires aux faits actuels. Il exprime un résultat hypothétique qui dépend de circonstances (énoncées ou implicites) qui n'existent pas. Pour que l'action exprimée par le conditionnel se produise, quelque chose d'autre doit avoir lieu en premier. Notez que la condition dans la proposition avec **si** est toujours indiquée à l'imparfait.
 
-* Tex et Joe-Bob regardent la télé. 'Le gros lot se monte à 30 millions de dollars. Que **feriez**-vous si vous **gagniez** ?
-* Tex : Moi, j'**écrirais** sans cesse des livres de philosophie.
-* Joe-Bob : Moi j'**achèterais** mon diplôme d'université.
+{% include callout.html content="Si j'**étais** modérateur ce **serait** affiché à côté de mon pseudo.<br/><br/>Il ne **serait** pas là **s'**il ne **pensait** pas que Marlena était en danger." type="primary" %}
 
 #### possibilité ou incertitude
 Le conditionnel est également utilisé pour donner des informations dont l'exactitude ne peut être garantie. Les journalistes l'utilisent souvent pour rapporter des évènements dont on ne sait pas la vérité.
 
-* Tammy et Bette regardent la télé. Soudain, leur programme préféré est interrompu et un commentateur annonce :
-* 'Une tornade vient de s'abattre sur Hubbard, Texas. Il y **aurait** plusieurs victimes. Un tatou et un écureuil **seraient** gravement blessés. Restez avec nous, nous **devrions** avoir plus de détails d'ici quelques secondes ...'
-* Presque immédiatement, le téléphone sonne. Tammy répond : A..., Allô ?'
-* A l'autre bout, Tex dit : 'Tammy, c'est moi, Tex. Ne t'inquiète pas, on va très bien. Je rentrerai bientôt.
+{% include callout.html content="L'enquête devra le déterminer mais les premiers éléments laissent supposer qu'une vitesse excessive **serait** en cause.<br/><br/>Il y **aurait** au moins 16 morts selon les premiers témoins." type="primary" %}
 
 #### discours indirect
 De plus, le conditionnel est utilisé pour représenter le futur par rapport à une narration dans le passé lorsque le discours indirect est utilisé pour dire ce que quelqu'un a dit.
 
-* Tex a dit qu'il **rentrerait** bientôt.
+{% include callout.html content="L'entreprise m'a dit qu'elle **essaierait** de venir mercredi." type="primary" %}
 
 ## Passé du conditionnel
 Le passé du conditionnel passé représente, comme son nom l'indique, le passé du conditionnel présent. Le conditionnel présent et passé expriment des situations ou des conditions hypothétiques.
@@ -124,29 +115,22 @@ Au passé du conditionnel (comme au passé composé), il faut choisir entre **av
 ### fonction
 Comme le présent du conditionnel, le passé du conditionnel est utilisé pour les hypothèses. Contrairement au présent du conditionnel, cependant, il est utilisé pour décrire ou imaginer des événements et des actions qui ne se sont pas produits. C'est pourquoi il est souvent utilisé pour exprimer des regrets à propos des évènements qui ne se sont pas produits. Dans la plupart des cas, le passé du conditionnel est traduit comme « would have » en anglais. Cependant, **j'aurais pu** signifie « I could have » ; **j'aurais dû** signifie « I should have » et **j'aurais voulu** signifie « I would have liked ».
 
-* Tex : J'**aurais aimé** être artiste.
-* Corey : J'**aurais voulu** être beau.
-* Tammy : Je n'**aurais** pas **dû** écouter Bette.
-* Edouard : J'**aurais pu** être un chef célèbre!
+{% include callout.html content="On **aurait aimé** livrer un meilleur match, mais la victoire est là.<br/><br/>J'**aurais voulu** le faire plus tôt mais on m'en a dissuadé.<br/><br/>Nous n'avons pas fait ce que nous **aurions dû** faire.<br/><br/>Sans ces erreurs, le score **aurait pu** être plus lourd en notre faveur." type="primary" %}
 
 Le passé du conditionnel se trouve dans les propositions avec **si** avec le plus-que-parfait. Ces propositions décrivent aussi des évènements qui ne se sont pas produits, ou plutôt des conditions qui n'ont pas été remplies pour que l'événement au passé du conditionnel puisse se produire. Dans le dialogue ci-dessous, tous les verbes au passé du conditionnel décrivent des événements qui se seraient produits si la condition d'origine avait été remplie. Notez que la condition non remplie est impliquée dans chaque occurrence du conditionnel passé.
 
-* Tex et Edouard discutent de la vie en Amérique.
-* Edouard: Si tu n'avais pas vendu de T-shirts aux touristes, qu'est-ce qui **serait arrivé**?
-* Tex : Ben, d'un côté, je **serais resté** en France, bien sûr. Mais, de l'autre, je n'**aurais** pas **connu** le Texas et je ne **serais** pas **devenu** ami avec Tammy. Et tous mes copains ici **auraient perdu** l'occasion de connaître un philosophe distingué !
+{% include callout.html content="Mais je reste convaincu que nous **aurions pu** mieux faire si nous **avions eu** du temps."<br/><br/>Si nous **avions fait** ça en octobre, ça **aurait été** plus intéressant. type="primary" %}
 
 #### possibilité ou incertitude
 Le passé du conditionnel, comme le présent du conditionnel, donne des informations sur un évènement passé dont l'exactitude ne peut être
 garantie. Il est utilisé par les journalistes et les reporters.
 
-* Tammy et Bette regardent la télé. Soudain, leur programme préféré est interrompu et un commentateur annonce :
-* 'Une tornade vient de s'abattre sur Hubbard, Texas. Elle **aurait fait** plusieurs victimes. Un tatou et un écureuil **auraient été** gravement blessés ...'
-* Presque immédiatement, le téléphone sonne. Tammy répond 'A ... , Allô?' A l'autre bout, Tex dit 'Tammy, c'est moi, Tex. Ne t'inquiète pas, on va très bien. Je rentrerai bientôt.
+{% include callout.html content="Il **aurait** alors **porté** plusieurs coups à la victime et notamment à la main, avant de prendre la fuite.<br/><br/>Il **aurait empoisonné** plusieurs patients en fin de vie et encourt la réclusion à perpétuité." type="primary" %}
 
 #### discours indirect
 Tout comme le conditionnel représente le futur dans une narration du temps passé, le passé du conditionnel représente le futur antérieur dans une narration du temps passé pour dire ce que quelqu'un aurait fait.
 
-* Tex a dit qu'il **serait rentré** plus tôt, si l'orage n'avait pas éclaté.
+{% include callout.html content="Le jour où Valls a été nommé Premier ministre, tout le monde a dit que 3 mois plus tard, il **aurait perdu** la moitié de sa cote de popularité.<br/><br/>Quand je suis arrivée à l'hôpital, on m'a dit que 2 heures plus tard, je **serais morte**" type="primary" %}
 
 ## Phrases conditionnelles avec si
 Les phrases conditionnelles avec **si** indiquent des possibilités, qui peuvent ou non devenir réalité. Ils renvoient au présent, au passé et au futur. Ces phrases conditionnelles ont deux parties : la condition, marquée par **si**, et la proposition principale ou résultat qui indique ce qui se passera si la condition de la proposition avec **si** est remplie.
@@ -158,32 +142,20 @@ Le temps de la proposition de résultat dépend du temps de la proposition avec 
 | condition | résultat |
 | si + présent (condition possible) | présent ou futur ou impératif |
 
-Ce premier type de proposition avec **si** est utilisé dans les cas où la condition peut être remplie et donc la conséquence est considérée comme possible. Dans le dialogue suivant, il y a des propositions avec **si** au présent suivies des résultats au présent, au futur et à l'impératif :
+Ce premier type de proposition avec **si** est utilisé dans les cas où la condition peut être remplie et donc la conséquence est considérée comme possible. Dans les exemples suivants, il y a des propositions avec **si** au présent suivies des résultats au présent, à l'impératif, et au futur :
 
-* Tammy est en train de lire un petit quizz sur la personnalité et l'amour dans un magazine.
-* Tammy : **Si** tu **veux**, tu **peux** répondre aux questions, Tex.
-* Tex : D'accord. Mais si tu **peux**, **choisis** les questions les plus croustillantes !
-* Tammy : Entendu. Première question : Qu'est-ce que vous **ferez** demain ... **si** vous **trouvez** l'amour de votre vie ?
-* Tex : **Si** je **rencontre** l'amour de ma vie, je l'**épouserai**, bien sûr !
+{% include callout.html content="**Si** tu **veux** je **peux** te conseiller.<br/><br/>**Si** vous **êtes** fatigué **allez** vous reposer un peu.<br/><br/>Si on **meurt**, ça **sera** bien notre faute !" type="primary" %}
 
-Notez que la proposition avec **si** ou la proposition avec le résultat peuvent commencer une phrase, mais les mêmes temps restent spécifiques à chaque proposition ('Qu'est-ce que vous ferez demain si vous trouvez l'amour de votre vie?' est le même que 'Si vous trouvez l'amour de votre vie, qu'est-ce que vous ferez?')
+Notez que la proposition avec **si** ou la proposition avec le résultat peuvent commencer une phrase, mais les mêmes temps restent spécifiques à chaque proposition.
 
 ### si + imparfait
 
 | condition | résultat |
 | si + imparfait (contraire aux faits actuels) | conditionnel |
 
-Ce deuxième type de proposition avec **si** est contraire aux faits dans le présent. La conséquence est donc considérée comme impossible. Notez qu'en français, l'imparfait est utilisé dans la proposition avec **si**, jamais le conditionnel.
+Ce deuxième type de proposition avec **si** est vu comme contraire aux faits dans le présent. La conséquence est donc typiquement considérée comme impossible. Notez qu'en français, l'imparfait est utilisé dans la proposition avec **si**, jamais le conditionnel.
 
-* Le quizz continue.
-* Tammy : **Si** vous **étiez** une voiture, que **seriez**-vous ?
-* Tex : **Si** j'**étais** une voiture, je **serais** la
-légendaire 2CV.
-* Tammy : **Si** vous **étiez** un fruit, lequel **choisiriez**-vous ?
-* Tex : **Si** j'**étais** un fruit, je **choisirais** le raisin pour pouvoir me transformer en vin.
-* Tammy : **Si** vous **étiez** une femme, que **feriez**-vous ?
-* Tex : **Si** j'**étais** une femme, je ne **lirais** pas
-les quiz dans les magazines.
+{% include callout.html content="Si je **pouvais**, je **viendrais** bien à Paris.<br/><br/>En vérité, je **serais** très honoré si vous **épousiez** Perrine." type="primary" %}
 
 ### si + plus-que-parfait
 
@@ -193,15 +165,10 @@ les quiz dans les magazines.
 Ce dernier type de proposition avec **si** est utilisé pour des situations contraires aux faits passés. La proposition de résultat exprime donc une
 possibilité passée non réalisée.
 
-* Et le quizz continue.
-* Tammy : Qu'est-ce que vous **auriez fait**, **si** vous **étiez né** à College Station?
-* Tex : **Si** j'**étais né** à College Station, j'**aurais préféré** Texas A&M à UT. Quelle horreur !
-* Tammy : **Si** vous n'**aviez** pas **connu** Tammy,qu'est-ce que vous **auriez fait**?
-* Tex: Je n'**aurais** jamais **répondu** à un tel quizz, **si** je n'**avais** pas **connu** Tammy !
+{% include callout.html content="Ce débat **aurait pu** être évité si une meilleure communication **avait été** développée.<br/><br/>Si tu l'**avais laissé** mourir, tu **aurais été** un assassin." type="primary" %}
 
-Faites la distinction entre les propositions avec **si** et les questions rapportées au discours indirect. Observez la différence entre ces deux phrases :
+Faites la distinction entre les phrases conditionnelles avec **si** et les questions rapportées au discours indirect. Observez la différence entre ces deux phrases :
 
-* Question au discours indirect : Tex demande **si** Tammy est prête.
-* Proposition avec **si**: Tex : Tammy, **si** tu es prête, on peut partir tout de suite.
+{% include callout.html content="*Question au discours indirect* : Il lui demande **si** elle a peur.<br/><br/>*Phrase conditionnelle* : **Si** on veut entrer dans ce café, il faut payer 45 francs une bière." type="primary" %}
 
 {% include links.html %}
