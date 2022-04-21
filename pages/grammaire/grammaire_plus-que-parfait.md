@@ -27,31 +27,27 @@ La négation se forme de la manière habituelle en plaçant **ne ... pas** autou
 ## Fonction
 Dans la narration au passé, le plus-que-parfait est utilisé pour exprimer une action qui précède une autre action ou moment passé. En d'autres termes, l'action dans le plus-que-parfait est antérieure à une autre action ou moment passé. Dans les phrases affirmatives en français, il est souvent, mais pas toujours, accompagné de l'adverbe **déjà**.
 
-* A l'âge de sept ans, Tex **avait déjà rédigé** dix poèmes.
-* Quelques années plus tard, il **avait abandonné** tout espoir de gloire littéraire. Mais il a changé d'avis quand il a lu les poèmes à Tammy.
-* Elle a adoré les poèmes innocents que Tex **avait écrits** pendant sa jeunesse.
+{% include callout.html content="Il m'a dit qu'il était content pour moi et très fier de ce que j'**avais accompli**.<br/><br/>A 60 ans, il **avait déjà passé** plus de 40 ans en prison et toujours pour les mêmes motifs.<br/><br/>Les personnels de cuisine **avaient déjà été évacués** à l'arrivée des secours." type="primary" %}
 
 Toutes les instances de **had + participe passé** en anglais ne sont pas traduites en plus-que-parfait en français. Par exemple, en français, **depuis** est généralement utilisé avec l'imparfait (pas le plus-que-parfait) et « had **just** done something » se traduit généralement par **venir de** à l'imparfait.
 
-* Le public littéraire **attendait** depuis des années la nouvelle poésie de Tex quand il a enfin retrouvé son inspiration. il a retrouvé son inspiration.
-* En fait, Tex **venait de** commencer un nouveau poème quand son éditeur a téléphoné.
+{% include callout.html content="Jocelyne était venue nous confier un secret qui la **rongeait** depuis quarante ans.<br/><br/>Un train **venait d'**entrer en gare quand nous sommes arrivées." type="primary" %}
 
 Comparez le plus-que-parfait de cette phrase avec les exemples ci-dessus :
 
-* Tex **avait** (déjà) **commencé** son poème quand son éditeur a téléphoné.
+{% include callout.html content="Elle **était** déjà **partie** pour la France quand j'ai commencé à chanter dans les clubs." type="primary" %}
 
 Rappelez-vous que le contraire de **déjà** est l'expression négative **pas encore**, tout comme « already » est remplacé par « yet » en anglais.
 
-* Tex **n'**avait **pas** (**encore**) fini son poème quand son éditeur a téléphoné.
+{% include callout.html content="Il **n'**avait **pas encore** dit un seul mot quand la rampe de projecteurs lui est tombée dessus écrasant sous un poids terrible son pauvre corps." type="primary" %}
 
 En français comme en anglais, le plus-que-parfait est également utilisé pour exprimer des vœux sur le passé, comme dans cet exemple :
 
-* Editeur : Si seulement tu **avais fini** ton nouveau poème !
+{% include callout.html content="Si seulement son père **avait pu** voir ça." type="primary" %}
 
 
 Le plus-que-parfait est aussi couramment utilisé dans les propositions avec **si** suivi du conditionnel passé. Par exemple:
 
-* Tex à son éditeur : Imbécile ! Si vous ne m'**aviez** pas **interrompu**, j'aurais pu finir mon nouveau poème. A cause de vous, je sens que je perds à nouveau mon inspiration.
-* Editeur : Mon Dieu, si j'**avais su** combien artistes étaient difficiles, je serais devenu comptable !
+{% include callout.html content="Si j'**avais été** marrant, elle aurait rigolé.<br/><br/>Si j'**avais été** présent, est-ce que ça aurait changé le résultat final ? Franchement je ne sais pas." type="primary" %}
 
 {% include links.html %}
