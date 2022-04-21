@@ -17,23 +17,19 @@ Il existe deux temps du futur en français, le futur simple et le futur proche. 
 | tu vas nager | vous allez nager |
 | il/elle/on va nager | ils/elles vont nager |
 
-Pour mettre le futur proche au négatif, placez **ne ... pas** autour de la forme conjuguée d'**aller** : Je **ne** vais **pas** nager.
+Pour mettre le futur proche au négatif, placez **ne ... pas** autour de la forme conjuguée d'**aller** :
 
-* Corey : Je **vais aller** à Barton Springs. J'adore l'eau. Je **vais nager**. Tu viens avec moi, Bette ?
-* Bette : Tu es fou ! Il fait trop froid ! Je **ne** vais **pas** nager !
+{% include callout.html content="Je **vais rester** pour une durée de 3 à 6 semaines.<br/><br/>Je **ne vais pas rester** ici une seconde de plus." type="primary" %}
 
 ### fonction
 Le futur proche est utilisé pour désigner la plupart des évènements futurs dans une conversation informelle.
 
-* Corey : Tex ! Tammy ! Nous **allons aller** à Barton Springs.
-* Bette : Mais il y a de gros nuages ​​gris, il **va pleuvoir**.
-* Corey : Chouette ! Je **vais nager** sous la pluie.
+{% include callout.html content="On **va nager**, **se promener**, **dormir**.<br/><br/>Je crois qu'il **va pleuvoir** demain.<br/><br/>Je **vais aller** un peu plus loin." type="primary" %}
 
 ### aller à l'imparfait + infinitif
 La construction **aller** + infinitif se trouve aussi avec le verbe **aller** à l'imparfait pour désigner ce qu'on avait l'intention de faire. Par exemple :
 
-* Les copains **allaient partir** pour Barton Springs, quand ils ont vu un éclair.
-* Bette : Corey, tu **vas te faire électrocuter** ! Moi, je **vais faire** du shopping. Qui **va venir** avec moi ?
+{% include callout.html content="Il m'a promis qu'il **allait arrêter** ses conneries.<br/><br/>Ben je l'ai vu mais j'**allais repondre** plus tard lol." type="primary" %}
 
 ## Futur simple régulier
 Le futur 'simple' est ainsi nommé parce que c'est un temps formé d'un seul mot. Autrement dit, sa forme est simple car il n'y a pas d'auxiliaire.
@@ -109,8 +105,7 @@ Le français a deux futurs : le futur proche et le futur simple. Le futur proche
 ### futur proche vs futur simple
 Les deux temps sont virtuellement interchangeables dans la plupart des contextes, surtout en français parlé. Alors, quelle est la difference? En général, les deux temps diffèrent par leur niveau de formalité ; le futur proche est utilisé dans des contextes plus informels et le futur simple dans des contextes plus formels. Ainsi, le futur proche est surtout utilisé à l'oral et moins fréquemment à l'écrit. Selon les grammaires traditionnelles, les deux temps diffèrent également par leur distance relative au moment présent. Le futur proche désigne typiquement un temps très proche du moment présent. Le futur simple, en revanche, est souvent utilisé pour des événements dans un futur plus lointain. Parce que le futur simple est associé à des événements futurs lointains, il prend souvent une qualité objective et détachée, ce qui en fait le temps préféré pour les événements futurs qui représentent des vérités générales.
 
-* Qui vivra, verra.
-* L'homme sera toujours l'homme.
+{% include callout.html content="Qui vivra **verra**. (*Time will tell*)<br/><br/>Aide-toi, le ciel t'**aidera**. (*Heaven helps those who help themselves*)" type="primary" %}
 
 Les deux temps indiquent également une différence dans la perception du locuteur de l'événement futur. Le futur proche indique que le locuteur est relativement certain que l'événement futur se produira réellement. En revanche, le futur simple indique que le locuteur est moins certain que l'événement futur se produira. Imaginons un contexte pour rendre cette distinction plus claire. Supposons qu'un homme très perturbé vient de grimper sur le rebord d'un gratte-ciel. L'homme commence à perdre l'équilibre. Un spectateur horrifié voit l'homme commencer à vaciller et crie :
 
@@ -127,10 +122,7 @@ Dans la première phrase, la locutrice est soit enceinte, soit vient de recevoir
 ### différences entre le français et l'anglais
 En général, les temps futurs en français et en anglais sont utilisés de la même manière. Cependant, il existe une différence majeure dans l'utilisation du futur entre les deux langues. Le français requiert le futur après certaines conjonctions où l'usage de l'anglais requiert le présent.
 
-* Joe-Bob : **Dès que** Tex et Tammy **seront** en vacances, ils **iront** à la Nouvelle-Orléans. (As soon as Tex and Tammy **are** on vacation, they will go to New Orleans.)
-* Corey : Mais ils nous **téléphoneront** **aussitôt qu**'ils **arriveront** à la Nouvelle-Orléans. (But they will call us as soon as they **arrive** in New Orleans.)
-* Joe-Bob : **Lorsque** Tex et Tammy **rentreront**, ils **passeront** quelques jours à Opelousas. (When Tex and Tammy **come back**, they will spend a few days in Opelousas.)
-* Corey : Et **quand** ils **reviendront** à Austin, on **fera** la fête ! (And when they **return** to Austin, we'll have a party!)
+{% include callout.html content="Ne vous inquiétez pas, vous **comprendrez dès que** nous **serons** sur place. (*Don't worry, you will understand as soon as we **are** there.*)<br/><br/>On y **reviendra aussitôt que** je **pourrai** me libérer. (*We will come back as soon as I **can** get free.*)<br/><br/>Le procès **pourra** commencer **lorsque** tout le monde **sera** debout. (*The trial will be able to begin when everyone **is** standing.*)<br/><br/>Tu **feras** quoi **quand** ton contrat **sera** fini ? (*What will you do when your contract **is** finished?*)" type="primary" %}
 
 Dans les exemples français ci-dessus, les propositions subordonnées commençant par **dès que**, **aussitôt que**, **lorsque** et **quand** sont au futur simple car les propositions principales sont au futur. L'action dans la proposition subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la proposition principale. Notez l'utilisation du présent dans la proposition subordonnée des traductions anglaises.
 
@@ -155,17 +147,16 @@ Notez qu'avec l'auxiliaire **être**, le participe passé s'accorde en nombre et
 ### fonction
 Le futur antérieur est utilisé pour une action qui précède, ou sera terminée avant, une autre action dans le futur. Alors que le futur est exprimé en anglais par 'will' + verbe principal (will finish), le futur antérieur est généralement traduit par 'will have' + participe passé du verbe (will have finished). Par exemple:
 
-* Corey et Joe-Bob n'**auront** pas **appris** le futur antérieur avant la fin du semestre.
+{% include callout.html content="D'ici vingt ans, si rien n'est fait, la forêt primaire **aura disparu**.<br/><br/>Dans 15 jours, les Français **auront décidé**, souverainement, de leur avenir pour cinq ans." type="primary" %}
 
 La négation se forme comme d'habitude en plaçant **ne**/**n' ... pas** autour du verbe conjugué, qui dans ce cas est l'auxiliaire :
 
-* Corey et Joe-Bob **n'**auront certainement **pas** compris le futur antérieur avant la fin du semestre.
+{% include callout.html content="Il faudra se dépêcher sinon nous **n'aurons pas fini** de retourner le foin avant la nuit." type="primary" %}
 
 ### conjonctions
 Le futur antérieur s'emploie de la même manière en français et en anglais. Cependant, le français utilise le futur antérieur après certaines conjonctions comme **quand**, **lorsque**, **dès que** et **aussitôt que** où l'anglais utiliserait le présent.
 
-* **Quand** Tammy **aura reçu** son diplôme, Tex et elle iront en France. (When Tammy **gets** her degree, she and Tex will go to France.)
-* **Dès que** Tex et Tammy **se seront mariés**, ils auront beaucoup de petits tatous. (As soon as Tex and Tammy **get** married, they will have lots of little armadillos.)
+{% include callout.html content="Je sais que vous **vous réjouirez** avec nous **quand** la réforme **aura réussi**. (*I know you will celebrate with us when the reform **has succeeded***)<br/><br/>**Dès que** nous **serons revenus**, elle **rentrera** chez elle. (*As soon as we **have returned**, she will go home*)" type="primary" %}
 
 Dans les exemples ci-dessus, les subordonnées commençant par **quand** et **dès que** sont au futur antérieur car l'action de la subordonnée sera effectuée avant l'action de la principale.
 
