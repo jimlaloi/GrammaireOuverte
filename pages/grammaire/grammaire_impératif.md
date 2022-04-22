@@ -29,10 +29,7 @@ Retirez le **s** final dans les formes **tu** de l'impératif pour les verbes en
 
 Lorsque ces formes sont suivies du pronom **y** ou **en**, le **-s** est rattaché pour permettre la prononciation d'une liaison. Par exemple:
 
-* Corey : Bette, **va** au supermarché ! **Vas-y** ! Et **achète** de l'insecticide pour moi... Tu m'entends ? **Achètes-en** pour moi !
-* Bette : Imbécile, l'insecticide est dangereux pour les cafards ! Paf !
-* Corey : Oh, Bette... aide-moi à me relever, s'il te plaît.
-* Bette : Tu es vraiment trop bête. Je m'en vais.
+{% include callout.html content="**Va** demander de l'argent à ton père.<br/><br/>**Vas-y** et **dis-lui** que je passerai régler demain.<br/><br/>**Achète** un dictionnaire !<br/><br/>**Achètes-en** un pour elle." type="primary" %}
 
 ## Impératifs irréguliers
 Il existe plusieurs verbes qui ont une forme irrégulière à l'impératif.
@@ -54,13 +51,11 @@ Pour les verbes pronominaux, le pronom sujet est supprimé et le pronom d'objet 
 ## Impératif au négatif
 Les formes de l'impératif affirmatif (un ordre de faire quelque chose) ont été présentées dans les tableaux ci-dessus. Pour l'impératif négatif (un ordre de ne pas faire quelque chose), mettez le **ne ... pas** autour de l'impératif, comme dans **Ne regarde pas**. Pour les verbes réfléchis, le pronom d'objet est placé devant le verbe.
 
-* Corey : **Ne te moque pas** de moi !
-* Joe-Bob : **Ne nous moquons pas** de Corey !
+{% include callout.html content="**Ne te soucie pas** de ces ragots ridicules.<br/><br/>**Ne vous laissez pas** influencer par des sentiments personnels!" type="primary" %}
 
 ## Impératif avec un pronom d'objet
 D'autres objets pronominaux (avec des verbes non pronominaux) suivent le même placement que les objets des verbes pronominaux. Comme d'habitude, le pronom sujet est supprimé. Au négatif, le **ne** précède le pronom complément et le verbe. A l'impératif affirmatif, le pronom d'objet suit le verbe, et les formes **moi** et **toi** remplacent **me** et **te**.
 
-* Corey : **Aidez-moi**, **aidez-moi** ! Je n'arrive pas à me relever.
-* Joe-Bob : **Retournons-le** ! Allez, un, deux, trois... Doucement, doucement. **Ne le faites pas** trop vite !
+{% include callout.html content="Allez, **aidez-moi** à ramasser tout cela.<br/><br/>**Faisons-le** maintenant!<br/><br/>**Ne le faites pas**, s'il vous plaît." type="primary" %}
 
 {% include links.html %}
