@@ -117,10 +117,10 @@ Rappelez-vous que tous les verbes pronominaux nécessitent **être** comme verbe
 Le passé antérieur apparaît le plus souvent dans les propositions subordonnées ; il est introduit par des conjonctions telles que **après**, **aussitôt que** ou **dès que**. Notez que, dans ce cas, la proposition principale est toujours au passé simple. L'équivalent anglais est généralement (mais pas toujours) **had + participe passé**.
 
 | action antérieure au passé (passé antérieur) | action au passé (passé simple) |
-| Aussitôt qu'il fut né, | Tex commença à parler. |
-| Après qu'il eut vécu quelques années à Paris, | Tex retourna dans son pays d'origine. |
-| Quand il eut publié son premier recueil de poèmes érotiques, | il y eut un grand scandale. |
+| Aussitôt qu'elles furent installées, | ils montèrent à la file sur les murailles et les premiers arrivés tuèrent la sentinelle. |
+| Après qu'il lui eut transmis l'information, | Charly secoua la tête. |
+| Quand il eut terminé,  | il leva la tête vers le ciel. |
 
-Avec **quand** et **lorsque**, le choix du temps dépend de la signification de chaque proposition, de l'action qui se produit en premier. Dans le dernier exemple, Tex a d'abord publié ses poèmes (passé antérieur dans la proposition dépendante) et puis il y a eu un scandale. Cependant, le passé antérieur peut aussi apparaître dans la proposition principale, et le passé simple dans la proposition dépendante : Quand il **arriva** au Texas, Tex **eut** déjà **fait** la connaissance de Tammy.
+Avec **quand** et **lorsque**, le choix du temps dépend de la signification de chaque proposition, de l'action qui se produit en premier. Dans le dernier exemple, le sujet a d'abord terminé (passé antérieur dans la proposition dépendante) et puis il a levé la tête. Cependant, le passé antérieur peut aussi apparaître dans la proposition principale, et le passé simple dans la proposition dépendante : *Quand il leva la tête vers le ciel, il eut terminé*.
 
 {% include links.html %}
