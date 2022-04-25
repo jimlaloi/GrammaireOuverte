@@ -14,7 +14,7 @@ Une conjonction est un mot utilisé pour lier ou « conjoindre » des mots ou de
 Une conjonction de coordination « coordonne » deux éléments équivalents dans une phrase, c'est-à-dire des mots appartenant à la même catégorie grammaticale (noms + noms, verbes + verbes, proposition indépendante + proposition indépendante, etc.). Les conjonctions de coordination les plus couramment utilisées en français sont :
 * mais, ou, et, donc, or, ni ... ni, car, puis
 
-{% include callout.html content="Si tu ne manges **ni** viande **ni** poisson **ni** oeufs **ni** lait, ce n'est pas être végétarien **mais** végétalien."<br/><br/>Il craint le pire **et** je partage son point de vue. type="primary" %}
+{% include callout.html content="Si tu ne manges **ni** viande **ni** poisson **ni** oeufs **ni** lait, ce n'est pas être végétarien **mais** végétalien.<br/><br/>Il craint le pire **et** je partage son point de vue." type="primary" %}
 
 ### conjonctions de subordination
 Une conjonction de subordination lie une proposition indépendante à une proposition dépendante (ou « subordonnée »). En d'autres termes, une conjonction de subordination joint deux propositions non équivalentes (une indépendantes et une dépendante). Une proposition indépendante est une proposition qui peut être autonome pour former une phrase grammaticale. Une proposition dépendante, d'autre part, ne peut pas être autonome et donc « dépend » de la proposition principale afin de former une pensée complète.

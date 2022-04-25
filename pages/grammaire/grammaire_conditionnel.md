@@ -119,7 +119,7 @@ Comme le présent du conditionnel, le passé du conditionnel est utilisé pour l
 
 Le passé du conditionnel se trouve dans les propositions avec **si** avec le plus-que-parfait. Ces propositions décrivent aussi des évènements qui ne se sont pas produits, ou plutôt des conditions qui n'ont pas été remplies pour que l'événement au passé du conditionnel puisse se produire. Dans le dialogue ci-dessous, tous les verbes au passé du conditionnel décrivent des événements qui se seraient produits si la condition d'origine avait été remplie. Notez que la condition non remplie est impliquée dans chaque occurrence du conditionnel passé.
 
-{% include callout.html content="Mais je reste convaincu que nous **aurions pu** mieux faire si nous **avions eu** du temps."<br/><br/>Si nous **avions fait** ça en octobre, ça **aurait été** plus intéressant. type="primary" %}
+{% include callout.html content="Mais je reste convaincu que nous **aurions pu** mieux faire si nous **avions eu** du temps.<br/><br/>Si nous **avions fait** ça en octobre, ça **aurait été** plus intéressant." type="primary" %}
 
 #### possibilité ou incertitude
 Le passé du conditionnel, comme le présent du conditionnel, donne des informations sur un évènement passé dont l'exactitude ne peut être
