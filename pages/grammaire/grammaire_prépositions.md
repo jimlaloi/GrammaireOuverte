@@ -14,123 +14,94 @@ La traduction des prépositions est notoirement délicate. Ne présumez jamais q
 
 Dans les phrases suivantes, ces problèmes sont démontrés en traduisant littéralement les prépositions françaises. Notez à quel point la traduction en anglais est maladroite.
 
-{% include callout.html content="" type="primary" %}
-* Bette est fâchée **contre** Tammy. -- Bette is angry **against** Tammy. (Bette is angry at Tammy)
-* Tex téléphone **à** Joe-Bob. -- Tex telephones **to** Joe-Bob. (Tex telephones Joe-Bob)
+{% include callout.html content="Elle n'est même pas fâchée **contre** moi. -- She isn't even angry **against** me. (angry *with/at* me)<br/><br/>J'essayais de téléphoner **à** mon fils, **sans** réponse. -- I tried to call **at** my son, **without** answer. (call *my* son, without *an* answer)" type="primary" %}
 
 Les traductions littérales sont également gênantes dans les situations où une préposition n'est pas utilisée en français mais est requise en anglais.
 
-{% include callout.html content="" type="primary" %}
-* Fiona attend le bus. -- Fiona waits the bus. (Fiona waits for the bus)
-* Joe-Bob écoute la radio. -- Joe-Bob listens the radio. (Joe-Bob listens to the radio)
+{% include callout.html content="On a attendu le bus plus de vingt minutes. (We waited *for* the bus *for* more than twenty minutes)<br/><br/>J'écoute également beaucoup de musique classique. (I also listen *to* lots of classical music)" type="primary" %}
 
 ## Les prépositions fréquentes
 **À** et **de** sont les prépositions les plus courantes en français. Ils forment des contractions avec les articles définis :
 
-{% include callout.html content="" type="primary" %}
-Tex parle **aux** étudiants. Il parle **des** devoirs. Il regarde la question en haut **du** tableau.
+{% include callout.html content="L'année prochaine, l'API aimerait faire participer un maximum de joueurs **aux** championnats **du** monde **des** jeux électroniques." type="primary" %}
 
 Lorsque les prépositions ont des significations littérales et spatiales, leur utilisation est simple : **sur**, **sous**, **avec**, **sans**. Il existe en outre de nombreux usages idiomatiques des prépositions, notamment **à** et **de**. Les dictionnaires incluent des listes de significations idiomatiques.
 
 ### a-b-c
 #### à
 
-{% include callout.html content="" type="primary" %}
-* Tex parle **à** ses amis **au** café. Ils vont **à** Opelousas.
+{% include callout.html content="Il est touché **à** la hanche, **au** genou, **aux** 2 poignets et **à** l'épaule." type="primary" %}
 
 #### à cause de 
 La préposition **à cause de** est suivie d'un nom, alors que la conjonction **parce que** est suivie d'une proposition subordonnée.
 
-{% include callout.html content="" type="primary" %}
-* Ils vont en Louisiane **à cause de** la fête.
+{% include callout.html content="Ces personnes ont eu un problème cardiaque **à cause du** cholestérol." type="primary" %}
 
 #### au centre de
 
-{% include callout.html content="" type="primary" %}
-* Opelousas se trouve **au centre de** la Louisiane.
+{% include callout.html content="Et il est absolument hors de question que Marie se trouve **au centre d'**un scandale." type="primary" %}
 
 #### à côté de
 
-{% include callout.html content="" type="primary" %}
-* Bette veut s'asseoir **à côté de** Tex.
+{% include callout.html content="Comme son bureau est **à côté du** mien, c'est souvent moi qui corrige ses exercices." type="primary" %}
 
 #### à droite de
 
-{% include callout.html content="" type="primary" %}
-* Tammy est **à droite de** PawPaw Louis.
+{% include callout.html content="Le bouton de la lumière est **à droite de** la porte." type="primary" %}
 
 #### à gauche de
 
-{% include callout.html content="" type="primary" %}
-* Tex est **à gauche de** PawPaw.
+{% include callout.html content="Sur l'enveloppe, la mention se place **à gauche de** l'adresse." type="primary" %}
 
 #### après
 
-{% include callout.html content="" type="primary" %}
-* **Après** le dîner, ils vont danser.
+{% include callout.html content="Les voisins d'en face, ils ont déménagé il y a six mois, **après** leur divorce." type="primary" %}
 
 #### à travers
 
-{% include callout.html content="" type="primary" %}
-* Tammy voit Bette **à travers** la foule.
+{% include callout.html content="Dans une autre salle, l'histoire du cinéma se raconte **à travers** les affiches." type="primary" %}
 
 #### au milieu de
 
-{% include callout.html content="" type="primary" %}
-* PawPaw danse **au milieu de** la salle.
+{% include callout.html content="Elle a vu un gendarme **au milieu de** la route." type="primary" %}
 
 #### au sujet de / à propos de
 
-{% include callout.html content="" type="primary" %}
-* Paw-Paw parle **au sujet de** la Résistance et **à propos de** sa longue vie de séducteur.
+{% include callout.html content="J'aimerais dire deux choses **au sujet de** ce type de peurs.<br/><br/>Vous avez parlé de votre famille, en particulier **à propos de** la culture qui vous a été transmise." type="primary" %}
 
 #### autour de
 
-{% include callout.html content="" type="primary" %}
-* Les amis sont assis **autour de** la table.
+{% include callout.html content="Ces quartiers ont grossi **autour de** la ville coloniale." type="primary" %}
 
 #### avant
 
-{% include callout.html content="" type="primary" %}
-* Ils ne vont pas se coucher **avant** cinq heures du matin.
+{% include callout.html content="J'irai demain matin **avant** les cours, on verra bien." type="primary" %}
 
 #### avec
 **Avec** + nom est souvent traduit par un adverbe : **avec** joie (joyfully).
 
-{% include callout.html content="" type="primary" %}
-* Tex est en Louisiane **avec** ses amis. Ils dansent **avec joie** à l'anniversaire de PawPaw.
+{% include callout.html content="Dommage qu'il n'ait pas le temps de s'amuser **avec** elle.<br/><br/>Nous l'avons fait **avec** humilité et pragmatisme." type="primary" %}
 
 #### chez
-**Chez** peut faire référence aux maisons d'individus ainsi qu'à la boutique de quelqu'un, comme dans le premier exemple ci-dessous. Lorsqu'il est appliqué à de plus grands groupes de personnes, telles que les nationalités, cela signifie « parmi » :
+**Chez** peut faire référence aux maisons d'individus ainsi qu'à la boutique de quelqu'un. Lorsqu'il est appliqué à de plus grands groupes de personnes, telles que les nationalités, cela signifie « parmi » :
 
-{% include callout.html content="" type="primary" %}
-**Chez** nous les Texans, on adore la sauce piquante = "Nous les Texans aimons la sauce piquante" (littéralement : parmi nous les Texans, nous aimons la sauce piquante).
-
-{% include callout.html content="" type="primary" %}
-* Le lendemain matin, ils vont acheter des croissants **chez** le boulanger.
-* Tout le monde a adoré le séjour **chez** Paw-Paw.
-* Après un an à Austin, Tex se sent vraiment à l'aise **chez** les Texans.
+{% include callout.html content="Tu devrais rentrer **chez** toi.<br/><br/>Les commandes commencent à arriver **chez** le boucher.<br/><br/>Il y a toujours plus de morts **chez** les vaincus." type="primary" %}
 
 #### contre
 **Contre** est utilisé dans plusieurs expressions idiomatiques.
 
-{% include callout.html content="" type="primary" %}
-* Bette a dansé tout **contre** Tex.
-* Tammy est en colère **contre** Bette ; elle se fâche **contre** Tex.
-* Tammy est **contre** la bigamie.
+{% include callout.html content="Pour toutes ces raisons, le groupe socialiste votera **contre** cet amendement.<br/><br/>Grand-mère a commencé par se mettre en colère **contre** moi.<br/><br/>J'appuie sa tête **tout contre** ma poitrine et je pleure à mon tour." type="primary" %}
 
 ### d-e-f
 
 #### dans
 **Dans** est toujours suivi d'un déterminant (défini, indéfini ou possessif).
 
-{% include callout.html content="" type="primary" %}
-* Tammy est **dans** la cuisine. Elle prépare le dîner pour Tex qui arrive **dans** une heure.
+{% include callout.html content="Mais tu as raison, je vais aller me reposer un peu **dans** la chambre.<br/><br/>Je serai de retour **dans** quatre ou cinq jours." type="primary" %}
 
 #### d'après
 
-{% include callout.html content="" type="primary" %}
-* **D'après** Edouard, les Américains mangent très mal. Mais Tammy cuisine bien!
+{% include callout.html content="**D'après** Le Parisien, c'est un film \"irrésistible\"." type="primary" %}
 
 #### de
 
