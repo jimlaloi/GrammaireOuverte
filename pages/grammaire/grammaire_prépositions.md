@@ -150,7 +150,7 @@ La préposition **à cause de** est suivie d'un nom, alors que la conjonction **
 #### envers
 **Envers** signifie « toward » au sens figuré, indiquant une attitude ou un geste envers quelqu'un. C'est en contraste avec **vers**, qui signifie « toward » dans un sens spatial ou temporel.
 
-{% include callout.html content="C'est une personne très gentille et certains se sont comportés avec méchanceté **envers** elle"." type="primary" %}
+{% include callout.html content="C'est une personne très gentille et certains se sont comportés avec méchanceté **envers** elle." type="primary" %}
 
 ### g-h-je-j-k-l
 #### grâce à
