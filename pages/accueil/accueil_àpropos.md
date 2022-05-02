@@ -17,7 +17,17 @@ Le contenu du site a été développé d'après [Tex's French Grammar](https://w
 
 Ce site peut être employé au sein d'un cours de français ou bien pour l'étude individuelle. Les exposés des concepts grammaticaux sont organisés par catégorie dans la barre de navigation. L'instructeur ou l'apprenant est encouragé à étudier ces concepts dans l'ordre qui convient le mieux à ses besoins. Pour des suggestions à ce propos, voir la page destinée [aux instructeurs](/accueil_instructeurs.html).
 
-Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/20162711002" data-toggle="tooltip" data-original-title="Siepmann, Dirk, Christoph Bürgel & Diwersy Sascha. 2016. Le Corpus de référence du français contemporain (CRFC), un corpus massif du français largement diversifié par genres. 5e Congrès Mondial de Linguistique Française. SHS Web of Conferences 27. 11002.">*Corpus de référence du français contemporain*</a>. Ce corpus réunit des textes français de divers genres écrits et oraux: journaux, romans, articles scientifiques, films, conversations, blogs, forums, SMS, etc. Les exemples sont donc authentiques et représentent le français tel qu'il est parlé et écrit en France. Là où il y a des différences grammaticales entre les dialectes mondiaux du français, cette diversité est décrite par des explications dans des boîtes vertes.
+ 
+Les pages contiennent des explications de grammaire accompagnées d'exemples, présentés dans des boîtes comme celle-ci:
+
+{% include callout.html content="Certains mots dans les exemples sont mis en **caractères gras** pour souligner un élément grammatical." type="primary" %}
+
+Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/20162711002" data-toggle="tooltip" data-original-title="Siepmann, Dirk, Christoph Bürgel & Diwersy Sascha. 2016. Le Corpus de référence du français contemporain (CRFC), un corpus massif du français largement diversifié par genres. 5e Congrès Mondial de Linguistique Française. SHS Web of Conferences 27. 11002.">*Corpus de référence du français contemporain*</a>. Ce corpus réunit des textes français de divers genres écrits et oraux: journaux, romans, articles scientifiques, films, conversations, blogs, forums, SMS, etc. Les exemples sont donc authentiques et représentent le français tel qu'il est parlé et écrit en France.
+
+{% include variation.html content="Là où il y a des différences grammaticales entre les dialectes mondiaux du français, cette diversité est décrite par des explications dans des boîtes vertes." %}
+
+{% include information.html content="D'autres boîtes offrent des explications supplémentaires sur des règles grammaticales (telles que les raisons historiques pour leur développement) qui peuvent contribuer à la compréhension." %}
+
 
 ## License
 
