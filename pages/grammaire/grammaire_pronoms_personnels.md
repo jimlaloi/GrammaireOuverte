@@ -1,7 +1,7 @@
 ---
 title: Les pronoms personnels
 keywords: pronoms, personnel
-summary: "Pronoms personnels en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_pronoms_personnels.html
 folder: grammaire
@@ -11,19 +11,19 @@ folder: grammaire
 
 Un pronom est un mot utilisé pour remplacer un nom. Il est souvent utilisé pour éviter de répéter un nom mentionné précédemment (**l'antécédent**).
 
-Les différents types de pronoms sont nommés en fonction de leur fonction grammaticale. Les **pronoms personnels** sont associés aux personnes grammaticales: la première personne (qui parle - e.g. **je**), la deuxième personne (à qui l'on parle - e.g. **tu**), et la troisième personne (de qui l'on  - e.g. **il**). Ces pronoms peuvent être *conjoints* ou *disjoints*. Les pronoms conjoints ont une place particulière en tant que sujet ou complément du verbe, alors que les pronoms disjoints ont une position plutôt libre, séparée du verbe.
+Les différents types de pronoms sont nommés selon leur fonction grammaticale. Les **pronoms personnels** sont associés aux personnes grammaticales: la première personne (qui parle - e.g. **je**), la deuxième personne (à qui l'on parle - e.g. **tu**), et la troisième personne (de qui l'on parle - e.g. **il**). Ces pronoms peuvent être *conjoints* ou *disjoints*. Les pronoms conjoints ont une place particulière en tant que sujet ou complément du verbe, alors que les pronoms disjoints ont une position plutôt libre, séparée du verbe.
 
 **pronoms personnels conjoints:**
-pronoms sujets
+*pronoms sujets*
 : je, tu, il, elle, on, nous, vous, ils, elles
 
-pronoms compléments directs
+*pronoms compléments directs*
 : me, te, le, la, nous, vous, les
 
-pronoms compléments indirects
+*pronoms compléments indirects*
 : me, te, lui, nous, vous, leur
 
-pronoms réfléchis (directs ou indirects)
+*pronoms réfléchis (directs ou indirects)*
 : me, te, se, nous, vous, se
 
 **pronoms personnels disjoints:**
@@ -38,10 +38,10 @@ pronoms interrogatifs
 : qui, que
 
 pronoms démonstratifs
-: celui, celle, ceux
+: celui, celle, ceux, celles, ce, ça, ceci, cela
 
 pronoms relatifs
-: qui, que, lequel, laquelle, dont, où, quoi
+: qui, que, lequel, laquelle, lesquels, lesquelles, dont, où, quoi
 
 pronoms indéfinis
 : quelqu'un, quelque chose
@@ -54,7 +54,7 @@ Un pronom remplace un nom afin d'éviter les répétitions. Les pronoms sujets s
 | **personne** | **singulier** | **pluriel** |
 | *1ère personne* | je | nous |
 | *2e personne* | tu | vous |
-| *3e personne* | il, elle, on | ils elles |
+| *3e personne* | il, elle, on | ils, elles |
 
 Les pronoms sujets sont étiquetés par le terme « personne », faisant référence au rôle du sujet dans la conversation. La 1ère personne fait référence à la (aux) personne(s) qui parle(nt) (je, nous) ; la 2e personne à la (aux) personne(s) à qui on parle (tu, vous) ; et la 3ème personne à la (aux) personne(s) ou chose(s) dont on parle (il, elle, elle, ils).
 
@@ -87,6 +87,8 @@ Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évi
 **Ils** et **elles** sont similaires à **il** et **elle** puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. **Ils** et **elles** peuvent désigner des personnes ou des choses. **Elles** est utilisé pour signifier « they » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, **ils** est utilisé pour signifier « they » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
 
 {% include callout.html content="**Ils** sont frère et soeur, artistes." type="primary" %}
+
+{% include variation.html content="Certaines personnes de genre non-binaire préfèrent utiliser des néopronoms pour la troisième personne pour sortir du binaire *il*/*elle*. Les néopronoms les plus acceptés sont *iel*/*iels*, par exemple: *iel va*, *iels vont*. Les pronoms toniques correspondants sont *ellui*/*elleux*. D'autres néopronoms ont été proposés, y compris *al*/*als* et *ul*/*uls*. Le genre non-binaire peut aussi être exprimé ailleurs dans la langue, par exemple en remplaçant *tous*/*toutes* par *touz* ou *tou-te-s* ou en faisant l'accord avec une marque de ponctuation, comme *iel est content'e*. Ces mesures sont découragées par l'Académie française et l'Office québécois de la langue française et sont encore très rares en dehors des espaces queers." %}
 
 ## Pronoms compléments
 

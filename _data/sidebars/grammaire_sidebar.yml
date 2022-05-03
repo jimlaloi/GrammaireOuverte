@@ -28,12 +28,12 @@ entries:
       url: /grammaire_noms.html
       output: web, pdf
 
-    - title: Pronoms démonstratifs
-      url: /grammaire_pronoms_démonstratifs.html
-      output: web, pdf
-
     - title: Pronoms personnels
       url: /grammaire_pronoms_personnels.html
+      output: web, pdf
+
+    - title: Pronoms démonstratifs
+      url: /grammaire_pronoms_démonstratifs.html
       output: web, pdf
 
     - title: Pronoms possessifs
