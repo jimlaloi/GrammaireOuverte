@@ -15,16 +15,16 @@ Les différents types de pronoms sont nommés selon leur fonction grammaticale. 
 
 **pronoms personnels conjoints:**
 *pronoms sujets*
-: je, tu, il, elle, on, nous, vous, ils, elles
+: je (j'), tu, il, elle, on, nous, vous, ils, elles
 
 *pronoms compléments directs*
-: me, te, le, la, nous, vous, les
+: me (m'), te (t'), le (l'), la (l'), nous, vous, les
 
 *pronoms compléments indirects*
-: me, te, lui, nous, vous, leur
+: me (m'), te (t'), lui, nous, vous, leur
 
 *pronoms réfléchis (directs ou indirects)*
-: me, te, se, nous, vous, se
+: me (m'), te (t'), se (s'), nous, vous, se (s')
 
 **pronoms personnels disjoints:**
 : moi, toi, lui, elle, soi, nous, vous, eux, elles
@@ -66,15 +66,7 @@ Contrairement au pronom anglais « I », **je** ne prend pas de majuscule à m
 
 Le pronom **tu** est singulier et, surtout, informel. Utilisez **tu** pour vous adresser aux personnes de votre âge et à celles que vous connaissez bien.
 
-**on**
-
-Le pronom **on** signifie « one », ou « they » dans un sens non spécifique : « comme on dit » (as they say). **On** remplace souvent « nous » en français parlé : « On y va ? (Shall we go?).
-
-**vous**
-
-Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme **tu** est considérée comme un manque de respect.
-
-{% include callout.html content="Monsieur le ministre, **vous** êtes en train d'organiser un vaste tripatouillage électoral.<br/><br/>**Vous** êtes prêts, les enfants ? C'est parti." type="primary" %}
+{% include variation.html content="L'élision de *je* devant une voyelle (*j'aime*) est toujours obligatoire. L'élision de *tu* n'est pas accepté en français formel. Mais dans des registres plus familiers, et surtout à l'oral, l'élision de *tu* devant une voyelle est assez répandue (*t'aimes*, *t'auras*, etc.). Ne confondez pas ceci avec l'élision du pronom complément *te*, qui est toujours obligatoire devant une voyelle (*je t'aime*)." %}
 
 **il/elle**
 
@@ -82,13 +74,33 @@ Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évi
 
 {% include callout.html content="C'est une question à laquelle je vous rends attentifs, **elle** est tout de même préoccupante.<br/><br/>La question est alors de savoir si le plaisir a la moindre valeur morale, s'**il** constitue un bien." type="primary" %}
 
+{% include variation.html content="Certaines personnes de genre non-binaire préfèrent utiliser des néopronoms pour la troisième personne pour sortir du binaire *il*/*elle*. Les néopronoms les plus acceptés sont *iel*/*iels*, par exemple: *iel va*, *iels vont*. Les pronoms toniques correspondants sont *ellui*/*elleux*. D'autres néopronoms ont été proposés, y compris *al*/*als* et *ul*/*uls*. Le genre non-binaire peut aussi être exprimé ailleurs dans la langue, par exemple en remplaçant *tous*/*toutes* par *touz* ou *tou-te-s* ou en faisant l'accord avec une marque de ponctuation, comme *iel est content'e*. Ces mesures sont découragées par l'Académie française et l'Office québécois de la langue française et sont encore très rares en dehors des espaces queers." %}
+
+**on**
+
+Le pronom **on** signifie « one », ou « they » dans un sens non spécifique : « comme on dit » (as they say). **On** remplace souvent **nous** en français parlé : « On y va ? (Shall we go?).
+
+**nous**
+
+Le pronom **nous** désigne la première personne au pluriel dans des registres formels et surtout à l'écrit. C'est aussi utile pour éviter la confusion possible avec **on**, qui peut signifier d'autres personnes et nombres. Néanmoins, quand le contexte rend le sens clair et le registre est informel, **on** est plus commun.
+
+{% include variation.html content="Plusieurs dialectes locaux et minoritaires de France acceptent *je* à la place de *nous* (*j'allons*). Bien que l'usage de ces dialectes soit en fort déclin, ce trait passé en français s'entend encore parfois aujourd'hui dans certaines régions." %}
+
+**vous**
+
+Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évidemment plus d'une personne. Cependant, c'est aussi la forme habituelle d'adresse lorsque vous vous adressez à une seule personne que vous ne connaissez pas bien, comme un ancien, un patron, un commerçant, etc. L'utilisation inappropriée de la forme **tu** est considérée comme un manque de respect.
+
+{% include callout.html content="Monsieur le ministre, **vous** êtes en train d'organiser un vaste tripatouillage électoral.<br/><br/>**Vous** êtes prêts, les enfants ? C'est parti." type="primary" %}
+
+{% include variation.html content="En langage familier et oral, *vous* peut se réduire en *z'* (*Z'avez vu ça?*), ou même en *v'* dans certaines régions centrales de France." %}
+
 **ils/elles**
 
 **Ils** et **elles** sont similaires à **il** et **elle** puisqu'ils s'accordent avec le genre du nom qu'ils remplacent. **Ils** et **elles** peuvent désigner des personnes ou des choses. **Elles** est utilisé pour signifier « they » s'il remplace des personnes qui sont toutes des femmes ou des objets qui sont tous de sexe féminin. D'autre part, **ils** est utilisé pour signifier « they » pour des objets de genre masculin ou un groupe de tous les hommes ou de tout groupe où il y a au moins une personne masculine ou un objet masculin dans le groupe.
 
 {% include callout.html content="**Ils** sont frère et soeur, artistes." type="primary" %}
 
-{% include variation.html content="Certaines personnes de genre non-binaire préfèrent utiliser des néopronoms pour la troisième personne pour sortir du binaire *il*/*elle*. Les néopronoms les plus acceptés sont *iel*/*iels*, par exemple: *iel va*, *iels vont*. Les pronoms toniques correspondants sont *ellui*/*elleux*. D'autres néopronoms ont été proposés, y compris *al*/*als* et *ul*/*uls*. Le genre non-binaire peut aussi être exprimé ailleurs dans la langue, par exemple en remplaçant *tous*/*toutes* par *touz* ou *tou-te-s* ou en faisant l'accord avec une marque de ponctuation, comme *iel est content'e*. Ces mesures sont découragées par l'Académie française et l'Office québécois de la langue française et sont encore très rares en dehors des espaces queers." %}
+{% include variation.html content="À l'oral, *il* et *ils* sont fréquemment prononcés sans /l/ (*Ils font* devient « *i font* », *Ils ont* « *i-z-ont* »). Au Québec, en langage familier, la distinction entre *ils* et *elles* est souvent effacée, avec tous deux réduits à *i* à l'oral: *Les femmes, i(ls) sont venus*." %}
 
 ## Pronoms compléments
 
