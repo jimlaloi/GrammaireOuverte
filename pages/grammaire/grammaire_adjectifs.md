@@ -1,7 +1,7 @@
 ---
 title: Les adjectifs
 keywords: adjectifs, adjectives
-summary: "Adjectifs en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_adjectifs.html
 folder: grammaire
@@ -139,5 +139,47 @@ La forme du participe passé dépend de la classe du verbe (**-er**, **-ir**, **
 Notez que les participes passés utilisés comme adjectifs peuvent avoir un sens passif, et donc être suivis d'un agent introduit par **par** ou **de**:
 
 {% include callout.html content="Elle imaginait Bordeaux en village **entouré de** vignes.<br/><br/>Vous pouvez alors leur suggérer de les donner à un autre enfant moins **gâté par** la vie." type="primary" %}
+
+## Les adjectifs possessifs
+
+Les adjectifs possessifs (parfois appelés pronoms possessifs) remplacent un nom en exprimant la possession. Ils sont toujours accompagnés d'un déterminant sans nom. L'adjectif possessif avec son déterminant forme un groupe nominal (*le mien*, *les vôtres*, etc.) tout comme les autres adjectifs peuvent faire un groupe nominal sans nom (*les misérables*, *le chauve*, etc.).
+
+L'adjectif possessif permet d'éviter la répétition d'un nom précédé d'un déterminant possessif comme **mon**, **ton**, **son**, etc.
+
+{% include callout.html content="De toute façon **ton pays** et **le mien** ne veulent pas se faire la guerre." type="primary" %}
+
+Les adjectifs possessifs font l'accord en genre et en nombre avec le nom qu'ils remplacent. Ils indiquent donc à la fois le possesseur et le nombre et le genre de l'objet possédé : **le mien** indique que le possesseur est « je » et que la possession est au masculin singulier. Voici les adjectifs possessifs :
+
+| | **singulier** |  | **pluriel** | |
+| | *masculin* | *féminin* | *masculin* | *féminin* |
+| *1ère personne sing.* | le mien | la mienne | les miens | les miennes |
+| *2ème personne sing.* | le tien | la tienne | les tiens | les tiennes |
+| *3ème personne sing.* | le sien | la sienne | les siens | les siennes |
+| *1ère personne pl.* | le nôtre | la nôtre | les nôtres|  les nôtres |
+| *2ème personne pl.* | le vôtre | la vôtre | les vôtres | les vôtres |
+| *3ème personne pl.* | le leur | la leur | les leurs | les leurs |
+
+{% include information.html content="Notez la différence d'orthographe et de prononciation entre les déterminants possessifs **notre** et **votre** /ɔ/ et les adjectifs possessifs **nôtre** et **vôtre** /o/." %}
+
+Selon le contexte, **le sien**, **la sienne**, **les siens**, **les siennes** peut signifier « his », « hers » ou « its (own) ». La forme de l'adjectif possessif reflète le genre de la possession (le nom qu'il remplace), et non du possesseur comme en anglais.
+
+{% include callout.html content="Il a retenu ma main dans **la sienne**. (*his*)<br/><br/>Marie a déjà recueilli des dizaines de récits comme **le sien**. (*hers*)<br/><br/>La société marche à son rythme, le dogme religieux **au sien**. (*its own*)" type="primary" %}
+
+Notez que les articles **le** et **les** qui précèdent les adjectifs possessifs forment des contractions avec les prépositions **de** et **à**. Par exemple:
+
+{% include callout.html content="On n'a qu'à parler à tes parents et **aux miens**.<br/><br/>J'ai appris à respecter les points de vue différents **du mien**." type="primary" %}
+
+### locutions idiomatiques
+Les formes masculines plurielles des adjectifs possessifs peuvent être utilisées seules pour désigner des parents, des amis, des alliés, etc. **Etre des nôtres**, **être des vôtres** sont des expressions courantes avec une telle signification de l'adjectif possessif.
+
+{% include callout.html content="Je ne penserai pas davantage **aux miens** qui passeront les fêtes sans moi.<br/><br/>Beaucoup **des nôtres** ont tiré sur les militaires qui ont fui." type="primary" %}
+
+**Y mettre du sien** est une expression courante qui peut être utilisée avec n'importe quel adjectif possessif pour signifier que vous faites votre part, que vous faites de votre mieux, que vous faites un réel effort pour contribuer.
+
+{% include callout.html content="Je fais ce que je peux, tu n'as qu'a **y mettre du tien** aussi." type="primary" %}
+
+**Faire des** + **miennes**, **tiennes**, **siennes**, **nôtres**, **vôtres** ou **leurs** sont des locutions suggérant une mauvaise conduite.
+
+{% include callout.html content="Cela devient encore plus problématique lorsque l'ordinateur **fait des siennes**.<br/><br/>Oh toi ! Tu as encore **fais des tiennes** ...tu peux pas te retenir." type="primary" %}
 
 {% include links.html %}

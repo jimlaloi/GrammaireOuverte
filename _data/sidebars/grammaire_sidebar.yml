@@ -36,10 +36,6 @@ entries:
       url: /grammaire_pronoms_démonstratifs.html
       output: web, pdf
 
-    - title: Pronoms possessifs
-      url: /grammaire_pronoms_possessifs.html
-      output: web, pdf
-
     - title: Pronoms relatifs
       url: /grammaire_pronoms_relatifs.html
       output: web, pdf
