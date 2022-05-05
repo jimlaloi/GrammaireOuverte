@@ -1,59 +1,58 @@
 ---
 title: Les pronoms relatifs
 keywords: pronoms, relatif
-summary: "Pronoms relatifs en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_pronoms_relatifs.html
 folder: grammaire
 ---
 
-## formes et usages
-Un pronom relatif introduit une proposition qui explique ou décrit un nom mentionné précédemment, qui s'appelle l'antécédent. Les pronoms relatifs sont utilisés pour lier deux idées liées en une seule phrase, évitant ainsi la répétition.
+## Introduction
+Un pronom relatif introduit une proposition qui explique ou décrit un nom mentionné précédemment, qui s'appelle l'antécédent. Les pronoms relatifs sont utilisés pour lier deux idées en une seule phrase, évitant ainsi la répétition.
 
 {% include callout.html content="(C'est un tableau. On a acheté ce tableau.)...<br/><br/>C'est un tableau **qu'**on a acheté." type="primary" %}
 
-Dans l'exemple ci-dessus, le pronom relatif **que** introduit la proposition subordonnée, c'est-à-dire la proposition qui ajoute des informations supplémentaires sur le tableau. En français, il existe deux principaux pronoms relatifs, **qui** et **que**. Le choix entre **qui** et **que** en français dépend uniquement du rôle grammatical, sujet ou objet direct, que joue le pronom relatif dans la proposition subordonnée.
+Dans l'exemple ci-dessus, le pronom relatif **que** introduit la proposition subordonnée, c'est-à-dire la proposition qui ajoute des informations supplémentaires sur le tableau (le fait qu'on l'a acheté). **Que** est un *pronom* dans cette phrase parce qu'il remplace le nom *tableau* dans la proposition subordonnée pour éviter la répétition. 
 
-### qui
-**Qui** fonctionne comme le sujet de la proposition subordonnée.
+On utilise des pronoms relatifs différents selon le rôle grammatical (sujet, complément direct, complément oblique, etc) du nom remplacé dans la proposition subordonnée. Voici les pronoms relatifs :
+
+| **Rôle grammatical** | **Pronom relatif** | **Exemple simple** |
+| Sujet | *qui* | C'est Bob *qui* dort |
+| Complément direct | *que* | C'est Bob *que* j'aime |
+| Complément de *de* | *dont* | C'est Bob *dont* je me souviens |
+| Complément d'une<br/>autre préposition | [prép] + *lequel* | C'est la question *à laquelle* je réponds |
+| Complément d'une<br/>préposition (personne) | [prép] + *qui* | C'est Bob *à qui* je parle |
+| Lieu ou temps | *où* | C'est la ville *où* j'habite<br/>C'est le jour *où* j'arrive |
+| Antécédent n'est pas énoncé<br/>par un nom précédent | *ce* + *qui*/*que*/*dont*<br/>*ce* + [prép] + *quoi*<br/>*là où* | C'est *ce que* je fais<br/>C'est *ce à quoi* je m'attends<br/>C'est *là où* je vais |
+
+## qui
+**Qui** a deux fonctions relatives : comme sujet de la subordonnée, et comme complément d'une préposition de la subordonnée.
+
+Comme sujet, *qui* peut remplacer n'importe quel nom, animé ou inanimé.
 
 {% include callout.html content="J'ai des amis **qui** veulent visiter.<br/><br/>On demande des choses **qui** sont impossibles.<br/><br/>C'est le livre **qui** m'a fait le plus peur!" type="primary" %}
 
-### que
-**Que** fonctionne comme l'objet direct de la clause subordonnée. Souvenez-vous que **que** devient **qu'** avant un mot qui commence
-avec une voyelle.
+Les règles d'accord avec le sujet s'appliquent à l'antécédent de qui. C'est-à-dire que le participe passé d'un verbe composé s'accorde en nombre et en genre avec le sujet si l'auxiliaire est *être*.
+
+{% include callout.html content="C'est une femme bavarde **qui** s'est mis**e** à parler." type="primary" %}
+
+Comme complément d'une préposition, *qui* ne peut être utilisé qu'avec un antécédent animé (généralement une personne). Si l'antécédent est inanimé, il faut normalement utiliser *lequel* au lieu de *qui*. Il faut inclure la préposition devant *qui*.
+
+{% include callout.html content="L'homme **à qui** il avait téléphoné n'était pas arrivé.<br/><br/>Vous offrirez certainement des fleurs aux gens **chez qui** vous allez être invité à déjeuner ou à dîner.<br/><br/>Les patientes ne sont pas les seules **pour qui** les chiffres comptent, pour les laboratoires aussi.<br/><br/>Elle s'en souvient bien car c'est la seule personne **de qui** elle ait jamais reçu une gifle." type="primary" %}
+
+{% include information.html content="Si l'antécédent est une personne qui suit la préposition *de*, *de qui* et *dont* sont tous les deux corrects. *Dont* pourrait être vu comme plus élégant." %}
+
+## que
+**Que** fonctionne comme le complément direct de la proposition subordonnée. Souvenez-vous que **que** devient **qu'** avant un mot qui commence par une voyelle.
 
 {% include callout.html content="On retrouve des films **qu'**on a beaucoup aimés.<br/><br/>C'est vrai, j'oubliais les salades **que** je t'ai racontées.<br/><br/>Elle a alors suivi des cours, le soir après son travail, dans l'atelier **que** dirigeait Sylvia Lopez Duclos." type="primary" %}
 
-## accord
-Bien que **qui** et **que** soient invariables, ils s'accordent en genre et en nombre avec l'antécédent. **Que** fonctionne comme un objet direct précédant le verbe. Par conséquent, lorsque le verbe de la proposition subordonnée est au passé composé, ou à tout autre temps composé, le participe passé s'accorde en nombre et en genre avec **que**. Le participe passé s'accorde aussi en nombre et en genre avec **qui** si le verbe forme son passé composé avec 'être'.
+Lorsque le verbe de la proposition subordonnée est au passé composé, ou à tout autre temps composé, le participe passé s'accorde en nombre et en genre avec **que**.
 
-{% include callout.html content="Si vous le permettez, madame la présidente, je défendrai ensemble les quatre sous-amendements **que** j'ai déposé**s**.<br/><br/>C'est une femme bavarde **qui** s'est mis**e** à parler." type="primary" %}
+{% include callout.html content="Si vous le permettez, madame la présidente, je défendrai ensemble les quatre sous-amendements **que** j'ai déposé**s**." type="primary" %}
 
-## ce qui et ce que
-**Ce qui** et **ce que** sont des pronoms relatifs comme **qui** et **que** ; c'est-à-dire qu'ils introduisent une proposition subordonnée. Cependant, **ce qui** et **ce que** sont utilisés dans des phrases dans lesquelles il n'y a pas d'antécédent exprimé. Ils ne se réfèrent pas à un nom spécifique, mais plutôt à une idée ou à un énoncé entier, qui peut ou non avoir été précédemment exprimé : ils se réfèrent à quelque chose de non énoncé et non spécifié.
-Le choix entre **ce qui** et **ce que** dépend uniquement du rôle grammatical, sujet ou objet direct, que joue le pronom relatif dans la proposition subordonnée.
-
-### ce qui
-**Ce qui** fonctionne comme le sujet de la proposition subordonnée.
-
-{% include callout.html content="Regardez **ce qui** est sorti dans la presse.<br/><br/>**Ce qui** m'intéresse aujourd'hui, **ce sont** les carottes.<br/><br/>**Tout ce qui** a été gagné peut facilement être anéanti." type="primary" %}
-
-**Ce qui** est souvent utilisé pour l'emphase suivi de **c'est** ou **ce sont**. Notez comment la phrase « **Ce qui** m'intéresse aujourd'hui, **ce sont** les carottes » est plus emphatique que de dire simplement « Les carottes m'intéressent aujourd'hui ».
-
-### ce que
-**Ce que** fonctionne comme l'objet direct de la proposition subordonnée. **Ce que** devient **ce qu'** devant un mot commençant par une voyelle.
-
-{% include callout.html content="Tout **ce que** vous dites est vrai.<br/><br/>**Ce que** je veux éviter, **c'est** le renouvellement de tels événements.<br/><br/>Bien sûr, ils doivent apprendre à jouer en EQUIPE, **ce qu'**ils n'ont jamais fait!" type="primary" %}
-
-Remarquez comment la phrase « **Ce que** je veux éviter, **c'est** le renouvellement de tels événements » est plus emphatique que de dire simplement « Je veux éviter le renouvellement de tels événements ».
-
-## dont, où, lequel : pronoms relatifs avec antécédent
-
-Un pronom relatif introduit une proposition qui explique ou décrit un nom mentionné précédemment. Dans les cas où le pronom relatif est l'objet d'une préposition, des pronoms relatifs autres que **qui** et **que** doivent être utilisés. **De** est la plus courante de ces prépositions, et **dont** est le pronom relatif représentant à la fois la préposition **de** + son objet.
-
-### dont
-Utilisez **dont** si la proposition subordonnée a besoin d'un objet introduit par **de**/**d'**. De telles propositions peuvent indiquer la possession ou elles peuvent contenir des verbes qui sont suivis de la préposition **de**. Certains de ces verbes incluent 'parler de'; 'avoir besoin de'; 'avoir peur de'; 'tenir de'.
+## dont
+Utilisez **dont** si la proposition subordonnée a besoin d'un complément introduit par **de**/**d'**. De telles propositions peuvent indiquer la possession ou elles peuvent contenir des verbes qui sont suivis de la préposition **de**. Certains de ces verbes incluent 'parler de'; 'avoir besoin de'; 'avoir peur de'; 'tenir de'.
 
 {% include callout.html content="Les situations **dont** nous parlons sont parfois dramatiques." type="primary" %}
 
@@ -61,27 +60,54 @@ Utilisez **dont** si la proposition subordonnée a besoin d'un objet introduit p
 
 {% include callout.html content="Non, elle a voté pour un homme **dont** la parole ne fut jamais timide." type="primary" %}
 
-### où
-Le pronom relatif **où** signifie 'where, in which, on which'. Utilisez **où** si la proposition subordonnée a besoin d'un objet indiquant l'emplacement introduit par **dans**, **à**, **sur**, **sous**. Lorsqu'il est utilisé après des adverbes de temps, **où** signifie « when ».
+{% include information.html content="Ne confondez pas la préposition *de* avec des prépositions complexes qui contiennent *de*. Les prépositions *à côté de*, *loin de*, *en face de*, etc. utilisent le pronom relatif *lequel* (*à côté duquel*, *en face de laquelle*...), non pas *dont*." %}
 
-{% include callout.html content="Neuilly est une ville **où** le temps ne fait que passer.<br/><br/>Il est allé à Salzbourg, **là où** Mozart est né.<br/><br/>C'est l'heure **où** je vais me coucher." type="primary" %}
-
-### préposition + lequel, laquelle, lesquels, lesquelles
-Les pronoms relatifs **lequel**, **laquelle**, **lesquels**, et **lesquelles** sont utilisés lorsque la proposition relative est introduite par une préposition autre que **de**/**d'**. Ces pronoms font les contractions habituelles avec les prépositions **à** et **de**. Notez que la préposition en français doit toujours être placée immédiatement devant le pronom relatif.
+## lequel
+Le pronoms relatif **lequel** est utilisé lorsque la proposition subordonnée est introduite par une préposition autre que **de**/**d'**. Ce pronom s'accorde en genre et en nombre avec son antécédent (*lequel*, *laquelle*, *lesquels*, *lesquelles*). La préposition doit toujours être placée immédiatement devant le pronom relatif. *Lequel*, *lesquels*, et *lesquelles* font les contractions habituelles avec les prépositions **à** et **de**. 
 
 {% include callout.html content="La fenêtre **derrière laquelle** il se tient a également été traversée par une balle perdue.<br/><br/>C'est un sujet extrêmement grave, **sur lequel** nous avons déjà eu souvent à nous pencher.<br/><br/>Je vous citerai 2 sujets **à propos desquels** il me semble que des initiatives doivent être prises.<br/><br/>On fit là de nombreux prisonniers **parmi lesquels** des moines et des prêtres.<br/><br/>Ces hommes et ces femmes **entre lesquels** nous avancions, encadrés par les soldats, murmuraient leur mépris et leurs moqueries sur notre passage." type="primary" %}
 
-Remarque : La forme **dont** est généralement utilisée en français parlé au lieu des formes **duquel**, **de laquelle**, **desquels**, et **desquelles**; cependant, ces dernières formes peuvent également être trouvées, en particulier dans les textes écrits. **Dont** ne peut être substitué qu'à la préposition simple **de** et à son objet, mais une forme de **lequel** doit être utilisée lorsque **de** fait partie d'une préposition de deux ou trois mots, telle que 'à propos de, près de, loin de, à côté de.'
+{% include variation.html content="La forme **dont** est généralement utilisée en français parlé au lieu des formes **duquel**, **de laquelle**, **desquels**, et **desquelles**; cependant, ces dernières formes peuvent également être trouvées, en particulier dans les textes écrits.<br/><br/>Le pronom relatif **qui** est généralement utilisé au lieu de **lequel** si l'antécédent est une personne. Cependant, l'usage de **lequel** pour un antécédent animé n'est pas incorrect. Après les prépositions *entre* et *parmi*, **lesquel(le)s** est plus accepté que **qui**." %}
 
-### pronoms relatifs sans antécédent
-Dans tous les exemples précédents, les pronoms relatifs ont un antécédent ; en d'autres termes, un mot spécifique dans la phrase que le pronom relatif représente. De même que les formes **ce qui** et **ce que** sont utilisées lorsqu'il n'y a pas d'antécédent explicite, de même les formes **ce dont** et **ce** + préposition + **quoi** renvoient à quelque chose de non-énoncé et non spécifié.
+Le déterminant **lequel** peut aussi bien se trouver devant un nom dans une construction appositive (où le nom est répété). Cette construction est assez formelle et s'utilise principalement à l'écrit.
 
-Utilisez **ce dont** si la proposition subordonnée a besoin d'un objet introduit par **de**.
+{% include callout.html content="Or, sur ce point, ils ont commis un abus en négligeant l'essence de l'Islam , **lequel abus** ne trouve aucune justification." type="primary" %}
 
-{% include callout.html content="Je fais faire aussi la liste de **ce dont** ils ont besoin pour réparer." type="primary" %}
+## où
+Le relatif **où** peut avoir un sens spatial ou temporel. **Où** peut remplacer un lieu ou une expression de temps après une préposition (comme *dans cette ville* dans le premier exemple ci-dessous) ou sans préposition (comme le deuxième exemple, où il remplace *ce jour* tout simplement).
 
-Utilisez **ce** + préposition + **quoi** lorsque la proposition subordonnée a besoin d'un objet introduit par une préposition autre que **de**. Rappelez-vous que, contrairement à l'anglais, la préposition en français doit toujours être placée immédiatement devant le pronom relatif.
+{% include callout.html content="Neuilly est une ville **où** le temps ne fait que passer.<br/><br/>Il a disparu le jour **où** j'ai rompu mes fiançailles avec Jean-Marie.<br/><br/>C'est l'heure **où** je vais me coucher." type="primary" %}
 
-{% include callout.html content="Voilà **ce à quoi** vont servir ces 400 000 euros.<br/><br/>L'utilisation de ce logiciel me semble donc tout à fait intéressante pour faire comprendre aux élèves **ce en quoi** consiste le travail de l'écriture." type="primary" %}
+Alors que le relatif **où** est typique quand l'antécédent est un lieu ou un moment dans le temps, c'est généralement acceptable de le remplacer par **préposition + lequel** si possible (e.g. *l'heure **à laquelle** je vais me coucher* dans le dernier exemple ci-dessus).
+
+{% include variation.html content="Les locutions non standard *où c'est que* et *où ce que* apparaissent à la place du relatif *où* ou *là où* dans plusieurs variétés du français à l'oral: *J'ai un voisin d'ici qui habitait **où c'est que** j'habite*." %}
+
+## pronoms relatifs sans antécédent
+
+**Qui**, **que**, **dont**, **lequel**, et **où** lient un nom dans la proposition principale (l'antécédent) à la proposition subordonnée. S'il n'y a pas de nom devant le pronom relatif qui sert comme antécédent, on doit mettre le mot **ce** (ou **là** dans le cas du relatif **où**) devant le pronom relatif pour être l'antécédent.
+
+Ceci peut être nécessaire si l'antécédent apparaît plus tard dans la phrase, après la proposition subordonnée.
+
+{% include callout.html content="**Ce qui** m'intéresse aujourd'hui, ce sont les carottes.<br/><br/>**Ce que** je veux éviter, c'est le renouvellement de tels événements.<br/><br/>**Là où** je me sens le mieux, c'est sur scène." type="primary" %}
+
+Parfois, l'antécédent n'est pas un nom, mais une idée exprimée par le verbe ou la proposition principale en générale. Dans l'exemple suivant, le pronom relatif renvoie au syntagme verbal *jouer en équipe*:
+
+{% include callout.html content="Bien sûr, ils doivent apprendre à jouer en EQUIPE, **ce qu'**ils n'ont jamais fait!" type="primary" %}
+
+L'antécédent peut être un mot indéfini (*tout*, *rien*, *quelque chose*...) qui n'indique pas une personne ou une chose spécifique.
+
+{% include callout.html content="**Tout ce qui** a été gagné peut facilement être anéanti.<br/><br/>Tout **ce que** vous dites est vrai.<br/><br/>Ne dis **rien de ce que** tu as vu." type="primary" %}
+
+Enfin, l'antécédent peut manquer entièrement de la phrase, surtout si c'est indiqué contextuellement avant ou après la phrase en question.
+
+{% include callout.html content="Regardez **ce qui** est sorti dans la presse.<br/><br/>Je fais faire aussi la liste de **ce dont** ils ont besoin pour réparer.<br/><br/>Le jeune homme sortit par **là où** il était entré.<br/><br/>Voilà **ce à quoi** vont servir ces 400 000 euros.<br/><br/>L'utilisation de ce logiciel me semble donc tout à fait intéressante pour faire comprendre aux élèves **ce en quoi** consiste le travail de l'écriture." type="primary" %}
+
+Notez que quand il n'y a pas d'antécédent spécifique, on doit utiliser le pronom relatif **quoi** à la place de **lequel** après une préposition.
+
+Il n'est pas toujours nécessaire de mettre le mot **ce** devant la préposition qui précède le pronom relatif **quoi**.
+
+{% include callout.html content="Je sais **de quoi** je parle.<br/><br/>Je vous propose donc de retirer cet amendement, **sans quoi** je demanderai son rejet.<br/><br/>Il décida de compter mentalement jusqu'à dix, **après quoi** il donnerait un ordre." type="primary" %}
+
+{% include variation.html content="En français non standard, principalement à l'oral, les formes interrogatives *qu'est-ce que* et *qu'est-ce qui* sont parfois utilisées à la place des pronoms relatifs *ce que* et *ce qui* : *Eh mon pote, on dit **qu'est-ce qu'**on veut en France !*" %}
 
 {% include links.html %}
