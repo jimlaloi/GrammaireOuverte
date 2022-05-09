@@ -34,17 +34,17 @@ D'autres pronoms sont impersonnels, c'est-à-dire qu'ils ne sont pas associés �
 pronoms adverbiaux
 : y, en
 
-pronoms interrogatifs
+pronoms interrogatifs (voir [Interrogation](/grammaire_interrogation.html))
 : qui, que
 
-pronoms démonstratifs
+pronoms démonstratifs (voir [Pronoms démonstratifs](/grammaire_pronoms_démonstratifs.html))
 : celui, celle, ceux, celles, ce, ça, ceci, cela
 
-pronoms relatifs
+pronoms relatifs (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html))
 : qui, que, lequel, laquelle, lesquels, lesquelles, dont, où, quoi
 
-pronoms indéfinis
-: quelqu'un, quelque chose
+pronoms indéfinis (voir [Pronoms indéfinis](/grammaire_pronoms_indéfinis.html))
+: quelqu'un, quelques-uns, quelque chose, quelque part, autre chose, autrui, l'un, les uns
 
 Néanmoins, les pronoms adverbiaux **y** et **en**, qui remplacent typiquement un nom introduit par une préposition, sont traités sur cette page avec les pronoms personnels, puisque leur place, comme celle des pronoms personnels, est définie en relation avec le verbe.
 

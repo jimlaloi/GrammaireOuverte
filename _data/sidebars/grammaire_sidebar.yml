@@ -40,8 +40,8 @@ entries:
       url: /grammaire_pronoms_relatifs.html
       output: web, pdf
 
-    - title: Mots indéfinis
-      url: /grammaire_mots_indéfinis.html
+    - title: Pronoms indéfinis
+      url: /grammaire_pronoms_indéfinis.html
       output: web, pdf
 
   - title: Modificateurs
@@ -50,6 +50,10 @@ entries:
     folderitems:
     - title: Déterminants
       url: /grammaire_déterminants.html
+      output: web, pdf
+
+    - title: Quantifieurs
+      url: /grammaire_quantifieurs.html
       output: web, pdf
 
     - title: Adjectifs

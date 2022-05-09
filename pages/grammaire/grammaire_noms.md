@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-Un nom est un mot qui fait référence (à un lieu, une chose, une personne, un évènement, une activité, un concept...) et qui peut avoir la fonction de sujet ou d'objet dans une phrase. Les noms en français peuvent être catégorisés comme communs ou propres, dénombrables ou indénombrables, singuliers ou pluriels, et masculins ou féminins.
+Un nom est un mot qui fait référence (à un lieu, une chose, une personne, un évènement, une activité, un concept...) et qui peut avoir la fonction de sujet ou d'objet dans une phrase. Les noms en français peuvent être catégorisés comme communs ou propres, comptables ou massifs, singuliers ou pluriels, et masculins ou féminins.
 
 ### commun ou propre 
 
@@ -21,23 +21,23 @@ Les noms propres indiquent un individu spécifique (une catégorie avec un seul 
 
 {% include callout.html content="**Michel** et **Evelyne** habitent près de **Rouen**." type="primary" %}
 
-### dénombrable ou indénombrable
+### comptable ou massif
 
-Les noms dénombrables identifient des entités individuelles que l'on peut compter.
+Les noms comptables identifient des entités individuelles que l'on peut compter.
 
 {% include callout.html content="On frappe justement à la porte, deux **coups** puis un **coup**." type="primary" %}
 
-Par contre, un nom indénombrable signifie une entité que l'on ne peut pas compter. Dans l'exemple suivant, chaque ingrédient mentionné est conçu comme une quantité indéfinie et donc indénombrable.
+Par contre, un nom massif signifie une entité que l'on ne peut pas compter. Dans l'exemple suivant, chaque ingrédient mentionné est conçu comme une quantité indéfinie et donc indénombrable.
 
 {% include callout.html content="J'ajoute de la **farine**, du **lait**, du **sel** et du **poivre**." type="primary" %}
 
-La différence entre les noms dénombrables et indénombrables est typiquement très claire. Cependant, quelque chose qui est typiquement indénombrable comme l'eau (*je voudrais de l'eau*) peut néanmoins être conçu en termes dénombrables. Et vice versa, quelque chose qui est typiquement dénombrable comme un chemin (*un chemin*, *deux chemins*, *trois chemins*) peut être conçu en termes indénombrables :
+La différence entre les noms comptables et massifs est typiquement très claire. Cependant, quelque chose qui est typiquement massif comme l'eau (*je voudrais de l'eau*) peut néanmoins être conçu en termes comptables. Et vice versa, quelque chose qui est typiquement comptable comme un chemin (*un chemin*, *deux chemins*, *trois chemins*) peut être conçu en termes massifs :
 
 {% include callout.html content="Je trouve que c'est **une eau** de bonne qualité.<br/><br/>Le fait qu'il y ait encore un ministère des Droits des femmes prouve qu'il y a **du chemin** à parcourir." type="primary" %}
 
 ## Le nombre
 
-Les noms dénombrables ont une forme singulière et une forme plurielle. Typiquement, la pluralité est marquée en ajoutant un *-s* à la fin de la forme de base, le nom singulier. Notez, par contre, que le *-s* ne se prononce pas (sauf en liaison). Dans le langage parlé, le déterminant est souvent le seul indice qu'un nom est singulier ou pluriel.
+Les noms comptables ont une forme singulière et une forme plurielle. Typiquement, la pluralité est marquée en ajoutant un *-s* à la fin de la forme de base, le nom singulier. Notez, par contre, que le *-s* ne se prononce pas (sauf en liaison). Dans le langage parlé, le déterminant est souvent le seul indice qu'un nom est singulier ou pluriel.
 
 {% include callout.html content="Il y a 2 **personnes** la nuit et une **personne** le jour." type="primary" %}
 
