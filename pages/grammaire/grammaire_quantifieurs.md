@@ -77,6 +77,14 @@ Voici une liste de phrases idiomatiques courantes avec **tout**:
 
 Les expressions de choix libre sont en contraste avec les déterminants définis et indéfinis, qui font référence à un individu en particulier, soit identifiable (*la femme*), soit inidentifiable (*une femme*). Les expressions de choix libre ont une référence variable car ils indiquent que le prédicat s'appliquerait à tous les membres d'un ensemble de la même manière.
 
+#### n'importe qui
+**N'importe qui** signifie 'anybody', 'anyone at all'; **n'importe quoi** signifie 'anything', 'whatever', 'nonsense'. Vous pouvez également trouver **qui que ce soit** (anybody) et **quoi que ce soit** (anything).
 
+{% include callout.html content="Ça peut arriver à **n'importe qui**.<br/><br/>Elle dit **n'importe quoi**, ta copine!<br/><br/>Il ne s'agit pas de blâmer **qui que ce soit**." type="primary" %}
+
+#### Quiconque
+**Quiconque** signifie 'whoever'.
+
+{% include callout.html content="**Quiconque** souhaite travailler plus longtemps le peut." type="primary" %}
 
 {% include links.html %}

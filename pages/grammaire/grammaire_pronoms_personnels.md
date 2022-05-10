@@ -23,11 +23,11 @@ Les différents types de pronoms sont nommés selon leur fonction grammaticale. 
 *pronoms de complément oblique*
 : me (m'), te (t'), lui, nous, vous, leur
 
-*pronoms réfléchis (directs ou obliques)*
+*pronoms réfléchis (directs ou obliques)* (voir [Verbes pronominaux](/grammaire_verbes_pronominaux.html))
 : me (m'), te (t'), se (s'), nous, vous, se (s')
 
-**pronoms personnels disjoints:**
-: moi, toi, lui, elle, soi, nous, vous, eux, elles
+*pronoms personnels disjoints:*
+: moi, toi, lui, elle, nous, vous, eux, elles
 
 D'autres pronoms sont impersonnels, c'est-à-dire qu'ils ne sont pas associés à une personne grammaticale:
 
@@ -237,7 +237,7 @@ Les pronoms disjoints (également appelés pronoms toniques ou accentués) font 
 | **pronoms disjoints** |
 | moi | nous |
 | toi | vous |
-| lui, elle, soi | eux, elles |
+| lui, elle | eux, elles |
 
 {% include variation.html content="En Belgique et au Québec, les pronoms disjoints *nous autres*, *vous autres*, et *eux autres* (parfois écrit *eux-autres*) sont utilisés à côté de ou à la place de *nous*, *vous*, *eux* et *elles*. *Vous autres* est strictement pluriel, et ne peut pas être utilisé pour le vouvoiement d'un référent singulier. *Eux autres* est de genre neutre et peut remplacer *elles* aussi bien qu'*eux*. Pour certains locuteurs, les formes en *autre* portent un sens d'éloignement. On pourrait donc distinguer *eux* (un groupe plus proche) et *eux-autres* (un groupe plus loin). Pour d'autres locuteurs, les formes sont interchangeables." %}
 
@@ -278,5 +278,7 @@ avec *-même*
 en comparaison
 
 {% include callout.html content="Ces poissons sont plus âgés que **moi**." type="primary" %}
+
+Le pronom disjoint **soi** se trouve dans ces mêmes contextes, mais c'est un pronom indéfini plutôt qu'un pronom personnel (voir [Pronoms indéfinis](/grammaire_pronoms_ind%C3%A9finis.html)).
 
 {% include links.html %}

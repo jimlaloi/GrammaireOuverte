@@ -18,50 +18,70 @@ Le pronom personnel **on** a souvent un sens indéfini, mais il est décrit avec
 
 Certains pronoms comme **tout**, **personne**, et **rien** (ainsi que des mots d'autres catégories, comme le déterminant **chaque**) ont une fonction particulière de quantification. La description de ces mots se trouve donc sur les pages sur les [quantifieurs](/grammaire_quantifieurs.html) et (pour les quantifieurs négatifs) la [négation](/grammaire_n%C3%A9gation.html).
 
-### quelqu'un, quelque chose
+## quelque + un/chose/part
 
-**Quelqu'un** est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. **Quelque chose** est le pronom équivalent utilisé pour désigner une chose. Si **quelqu'un** ou **quelque chose** est suivi d'un adjectif, l'adjectif doit être précédé de **de**.
+**Quelqu'un** est utilisé dans les phrases affirmatives ou interrogatives pour désigner une personne, qu'elle soit de sexe masculin ou féminin. **Quelque chose** est le pronom équivalent utilisé pour désigner une chose.
 
-{% include callout.html content="Je viens de terminer un projet et je cherche **quelque chose de** nouveau à me mettre sous la dent.
-<br/><br/>Je suis **quelqu'un d'**ouvert, qui écoute les arguments." type="primary" %}
+{% include callout.html content="On n'attaque pas **quelqu'un** qui est à terre.<br/><br/>Il se passe **quelque chose**, on ne sait pas quoi." type="primary" %}
 
-La forme négative de **quelqu'un** est **personne** et la forme négative de **quelque chose** est **rien**. Rappelez-vous que **ne** peut précéder le verbe lorsque **personne** et **rien** sont utilisés dans des phrases négatives, bien que ce soit souvent omis à l'oral.
+Si **quelqu'un** ou **quelque chose** est suivi d'un adjectif, l'adjectif doit être précédé de **de**.
 
-{% include callout.html content="Je **ne** pouvais demander conseil à **personne**.<br/><br/>J'espère que **personne ne** nous a suivis.<br/><br/>Jusque là, il **ne** fallait rien dire.<br/><br/>J'ai **rien** vu venir, j'ai **rien** compris." type="primary" %}
+{% include callout.html content="Je viens de terminer un projet et je cherche **quelque chose de** nouveau à me mettre sous la dent.<br/><br/>Je suis **quelqu'un d'**ouvert, qui écoute les arguments." type="primary" %}
 
-**Quelques-uns** et **quelques-unes** sont des pronoms utilisés au pluriel pour parler des personnes ou des choses. Notez que le **s** à la fin de **quelques** se prononce avant les **uns** ou **unes** suivants.
+**Quelques-uns** et **quelques-unes** sont des pronoms utilisés au pluriel pour parler des personnes ou des choses indéfinies. Notez que le **s** à la fin de **quelques** se prononce avant les **uns** ou **unes** suivants.
 
-{% include callout.html content="Permettez-moi de vous citer ici **quelques-uns** de ces malentendus.<br/><br/>J'en ai **quelques-unes** dans le livret." type="primary" %}
+{% include callout.html content="Permettez-moi de vous citer ici **quelques-uns** de ces malentendus.<br/><br/>J'en ai **quelques-unes** dans le livret.<br/><br/>On a demandé à **quelques-uns** de vos collègues ce qu'ils pensaient de vous." type="primary" %}
 
-### plus de pronoms indéfinis
+**Quelque part** est un pronom qui indique un lieu indéfini.
 
-**Plusieurs**, **certains**/**certaines**, et **tous**/**toutes** sont des pronoms indéfinis pluriels. Ils sont utilisés à la place des noms pluriels. Notez que le **s** de **tous** est prononcé quand c'est un pronom.
+{% include callout.html content="Il y en a certainement une femme pour toi **quelque part** qui est prête à te donner plein de bonheur." type="primary" %}
 
-{% include callout.html content="**Plusieurs** seront adaptées au théâtre ou au cinéma.<br/><br/>Parmi ses dernières poésies, **certaines** constituent une galerie de portraits de la société soviétique.<br/><br/>Les classes inférieures deviennent de plus en plus pauvres tandis que **certains** deviennent de plus en plus riches.<br/><br/>Ils étaient **tous** persuadés de ne plus se revoir.<br/><br/>Encore une fois, toutes les luttes ne peuvent pas gagner, mais **toutes** contribuent à en faire gagner d'autres." type="primary" %}
+## autrui, autre chose, autre part
 
-#### autre
-**Autre** est toujours précédé d'un déterminant : **un autre**, **l'autre**; **une autre**; **d'autres**, **les autres**.
+**Autrui** fait référence à une personne indéfinie. Il est distingué du pronom **quelqu'un** par son sens relationnel - *autrui* est une/des personne(s) *autre* que la personne qui parle, ou à/de qui on parle.
 
-{% include callout.html content="Un des hommes est tué, **un autre** est grièvement blessé." type="primary" %}
+{% include callout.html content="Ce qui fait rire **autrui** peut tout juste me faire sourire, quelquefois." type="primary" %}
 
-Notez les phrases suivantes avec **autre** : **autre chose**, **l'un et l'autre**, **l'une et l'autre**, **les uns et les autres**, **les unes et les autres**, **ni l'un ni l'autre**, **l'un à l' autre**, **l'un pour l'autre**.
+{% include variation.html content="**Autrui** est limité à un registre soutenu. Dans des registres plus familiers, on voit à sa place des locutions avec l'adjectif *autre* comme **quelqu'un d'autre** ou **les autres**." %}
 
-#### n'importe qui
-**N'importe qui** signifie 'anybody', 'anyone at all'; **n'importe quoi** signifie 'anything', 'whatever', 'nonsense'. Vous pouvez également trouver **qui que ce soit** (anybody) et **quoi que ce soit** (anything).
+**Autre chose** et **autre part** évoquent une chose ou un lieu indéfinis, respectivement.
 
-{% include callout.html content="Ça peut arriver à **n'importe qui**.<br/><br/>Elle dit **n'importe quoi**, ta copine!<br/><br/>Il ne s'agit pas de blâmer **qui que ce soit**." type="primary" %}
+{% include callout.html content="La semaine prochaine je vais chialer pour avoir **autre chose** que de la pizza.<br/><br/>Il a passé la nuit **autre part** sans rien me dire." type="primary" %}
 
-#### Quiconque
-**Quiconque** signifie 'whoever'.
+## soi
 
-{% include callout.html content="**Quiconque** souhaite travailler plus longtemps le peut." type="primary" %}
+Le pronom disjoint **soi** est souvent groupé parmi les pronoms personnels disjoints (**moi**, **toi**, **lui**...). Ces pronoms personnels sont les équivalents disjoints des pronoms réfléchis (**me**, **te**, **se**...) et peuvent les renforcer.
 
-#### tel(s), tel(s)
-**Tel(s)** (masc), **telle(s)** (fem) peut être traduit par 'such', 'such as', 'like' ou 'as' selon le contexte. Par exemple, 'Tel père, tel fils' serait traduit par 'Like father, like son'.
+{% include callout.html content="Je ne pouvais pas **me** mentir à **moi-même**.<br/><br/>Le ciseleur **s'**avoue à **lui-même** que sa main tremble un peu." type="primary" %}
 
-{% include callout.html content="Un **tel** livre est utile à tous." type="primary" %}
+Notez que comme dans le deuxième exemple ci-dessus, le pronom **lui** (ou **elle**, **eux**, **elles** selon le genre et le nombre de l'antécédent) correspond au pronom réfléchi **se**. Le pronom **soi** correspond très rarement à **se**, car son antécédent doit être indéfini. Il est utilisé souvent dans le contexte d'autres pronoms indéfinis comme **chacun** ou pour parler d'une vérité générale.
 
+{% include callout.html content="Chacun reste chez **soi** et s'occupe de ses problèmes.<br/><br/>Il ne faut pas regarder derrière **soi**.<br/><br/>Quels sont les risques à construire **soi**-même sa maison?" type="primary" %}
 
+## l'un et les uns
 
+**L'un** et **les uns** renvoient à une/des personne(s) ou chose(s) indéfinies. Les deux s'accordent en genre avec l'antécédent (**l'une**, **les unes**). Ils servent souvent à comparer certains membres d'un ensemble à d'autres.
+
+{% include callout.html content="Des deux hommes, **l'un** était coupable, l'autre innocent.<br/><br/>Cette lenteur s'explique par au moins deux types de raisons: **les unes** scientifiques, les autres économiques et industrielles." type="primary" %}
+
+**L'un** peut prendre un complément de la préposition **de**, indiquant l'ensemble dont le pronom renvoie à un membre.
+
+{% include callout.html content="Cette abbaye demeure **l'un des** plus beaux vestiges gothiques du 13e siècle." type="primary" %}
+
+**Les uns** ne peut pas prendre ce type de complément (**les uns des plus beaux vestiges gothiques du 13e siècle*).
+
+**L'un** et **les uns** peuvent se combiner avec **l'autre** et **les autres** pour évoquer ou renforcer un sens réciproque. Si l'action réciproque comprend un complément direct, les deux parties sont mises ensemble directement (*l'un l'autre*, *les uns les autres*). Si cette action comprend un complément oblique, il faut mettre la préposition appropriée au milieu (*l'un **à** l'autre*, *les uns **pour** les autres*, etc.)
+
+{% include callout.html content="Il ne faut pas se discréditer **l'un l'autre** devant les enfants.<br/><br/>Je sais que mes parents étaient fous amoureux **l'un de l'autre** avant ma naissance.<br/><br/>Ce sont des couches de peinture mises **les unes à côté des autres**." type="primary" %}
+
+## tel
+
+**Tel** est principalement un adjectif qui exprime la similarité ou l'intensité. Comme adjectif, il s'accorde en genre et en nombre avec le nom qu'il modifie.
+
+{% include callout.html content="Une **telle** technique pourrait aider les paralysés à s'exprimer.<br/><br/>Ca faisait 50 ans qu'on n'avait pas vu de **telles** inondations!" type="primary" %}
+
+Plus rarement, **tel** peut être un pronom qui renvoie à une personne indéfinie. Ce **tel** est invariable et ne modifie pas de nom. Il est souvent répété dans la locution *tel ou tel* 'so-and-so'.
+
+{% include callout.html content="Que **tel ou tel** ait des ambitions, ça ne gênait personne." type="primary" %}
 
 {% include links.html %}
