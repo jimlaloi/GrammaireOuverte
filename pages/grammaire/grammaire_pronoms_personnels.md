@@ -14,19 +14,16 @@ Un pronom est un mot utilisé pour remplacer un nom. Il est souvent utilisé pou
 Les différents types de pronoms sont nommés selon leur fonction grammaticale. Les **pronoms personnels** sont associés aux personnes grammaticales: la première personne (qui parle - e.g. **je**), la deuxième personne (à qui l'on parle - e.g. **tu**), et la troisième personne (de qui l'on parle - e.g. **il**). Ces pronoms peuvent être *conjoints* ou *disjoints*. Les pronoms conjoints ont une place particulière en tant que sujet ou complément du verbe, alors que les pronoms disjoints ont une position plutôt libre, séparée du verbe.
 
 **pronoms personnels conjoints:**
-*pronoms sujets*
-: je (j'), tu, il, elle, on, nous, vous, ils, elles
+<p style="margin-left: 30px"><em>pronoms sujets</em></p>
+<p style="margin-left: 50px">je (j'), tu, il, elle, on, nous, vous, ils, elles</p>
+<p style="margin-left: 30px"><em>pronoms de complément direct</em></p>
+<p style="margin-left: 50px">me (m'), te (t'), le (l'), la (l'), nous, vous, les</p>
+<p style="margin-left: 30px"><em>pronoms de complément oblique</em></p>
+<p style="margin-left: 50px">me (m'), te (t'), lui, nous, vous, leur</p>
+<p style="margin-left: 30px"><em>pronoms réfléchis (directs ou obliques)</em> (voir <a href="/grammaire_verbes_pronominaux.html">Verbes pronominaux</a>)</p>
+<p style="margin-left: 50px">me (m'), te (t'), se (s'), nous, vous, se (s')</p>
 
-*pronoms de complément direct*
-: me (m'), te (t'), le (l'), la (l'), nous, vous, les
-
-*pronoms de complément oblique*
-: me (m'), te (t'), lui, nous, vous, leur
-
-*pronoms réfléchis (directs ou obliques)* (voir [Verbes pronominaux](/grammaire_verbes_pronominaux.html))
-: me (m'), te (t'), se (s'), nous, vous, se (s')
-
-*pronoms personnels disjoints:*
+pronoms personnels disjoints:
 : moi, toi, lui, elle, nous, vous, eux, elles
 
 D'autres pronoms sont impersonnels, c'est-à-dire qu'ils ne sont pas associés à une personne grammaticale:
@@ -44,7 +41,7 @@ pronoms relatifs (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html))
 : qui, que, lequel, laquelle, lesquels, lesquelles, dont, où, quoi
 
 pronoms indéfinis (voir [Pronoms indéfinis](/grammaire_pronoms_indéfinis.html))
-: quelqu'un, quelques-uns, quelque chose, quelque part, autre chose, autrui, l'un, les uns
+: quelqu'un, quelques-uns, quelque chose, quelque part, autrui, autre chose, autre part, l'un, les uns, soi, tel
 
 Néanmoins, les pronoms adverbiaux **y** et **en**, qui remplacent typiquement un nom introduit par une préposition, sont traités sur cette page avec les pronoms personnels, puisque leur place, comme celle des pronoms personnels, est définie en relation avec le verbe.
 

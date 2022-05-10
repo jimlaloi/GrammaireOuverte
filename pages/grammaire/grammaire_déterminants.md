@@ -1,7 +1,7 @@
 ---
 title: Les déterminants
 keywords: déterminants, determiners
-summary: "Déterminants en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_déterminants.html
 folder: grammaire
