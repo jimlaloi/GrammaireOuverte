@@ -110,7 +110,7 @@ Des formes alternatives utilisent une variété de quantifieurs devant un nom :
 
 {% include callout.html content="Je n'ai **aucun** lien **que ce soit** avec un quelconque (ou une quelconque) islamiste.<br/><br/>Ta femme ne partirait jamais, dit-il à jean, **quelque** conduite **que tu aies**.<br/><br/>Il refuse la critique et **tout** dialogue **que ce soit** avec les autres ou avec lui-même." type="primary" %}
 
-### Quiconque et quelconque
+### Quiconque, quelconque, et quelque
 
 Le pronom **quiconque** signifie 'whoever' et est plus formel que **qui que ce soit**.
 
@@ -119,5 +119,9 @@ Le pronom **quiconque** signifie 'whoever' et est plus formel que **qui que ce s
 **Quelconque** ('whichever') est un adjectif et doit s'accorder en nombre (mais pas en genre) avec le nom modifié.
 
 {% include callout.html content="Pour cela, ouvrez une page Web **quelconque** .<br/><br/>Trace deux triangles **quelconques** de formes différentes et mesure leurs angles à l'aide d'un rapporteur." type="primary" %}
+
+**Quelque** ('some') est une expression de choix libre au singulier et peut renvoyer à une personne ou une chose. (**Quelques** au pluriel est un déterminant indéfini qui n'indique typiquement pas un choix libre.)
+
+{% include callout.html content="Cherchant **quelque** vague inspiration, il espérait se laisser guider par le hasard, comme souvent.<br/><br/>Il savait seulement que c'était **quelque** riche personnage qui avait séduit sa mère, comme c'était souvent le cas pour la domesticité des grandes maisons." type="primary" %}
 
 {% include links.html %}
