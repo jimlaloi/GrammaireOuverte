@@ -43,11 +43,11 @@ Le mot **tout** peut modifier un adverbe, adjectif, nom, ou pronom, ou il peut s
 
 {% include callout.html content="Je voudrais **tout d'abord** saluer ce progrès relatif.<br/><br/>Tu fais un mouvement en cercle avec ta cuillère, **tout simplement**." type="primary" %}
 
-Quand il modifie un adjectif, tout prend les formes suivantes pour faire l'accord avec l'adjectif et le nom: **tout** (masc. sing. et pl.), **toute** (fém. sing.), **toutes** (fém. pl).
+Quand il modifie un adjectif, **tout** prend les formes suivantes pour faire l'accord avec l'adjectif et le nom: **tout** (masc. sing. et pl.), **toute** (fém. sing.), **toutes** (fém. pl).
 
 {% include callout.html content="Il avait la phobie des insectes depuis qu'il était **tout petit**.<br/><br/>Mon oncle a les doigts **tout noirs** de cambouis.<br/><br/>L'alarme s'est déclenchée **toute seule**.<br/><br/>Vous pouvez faire de **toutes petites** crêpes." type="primary" %}
 
-Sans article, **tout** peut quantifier un nom propre ou un pronom. Il peut aussi quantifier un nom commun avec un article. Tout s'accorde avec le nom ou le pronom avec les formes suivantes: **tout** (masc. sing.), **toute** (fém. sing.), **tous** (mas. pl.), **toutes** (fém. pl).
+Sans article, **tout** peut quantifier un nom propre ou un pronom. Il peut aussi quantifier un nom commun avec un article. **Tout** s'accorde avec le nom ou le pronom avec les formes suivantes: **tout** (masc. sing.), **toute** (fém. sing.), **tous** (mas. pl.), **toutes** (fém. pl).
 
 {% include callout.html content="La manifestation doit avoir lieu dans **tout Paris**, le long des artères principales de la ville.<br/><br/>Franchement, tu es un vrai exemple pour **nous toutes**.<br/><br/>**Toute une génération** a connu ce genre de mésaventure.<br/><br/>Ils ont ramené **tous les blessés** ici." type="primary" %}
 
@@ -92,11 +92,11 @@ Il y a plusieurs expressions de choix libre formées en ajoutant un mot interrog
 + **n'importe quand** 'any time', 'whenever'
 + **n'importe comment** 'any way', 'however'
 
-Les formes en quel ou lequel font l'accord en genre et en nombre avec le nom modifié ou l'antécédent.
+Les formes en *quel* ou *lequel* font l'accord en genre et en nombre avec le nom modifié ou l'antécédent.
 
 {% include callout.html content="Ça peut arriver à **n'importe qui**.<br/><br/>Vous avez le droit de dire **n'importe quoi**.<br/><br/>Les clients appellent à **n'importe quelle** heure.<br/><br/>Il peut être tenu par **n'importe lequel** des acteurs.<br/><br/>Je peux m'endormir **n'importe quand**.<br/><br/>Je ne peux pas vous autoriser à bâtir **n'importe où** et **n'importe comment**." type="primary" %}
 
-Ces expressions ont souvent un sens péjoratif, surtout n'importe quoi ('nonsense').
+Ces expressions ont souvent un sens péjoratif, surtout *n'importe quoi* ('nonsense').
 
 {% include callout.html content="Elle dit **n'importe quoi**, ta copine!<br/><br/>Ces derniers temps, je mange **n'importe comment**.<br/><br/>Des burgers, mais pas **n'importe lesquels** : boeuf haché maison, pain préparé par un boulanger..." type="primary" %}
 
@@ -108,7 +108,7 @@ Les expressions de choix libre **où que** ('wherever'), **quel que** ('whicheve
 
 Des formes alternatives utilisent une variété de quantifieurs devant un nom :
 
-{% include callout.html content="Je n'ai **aucun** lien **que ce soit** avec un quelconque (ou une quelconque) islamiste.<br/><br/>Ta femme ne partirait jamais, dit-il à jean, **quelque** conduite **que tu aies**.<br/><br/>Il refuse la critique et **tout** dialogue **que ce soit** avec les autres ou avec lui-même." type="primary" %}
+{% include callout.html content="Je n'ai **aucun** lien **que ce soit** avec un quelconque (ou une quelconque) islamiste.<br/><br/>Ta femme ne partirait jamais, dit-il à Jean, **quelque** conduite **que tu aies**.<br/><br/>Il refuse la critique et **tout** dialogue **que ce soit** avec les autres ou avec lui-même." type="primary" %}
 
 ### Quiconque, quelconque, et quelque
 
@@ -120,7 +120,7 @@ Le pronom **quiconque** signifie 'whoever' et est plus formel que **qui que ce s
 
 {% include callout.html content="Pour cela, ouvrez une page Web **quelconque** .<br/><br/>Trace deux triangles **quelconques** de formes différentes et mesure leurs angles à l'aide d'un rapporteur." type="primary" %}
 
-**Quelque** ('some') est une expression de choix libre au singulier et peut renvoyer à une personne ou une chose. (**Quelques** au pluriel est un déterminant indéfini qui n'indique typiquement pas un choix libre.)
+**Quelque** ('some') est une expression de choix libre au singulier et peut renvoyer à une personne ou à une chose. (**Quelques** au pluriel est un adjectif indéfini qui n'indique typiquement pas un choix libre.)
 
 {% include callout.html content="Cherchant **quelque** vague inspiration, il espérait se laisser guider par le hasard, comme souvent.<br/><br/>Il savait seulement que c'était **quelque** riche personnage qui avait séduit sa mère, comme c'était souvent le cas pour la domesticité des grandes maisons." type="primary" %}
 

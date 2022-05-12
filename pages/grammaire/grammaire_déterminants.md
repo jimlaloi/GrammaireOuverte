@@ -236,9 +236,9 @@ Certains adjectifs peuvent introduire un nom pluriel *avec ou sans* l'aide d'un 
 
 Voici des adjectifs courants qui peuvent introduire un nom indéfini pluriel: *plusieurs*, *différents*, *divers*, *quelques*, *certains*, *maints*
 
-Les adjectifs *pareille*, *maint*, *tel*, et *semblable* peuvent introduire un nom indéfini *singulier* sans déterminant, mais cette construction est typiquement limitée au registre formel.
+Les adjectifs *pareille*, *maint*, *tel*, et *semblable* peuvent introduire un nom indéfini *singulier* sans déterminant, mais cette construction est typiquement limitée à un registre très formel.
 
-{% include callout.html content="Trouver le sommeil avec **pareille** idée en tête est impossible.<br/>Mais l'archéologie apporte **mainte** donnée remarquable.<br/><br/>Ils ne voudront plus passer devant **tel** magasin.<br/><br/>On ne décèle pas l'alacrité, voire la ferveur, que **semblable** initiative démocratique mériterait." type="primary" %}
+{% include callout.html content="Trouver le sommeil avec **pareille** idée en tête est impossible.<br/><br/>Mais l'archéologie apporte **mainte** donnée remarquable.<br/><br/>Ils ne voudront plus passer devant **tel** magasin.<br/><br/>On ne décèle pas l'alacrité, voire la ferveur, que **semblable** initiative démocratique mériterait." type="primary" %}
 
 #### numéraux cardinaux
 
@@ -252,7 +252,7 @@ Pour les numéraux 21, 31, 41, 51, 61 et 71, le mot *et* sépare le multiple de 
 
 Un tiret lie les parties des numéraux composés en-dessous de cent (*cinquante-sept*). Le tiret est variable au-dessus de cent (*trois mille deux cent trente-et-un*, *trois-mille-deux-cent-trente-et-un*).
 
-La forme des numéraux cardinaux est invariable (*quatre femmes*, *mille oiseaux*), à l'exception de **un** qui s'accorde en genre avec le nom (*trente-et-**une** étudiantes*) et **vingt** et **cent** qui prennent un **s** au pluriel si c'est un multiple exact (*quatre-vingt**s***, *cinq-cent**s***, mais *quatre-vingt-trois*, *cinq-cent-soixante*).
+La forme des numéraux cardinaux est invariable (*quatre femmes*, *deux mille oiseaux*), à l'exception de **un** qui s'accorde en genre avec le nom (*trente-et-**une** étudiantes*) et **vingt** et **cent** qui prennent un **s** au pluriel si c'est un multiple exact (*quatre-vingt**s***, *cinq-cent**s***, mais *quatre-vingt-trois*, *cinq-cent-soixante*).
 
 Les nombres 100 et 1 000 sont représentés par les mots *cent* et *mille*, sans *un* (*cent hommes*, *mille hommes*). Les mots *million* et *milliard* sont des noms nécessitant un déterminant (*un million d'hommes*, *un milliard d'hommes*).
 
