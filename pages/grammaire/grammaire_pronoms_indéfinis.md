@@ -12,11 +12,11 @@ folder: grammaire
 
 Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
 
-La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom*. Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des déterminants indéfinis avec une forme similaire, comme **quelque** ou **un**, qui introduisent un nom (comme *quelques livres*, *un chat*).
+La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom* (voir [Déterminants](/grammaire_déterminants.html)). Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des déterminants indéfinis avec une forme similaire, comme **quelque** ou **un**, qui introduisent un nom (comme *quelques livres*, *un chat*).
 
 Le pronom personnel **on** a souvent un sens indéfini, mais il est décrit avec les autres [pronoms personnels](/grammaire_pronoms_personnels.html).
 
-Certains pronoms comme **tout**, **personne**, et **rien** (ainsi que des mots d'autres catégories, comme le déterminant **chaque**) ont une fonction particulière de quantification. La description de ces mots se trouve donc sur les pages sur les [quantifieurs](/grammaire_quantifieurs.html) et (pour les quantifieurs négatifs) la [négation](/grammaire_n%C3%A9gation.html).
+Certains pronoms comme **tout**, **personne**, et **rien** (ainsi que des mots d'autres catégories, comme le déterminant **chaque**) ont une fonction particulière de quantification. La description de ces mots se trouve donc sur les pages sur les [quantifieurs](/grammaire_quantifieurs.html) et (pour les quantifieurs négatifs) la [négation](/grammaire_négation.html).
 
 ## quelque + un/chose/part
 
@@ -28,7 +28,7 @@ Si **quelqu'un** ou **quelque chose** est suivi d'un adjectif, l'adjectif doit �
 
 {% include callout.html content="Je viens de terminer un projet et je cherche **quelque chose de** nouveau à me mettre sous la dent.<br/><br/>Je suis **quelqu'un d'**ouvert, qui écoute les arguments." type="primary" %}
 
-**Quelques-uns** et **quelques-unes** sont des pronoms utilisés au pluriel pour parler des personnes ou des choses indéfinies. Notez que le **s** à la fin de **quelques** se prononce avant les **uns** ou **unes** suivants.
+**Quelques-uns** et **quelques-unes** sont des pronoms utilisés au pluriel pour parler des personnes ou des choses indéfinies. Notez que le **s** à la fin de **quelques** se prononce en liaison avec les **uns** ou **unes** suivants.
 
 {% include callout.html content="Permettez-moi de vous citer ici **quelques-uns** de ces malentendus.<br/><br/>J'en ai **quelques-unes** dans le livret.<br/><br/>On a demandé à **quelques-uns** de vos collègues ce qu'ils pensaient de vous." type="primary" %}
 

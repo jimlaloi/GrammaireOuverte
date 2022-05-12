@@ -23,11 +23,11 @@ Les noms propres indiquent un individu spécifique (une catégorie avec un seul 
 
 ### comptable ou massif
 
-Les noms comptables identifient des entités individuelles que l'on peut compter.
+Les noms comptables (ou *dénombrables*) identifient des entités individuelles que l'on peut compter.
 
 {% include callout.html content="On frappe justement à la porte, deux **coups** puis un **coup**." type="primary" %}
 
-Par contre, un nom massif signifie une entité que l'on ne peut pas compter. Dans l'exemple suivant, chaque ingrédient mentionné est conçu comme une quantité indéfinie et donc indénombrable.
+Par contre, un nom massif (ou *indénombrable*) signifie une entité que l'on ne peut pas compter. Dans l'exemple suivant, chaque ingrédient mentionné est conçu comme une quantité indéfinie et donc indénombrable.
 
 {% include callout.html content="J'ajoute de la **farine**, du **lait**, du **sel** et du **poivre**." type="primary" %}
 
@@ -108,7 +108,7 @@ Le genre grammatical a peu de relation avec le genre naturel. Les noms qui font 
 
 ### le genre des personnes
 
-Quand un nom fait référence à une personne, son genre est déterminé par le genre de la personne (avec quelques exceptions). En général, la forme féminine d'un nom est formée en ajoutant un **-e** au nom masculin. Notez que l'ajout du **-e** change la prononciation de certains mots:
+Quand un nom fait référence à une personne, son genre est généralement déterminé par le genre de la personne. Le plus souvent, la forme féminine d'un nom est faite en ajoutant un **-e** au nom masculin. Notez que l'ajout du **-e** change la prononciation de certains mots:
  
 {% include callout.html content="Votre père est **avocat**, votre mère était **avocate**.<br/><br/>La femme de mon meilleur **ami** est naturellement ma meilleure **amie**." type="primary" %}
 
@@ -161,16 +161,16 @@ Le genre des noms propres est déterminé selon le tableau suivant :
 
 Des paires de mots avec la même forme mais un sens différent sont appelés *homophones*. Il est possible de distinguer certains homophones grâce au genre différent des deux mots.
 
-* un manche (a handle), une manche (a sleeve)
-* un poste (a job), la poste (poste office)
-* un livre (a book), une livre (a pound)
-* un voile (a veil), une voile (a sail)
-* un moule (a mold), une moule (a mussel)
-* un espace (area, room, outer space), une espace (space between words)
+* *un manche* (a handle), *une manche* (a sleeve)
+* *un poste* (a job), *la poste* (post office)
+* *un livre* (a book), *une livre* (a pound)
+* *un voile* (a veil), *une voile* (a sail)
+* *un moule* (a mold), *une moule* (a mussel)
+* *un espace* (area, room, outer space), *une espace* (written space)
 
 ### les nombres nominaux
 
-Les nombres *un*, *deux*, *trois*, etc. sont des déterminants. On peut dériver un nom pour une quantité approximative en ajoutant *-aine* à certains nombres. Les nombres qui le permettent sont *douze* (*une douzaine*), *quinze* (*une quinzaine*), et les multiples de *dix* (*une dizaine*, *une vingtaine*, *une trentaine*...) jusqu'à *cent* (*une centaine*). *Mille* a sa propre forme pour indiquer une quantité approximative: *un millier*. Ces nombres sont suivis de **de** devant un nom :
+Les numéraux cardinaux *deux*, *trois*, etc. sont des adjectifs. On peut dériver un nom pour une quantité approximative en ajoutant *-aine* à certains nombres. Les nombres qui le permettent sont *douze* (*une douzaine*), *quinze* (*une quinzaine*), et les multiples de *dix* (*une dizaine*, *une vingtaine*, *une trentaine*...) jusqu'à *cent* (*une centaine*). *Mille* a sa propre forme pour indiquer une quantité approximative: *un millier*. Ces nombres sont suivis de **de** devant un nom :
 
 {% include callout.html content="Elle sera en ville pour **une quinzaine de** jours.<br/><br/>**Une cinquantaine de** députés étaient présents au moment du vote." type="primary" %}
 

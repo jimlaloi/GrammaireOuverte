@@ -41,12 +41,11 @@ L'article défini (**le**) fait l'accord en genre et en nombre avec le nom qu'il
 
 Contrairement à **le** et **la**, **les** n'a pas de forme contractée et réduite. Lorsque **les** est suivi d'un mot commençant par une voyelle ou un **h** muet, le **s** final normalement silencieux de **les** est prononcé, produisant un son **/z/**. Ce son supplémentaire reliant deux mots est appelé **liaison**.
 
-| Liaison obligatoire avec une voyelle ou un h muet | Pas de liaison avec une consonne |
-| le**s i**nsectes | les gens |
-| le**s a**nimaux | les maisons |
-| le**s h**ommes | |
-
 Notez que l'élision et la liaison apparaissent avec la plupart des mots commençant par **h** : **l'h**omme, le**s_(z)\_h**ommes, **l'h**iver, le**s_(z)\_h**ivers. Les exceptions à cette règle sont les mots commençant par un **h** aspiré : le haricot, les haricots, le héros, les héros.
+
+| **Élision** | **Liaison** | **Pas d'élision/liaison devant une consonne** |
+| **l'**animal | le**s a**nimaux | le chat, les chats |
+| **l'**hôtel (*h* muet) | le**s h**ôtels (*h* muet) | la harpe, les harpes (*h* aspiré) |
 
 {% include information.html content="Le **h** aspiré, comme le **h** muet, n'est pas prononcé. Mais le **h** aspiré bloque l'élision et la liaison alors que le **h** muet les permet. En général, les mots venus du latin ont un **h** muet alors que ceux empruntés du vieux-francique, une ancienne langue germanique, ont un **h** aspiré. Cette différence est dûe au fait que le **h** des mots empruntés du vieux-francique était prononcé jusqu'au 17e siècle (ou même plus tard dans certains dialectes). La consonne n'est plus prononcée aujourd'hui, mais ses effets sur la liaison et l'élision ont duré." %}
 
