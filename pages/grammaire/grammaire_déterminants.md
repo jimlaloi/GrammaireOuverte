@@ -71,7 +71,7 @@ L'article défini est utilisé dans les contextes suivants :
 
 {% include callout.html content="Simon lui jeta un regard sombre, alors il ferma **la** bouche et baissa **les** yeux.<br/><br/>Elle met sa tête en arrière et se masse **les** yeux." type="primary" %}
 
-Notez que le déterminant possessif peut aussi être utilisé avec les parties du corps (*Elle met **sa** tête en arrière*). L'article défini est obligatoire seulement si le possesseur est déjà indiqué par un autre pronom (elle **se** masse **les** yeux; elle **lui** lave **la** main).
+Notez que le déterminant possessif peut aussi être utilisé avec les parties du corps (*Elle met **sa** tête en arrière*). L'article défini est obligatoire seulement si le possesseur est déjà indiqué par un pronom précédent (elle **se** masse **les** yeux; elle **lui** lave **la** main).
 
 Par contre, un déterminant indéfini est utilisé si la partie du corps est modifié par un adjectif qui précède le nom. Dans la phrase suivante, *un énorme nez* veut simplement dire que le nez du patient est énorme, alors que *l'énorme nez* voudrait dire qu'il y a un énorme nez spécifique qui a déjà été introduit.
 
@@ -114,11 +114,11 @@ Ils s'accordent en genre et en nombre avec le nom qu'ils déterminent.
 | votre | votre | vos | *your* (formel ou pluriel) |
 | leur | leur | leurs | *their* (pluriel) |
 
-Les déterminants possessifs doivent s'accorder avec le nom qu'ils modifient. Dans l'exemple suivant, le nom féminin **femme** requiert une forme féminine – **sa** – alors que le nom **fauteuil** requiert la forme masculine **son**. La traduction en anglais dépend du contexte. Étant donné que la phrase fait référence à Pierre, nous savons que **sa** signifie « his ». Cependant, le possesseur du fauteuil est ambigu, donc ce n'est pas clair si **son** se traduirait par **his** ou par **her**.
+Les déterminants possessifs doivent s'accorder avec le nom qu'ils modifient. Dans l'exemple suivant, le nom féminin *femme* requiert une forme féminine – **sa** – alors que le nom masculin *fauteuil* requiert la forme masculine **son**. La traduction en anglais dépend du contexte. Étant donné que la phrase fait référence à Pierre, nous savons que **sa** signifie « his ». Cependant, le possesseur du fauteuil est ambigu, donc ce n'est pas clair si **son** se traduirait par **his** ou par **her**.
 
 {% include callout.html content="Pierre installe **sa** femme dans **son** fauteuil." type="primary" %}
 
-N'oubliez pas de faire la liaison entre les formes plurielles des déterminants possessifs et les mots commençant par une voyelle. **Ma**, **ta**, **sa** deviennent **mon**, **ton**, **son** devant des noms féminins commençant par une voyelle pour éviter le hiatus de deux voyelles.
+N'oubliez pas de faire la liaison entre les formes plurielles des déterminants possessifs et les mots commençant par une voyelle (*me**s a**mis*). **Ma**, **ta**, **sa** deviennent **mon**, **ton**, **son** devant des noms féminins commençant par une voyelle pour éviter le hiatus de deux voyelles.
 
 {% include callout.html content="Tu es vraiment mo**n a**mie, toi.<br/><br/>On peut connecter so**n a**mpoule à sa tablette ou à son téléphone." type="primary" %}
 
@@ -162,7 +162,7 @@ Les déterminants démonstratifs peuvent désigner quelque chose de proche ou de
 
 ## Les déterminants indéfinis
 
-Les déterminants indéfinis sont principalement les articles **un** (**une**, **des**, **de**), et **du** (**de la**, **de l'**). Les nombres cardinaux (**deux**, **cinq**, **cent**) et des mots comme **plusieurs**, **divers**, **quelques**, et **certains** fonctionnent très souvent comme des déterminants indéfinis, mais sont techniquement des adjectifs.
+Les déterminants indéfinis sont principalement les articles **un** (**une**, **des**, **de**), et **du** (**de la**, **de l'**). Les numéraux cardinaux (**deux**, **cinq**, **cent**) et des mots comme **plusieurs**, **divers**, **quelques**, et **certains** fonctionnent très souvent comme des déterminants indéfinis, mais sont techniquement des adjectifs.
 
 ### les articles indéfinis
 
@@ -184,7 +184,7 @@ Si le mot est modifié par un adjectif qui le précède, **des** devient génér
 
 #### noms massifs
 
-Si le nom est massif (non-dénombrable), on utilise l'article indéfini **du** (souvent appelé l'article *partitif*), qui s'accorde en genre avec le nom et fait l'élision devant une voyelle.
+Si le nom est massif (indénombrable), on utilise l'article indéfini **du** (souvent appelé l'article *partitif*), qui s'accorde en genre avec le nom et fait l'élision devant une voyelle.
 
 + masculin : **du** (**du** pain)
 + féminin : **de la** (**de la** viande) 
@@ -234,7 +234,7 @@ Certains adjectifs peuvent introduire un nom pluriel *avec ou sans* l'aide d'un 
 
 {% include callout.html content="Il le lui a dit à **plusieurs** reprises.<br/><br/>Chez Elisabeth et Saïd, il avait rencontré, lors de **ses plusieurs** visites, d'autres personnes dont un couple qui l'entraîna pour cinq jours de tourisme près de Foix.<br/><br/>**Différents** sujets me préoccupent en ce moment, vous le savez bien.<br/><br/>**Les différents** conseillers régionaux vont discuter entre eux." type="primary" %}
 
-Voici des adjectifs courants qui peuvent introduire un nom indéfini pluriel: plusieurs, différents, divers, quelques, certains, maints
+Voici des adjectifs courants qui peuvent introduire un nom indéfini pluriel: *plusieurs*, *différents*, *divers*, *quelques*, *certains*, *maints*
 
 Les adjectifs *pareille*, *maint*, *tel*, et *semblable* peuvent introduire un nom indéfini *singulier* sans déterminant, mais cette construction est typiquement limitée au registre formel.
 

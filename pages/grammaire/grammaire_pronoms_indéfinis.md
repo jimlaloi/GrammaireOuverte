@@ -12,7 +12,7 @@ folder: grammaire
 
 Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
 
-La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom* (voir [Déterminants](/grammaire_déterminants.html)). Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des déterminants indéfinis avec une forme similaire, comme **quelque** ou **un**, qui introduisent un nom (comme *quelques livres*, *un chat*).
+La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom* (voir [Déterminants](/grammaire_déterminants.html)). Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des déterminants ou adjectifs indéfinis avec une forme similaire, comme **quelques** ou **un**, qui introduisent un nom (comme *quelques livres*, *un chat*).
 
 Le pronom personnel **on** a souvent un sens indéfini, mais il est décrit avec les autres [pronoms personnels](/grammaire_pronoms_personnels.html).
 
