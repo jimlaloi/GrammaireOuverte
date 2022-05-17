@@ -33,6 +33,16 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 
 *Grammaire Ouverte* est une ressource éducative libre (REL). Ce site est distribué sous une license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Vous êtes libre de partager et d'adapter son contenu, à condition que vous reconnaissiez *Grammaire Ouverte* avec un lien vers ce site et vers sa license.
 
-Tex's French Grammar est distribué sous une license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+*Tex's French Grammar* est distribué sous une license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+## Sources
+
+À part *Tex's French Grammar* et le *Corpus de référence du français contemporain*, les informations sur ce site ont été tirées de plusieurs sources :
+
++ Abeillé, Anne et Danièle Godard (2021). *La Grande Grammaire du français*. ACTES SUD. [www.grandegrammairedufrançais.com](https://www.grandegrammairedufrançais.com)
++ Dictionnaire des francophones: [www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
++ Ollivier, Jacqueline et Martin Beaudoin (2011). *Grammaire Française*. Cinquième édition. Cengage Learning.
++ TLFi : Trésor de la langue Française informatisé, [www.atilf.fr/tlfi](http://www.atilf.fr/tlfi), ATILF - CNRS & Université de Lorraine.
+
 
 {% include links.html %}
