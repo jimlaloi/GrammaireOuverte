@@ -67,6 +67,10 @@ entries:
     - title: Comparatif et superlatif
       url: /grammaire_comparatif.html
       output: web, pdf
+    
+    - title: Prépositions
+      url: /grammaire_prépositions.html
+      output: web, pdf
 
   - title: Verbes
     output: web, pdf
@@ -128,17 +132,13 @@ entries:
       url: /grammaire_temps_littéraires.html
       output: web, pdf
 
-  - title: Autres concepts
+  - title: Transformations
     output: web, pdf
 
     folderitems:
     - title: Conjonctions
       url: /grammaire_conjonctions.html
-      output: web, pdf
-
-    - title: Prépositions
-      url: /grammaire_prépositions.html
-      output: web, pdf
+      output: web, pdf    
 
     - title: Négation
       url: /grammaire_négation.html
