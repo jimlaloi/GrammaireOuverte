@@ -142,9 +142,9 @@ Ne confondez pas les paires d'adjectifs et d'adverbes suivantes :
 
 {% include callout.html content="Sa mère était une femme **bien**, calme." type="primary" %}
 
-**Bien** et **bon** peuvent être tous les deux attributs du sujet, mais **bon** décrit une qualité spécifique d'un nom alors que **bien** est plus général. **Bon** est aussi utilisé dans les locutions *bon à savoir*, *bon pour la santé/la planète*, et *bon à rien*.
+**Bien** et **bon** peuvent être tous les deux attributs du sujet, mais **bon** décrit une qualité spécifique d'un nom ('It's *good*') alors que **bien** est plus général ('It's *nice*'). **Bon** est aussi utilisé dans les locutions *bon à savoir*, *bon pour la santé/la planète*, et *bon à rien*.
 
-{% include callout.html content="On va voir si sa sauce est **bonne**.<br/><br/>Sa mère était une femme **bien**, calme." type="primary" %}
+{% include callout.html content="On va voir si sa sauce est **bonne**.<br/><br/>C'est **bien**, chez vous, et c'est facile à trouver." type="primary" %}
 
 
 {% include variation.html content="Dans le langage familier, certains adjectifs peuvent agir comme des adverbes pour intensifier le sens du verbe ou de l'adjectif, comme les constructions plus standardes avec *très* ou *beaucoup*. En France, un des plus communs de ces adjectifs est *grave*: *Ils ont **grave** perdu sur Sylvain*; *C'est **grave** décalé.* *Fort* est commun dans le Nord (*Eh bien je suis **fort** désolée...*), *tarpin* et *gavé* dans le Sud (*t'es **tarpin** romantique ce soir*; *J'ai **gavé** marché j'ai trop mal !*). Au Québec, plusieurs mots remplissent cette fonction, dont *vrai*, *rare*, et *solide*." %}
