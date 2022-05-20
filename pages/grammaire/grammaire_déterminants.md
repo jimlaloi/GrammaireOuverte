@@ -88,7 +88,7 @@ Les villes n'exigent généralement pas d'article en français.
 
 {% include callout.html content="Il quitta **Berlin** comme il avait quitté **Paris**." type="primary" %}
 
-Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions, généralement des îles : Haïti, Israël, Madagascar.
+Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions : Haïti, Israël, Madagascar, etc. (voir [prépositions](/grammaire_prépositions.html))
 
 Les mois ne nécessitent jamais d'article.
 

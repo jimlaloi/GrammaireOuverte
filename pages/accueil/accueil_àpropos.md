@@ -41,7 +41,9 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 
 + Abeillé, Anne et Danièle Godard (2021). *La Grande Grammaire du français*. ACTES SUD. [www.grandegrammairedufrançais.com](https://www.grandegrammairedufrançais.com)
 + Dictionnaire des francophones: [www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
-+ Ollivier, Jacqueline et Martin Beaudoin (2011). *Grammaire Française*. Cinquième édition. Cengage Learning.
++ Grevisse, Maurice (1986). *Le bon usage*. 12e édition. Ducolot.
++ Office québécois de la langue française. [www.oqlf.gouv.qc.ca](http://www.oqlf.gouv.qc.ca/)
++ Ollivier, Jacqueline et Martin Beaudoin (2011). *Grammaire Française*. 5e édition. Cengage Learning.
 + TLFi : Trésor de la langue Française informatisé, [www.atilf.fr/tlfi](http://www.atilf.fr/tlfi), ATILF - CNRS & Université de Lorraine.
 
 
