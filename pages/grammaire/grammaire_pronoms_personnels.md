@@ -20,8 +20,8 @@ Les différents types de pronoms sont nommés selon leur fonction grammaticale. 
 <p style="margin-left: 50px">me (m'), te (t'), le (l'), la (l'), nous, vous, les</p>
 <p style="margin-left: 30px"><em>pronoms de complément oblique</em></p>
 <p style="margin-left: 50px">me (m'), te (t'), lui, nous, vous, leur</p>
-<p style="margin-left: 30px"><em>pronoms réfléchis (directs ou obliques)</em> (voir <a href="/grammaire_verbes_pronominaux.html">Verbes pronominaux</a>)</p>
-<p style="margin-left: 50px">me (m'), te (t'), se (s'), nous, vous, se (s')</p>
+<p style="margin-left: 30px"><em>pronoms réfléchis (directs ou obliques)</em> (voir <a href="/grammaire_verbes_réfléchis.html">Verbes réfléchis</a>)</p>
+<p style="margin-left: 50px">me (m'), te (t'), se (s'), nous, vous</p>
 
 pronoms personnels disjoints:
 : moi, toi, lui, elle, nous, vous, eux, elles
@@ -89,6 +89,8 @@ Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évi
 {% include callout.html content="Monsieur le ministre, **vous** êtes en train d'organiser un vaste tripatouillage électoral.<br/><br/>**Vous** êtes prêts, les enfants ? C'est parti." type="primary" %}
 
 {% include variation.html content="En langage familier et oral, *vous* peut se réduire en *z'* (*Z'avez vu ça?*), ou même en *v'* dans certaines régions centrales de France." %}
+
+{% include variation.html content="Le vouvoiement (l'usage de *vous* comme marque de respect) varie beaucoup par région et par contexte. En principe, *vous* est utilisé pour signaler la distance sociale (si on ne connaît pas bien la personne) ou l'écart du pouvoir (si la personne a plus d'autorité, comme un patron). Mais le tutoiement est vu aussi comme poli, car il marque la proximité ou l'égalité. Le tutoiement est plus répandu dans le français parlé hors d'Europe que dans le français métropolitain. Sur Internet aussi, le tutoiement est commun même entre des inconnus. Des inconnus seront plus disposés à se tutoyer en situation urgente (*Appelle le SAMU !*). Le tutoiement peut aussi être utilisé aggressivement, pour insulter quelqu'un qu'on vouvoierait normalement (*Casse-toi !*)." %}
 
 **ils/elles**
 

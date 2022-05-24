@@ -80,8 +80,8 @@ entries:
       url: /grammaire_verbes.html
       output: web, pdf
 
-    - title: Verbes pronominaux
-      url: /grammaire_verbes_pronominaux.html
+    - title: Verbes réfléchis
+      url: /grammaire_verbes_réfléchis.html
       output: web, pdf
 
     - title: Présent

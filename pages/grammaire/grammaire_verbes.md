@@ -218,6 +218,57 @@ Comparez cela avec les verbes au passé composé dans l'exemple suivant. Ils dé
 
 ## Observations sur quelques verbes
 
+### *avoir* et *faire*
+
+De nombreuses expressions avec le verbe **avoir** ont un équivalent en anglais avec le verbe 'be' :
++ *avoir __ ans* 'be __ years old'
++ *avoir raison* 'be right'
++ *avoir tort* 'be wrong'
++ *avoir sommeil* 'be tired'
++ *avoir peur* 'be scared'
++ *avoir faim* 'be hungry'
++ *avoir soif* 'be thirsty'
++ *avoir chaud* 'be/feel hot'
++ *avoir froid* 'be/feel cold'
++ *avoir honte* 'be ashamed'
+
+Notez ces autres expressions avec *avoir* :
++ *avoir lieu* 'take place'
++ *avoir besoin de* 'need'
++ *avoir envie de* 'want, feel like'
++ *avoir l'air (de)* 'seem'
++ *avoir l'intention de* 'intend'
++ *avoir mal (au ventre, à la tête...)* '(my stomach, my head...) hurts'
+
+De nombreuses expressions avec le verbe **faire** ont un équivalent en anglais avec le verbe 'go' :
++ *faire de la randonnée* 'go hiking'
++ *faire du vélo* 'go bike riding'
++ *faire du ski* 'go skiing'
++ *faire du bateau* 'go boating'
++ *faire des achats (du shopping)* 'go shopping'
+
+Notez ces autres expressions avec *faire* :
++ *faire des courses* 'run errands'
++ *faire attention* 'pay attention'
++ *faire des économies* 'save money'
++ *faire la fête* 'party'
++ *faire la grasse matinée* 'sleep in'
++ *faire la manche* 'beg'
++ *faire la queue* 'wait in line'
++ *(se) faire mal (au bras, à la jambe...)* 'hurt (one's arm, leg...)'
+
+Le verbe *faire* est utilisé dans la construction causative:
+
++ **Construction causative** : [Cause] + *faire* + [infinitif] (+ complément direct) (+ complément oblique)
+
+Le sujet de cette construction est la cause d'une action. Deux compléments sont possibles : l'entité qui accomplit l'action, et l'entité qui reçoit l'action. Si seulement un de ces compléments est inclus, c'est le complément direct. Si les deux sont inclus, l'entité qui reçoit l'action est le complément direct, et l'entité qui accomplit l'action est le complément indirect.
+
+{% include callout.html content="Il n'est pas question de **faire payer** <ins>les familles</ins>. (*familles* = accomplit l'action)<br/><br/>On a besoin de **faire connaître** <ins>cette histoire</ins>. (*histoire* = reçoit l'action)<br/><br/>On **fait traverser** <ins>le fleuve</ins> <ins>à une vingtaine de soldats</ins>. (*fleuve* = reçoit l'action, *soldats* = accomplit l'action)" type="primary" %}
+
+Si les compléments sont des pronoms, ils sont mis devant *faire* :
+
+{% include callout.html content="Je crois que tu caches d'autres propos mais je vais <ins>te</ins> <ins>les</ins> **faire avouer**. (*te* = accomplit l'action, *les* = reçoit l'action)" type="primary" %}
+
 ### *savoir* et *connaitre*
 
 **Savoir** et **connaitre** se traduisent tous les deux par 'to know' en anglais, mais ils diffèrent par leur valence. Le complément de *savoir* peut être un infinitif, une proposition subordonnée, une interrogation indirecte, ou un nom (mais pas un animé, un endroit, ou un objet concret).

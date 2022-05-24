@@ -67,6 +67,20 @@ L'article défini est utilisé dans les contextes suivants :
 
 {% include callout.html content="Allez-y tôt **le** matin ou tard **le** soir.<br/><br/>Il allait à la messe **le** samedi soir car il ne pouvait pas y aller **le** dimanche.<br/><br/>**L'**été, on mange dehors, sous les arbres." type="primary" %}
 
++ devant les titres (mais pas devant *monsieur*, *madame*, *mademoiselle*)
+
+{% include callout.html content="**Le** président Obama ne manque pas d'exploiter les divisions de l'opposition." type="primary" %}
+
+{% include information.html content="Si on s'adresse directement à quelqu'un par un titre, il n'y a pas d'article devant le titre : *Très heureuse d'avoir fait votre connaissance, docteur Russel, et merci de m'avoir accordé ces quelques minutes.*" %}
+
++ devant les dates
+
+{% include callout.html content="Il débutera **le** 5 juillet." type="primary" %}
+
++ pour le prix de quelque chose par unité
+
+{% include callout.html content="Chez un professionnel, ça coûte entre 20 et 45 euros **la** séance.<br/><br/>Cela coûte 42 euros **le** mètre carré." type="primary" %}
+
 + avec des parties du corps
 
 {% include callout.html content="Simon lui jeta un regard sombre, alors il ferma **la** bouche et baissa **les** yeux.<br/><br/>Elle met sa tête en arrière et se masse **les** yeux." type="primary" %}
@@ -97,6 +111,10 @@ Les mois ne nécessitent jamais d'article.
 Les jours de la semaine ne nécessitent pas d'article dans les cas où ils n'indiquent pas une récurrence habituelle.
 
 {% include callout.html content="Je vous rappelle que je serai à Paris de **mercredi** à **samedi**." type="primary" %}
+
+Les langues ne nécessitent pas d'article après le verbe *parler*.
+
+{% include callout.html content="Il parle **français** comme vous et moi." type="primary" %}
 
 ### les déterminants possessifs
 
