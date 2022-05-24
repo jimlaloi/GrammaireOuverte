@@ -119,6 +119,8 @@ Si une action (ou une inaction, si le verbe est au négatif) a commencé dans le
 
 {% include callout.html content="Je ne reçois plus rien **depuis** deux mois.<br/><br/>Le nombre de sans-abri a presque doublé **depuis** 2001.<br/><br/>Par contre, ça va mieux **depuis que** j'ai repris un peu de poids." type="primary" %}
 
+{% include information.html content="Ne confondez pas *depuis* 'since', qui a un sens temporel, avec *puisque* ou *comme* 'since', qui introduisent une proposition subordonnée : ***Comme** ils parlaient italien, je ne suis pas sûre d'avoir tout bien compris.*" %}
+
 Dans une question, **depuis** est généralement traduit par « how long » ou « since when ». Dans la plupart des cas, on répond à de telles questions soit par l'expression de la durée, soit par le point de départ.
 
 {% include callout.html content="**Depuis combien de temps** êtes-vous enceinte ? 5 mois.<br/><br/>**Depuis quand** vivez-vous comme ça ? Depuis qu'on est installés là." type="primary" %}
@@ -199,6 +201,7 @@ Certains verbes peuvent avoir un complément oblique marqué par une autre prép
 + se rendre compte de = 'devenir conscient de' (*La commissaire se rend compte **de** son erreur.*)
 + s'apercevoir de = 'devenir conscient de' (*Le spectateur ne doit pas s'apercevoir **de** cette disparition.*)
 + prendre pour = 'confondre avec, croire à tort qu'on est' (*On nous prend **pour** des jeunes sans expérience.*)
++ consister en = 'être constitué de' (*La recombinaison génétique **consiste en** un échange de gènes entre deux chromosomes.*)
 
 ## Observations sur quelques prépositions
 

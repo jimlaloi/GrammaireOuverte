@@ -72,20 +72,16 @@ entries:
       url: /grammaire_prépositions.html
       output: web, pdf
 
-  - title: Verbes
+  - title: Verbes et conjugaisons
     output: web, pdf
 
     folderitems:
-    - title: Introduction aux verbes
-      url: /grammaire_verbes_introduction.html
+    - title: Verbes
+      url: /grammaire_verbes.html
       output: web, pdf
 
     - title: Verbes pronominaux
       url: /grammaire_verbes_pronominaux.html
-      output: web, pdf
-
-    - title: Verbes semi-auxiliaires
-      url: /grammaire_verbes_semi-auxiliaires.html
       output: web, pdf
 
     - title: Présent
