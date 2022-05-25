@@ -1,7 +1,7 @@
 ---
 title: Le présent de l'indicatif
 keywords: présent, present
-summary: "Le présent en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_présent.html
 folder: grammaire
@@ -9,468 +9,345 @@ folder: grammaire
 
 ## Introduction
 
-Le présent indique une action qui se produit soit au moment où l'on parle, soit une vérité générale, une soi-disant « vérité éternelle ». Le présent français peut être traduit de trois manières différentes en anglais selon le sens recherché. 
+Le présent indique généralement une situation qui se produit au moment où l'on parle ou une situation qui est toujours le cas (comme une vérité générale).
 
-{% include callout.html content="**Léon fait de la sculpture.**<br/><br/>*Léon is sculpting* (en ce moment, action progressive)<br/><br/>*Léon sculpts* (en général, action habituelle)<br/><br/>*Léon does sculpt* (emphatique ou contrasté)" type="primary" %}
+{% include information.html content="Notez que le présent français peut être traduit de trois manières différentes en anglais selon le sens individuel de la phrase :<br/>**Léon fait de la sculpture.**<br/>- *Léon is sculpting* (en ce moment, action progressive)<br/>- *Léon sculpts* (en général, action habituelle)<br/>- *Léon does sculpt* (emphatique ou contrasté)" %}
 
-Alors qu'un énoncé français au présent peut être traduit par trois phrases différentes en anglais, le sens spécifique est récupérable à partir du contexte. En fait, le français indique les différentes nuances des formes anglaises progressives, habituelles ou emphatiques en ajoutant des éléments pour clarifier le contexte.
-
-Notez les exemples suivants :
+D'autres éléments d'une phrase à part le verbe peuvent affecter l'interprétation d'un verbe au présent comme une action en cours, une habitude, une vérité générale, etc. Notez les exemples suivants :
 {% include callout.html content="August vient **toujours** se promener par ici. ('always comes' : habitude)<br/><br/>**Regardez**, vous penchez trop votre verre. ('are tilting' : à l'heure actuelle, action progressive)<br/><br/>**Mais si**, vous le connaissez. ('you do know him' : emphatique)" type="primary" %}
 
-De plus, le présent est parfois utilisé à la place du passé ou du futur dans la narration :
+De plus, le présent est parfois utilisé à la place du passé ou du futur si le temps est claire en contexte :
 
-{% include callout.html content="En 1805, le musicien **rapporte** des difficultés à entendre les instruments à vent lors des concerts." type="primary" %}
+{% include callout.html content="En 1805, le musicien **rapporte** des difficultés à entendre les instruments à vent lors des concerts.<br/><br/>Demain, je vous **remets** la somme ." type="primary" %}
 
-## verbes -er au présent
+## Verbes réguliers
 
-Il existe trois grands groupes de verbes réguliers en français : les verbes dont l'infinitif se termine par **-er**, les verbes dont l'infinitif se termine par **-ir** et les verbes dont l'infinitif se termine par **-re**. Puisque les verbes en **-er** sont les plus nombreux, ils sont considérés comme la première conjugaison. Pour conjuguer ces verbes, supprimez le **-er** de l'infinitif pour former la racine. Ensuite, ajoutez les terminaisons **-er** à la racine. Différents temps ont des terminaisons différentes.
+La grande majorité des verbes en français sont réguliers au présent. À l'infinitif, ces verbes ont un radical et une terminaison (*-er*, *-ir*, ou *-re*). Pour conjuguer ces verbes au présent, on remplace la terminaison de l'infinitif par la terminaison appropriée du présent. Les terminaisons de tous les verbes réguliers sont très similaires. Là où il y a des différences, on regroupe les verbes réguliers qui ont les mêmes terminaisons.
 
-Les terminaisons données ci-dessous (**-e**, **-es**, **-e**, **-ons**, **-ez**, **-ent**) servent à former le présent. Les terminaisons **-e**, **-es**, **-e** et **-ent** sont toutes silencieuses. Les seules terminaisons prononcées sont celles de **nous** (**-ons**) et **vous** (**-ez**). Les quatre terminaisons silencieuses font la forme d'une botte dans le paradigme de la conjugaison verbale.
+Pour presque tous les verbes, les terminaisons du singulier (*je*, *tu*, *il*/*elle*/*on*) et de la troisième personne du pluriel (*ils*/*elles*) ne sont pas prononcées (sauf pour faire la liaison avec un mot qui suit). Notez surtout que la terminaison *-ent* qui marque la troisième personne du pluriel pour presque tous les verbes n'est jamais prononcé. Si la séquence *ent* se trouve à la fin d'une autre forme (qu'elle soit un verbe à une autre personne ou nombre comme *il vient* ou un autre mot comme *comment*), elle est généralement prononcée comme /ɛ̃/ ou /ɑ̃/.
 
-| infinitif : parl**er** |
-| je parl**e** | nous parl**ons** |
-| tu parl**es** | vous parl**ez** |
-| il/elle/on parl**e** | ils/elles parl**ent** |
-| participe passé : parl**é** |
+### verbes *-er* (comme *parler*)
 
-Faites attention à la prononciation des phrases suivantes. Notez que la prononciation de chacun des verbes est pareille même si les conjugaisons s'écrivent différemment.
+| infinitif : parl<ins>er</ins> | participe passé : parl<ins>é</ins> |
+|---|---|
+| je **parl<ins>e</ins>** | nous **parl<ins>ons</ins>** |
+| tu **parl<ins>es</ins>** | vous **parl<ins>ez</ins>** |
+| il/elle/on **parl<ins>e</ins>** | ils/elles **parl<ins>ent</ins>** |
 
-{% include callout.html content="Ce sont les crèmes dont je **parle**.<br/><br/>Il **parle** tous les jours sur tout et n'importe quoi.<br/><br/>Ils n'en **parlent** pas du tout." type="primary" %}
+Environ 90% des verbes en français sont conjugués comme parler. En voici une liste de quelques-uns : 
 
-Voici une liste de verbes courants en **-er** : 
+* *adorer*, *habiter*, *aimer*, *jouer*, *montrer*, *chanter*, *présenter*, *chercher*, *regarder*, *danser*, *rencontrer*, *demander*, *rester*, *détester*, *téléphoner*, *donner*, *travailler*, *écouter*, *trouver*, *étudier*
 
-* adorer, habiter, aimer, jouer, préférer, montrer, chanter, présenter, chercher, regarder, danser, rencontrer, demander, rester, détester, téléphoner, donner, travailler, écouter, trouver, étudier
+{% include information.html content="Si le radical d'un verbe -er se termine par une voyelle (*étudier* > *étud<ins>i</ins>*, *continuer* > *contin<ins>u</ins>*), n'oubliez pas que les terminaisons du singulier et de la troisième personne du pluriel sont muettes. On prononce donc la voyelle à la fin du radical, mais pas ces terminaisons: *j'étudie* /ʒetydi/, *ils continuent* /il kɔ̃tiny/" %}
 
-**Je** se transforme en **j'** devant un verbe commençant par une voyelle ou un **h** muet (ex.**j'**adore, **j'**habite). Ce phénomène est connu sous le nom d'**élision**.
+### verbes *-er* qui changent de radical
+Des changements d'orthographe se produisent dans les radicaux de plusieurs groupes de verbes *-er* au présent. Ces changements d'orthographe reflètent la prononciation des formes du présent.
 
-Notez également que le **s** dans les pronoms pluriels (**nous**, **vous** et **ils**/**elles**) est généralement muet sauf lorsqu'il est suivi d'un verbe qui commence par une voyelle. Dans un tel cas, le **s** muet se prononce comme un /**z**/ et relie le pronom au verbe. Ce phénomène est appelé **liaison** et est très caractéristique du français. Lisez les phrases ci-dessous. Quelles phrases contiennent des exemples de liaison ?
+Parce que la terminaison des formes au singulier et à la troisième personne du pluriel n'est pas prononcée, la dernière syllabe du radical (*re<ins>gar</ins>der*) est la dernière syllabe de ces formes (*re<ins>garde</ins>*, *re<ins>gardes</ins>*, *re<ins>gardent</ins>*). La dernière syllabe d'un mot en français ne peut généralement pas avoir la voyelle /ə/, car cette voyelle est inaccentuée. Si le radical d'un verbe en *-er* a la voyelle /ə/ dans sa dernière syllabe (par exemple *app<ins>e</ins>ler*, *j<ins>e</ins>ter*, *ach<ins>e</ins>ter*), le radical change au présent des formes en *je*, *tu*, *il*/*elle*/*on*, et *ils*/*elles* pour avoir la voyelle /ɛ/ au lieu de /ə/ dans sa dernière syllabe.
 
-{% include callout.html content="Ils **écoutent** la radio quand il y a des infos politiques.<br/><br/>C'est un chanteur que nous **adorons**.<br/><br/>Nous **dansons** sur le balcon." type="primary" %}
+Les verbes qui ont la voyelle /ə/ dans la dernière syllabe du radical, et qui sont donc affectés par ces changements, sont les verbes qui se terminent par *-e*[consonne]*er* (*-eler*, *-eter*, *-ener*, etc.).
 
-### verbes -er qui changent de radical
-Des changements d'orthographe se produisent dans les radicaux de plusieurs groupes de verbes **-er** au présent. Ces changements d'orthographe reflètent la prononciation des formes du présent.
+Un moyen de faire ce changement est de doubler la consonne à la fin du radical. La lettre *e* devant une consonne double se prononce comme /ɛ/.
 
-Vous avez peut-être déjà remarqué le changement d'orthographe du verbe **s'appeler** (Je **m'appelle** ...). Pour les verbes comme **appeler**, **rappeler** et **jeter**, la consonne **-l** ou **-t** dans le radical double dans toutes les formes du présent, sauf à la première et à la deuxième personne du pluriel (**nous** et **vous**). Cela suit le modèle traditionnel de la botte qui affecte les conjugaisons des verbes **-er** au présent.
+| infinitif : appeler | participe passé : appelé |
+|---|---|
+| j'**appe<ins>ll</ins>e** | nous **appelons** |
+| tu **appe<ins>ll</ins>es** | vous **appelez** |
+| il/elle/on **appe<ins>ll</ins>e** | ils/elles **appe<ins>ll</ins>ent** |
 
-| appeler |
-| j'appelle | nous appelons |
-| tu appelles | vous appelez |
-| il/elle/on appelle | ils/elles appellent |
-| participe passé : appelé |
+Ce schéma s'applique aux verbes *appeler* et *jeter* et leurs dérivés (*rappeler*, *rejeter*, *projeter*).
 
-Ce même modèle de la botte est répété dans les verbes de changement d'orthographe comme **préférer**. Dans ces verbes, le **é** de la dernière syllabe du radical se transforme en un **è**, sauf à la première et à la deuxième personne du pluriel (**nous** et **vous**). 
+Un autre moyen de changer la voyelle /ə/ à la voyelle /ɛ/ est d'ajouter un accent grave.
 
-| préférer |
-| je préfère | nous préférons |
-| tu préfères | vous préférez |
-| il/elle/on préfère | ils/elles préfèrent |
-| participe passé : préféré |
+| infinitif : acheter | participe passé : acheté |
+|---|---|
+| j'**ach<ins>è</ins>te** | nous **achetons** |
+| tu **ach<ins>è</ins>tes** | vous **achetez** |
+| il/elle/on **ach<ins>è</ins>te** | ils/elles **ach<ins>è</ins>tent** |
 
-Des verbes conjugués comme **préférer** incluent :
-* considérer, espérer, régler, répéter, sécher
+Tous les verbes en *-e*[consonne]*er* (sauf *appeler*, *rappeler*, *jeter*, *rejeter*, et *projeter*) sont conjugués comme *acheter*. Voici quelques exemples :
 
-Dans les verbes qui se conjuguent comme **acheter**, le e dans la dernière syllabe du radical se transforme également en un è, encore à l'exception de la première et la deuxième personne du pluriel (**nous** et **vous**).
+* *mener*, *amener*, *emmener*, *promener*, *lever*, *enlever*, *peser*, *geler*, *harceler*, *peler*
 
-| acheter |
-| j'achète | nous achetons |
-| tu achètes | vous achetez |
-| il/elle/on achète | ils/elles achètent |
-| participe passé : acheté |
+{% include variation.html content="Avant la réforme d'orthographe proposée par l'Académie Française en 1990, certains verbes non-dérivés de *jeter* et *appeler* suivaient le schéma de la consonne doublée. Il n'est donc pas rare, surtout hors de France, de voir des formes comme *j'épelle*, *je renouvelle*, où *je feuillette*, même si *j'épèle*, *je renouvèle*, et *je feuillète* sont recommandés." %}
 
-Des verbes conjugués comme **acheter** incluent :
-* amener, emmener, lever, mener, peser
+Un changement similaire affecte les verbes qui se terminent par *-é_er*, avec la voyelle *é* dans la dernière syllabe du radical. Cette voyelle n'apparaît généralement pas dans la dernière syllabe d'un mot devant une consonne. Ces verbes changent donc l'accent aigu en accent grave dans les conjugaisons du présent au singulier et à la troisième personne du pluriel. Les formes en *nous* et *vous* gardent l'accent aigu.
 
-Un autre groupe de verbes avec un radical qui change inclut ceux qui se terminent par **-ayer**, y compris **essayer** et **payer**. Dans ces verbes le **y** change en **i** dans toutes les personnes sauf la première et la deuxième au pluriel.
+| infinitif : préférer | participe passé : préféré |
+|---|---|
+| je **préf<ins>è</ins>re** | nous **préférons** |
+| tu **préf<ins>è</ins>res** | vous **préférez** |
+| il/elle/on **préf<ins>è</ins>re** | ils/elles **préf<ins>è</ins>rent** |
 
-| essayer |
-| j'essaie | nous essayons |
-| tu essaies | vous essayez |
-| il/elle/on essaie | ils/elles essaient |
-| participe passé : essayé |
+Les verbes conjugués comme *préférer* incluent :
+* *céder*, *célébrer*, *compléter*, *considérer*, *différer*, *espérer*, *exagérer*, *gérer*, *inquiéter*, *modérer*, *posséder*, *protéger*, *refléter*, *régler*, *répéter*, *révéler*, *sécher*, *suggérer*
 
-Enfin, les verbes se terminant par **-ger** comme **voyager** ajoutent un **e** après le **g** à la forme **nous** du présent, de sorte que le **g** se prononce à son doux avant la terminaison **-ons** (**nous voyageons**). De même, dans les verbes se terminant par **-cer**, **commencer**, par exemple, le **c** de la forme **nous** se transforme en **ç** pour conserver le son doux (**nous commençons**).
+Un autre groupe de verbes avec un radical qui change inclut ceux qui se terminent par *-oyer* ou *-uyer*. Dans ces verbes le *y* change en *i* dans toutes les personnes sauf les première et deuxième au pluriel.
 
-| voyager |
-| je voyage | nous voyageons |
-| tu voyages | vous voyagez |
-| il/elle/on voyage | ils/elles voyagent |
-| participe passé : voyagé |
+| infinitif : envoyer | participe passé : envoyé |
+|---|---|
+| j'**envo<ins>i</ins>e** | nous **envoyons** |
+| tu **envo<ins>i</ins>es** | vous **envoyez** |
+| il/elle/on **envo<ins>i</ins>e** | ils/elles **envo<ins>i</ins>ent** |
 
-D'autres verbes dans cette catégorie incluent : 
-* corriger, exiger, manger, nager, partager, ranger, rédiger, songer
+Les verbes conjugués comme *envoyer* incluent :
+* verbes en *-oyer* : *aboyer*, *côtoyer*, *déployer*, *employer*, *nettoyer*, *noyer*, *renvoyer*, *tutoyer*, *vouvoyer*
+* verbes en *-uyer* : *appuyer*, *ennuyer*, *essuyer*
 
-## verbes -ir au présent
-Les verbes à l'infinitif se terminant par **-ir** forment un deuxième groupe de verbes réguliers en français, souvent appelés verbes de « deuxième conjugaison ». Pour conjuguer ces verbes, supprimez le **-ir** de l'infinitif et ajoutez les terminaisons au présent de la deuxième conjugaison : **-is**, **-is**, **-it**, **-issons**, **-issez**, **-issent**. Les formes singulière et plurielle de la troisième personne se distinguent clairement (**finit** vs.**finissent**).
+{% include variation.html content="Les verbes en *-ayer* (*payer*, *balayer*, *effrayer*, etc) suivent facultativement le schéma des verbes en *-oyer* et *-uyer*. On peut écrire donc *je pa<ins>i</ins>e* ou *je pa<ins>y</ins>e* (les deux formes ont la même prononciation)." %}
 
-| finir |
-| je finis | nous finissons |
-| tu finis | vous finissez |
-| il/elle/on finit | ils/elles finissent |
-| participe passé : fini |
+Les lettres *c* et *g* ont une prononciation occlusive (/k/ ou /g/) devant les voyelles *a*, *o*, et *u*, et une prononciation fricative (/s/ ou /ʒ/) devant les voyelles *e* et *i*. Un *c* ou *g* en fin de radical verbal aura une prononciation fricative devant *-er*. Pour garder cette prononciation fricative devant la terminaison *-ons* (ou les terminaisons *-ais*, *-ait*, et *-aient* de l'imparfait), le radical change d'orthographe à la première personne du pluriel. Dans le cas de *c*, on ajoute une cédille (*ç*), et dans le cas de *g* on ajoute un *e*.
 
-Voici une liste d'autre verbes **-ir** communs :
-* choisir, maigrir, réfléchir, établir, mincir, réunir, grandir, obéir (à quelqu'un), réussir (à), grossir, réagir, vieillir
+| infinitif : commencer | participe passé : commencé |
+|---|---|
+| je **commence** | nous **commençons** |
+| tu **commences** | vous **commencez** |
+| il/elle/on **commence** | ils/elles **commencent** |
 
-Cependant, tous les verbes se terminant par **-ir** ne suivent pas ce modèle. Les verbes **-ir** irréguliers incluent **ouvrir**, **partir**, **sortir** et **dormir**.
+Les verbes conjugués comme *commencer* incluent : 
+* *agacer*, *annoncer*, *avancer*, *dénoncer*, *effacer*, *placer*, *tracer*
 
-### verbes -ir (irréguliers) comme ouvrir
-Un groupe très limité de verbes dont l'infinitif se termine par **-ir** sont irréguliers, c'est-à-dire qu'ils ne suivent pas le modèle des verbes **-ir** réguliers comme **finir**. Des verbes comme **ouvrir** se conjuguent à la place comme des verbes réguliers en **-er**.
+| infinitif : voyager | participe passé : voyagé |
+|---|---|
+| je **voyage** | nous **voyag<ins>e</ins>ons** |
+| tu **voyages** | vous **voyagez** |
+| il/elle/on **voyage** | ils/elles **voyagent** |
 
-| ouvrir |
-| j'ouvre | nous ouvrons |
-| tu ouvres | vous ouvrez |
-| il/elle/on ouvre | ils/elles ouvrent |
-| participe passé : ouvert |
+Les verbes conjugués comme *voyager* incluent : 
+* *corriger*, *exiger*, *manger*, *nager*, *partager*, *ranger*, *rédiger*, *songer*
 
-Les verbes conjugués comme **ouvrir** comprennent :
+### verbes *-ir* (comme *finir*)
 
-* couvrir, découvrir, offrir, souffrir
+| infinitif : fin<ins>ir</ins> | participe passé : fin<ins>i</ins> |
+|---|---|
+| je **fin<ins>is</ins>** | nous **fin<ins>issons</ins>** |
+| tu **fin<ins>is</ins>** | vous **fin<ins>issez</ins>** |
+| il/elle/on **fin<ins>it</ins>** | ils/elles **fin<ins>issent</ins>** |
 
-### verbes -ir (irréguliers) partir, sortir, et dormir
-Les verbes **partir**, **sortir** et **dormir** sont irréguliers au présent, c'est-à-dire qu'ils ne se conjuguent pas comme les verbes réguliers en **-ir**. 
+Les verbes conjugués comme *finir* incluent :
+* *choisir*, *maigrir*, *réfléchir*, *établir*, *mincir*, *réunir*, *grandir*, *obéir*, *réussir*, *grossir*, *réagir*, *vieillir*
 
-| partir |
-| je pars | nous partons |
-| tu pars | vous partez |
-| il/elle/on part | ils/elles partent |
-| participe passé : parti |
+{% include information.html content="La lettre *i* dans le verbe *haïr* est marqué par un tréma pour séparer la voyelle dans toutes ses formes à l'exception du singulier du présent, où les lettres *ai* représentent ensemble le son [ɛ] (ou [e] dans certains dialectes): *je hais*, *tu hais*, *il hait*." %}
 
-| sortir |
-| je sors | nous sortons |
-| tu sors | vous sortez |
-| il/elle/on sort | ils/elles sortent |
-| participe passé : sorti |
+### verbes *-ir* (comme *ouvrir*)
+Un groupe très limité de verbes dont l'infinitif se termine par *-ir* ont les mêmes terminaisons que les verbes réguliers en *-er*.
 
-| dormir |
-| je dors | nous dormons |
-| tu dors | vous dormez |
-| il/elle/on dort | ils/elles dorment |
-| participe passé : dormi |
+| infinitif : ouvr<ins>ir</ins> | participe passé : ouv<ins>ert</ins> |
+|---|---|
+| j'**ouvr<ins>e</ins>** | nous **ouvr<ins>ons</ins>** |
+| tu **ouvr<ins>es</ins>** | vous **ouvr<ins>ez</ins>** |
+| il/elle/on **ouvr<ins>e</ins>** | ils/elles **ouvr<ins>ent</ins>** |
 
-## Verbes -re au présent
-Les verbes dont l'infinitif se termine par **-re** forment un troisième groupe de verbes réguliers, souvent appelés verbes de « troisième conjugaison ». Pour former les conjugaisons au présent de ces verbes, supprimez le **-re** de l'infinitif et ajoutez les terminaisons de la troisième conjugaison (**-s**, **-s**, **-**, **-ons**, **-ez**, **-ent**) au radical résultant. Notez que les **-d** et **-ds** finaux au singulier sont muets. À la troisième personne du pluriel, la consonne « d » du radical est prononcée à cause de la terminaison **-ent**.
+Les verbes conjugués comme *ouvrir* incluent:
+* *accueillir*, *couvrir*, *cueillir*, *découvrir*, *offrir*, *recouvrir*, *recueillir*, *souffrir*
 
-| descendre |
-| je descends | nous descendons |
-| tu descends | vous descendez |
-| il/elle/on descend | ils/elles descendent |
-| participe passé : descendu |
+### verbes *-ir* (comme *partir*)
+Les verbes **partir**, **sortir** et **dormir** ont un radical régulier au pluriel, mais le radical au singulier se termine en *r*. Les terminaisons au singulier sont celles de *finir*, et les terminaisons au pluriel sont celle d'*ouvrir*.
 
-Voici une liste de verbes **-re** réguliers communs :
+| infinitif : part<ins>ir</ins> | participe passé : part<ins>i</ins> |
+|---|---|
+| je **par<ins>s</ins>** | nous **part<ins>ons</ins>** |
+| tu **par<ins>s</ins>** | vous **part<ins>ez</ins>** |
+| il/elle/on **par<ins>t</ins>** | ils/elles **part<ins>ent</ins>** |
 
-* attendre, rendre, dépendre de, rendre visite à quelqu'un, entendre, répondre, pendre, vendre, perdre
+| infinitif : sort<ins>ir</ins> | participe passé : sort<ins>i</ins> |
+|---|---|
+| je **sor<ins>s</ins>** | nous **sort<ins>ons</ins>** |
+| tu **sor<ins>s</ins>** | vous **sort<ins>ez</ins>** |
+| il/elle/on **sor<ins>t</ins>** | ils/elles **sort<ins>ent</ins>** |
 
-Cependant, tous les verbes en **-re** ne suivent pas ce modèle. Les verbes irréguliers en **-re** incluent **prendre**, **mettre**, **suivre** et **vivre**.
+| infinitif : dorm<ins>ir</ins> | participe passé : dorm<ins>i</ins> |
+|---|---|
+| je **dor<ins>s</ins>** | nous **dorm<ins>ons</ins>** |
+| tu **dor<ins>s</ins>** | vous **dorm<ins>ez</ins>** |
+| il/elle/on **dor<ins>t</ins>** | ils/elles **dorm<ins>ent</ins>** |
 
-### verbes -re (irréguliers) comme prendre
-Les verbes comme **prendre** sont conjugués comme les verbes réguliers **-re** au singulier, mais pas au pluriel. Notez la différence dans le radical des formes au pluriel.
+### verbes *-re* (comme *rendre*)
 
-| prendre |
-| je prends | nous prenons |
-| tu prends | vous prenez |
-| il/elle/on prend | ils/elles prennent |
-| participe passé : pris |
+| infinitif : rend<ins>re</ins> | participe passé : rend<ins>u</ins> |
+|---|---|
+| je **rend<ins>s</ins>** | nous **rend<ins>ons</ins>** |
+| tu **rend<ins>s</ins>** | vous **rend<ins>ez</ins>** |
+| il/elle/on **rend** | ils/elles **rend<ins>ent</ins>** |
 
-Des verbes conjugués comme **prendre** incluent :
+Les verbes conjugués comme *rendre* incluent :
+* *attendre*, *rendre*, *dépendre*, *entendre*, *répondre*, *pendre*, *vendre*, *perdre*
 
-* apprendre, comprendre, surprendre
+Le verbe *rompre* est conjugué comme *rendre* sauf qu'il y a la terminaison *-t* à la troisième personne du singulier : *il rompt*.
+* Les verbes dérivés de *rompre* sont aussi conjugués de cette manière: *corrompre*, *interrompre*
 
-### verbes -re (irréguliers) comme mettre
-Le verbe **mettre** est irrégulier.
+Le verbe *mettre* est conjugué comme *rendre* sauf que le radical n'a qu'un *t* au singulier. Notez aussi la différence dans la forme du participe passé.
 
-| mettre |
-| je mets | nous mettons |
-| tu mets | vous mettez |
-| il/elle/on met | ils/elles mettent |
-| participe passé : mis |
+| infinitif : mett<ins>re</ins> | participe passé : m<ins>is</ins> |
+|---|---|
+| je **met<ins>s</ins>** | nous **mett<ins>ons</ins>** |
+| tu **met<ins>s</ins>** | vous **mett<ins>ez</ins>** |
+| il/elle/on **met** | ils/elles **mett<ins>ent</ins>** |
 
-Mettre veut dire « to place, to put ». C'est aussi utilisé dans les expressions suivantes :
-* **mettre la table** (**le couvert**)
-* **mettre** + vêtement
-* **mettre** + article électrique (radio, lumière)
+Les verbes conjugués comme *mettre* incluent :
+* *admettre*, *permettre*, *promettre*, *remettre*
 
-D'autres verbes comme **mettre** incluent : 
-* admettre, permettre, promettre, remettre
+Le verbe *prendre* est conjugué comme *rendre* au singulier, mais le radical est irrégulier au pluriel. Notez aussi la différence dans la forme du participe passé.
 
-### verbes -re (irréguliers) comme suivre, vivre
-Les verbes **suivre** et **vivre** sont irréguliers.
+| infinitif : prend<ins>re</ins> | participe passé : pr<ins>is</ins> |
+|---|---|
+| je **prend<ins>s</ins>** | nous **pren<ins>ons</ins>** |
+| tu **prend<ins>s</ins>** | vous **pren<ins>ez</ins>** |
+| il/elle/on **prend** | ils/elles **prenn<ins>ent</ins>** |
 
-| suivre |
-| je suis | nous suivons |
-| tu suis | vous suivez |
-| il/elle/on suit | ils/elles suivent |
-| participe passé : suivi |
+Les verbes conjugués comme *prendre* incluent :
+* *apprendre*, *comprendre*, *surprendre*
 
-**Suivre** est également utilisé dans l'expression **suivre un cours** (to take a course).
+### verbes *-re* (comme *rire*)
+Les verbes comme *rire* sont conjugués comme *rendre* sauf pour la terminaison à la troisième personne du singulier (*-t*). Ces verbes ont aussi des participes passés en *-i*, pas en *-u*.
 
-| vivre |
-| je vis | nous vivons |
-| tu vis | vous vivez |
-| il/elle/on vit | ils/elles vivent |
-| participe passé : vécu |
+| infinitif : ri<ins>re</ins> | participe passé : r<ins>i</ins> |
+|---|---|
+| je **ri<ins>s</ins>** | nous **ri<ins>ons</ins>** |
+| tu **ri<ins>s</ins>** | vous **ri<ins>ez</ins>** |
+| il/elle/on **ri<ins>t</ins>** | ils/elles **ri<ins>ent</ins>** |
 
-Vous avez peut-être vu l'expression **Vive...** (comme dans **Vive la France !**) et le nom **la vie**. **Vivre** signifie « to be alive », ainsi que « to live », contrairement au verbe **habiter** qui ne désigne que l'endroit où l'on habite, son lieu de résidence.
+Le verbe *sourire* est conjugué exactement comme *rire*.
+
+Beaucoup de verbes sont conjugués de façon très similaire à *rire* et *sourire*, mais avec certaines modifications.
+
+Les verbes *suivre*, *poursuivre*, *vivre*, et *survivre* sont conjugués comme *rire* sauf que la dernière lettre du radical (*v*) est supprimée au singulier: *je suis*, *tu suis*, *il suit*. Le participe passé de *suivre* est *suivi* (*poursuivre*: *poursuivi*). *Vivre* et *survivre* ont un participe passé irrégulier: (*sur*)*vécu*.
+
+Le verbe *écrire* est conjugué comme *rire* sauf qu'un *v* est ajouté en fin de radical au pluriel : *nous écri<ins>v</ins>ons*, *vous écri<ins>v</ins>ez*, *ils écri<ins>v</ins>ent*. Le participe passé se termine par *t* (*écrit*).
++ Les verbes conjugués comme *écrire* incluent : *décrire*, *inscrire*, *prescrire*, *transcrire*
+
+Le verbe *conduire* est conjugué comme *écrire* sauf qu'un *s* est ajouté en fin de radical au pluriel au lieu d'un *v*: *nous condui<ins>s</ins>ons*, *vous condui<ins>s</ins>ez*, *ils condui<ins>s</ins>ent*.
++ Les verbes conjugués comme *conduire* incluent : *construire*, *cuire*, *déduire*, *détruire*, *élire*, *instruire*, *introduire*, *lire*, *nuire*, *plaire*, *produire*, *réduire*, *séduire*, *traduire*
++ Les verbes *lire*, *élire*, et *plaire* ont un participe passé irrégulier: *lu*, *élu*, *plu*
+
+### verbes *-ndre* (comme *peindre*)
+
+| infinitif : pei<ins>ndre</ins> | participe passé : pei<ins>nt</ins> |
+|---|---|
+| je **pei<ins>ns</ins>** | nous **pei<ins>gnons</ins>** |
+| tu **pei<ins>ns</ins>** | vous **pei<ins>gnez</ins>** |
+| il/elle/on **pei<ins>nt</ins>** | ils/elles **pei<ins>gnent</ins>** |
+
+Les verbes conjugués comme *peindre* incluent :
+* *atteindre*, *contraindre*, *craindre*, *enfreindre*, *éteindre*, *joindre*, *plaindre*, *restreindre*
 
 ## Verbes irréguliers
 
-### être
-Le verbe **être** est un verbe irrégulier au présent. Notez la liaison du **-s** dans la forme **vous**.
-
-| être |
-| je suis | nous sommes |
-| tu es | vous êtes |
-| il/elle/on est | ils/elles sont |
-| participe passé : été |
-
-**C'est** (pluriel **Ce sont**) est une expression courante utilisée pour décrire et présenter des personnes ou des choses. **Etre** est aussi utilisé comme auxiliaire dans les temps composés.
-
-### savoir et connaître
-Les verbes irréguliers **savoir** et **connaître** signifient tous deux « to know ».
-
-| savoir |
-| je sais | nous savons |
-| tu sais | vous savez |
-| il/elle/on sait | ils/elles savent |
-| participe passé : su |
-
-| connaître |
-| je connais | nous connaissons |
-| tu connais | vous connaissez |
-| il/elle/on connaît | ils/elles connaissent |
-| participe passé : connu |
-
-**Savoir** et **connaître** sont utilisés dans différents contextes ou pour décrire différents degrés de connaissance. **Savoir** s'emploie pour des faits, des choses que l'on sait par cœur, ou des capacités. Lorsqu'il est suivi d'un infinitif, **savoir** indique la capacité de faire quelque chose.(Je **sais** jouer de la guitare.)
-**Connaître** est utilisé pour les personnes et les lieux et représente une connaissance personnelle ou une familiarité.
-
-### dire, lire, et écrire
-Les verbes irréguliers **dire**, **lire** et **écrire** ont des conjugaisons similaires.
-
-| dire |
-| je dis | nous disons |
-| tu dis | vous dites |
-| il/elle/on dit | ils/elles disent |
-| participe passé : dit |
-
-Vous avez peut-être déjà vu le verbe **dire** dans des expressions comme **Comment dit-on ... ?** et **Qu'est-ce que ça veut dire?** **Dire** signifie 'to say' tandis que **parler** signifie 'to speak'.
-
-Notez la forme vous **dites**. C'est atypique car il ne se termine pas par **-ez**. **Dire** est l'un des trois verbes où c'est le cas (les autres sont **être** : vous **êtes** et **faire** : vous **faites**).
-
-| lire |
-| je lis | nous lisons |
-| tu lis | vous lisez |
-| il/elle/on lit | ils/elles lisent |
-| participe passé : lu |
-
-| écrire |
-| j'écris | nous écrivons |
-| tu écris | vous écrivez |
-| il/elle/on écrit | ils/elles écrivent |
-| participe passé : écrit |
-
-D'autres verbes conjugués comme **écrire** incluent **décrire** et **s'inscrire**.
-
-### avoir
-Le verbe **avoir** est irrégulier au présent. Notez la prononciation du **-s** au pluriel des pronoms **nous**, **vous** et **ils**/**elles**. Cette liaison est particulièrement importante pour distinguer **ils ont** de la troisième personne du pluriel de **être** (**ils sont**).
-
-| avoir |
-| j'ai | nous avons |
-| tu as | vous avez |
-| il/elle/on a | ils/elles ont |
-| participe passé : eu |
-
-**Avoir** sert aussi d'auxiliaire aux temps composés (passé composé, plus-que-parfait, futur antérieur, etc.). Outre la possession, le verbe **avoir** exprime l'âge en français, contrairement à l'équivalent anglais qui utilise le verbe **être**.
-
-{% include callout.html content="Quel âge **ont** tes enfants?<br/><br/>Ils **ont** 8 ans et 5 ans." type="primary" %}
-
-**Avoir** est utilisé dans l'expression impersonnelle **il y a**, qui signifie « there is » ou « there are ». **Il y a** est utilisé pour exprimer l'existence d'une personne ou d'une chose, ou pour faire une liste ou un inventaire de personnes ou de choses. L'article indéfini (**un**, **une**, **des**) est généralement utilisé avec **il y a**.
-
-{% include callout.html content="A Copenhague, **il y a** des canaux.<br/><br/>Dans un repas typiquement vietnamien, **il y a** une soupe et un plat salé." type="primary" %}
-
-Le négatif d'**il y a** est **il n'y a pas**. L'article indéfini (**un**, **une**, **des**) devient **de** ou **d'** après cette expression négative. Cela correspond au mot anglais « any ».
-
-{% include callout.html content="**Il n'y a pas de** temps à perdre.<br/><br/>**Il n'y a pas d'**amis dans les affaires." type="primary" %}
-
-**Avoir** est utilisé dans de nombreuses expressions idiomatiques. Notez que la traduction anglaise utilise souvent le verbe 'to be' plutôt que 'to have.'
-
-* avoir besoin de
-* avoir envie de
-* avoir l'intention de
-* avoir faim
-* avoir soif
-* avoir chaud
-* avoir froid
-* avoir honte (de)
-* avoir mal (à la tête, à la gorge, aux yeux)
-* avoir raison
-* avoir tort
-* avoir sommeil
-
-### aller
-Le verbe **aller** est irrégulier au présent. Notez la liaison du **-s** au pluriel **nous** et **vous**.
-
-| aller |
-| je vais | nous allons |
-| tu vas | vous allez |
-| il/elle/on va | ils/elles vont |
-| participe passé : allé |
-
-**Aller** signifie littéralement « to go », mais est utilisé au sens figuré dans les salutations pour dire son état d'esprit (comment on va). **Aller** est également utilisé pour parler du futur proche, de ce que l'on va faire.
-
-### faire
-Le verbe faire est irrégulier au présent.
-
-| faire |
-| je fais | nous faisons |
-| tu fais | vous faites |
-| il/elle/on fait | ils/elles font |
-| participe passé : fait |
-
-Notez la forme vous **faites**. C'est atypique car il ne se termine pas par **-ez**. **Faire** est l'un des trois seuls verbes où c'est le cas (les autres sont **être**: vous **êtes** et **dire**: vous **dites**). 
-
-Le verbe **faire** est utilisé dans de nombreuses expressions météorologiques impersonnelles.
-
-* Quel temps fait-il ? Il fait beau. Il fait chaud. Il fait du brouillard. Il fait du soleil. Il fait du vent. Il fait frais. Il fait froid. Il fait mauvais.
-
-D'autres expressions météorologiques qui n'utilisent pas **faire** comprennent :
-
-* Il y a des nuages.  Il y a des orages. Il y a de l'orage. Il pleut. Il neige.
-
-**Faire** est aussi utilisé pour parler d'activités sportives et de loisirs. Voici une liste d'expressions courantes.
-
-* faire de la bicyclette, faire du bateau, faire de la lecture, faire de la planche à voile, faire des randonnées, faire du ski, faire du vélo , faire de la voile, faire une promenade
-
-**Faire** est également utilisé dans de nombreuses expressions traitant des tâches ménagères.
-
-* faire des achats (du shopping), faire la cuisine, faire des courses, faire la lessive, faire le lit, faire le marché, faire le ménage, faire la vaisselle
-
-La construction causative **faire + infinitif** indique que le sujet provoque une action à faire par quelqu'un ou
-quelque chose d'autre. Comparez les phrases suivantes :
-
-{% include callout.html content="J'**ai réparé** ton vélo.<br/><br/>J'ai **fait réparer** le toit et **repeindre** la façade." type="primary" %}
-
-Dans les constructions causatives, le verbe **faire** peut être conjugué à n'importe quel temps :
-
-{% include callout.html content="Il **va falloir faire réparer** cette fenêtre.<br/><br/>Pour ce prix là tu **faisais réparer** la chaudière.<br/><br/>Il les **fait réparer** et les revend plus cher." type="primary" %}
-
-La construction causative **faire** est souvent suivie par des objets nom ou pronom. S'il y a un objet, c'est un objet direct (**cette fenêtre** ou **la chaudière** dans les premiers deux exemples ci-dessus, ou **les** dans le troisième exemple). Dans le cas de deux objets, comme dans la phrase ci-dessous, l'un sera direct (**cela**) et l'autre indirect (**ma fille**).
-
-{% include callout.html content="J'espère ne pas faire subir **cela** à **ma fille**." type="primary" %}
-
-Les pronoms d'objet précèdent **faire**, sauf à l'impératif affirmatif. Notez la position des pronoms dans ces exemples :
-
-{% include callout.html content="Je ne voudrais pas **le** faire attendre.<br/><br/>Un petit plaisir sucré de temps en temps ne **les** fera pas grossir.<br/><br/>Faites-**le** réparer au plus tôt avant qu'il y ait un accident." type="primary" %}
-
-Une autre construction causative implique l'utilisation de **se faire + infinitif** pour indiquer qu'une personne ou une chose s'est fait quelque chose.
-
-{% include callout.html content="Il **s'est fait faire** un faux tatouage." type="primary" %}
-
-Cependant, cette construction peut parfois être utilisée pour décrire des actions qui se produisent par inadvertance, malgré les souhaits du sujet.
-
-{% include callout.html content="Ma grand-mère **s'est fait plaquer**." type="primary" %}
-
-Notez que le participe passé **fait** est toujours invariable dans la construction causative.
-
-### venir
-Le verbe **venir** est irrégulier au présent. Notez la prononciation de la troisième personne du singulier (**vient**) et de la troisième personne du pluriel (**viennent**). La voyelle est nasale au singulier, mais pas au pluriel.
-
-| venir |
-| je viens | nous venons |
-| tu viens | vous venez |
-| il/elle/on vient | ils/elles viennent |
-| participe passé : venu |
-
-Les verbes conjugués comme venir comprennent :
-
-* devenir
-* revenir
-* tenir
-
-### boire, croire, voir
-Les verbes irréguliers **boire**, **croire** et **voir** ont des conjugaisons similaires.
-
-| boire |
-| je bois | nous buvons |
-| tu bois | vous buvez |
-| il/elle/on boit | ils/elles boivent |
-| participe passé : bu |
-
-| croire |
-| je crois | nous croyons |
-| tu crois | vous croyez |
-| il/elle/on croit | ils/elles croient |
-| participe passé : cru |
-
-| voir |
-| je vois | nous voyons |
-| tu vois | vous voyez |
-| il/elle/on voit | ils/elles voient |
-| participe passé : vu |
-
-
-### partir, sortir, quitter, laisser
-Les verbes **partir**, **sortir**, **quitter** et **laisser** signifient tous « to leave » en anglais, mais ils ont des nuances et des usages distinctifs en français. Une distinction importante entre ces verbes est l'idée de transitivité. **Partir** et **sortir** sont intransitifs dans ce contexte ; ils ne prennent pas d'objet direct (mais peuvent être suivis d'une phrase prépositionnelle). Par contre, **quitter** et **laisser** sont transitifs ; ils prennent un objet direct dans une phrase.
-
-#### partir
-**Partir** est un verbe irrégulier en **-ir** qui transmet le sens particulier de « leaving with the intention of going somewhere ». Il est souvent suivi de la préposition **pour**.
-
-{% include callout.html content="A 19 ans, il **part pour** Paris sans connaître un mot de français." type="primary" %}
-
-#### sortir
-**Sortir** est un verbe irrégulier en **-ir** qui transmet le sens particulier de « going out or exiting from an enclosed space ». Il est
-souvent suivi de la préposition **de**.
-
-{% include callout.html content="Je n'ai pas envie de **sortir** ce soir.<br/><br/>Je suis **sortie** de derrière mes rideaux." type="primary" %}
-
-#### quitter
-**Quitter** est un verbe régulier en **-er** qui est utilisé pour « leaving someone or someplace ».
-
-{% include callout.html content="Les rats **quittent** le navire avant le naufrage.<br/><br/>Elle a **quitté** son mari et elle a déménagé." type="primary" %}
-
-Notez que **quitter** est un verbe transitif, c'est-à-dire qu'il prend toujours un objet direct : **le navire** ou **son mari** dans les exemples ci-dessus. **Sortir** est généralement intransitif (pas d'objet) et a besoin de la préposition **de** pour exprimer l'idée de « leaving from somewhere ».
-
-#### laisser
-**Laisser** est un verbe régulier en **-er** qui signifie « leaving something or someone behind ».
-
-{% include callout.html content="Il faut **laisser** les papiers et le numéro du vétérinaire.<br/><br/>Tu veux que je te **laisse** tranquille ?" type="primary" %}
-
-## Verbes modaux
-**Vouloir**, **pouvoir** et **devoir** sont appelés des verbes modaux. Lorsqu'ils sont utilisés avec un infinitif, ils agissent comme des verbes auxiliaires ou semi-auxiliaires.
-
-### vouloir
-**Vouloir** exprime une forte volonté ou un désir ; au présent il a la même sensation qu'une commande. C'est un verbe irrégulier au présent.
-Notez comment le présent forme une "botte" ; les radicaux (dans ce cas les voyelles) ne changent que dans les formes **nous** et **vous**.
-
-| vouloir |
-| je veux | nous voulons |
-| tu veux | vous voulez |
-| il/elle/on veut | ils/elles veulent |
-| participe passé : voulu |
-
-**Vouloir** peut être suivi d'un infinitif ou d'un nom (**Je veux du calme**, **Je veux dormir**). Ce verbe est aussi souvent associé à l'adverbe **bien** pour exprimer le sens "être disposé" (**Je veux bien!**).
-
-### pouvoir
-**Pouvoir** exprime la capacité physique ou la permission de faire quelque chose (c'est-à-dire, la possibilité). C'est aussi un verbe irrégulier avec une forme similaire à **vouloir**. La forme de botte est également évidente.
-
-| pouvoir |
-| je peux | nous pouvons |
-| tu peux | vous pouvez |
-| il/elle/on peut | ils/elles peuvent |
-| participe passé : pu |
-
-**Pouvoir** peut être suivi d'une construction infinitive ou peut être isolé.
-Comme en anglais, **pouvoir** est utilisé pour donner ou demander la permission, traduit par l'anglais « may » (**Est-ce que je peux m'asseoir?**)
-Il est important de ne pas confondre les rôles de **pouvoir** et de **savoir** en français. **Savoir** exprime "to know how" alors que **pouvoir** exprime "to be able".
-
-### devoir
-**Devoir** exprime l'obligation, la probabilité et la supposition mais s'il est suivi d'un nom, exprime l'idée « to owe ». Ce verbe est irrégulier au présent. Encore une fois, la forme de botte est visible avec ce verbe; le radical change dans les conjugaisons des première et deuxième personnes du pluriel.
-
-| devoir |
-| je dois | nous devons |
-| tu dois | vous devez |
-| il/elle/on doit | ils/elles doivent |
-| participe passé : dû |
-
-Ces trois verbes (**vouloir**, **pouvoir**, et **devoir**) se trouvent souvent au conditionnel afin d'être plus polis dans les requêtes et les commandes.
+Les verbes irréguliers ont des radicaux et parfois des terminaisons qui ne suivent pas de schéma. Il y a relativement peu de verbes irréguliers, mais ces verbes sont parmi les plus fréquents.
+
+| infinitif : être | participe passé : été |
+|---|---|
+| je **suis** | nous **sommes** |
+| tu **es** | vous **êtes** |
+| il/elle/on **est** | ils/elles **sont** |
+
+{% include information.html content="Le seul verbe qui a une forme *nous* qui ne se termine pas par *-ons* est *être* (*nous <ins>sommes</ins>*).<br/>Les seuls verbes qui ont une forme *vous* qui ne se termine pas par *-ez* sont *être* (*vous <ins>êtes</ins>*), *faire* (*vous <ins>faites</ins>*), et *dire* (*vous <ins>dites</ins>*).<br/>Les seuls verbes qui ont une forme *ils*/*elles* qui ne se termine pas par *-ent* sont *être* (*ils <ins>sont</ins>*), *faire* (*ils <ins>font</ins>*), *avoir* (*ils <ins>ont</ins>*), et *aller* (*ils <ins>vont</ins>*)." %}
+
+| infinitif : faire | participe passé : fait |
+|---|---|
+| je **fais** | nous **faisons** |
+| tu **fais** | vous **faites** |
+| il/elle/on **fait** | ils/elles **font** |
+
+| infinitif : avoir | participe passé : eu |
+|---|---|
+| j'**ai** | nous **avons** |
+| tu **as** | vous **avez** |
+| il/elle/on **a** | ils/elles **ont** |
+
+| infinitif : aller | participe passé : allé |
+|---|---|
+| je **vais** | nous **allons** |
+| tu **vas** | vous **allez** |
+| il/elle/on **va** | ils/elles **vont** |
+
+| infinitif : dire | participe passé : dit |
+|---|---|
+| je **dis** | nous **disons** |
+| tu **dis** | vous **dites** |
+| il/elle/on **dit** | ils/elles **disent** |
+
+| infinitif : savoir | participe passé : su |
+|---|---|
+| je **sais** | nous **savons** |
+| tu **sais** | vous **savez** |
+| il/elle/on **sait** | ils/elles **savent** |
+
+| infinitif : connaitre | participe passé : connu |
+|---|---|
+| je **connais** | nous **connaissons** |
+| tu **connais** | vous **connaissez** |
+| il/elle/on **connait** | ils/elles **connaissent** |
+
+Les verbes *paraitre* et *apparaitre* sont conjugués comme *connaitre*.
+
+| infinitif : venir | participe passé : venu |
+|---|---|
+| je **viens** | nous **venons** |
+| tu **viens** | vous **venez** |
+| il/elle/on **vient** | ils/elles **viennent** |
+
+Ce schéma s'applique aux verbes *venir* et *tenir* et tous leurs dérivés :
+* *appartenir*, *contenir*, *convenir*, *devenir*, *intervenir*, *maintenir*, *obtenir*, *parvenir*, *prévenir*, *retenir*, *revenir*, *se souvenir*, *soutenir*, *subvenir*, *tenir*
+
+| infinitif : boire | participe passé : bu |
+|---|---|
+| je **bois** | nous **buvons** |
+| tu **bois** | vous **buvez** |
+| il/elle/on **boit** | ils/elles **boivent** |
+
+| infinitif : croire | participe passé : cru |
+|---|---|
+| je **crois** | nous **croyons** |
+| tu **crois** | vous **croyez** |
+| il/elle/on **croit** | ils/elles **croient** |
+
+Le verbe *voir* et ses dérivés (*pourvoir*, *prévoir*, *revoir*) suivent le même schéma que *croire*.
+
+| infinitif : croître | participe passé : crû |
+|---|---|
+| je **croîs** | nous **croissons** |
+| tu **croîs** | vous **croissez** |
+| il/elle/on **croît** | ils/elles **croissent** |
+
+Notez que le verbe *croître* est distingué du verbe *croire* au singulier seulement par l'accent circonflexe.
+
+| infinitif : recevoir | participe passé : reçu |
+|---|---|
+| je **reçois** | nous **recevons** |
+| tu **reçois** | vous **recevez** |
+| il/elle/on **reçoit** | ils/elles **reçoivent** |
+
+D'autres verbes en *-cevoir* (*apercevoir*, *concevoir*, *décevoir*, *percevoir*) suivent le même schéma que *recevoir*.
+
+| infinitif : vouloir | participe passé : voulu |
+|---|---|
+| je **veux** | nous **voulons** |
+| tu **veux** | vous **voulez** |
+| il/elle/on **veut** | ils/elles **veulent** |
+
+| infinitif : pouvoir | participe passé : pu |
+|---|---|
+| je **peux** (ou **puis** dans l'inversion *puis-je*) | nous **pouvons** |
+| tu **peux** | vous **pouvez** |
+| il/elle/on **peut** | ils/elles **peuvent** |
+
+| infinitif : devoir | participe passé : dû |
+|---|---|
+| je **dois** | nous **devons** |
+| tu **dois** | vous **devez** |
+| il/elle/on **doit** | ils/elles **doivent** |
+
+| infinitif : valoir | participe passé : valu |
+|---|---|
+| je **vaux** | nous **valons** |
+| tu **vaux** | vous **valez** |
+| il/elle/on **vaut** | ils/elles **valent** |
+
+| infinitif : s'assoir (ou s'asseoir) | participe passé : assis |
+|---|---|
+| je m'**assieds** (ou **assois**) | nous nous **asseyons** (ou **assoyons**) |
+| tu t'**assieds** (ou **assois**) | vous vous **asseyez** (ou **assoyez**) |
+| il/elle/on s'**assied** (ou **assoit**) | ils/elles s'**asseyent** (ou **assoient**) |
 
 {% include links.html %}

@@ -269,6 +269,16 @@ Si les compléments sont des pronoms, ils sont mis devant *faire* :
 
 {% include callout.html content="Je crois que tu caches d'autres propos mais je vais <ins>te</ins> <ins>les</ins> **faire avouer**. (*te* = accomplit l'action, *les* = reçoit l'action)" type="primary" %}
 
+La forme réfléchie de faire peut être utilisée dans la construction causative pour indiquer qu'une personne a causé une action pour sa propre bénéfice.
+
+{% include callout.html content="Il **s'est fait faire** un faux tatouage." type="primary" %}
+
+Cette construction est parfois utilisée pour décrire des actions qui se produisent par inadvertance.
+
+{% include callout.html content="Ma grand-mère **s'est fait plaquer**." type="primary" %}
+
+Notez que le participe passé **fait** est toujours invariable dans la construction causative.
+
 ### *savoir* et *connaitre*
 
 **Savoir** et **connaitre** se traduisent tous les deux par 'to know' en anglais, mais ils diffèrent par leur valence. Le complément de *savoir* peut être un infinitif, une proposition subordonnée, une interrogation indirecte, ou un nom (mais pas un animé, un endroit, ou un objet concret).

@@ -60,7 +60,14 @@ Aux temps composés (le passé composé, le plus-que-parfait, le passé du subjo
 
 {% include callout.html content="Je **me suis** souvent **posé** la question.<br/><br/>Nous **nous étions** déjà **rencontrés** il y a 50 ans." type="primary" %}
 
-La place du pronom réfléchi est la même que les autres pronoms de complément : devant le verbe à l'affirmatif des temps simples, entre *ne* et le verbe au négatif, devant l'auxiliaire aux temps composés, devant l'infinitif, et après le verbe à l'impératif affirmatif (lié par un trait d'union). À l'impératif affirmatif, les pronoms réfléchis **me** et **te** deviennent **moi** et **toi** après le verbe. Pour plus de détails sur la place des pronoms de complément, voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments) et [Impératif](/grammaire_impératif.html).
+La place du pronom réfléchi est la même que les autres pronoms de complément :
++ devant le verbe à l'affirmatif des temps simples : *je me repose*
++ entre *ne* et le verbe au négatif : *je ne me repose pas*
++ devant l'auxiliaire aux temps composés : *je me suis reposé*
++ devant l'infinitif : *je veux me reposer*
++ après le verbe à l'impératif affirmatif (lié par un trait d'union) : *reposez-vous*
+
+À l'impératif affirmatif, les pronoms réfléchis **me** et **te** deviennent **moi** et **toi** après le verbe. Pour plus de détails sur la place des pronoms de complément, voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments) et [Impératif](/grammaire_impératif.html).
 
 {% include callout.html content="Cette fois, la pop star **ne se cache plus**, ni derrière des images, ni derrière un groupe.<br/><br/>Ils **se sont cachés** tous les trois sous la table.<br/><br/>On ne les voit pas car elles aiment **se cacher**.<br/><br/>**Cache-toi**, il ne faut pas qu'il te voie!" type="primary" %}
 
