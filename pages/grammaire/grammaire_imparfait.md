@@ -99,7 +99,7 @@ Cette même construction peut aussi avoir le sens d'un souhait ('If only...'). C
 
 Notez que le point d'interrogation à la fin de la phrase indique une suggestion, et le point d'exclamation un souhait. En français parlé, cependant, il faut se fier au contexte et à l'intonation pour faire la distinction entre le souhait et la suggestion.
 
-Il est possible de mettre le futur proche (*aller* + infinitif) et le passé immédiat (*venir de* + infinitif) au passé en utilisant l'imparfait.
+Il est possible de mettre le futur périphrastique (*aller* + infinitif) et le passé immédiat (*venir de* + infinitif) au passé en utilisant l'imparfait.
 
 {% include callout.html content="C'est en 2006 que vous avez fait la connaissance de celui qui **allait devenir** votre mari.<br/><br/>L'homme qui est tombé sous le tir d'un policier **venait de commettre** un braquage." type="primary" %}
 

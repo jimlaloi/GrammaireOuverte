@@ -171,7 +171,7 @@ Le temps désigne le moment où se produit l'action du verbe : passé, présent,
 
 Cependant, certains temps établissent leur cadre temporel en se référant à un point de référence dans le passé ou dans le futur. Par exemple, le plus-que-parfait indique une action passée qui s'est produite avant la fin d'une autre action passée. Le futur antérieur indique une action future qui aura eu lieu avant une autre action future. Les actions qui se produisent avant un point de référence passé ou futur sont décrites comme étant *antérieures*.
 
-La forme d'une conjugaison peut être un *temps simple*, en un mot (par ex. l'imparfait, le futur simple), ou un *temps composé*, avec un auxiliaire et le participe passé (par ex. le passé composé, le futur antérieur). Il y a aussi le futur proche, qui est un temps périphrastique composé du verbe *aller* et l'infinitif.
+La forme d'une conjugaison peut être un *temps simple*, en un mot (par ex. l'imparfait, le futur simple), ou un *temps composé*, avec un auxiliaire et le participe passé (par ex. le passé composé, le futur antérieur). Il y a aussi le futur périphrastique, qui est un temps composé du verbe *aller* et l'infinitif.
 
 Voici toutes les conjugaisons verbales (sauf l'infinitif et les participes) catégorisées par temps :
 
@@ -195,7 +195,7 @@ Voici toutes les conjugaisons verbales (sauf l'infinitif et les participes) cat�
 
 **futur**
 - le futur simple - *je ferai* (voir [futur](/grammaire_futur.html))
-- le futur proche - *je vais faire* (voir [futur](/grammaire_futur.html))
+- le futur périphrastique - *je vais faire* (voir [futur](/grammaire_futur.html))
 - le futur antérieur - *j'aurai fait* (voir [futur](/grammaire_futur.html))
 
 ### aspect
