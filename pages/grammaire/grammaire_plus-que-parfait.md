@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-Les principales formes verbales utilisées au passé de l'indicatif sont le passé composé, l'imparfait, et le plus-que-parfait. Comme le passé composé, le plus-que-parfait indique l'aspect perfectif. Cela veut dire qu'il présente une situation comme complète, avec un début et une fin (voir [Verbes](/grammaire_verbes.html#aspect)). Mais le plus-que-parfait ajoute un sens antérieur. C'est-à-dire que l'action décrite par un verbe au plus-que-parfait est située *avant* un point de référence dans le passé (souvent indiqué par un autre verbe au passé composé dans la phrase.)
+Les principales formes verbales utilisées au passé de l'indicatif sont le passé composé, l'imparfait, et le plus-que-parfait. Comme le passé composé, le plus-que-parfait indique l'aspect perfectif. Cela veut dire qu'il présente une situation comme complète, avec un début et une fin (voir [Verbes](/grammaire_verbes.html#aspect)). Mais le plus-que-parfait indique en plus un sens antérieur. C'est-à-dire que l'action décrite par un verbe au plus-que-parfait est située *avant* un point de référence dans le passé (souvent indiqué par un autre verbe au passé composé dans la phrase.)
 
 {% include image.html file="plus-que-parfait_friseChronologique.png" alt="Plus-que-parfait avant un point de référence au passé" caption="Le sens antérieur du plus-que-parfait" %}
 
