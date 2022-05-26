@@ -37,7 +37,7 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 
 ## Sources
 
-À part *Tex's French Grammar* et le *Corpus de référence du français contemporain*, les informations sur ce site ont été tirées de plusieurs sources :
+À part *Tex's French Grammar* et le *Corpus de référence du français contemporain*, les informations sur ce site ont été tirées de plusieurs autres sources :
 
 + Abeillé, Anne et Danièle Godard (2021). *La Grande Grammaire du français*. ACTES SUD. [www.grandegrammairedufrançais.com](https://www.grandegrammairedufrançais.com)
 + Delais-Roussarie, Élisabeth et Laurence Labrune (eds.) (2007). *Des sons et des sens - données et modèles en phonologie et en morphologie*. Hermès.
