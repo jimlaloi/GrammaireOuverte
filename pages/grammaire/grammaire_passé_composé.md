@@ -10,15 +10,35 @@ folder: grammaire
 ## Introduction
 Le passé composé est le temps le plus couramment utilisé pour désigner des actions accomplies dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
 
-{% include callout.html content="Elle **a mangé** un peu de purée. ('She <ins>ate</ins> some mashed potatoes', 'She <ins>has eaten</ins> some mashed potatoes', 'She <ins>did eat</ins> some mashed potatoes'" type="primary" %}
+{% include callout.html content="Elle **a mangé** un peu de purée.<br/>- *'She <ins>ate</ins> some mashed potatoes'*<br/>- *'She <ins>has eaten</ins> some mashed potatoes'*<br/>- *'She <ins>did eat</ins> some mashed potatoes'*" type="primary" %}
 
 Ce temps s'appelle le passé composé car il est composé de deux éléments : le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé :
 
-*passé composé* = *présent de l'auxiliaire* + *participe passé*
+>*passé composé* = *présent de l'auxiliaire* + *participe passé*
 
-Notez que dans la plupart des cas, le verbe auxiliaire est **avoir**, mais certains verbes nécessitent **être** comme auxiliaire.
+Dans la plupart des cas, le verbe auxiliaire est **avoir**, mais certains verbes nécessitent **être** comme auxiliaire.
 
-Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'imparfait qui exprime l'aspect imperfectif. Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin.
+Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'imparfait qui exprime l'aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect) et [Imparfait](/grammaire_imparfait.html)). Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin. Des exemples de contextes où on voit le passé composé incluent :
+
++ une action accomplie à un moment dans le passé
+
+{% include callout.html content="Il **est arrivé** ce matin en France." type="primary" %}
+
++ une action accomplie un certain nombre de fois
+
+{% include callout.html content="J'en **ai parlé** plusieurs fois avec lui." type="primary" %}
+
++ une série d'actions successives dans le passé
+
+{% include callout.html content="Nos lèvres **se sont touchées**, nos langues **se sont rencontrées**, puis il **s'est écarté** de moi, et **a disparu** dans les coulisses." type="primary" %}
+
++ une situation passée dont la durée est définie
+
+{% include callout.html content="J'**ai été** professeur pendant 35 ans." type="primary" %}
+
++ une réaction ou une situation qui a changé
+
+{% include callout.html content="Tu **as été** triste quand il est parti?" type="primary" %}
 
 ## Forme
 
@@ -51,6 +71,14 @@ N'oubliez pas que c'est seulement les verbes intransitifs (et réfléchis) qui p
 Alors que *sortir* et *retourner* prennent l'auxiliaire *être* au passé composé lorsqu'ils sont intransitifs, dans l'exemple ci-dessus ils sont utilisés transitivement (avec les compléments directs *un stylo* et *son sous-bock*). Ils prennent donc *avoir*.
 
 {% include information.html content="Pourquoi est-ce que le français a deux auxiliaires, et qu'est-ce qui distingue les verbes qui utilisent *être* ? C'est dû à la transitivité. Les verbes transitifs ont deux participants: un sujet, qui est plutôt actif dans l'action, et un complément, qui est plutôt passif dans l'action. Les verbes intransitifs n'ont qu'un participant (le sujet), qui est plutôt actif ou passif selon le verbe. Le sujet de *danser* est un agent qui montre de la volonté, alors que le sujet de *tomber* est un victime non-volontaire. Plusieurs langues reflètent cette différence dans la grammaire. Mais l'inventaire précis de ces deux groupes de verbes intransitifs (appelés *inergatifs* et *inaccusatifs* par les linguistes) diffère d'une langue à une autre. Les exceptions apparaissent quand la tendance de distinguer ces deux types de verbes se manifeste en conflit avec la tendance opposée de régulariser un maximum de verbes en utilisant le même auxiliaire." %}
+
+Ne confondez pas les verbes *rentrer*, *retourner*, et *revenir*. *Retourner* 'go back' prend la perspective du point de départ, alors que *revenir* 'come back' prend la perspective de la destination. *Rentrer* a une perspective neutre, mais sa destination est généralement le lieu où on habite (*rentrer chez moi*).
+
+{% include callout.html content="J'avais eu mon dernier rdv en novembre, et je **suis retournée** voir ma psy hier.<br/><br/>En pleine nuit, ils sont partis au Mexique et ne **sont** pas **revenus**.<br/><br/>Nicolas Sarkozy **est rentré** de ses vacances au Maroc." type="primary" %}
+
+Attention au fait que *rester* veut dire 'stay' et non pas 'rest'. Pour dire 'rest', le verbe est *se reposer*.
+
+{% include callout.html content="Il **est resté** à la maison pour s'occuper des mômes!<br/><br/>Hier, les 171 coureurs encore en compétition **se sont reposés**." type="primary" %}
 
 ### l'accord
 
