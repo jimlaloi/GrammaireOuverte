@@ -1,80 +1,72 @@
 ---
 title: L'imparfait
 keywords: imparfait, imperfect
-summary: "L'imparfait en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_imparfait.html
 folder: grammaire
 ---
 
+## Introduction
+
+L'imparfait, l'un des temps passés en français, est généralement utilisé pour décrire des états et des actions habituelles dans le passé. L'imparfait peut être traduit en anglais d'au moins quatre manières différentes selon le contexte.
+
+{% include callout.html content="On **chantait** la \"Marseillaise\".<br/>- *We <ins>sang</ins> the \"Marseillaise\"*<br/>- *We <ins>were singing</ins> the \"Marseillaise\"*<br/>- *We <ins>would sing</ins> the \"Marseillaise\"*<br/>- *We <ins>used to sing</ins> the \"Marseillaise\"*" type="primary" %}
+
+Ce temps s'appelle l'imparfait car il indique le plus souvent un aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect)). Cela veut dire qu'il présente une situation au passé comme ayant une complexité interne ou sans début ou fin précis. Des exemples de contextes où on voit l'imparfait incluent :
+
++ une description qui « dresse le décor » pour une narration qui suivra
+
+{% include callout.html content="Ils **étaient** au deuxième niveau, il **était** vingt heures. Trois hommes **se trouvaient** dans la pièce." type="primary" %}
+
++ une activité qui se passait régulièrement ou un nombre de fois indéfini
+
+{% include callout.html content="Maman et papa **se disputaient** souvent à ce sujet." type="primary" %}
+
++ un état stable dans le passé
+
+{% include callout.html content="Elle **s'appelait** Laure, elle **avait** entre 16 et 18 ans." type="primary" %}
+
 ## Forme
-
-L'imparfait, l'un des temps passés en français, est utilisé pour décrire des états et des actions habituelles dans le passé. Il a également plusieurs usages idiomatiques.
-
-### radical
 Le radical de l'imparfait est la première personne du pluriel (**nous**) du présent, moins le **-ons**. Le radical de l'imparfait est régulier pour tous les verbes sauf **être** :
 
-| verbe | forme **nous** au présent | radical de l'imparfait |
-| verbes **-er**: parler | nous parlons | parl- |
-| verbes **-ir**: finir | nous finissons | finiss- |
-| verbes **-re**: descendre | nous descendons | descend- |
-| faire | nous faisons | fais- |
-| prendre | nous prenons | pren- |
-| partir | nous partons | part- |
-| **être** | nous sommes | **ét-** |
+| verbe | forme *nous* au présent | radical de l'imparfait |
+|---|---|---|
+| verbes **-er**: *parler* | nous parl<ins>ons</ins> | parl- |
+| verbes **-ir**: *finir* | nous finiss<ins>ons</ins> | finiss- |
+| verbes **-re**: *rendre* | nous rend<ins>ons</ins> | rend- |
+| *faire* | nous fais<ins>ons</ins> | fais- |
+| *prendre* | nous pren<ins>ons</ins> | pren- |
+| *partir* | nous part<ins>ons</ins> | part- |
+| *commencer* | nous commenç<ins>ons</ins> | commenç- |
+| **Exception :** *être* | nous sommes | **ét-** |
 
-### terminaisons
-Au radical, ajoutez les terminaisons **-ais**, **-ais**, **-ait**, **-ions**, **-iez** et **-aient**. Notez que **-ais**, **-ais**, **-ait** et **-aient** se prononcent tous de la même manière. Cela signifie que les formes singulières et la 3ème personne du pluriel (la botte) ont toutes le même son !
+Les terminaisons ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez** et **-aient**. Notez que **-ais**, **-ais**, **-ait** et **-aient** se prononcent tous de la même manière.
 
 | danser |
-| je dansais | nous dansions |
-| tu dansais | vous dansiez |
-| il/elle/on dansait | ils/elles dansaient |
+|---|---|
+| je **dans<ins>ais</ins>** | nous **dans<ins>ions</ins>** |
+| tu **dans<ins>ais</ins>** | vous **dans<ins>iez</ins>** |
+| il/elle/on **dans<ins>ait</ins>** | ils/elles **dans<ins>aient</ins>** |
 
-Les verbes à changement de radical comme **voyager** et **commencer** ajoutent un **e** ou un **ç** pour maintenir le son doux du **g** ou du **s**, avant les terminaisons imparfaites qui commencent par **a** (je voyageais, tu voyageais, il/elle/on voyageait, ils/elles voyageaient), dans d'autres mots, avant toutes les formes sauf **nous** et **vous** (nous voyagions, vous voyagiez).
+{% include variation.html content="Les terminaisons **-ais**, **-ais**, **-ait** et **-aient** sont toutes prononcées de la même manière, mais cette prononciation peut varier selon le locuteur. Au Canada, on a tendance à les prononcer avec la voyelle [ɛ] (comme dans le mot *t<ins>ê</ins>te*). L'imparfait est ainsi distingué de l'infinitif et du participe passé : *parlais* [paʁlɛ], *parler*/*parlé* [paʁle]. Mais pour beaucoup de locuteurs en France, surtout dans le Sud, la tendance est de prononcer ces terminaisons avec la voyelle [e] (comme dans le mot *th<ins>é</ins>*). Dans ce cas, il n'y a aucune différence de prononciation entre *parlais*, *parler*, et *parlé* [paʁle]." %}
 
-La négation se forme comme d'habitude en plaçant **ne ... pas** autour du verbe conjugué : Je **ne** dansais **pas**, Tu **ne** t'amusais **pas**.
+{% include information.html content="Si le radical d'un verbe se termine par *i*, les formes de l'imparfait aux premières et deuxièmes personnes du pluriel auront deux *i* : *nous étud<ins>ii</ins>ons*, *vous cr<ins>ii</ins>ez*. C'est possible dans ce cas de prononcer ces verbes avec une voyelle [i] allongée. Mais la plupart du temps, les locuteurs ne font aucune différence de prononciation entre un verbe à l'imparfait comme *criiez* et un verbe au présent comme *criez*." %}
 
-## Fonction
-L'imparfait a deux fonctions principales : pour décrire des actions en cours et des états dans le passé, et pour énoncer des actions habituelles dans le passé. L'imparfait a aussi plusieurs usages idiomatiques. Le passé composé et l'imparfait sont chacun utilisés de manière assez différente dans la narration.
+## Emplois
 
-### états ou description passée
-L'imparfait est utilisé pour décrire des personnes, des lieux, des conditions ou des situations dans le passé. Certains verbes apparaissent plus fréquemment à l'imparfait lorsqu'ils sont au passé puisqu'ils décrivent typiquement des états : **être**, **avoir**, **vouloir**, **pouvoir**. Mais ces verbes apparaissent parfois au passé composé.
+La fonction principale de l'imparfait est d'indiquer l'aspect imperfectif, comme décrit dans l'introduction. Cet emploi met l'imparfait en contraste avec le passé composé.
 
-{% include callout.html content="Quand j'**étais** au lycée, il y **avait** un internat pour sourds et muets juste à côté.<br/><br/>C'**était** un endroit où je **pouvais** dire ce que je **voulais**.<br/><br/>Quand mes enfants **étaient** petits, ils **adoraient** ce bateau." type="primary" %}
+Ce contraste est plus visible dans la narration au passé, lorsque les deux temps se produisent souvent dans la même histoire. Raconter une histoire consiste à la fois à décrire un cadre (actions habituelles, atmosphère, lieux et personnes) et à raconter une intrigue ou une série d'événements, d'actions, de changements de sentiments ou de pensées. En général, toutes les histoires ont une intrigue bien définie des événements, le *premier plan*, et un *arrière-plan* de détails et de descriptions à l'appui.
 
-### actions habituelles dans le passé
-L'imparfait est également utilisé pour énoncer des actions habituelles dans le passé. Ces habitudes passées sont souvent traduites par « used to » ou « would ». Distinguez entre l'utilisation de « would » pour les actions passées habituelles (imparfait) et l'utilisation de « would » pour le conditionnel. A noter que l'imparfait peut aussi se traduire par le passé simple en anglais ; cependant, le contexte, et souvent les adverbes, permettent de savoir que l'action est une habitude du passé.
-
-{% include callout.html content="On **allait** cueillir les fruits en famille et elle **faisait** les confitures.<br/><br/>Les hommes **jouaient** aux cartes et les femmes **chantaient**." type="primary" %}
-
-## Emplois idiomatiques
-L'imparfait a deux utilisations principales : pour décrire des actions en cours ou des états dans le passé, et pour énoncer des actions habituelles dans le passé. L'imparfait a aussi plusieurs usages idiomatiques que l'on retrouve dans les contextes suivants :
-
-### suggestions
-L'imparfait est utilisé pour suggérer une action dans des phrases commençant par **Si on ... ?**
-
-{% include callout.html content="Si tu **allais** nous chercher quelque chose à manger?<br/><br/>Et si on **faisait** une pause ?" type="primary" %}
-
-### souhaits
-L'imparfait est utilisé pour exprimer des souhaits tels que « **If only** we didn't have a test this week! » La structure équivalente française, **si** + imparfait, peut ou non contenir l'adverbe **seulement **:
-
-{% include callout.html content="Si on **voulait** faire des efforts dans les écoles!<br/><br/>Si seulement je **pouvais** aller à Rome!" type="primary" %}
-
-Notez que le point d'interrogation à la fin de la phrase indique une suggestion, et le point d'exclamation un souhait. En français parlé, cependant, il faut se fier au contexte et à l'intonation pour faire la distinction entre le souhait et la suggestion.
-
-Pour d'autres usages de **si** + imparfait, voir le conditionnel. L'imparfait apparaît aussi dans des usages idiomatiques avec **depuis** et **venir de**.
-
-## Narration : passé composé vs imparfait
-Le passé composé est utilisé en français pour répondre à la question « Que s'est-il passé ? » En revanche, on met généralement un verbe à l'imparfait s'il répond à la question « Que se passait-il quand quelque chose d'autre est arrivé ? » Généralement, le passé composé est utilisé pour raconter des événements tandis que l'imparfait est utilisé pour décrire ce qui se passait dans le passé, des états dans le passé ou des habitudes passées.
-Tout cela prend une importance particulière dans la narration d'actions passées, lorsque les deux temps se produisent souvent dans la même histoire. Raconter une histoire consiste à la fois à décrire un cadre (actions habituelles, atmosphère, lieux et personnes) et à raconter une intrigue ou une série d'événements, d'actions, de changements de sentiments ou de pensées. En général, toutes les histoires ont une intrigue bien définie des événements, le premier plan, et un arrière-plan de détails et de descriptions à l'appui. Certains textes littéraires peuvent renverser cette règle, mais c'est dans un effort conscient pour surprendre ou perturber leur lecteur.
-
-| imparfait (mettre la scène) | passé composé (évènement) |
+| imparfait (arrière-plan) | passé composé (évènement) |
+|---|---|
 | Un couple qui **promenait** son chien sur sa propriété ... | ...**a trouvé** un trésor en pièces d'or. |
 
 Les adverbes suivants sont généralement associés à chacun des temps passés :
 
-| adverbes/imparfait | adverbes/passé composé |
+| adverbes associés à l'imparfait | adverbes associés au passé composé |
+|---|---|
 | tous les jours, tous les matins ... | un jour, un matin, un soir ... |
 | chaque jour, chaque matin, chaque mois ... | soudain, brusquement, brutalement ... |
 | en général, généralement, d'habitude . . . | tout d'un coup, tout à coup... |
@@ -82,20 +74,33 @@ Les adverbes suivants sont généralement associés à chacun des temps passés 
 | toujours, souvent ... | d'abord, enfin ... |
 | rarement ... | puis, ensuite ... |
 
-Habituellement, lorsque des verbes comme **être**, **avoir**, **pouvoir**, **vouloir** et **savoir** sont dans une narration passée, ils seront dans l'imparfait, car ils décrivent très probablement un état ou une condition passé. Cependant, lorsque ces verbes (et d'autres verbes similaires) apparaissent au passé composé, ils indiquent un changement d'état ou un changement de condition. Comparez ces exemples :
+Généralement, lorsque des verbes comme **être**, **avoir**, **pouvoir**, **vouloir** et **savoir** sont dans une narration au passé, ils seront à l'imparfait, car ils décrivent très probablement un état ou une condition passé. Cependant, lorsque ces verbes (et d'autres verbes similaires) apparaissent au passé composé, c'est typiquement parce qu'ils indiquent un changement d'état ou un changement de condition. Comparez ces exemples :
 
 {% include callout.html content="Quand j'**avais** quatre ans, moi et mon cousin on **faisait** des bêtises.<br/><br/>Quand nous **avons eu** 21 ans, nous **avons déménagé**." type="primary" %}
 
-Le passé composé est aussi généralement utilisé pour des activités qui ont duré un certain temps précis, avec un début et une fin définis. En revanche, l'imparfait est utilisé pour des durées indéfinies. Regardez ces
-exemples : 
+Le passé composé est aussi généralement utilisé pour des activités qui ont duré un certain temps précis, avec un début et une fin définis. En revanche, l'imparfait est utilisé pour des durées indéfinies. Regardez ces exemples : 
 
 * **période déterminée :** 
 {% include callout.html content="De 1997 à 2002, elle **a été** députée d'Eure-et-Loir.<br/><br/>Pendant 36 ans, j'**ai été** dans l'armée." type="primary" %}
 * **durée indéterminée :** 
-{% include callout.html content="Avant, elle était étudiante en histoire de l'art.<br/><br/>Quand j'étais enfant, le quartier **était** un village, tout le monde **se connaissait** et **se disait** bonjour." type="primary" %}
+{% include callout.html content="Avant, elle **était** étudiante en histoire de l'art.<br/><br/>Quand j'**étais** enfant, le quartier **était** un village, tout le monde **se connaissait** et **se disait** bonjour." type="primary" %}
 
-Mais en fin de compte, c'est l'ensemble du contexte qui détermine lequel de ces deux temps passés utiliser et non un adverbe donné. Par exemple, dans les phrases ci-dessous, le même adverbe, un jour, est utilisé avec l'imparfait ou le passé composé selon le contexte.
+Mais en fin de compte, c'est l'ensemble du contexte qui détermine lequel de ces deux temps passés utiliser et non un adverbe donné. Par exemple, dans les phrases ci-dessous, la même expression adverbiale, *un jour*, est utilisé avec l'imparfait ou le passé composé selon le contexte.
 
 {% include callout.html content="Un jour, mon père **était** dans la cuisine en train de faire la vaisselle.<br/><br/>Un jour, elle **est tombée** gravement malade." type="primary" %}
+
+L'imparfait est aussi utilisé pour suggérer une action dans des phrases commençant par **si**. Cette construction a un sens comme 'How about...' ou 'What if...'.
+
+{% include callout.html content="Si tu **allais** nous chercher quelque chose à manger?<br/><br/>Et si on **faisait** une pause ?" type="primary" %}
+
+Cette même construction peut aussi avoir le sens d'un souhait ('If only...'). Cette structure peut ou non contenir l'adverbe *seulement*.
+
+{% include callout.html content="Si on **voulait** faire des efforts dans les écoles!<br/><br/>Si seulement je **pouvais** aller à Rome!" type="primary" %}
+
+Notez que le point d'interrogation à la fin de la phrase indique une suggestion, et le point d'exclamation un souhait. En français parlé, cependant, il faut se fier au contexte et à l'intonation pour faire la distinction entre le souhait et la suggestion.
+
+Il est possible de mettre le futur proche (*aller* + infinitif) et le passé immédiat (*venir de* + infinitif) au passé en utilisant l'imparfait.
+
+{% include callout.html content="C'est en 2006 que vous avez fait la connaissance de celui qui **allait devenir** votre mari.<br/><br/>L'homme qui est tombé sous le tir d'un policier **venait de commettre** un braquage." type="primary" %}
 
 {% include links.html %}
