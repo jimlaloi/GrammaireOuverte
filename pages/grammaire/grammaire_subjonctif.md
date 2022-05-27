@@ -1,118 +1,84 @@
 ---
 title: Le subjonctif
 keywords: subjonctif, subjunctive
-summary: "Le subjonctif en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_subjonctif.html
 folder: grammaire
 ---
 
-## Subjonctif régulier
-Le subjonctif est l'un des quatre modes en français (indicatif, impératif, subjonctif et conditionnel). Un mode est un terme grammatical qui aide à catégoriser les temps des verbes. Le mode subjonctif est plus utilisé en français qu'en anglais. Il a deux temps : le présent et le passé. Il exprime plusieurs concepts, comme un souhait, un espoir ou un doute, ainsi qu'une obligation ou une nécessité. Une telle expression qui est toujours suivie du subjonctif est **il faut que**.
+## Introduction
 
-### verbes en -er, -re et -ir
-Les terminaisons du subjonctif sont les mêmes pour tous les verbes : **-e**, **-es**, **-e**, **-ions**, **-iez**, **-ent**. Pour la plupart des verbes, le mode subjonctif est formé en supprimant la terminaison **-ent** de la troisième personne du pluriel de l'indicatif présent et en ajoutant les terminaisons du subjonctif. Notez les similarités entre l'indicatif présent et le subjonctif présent des verbes en **-er**. Cela est dû au fait que le même radical est utilisé pour le subjonctif et l'indicatif présent ; les terminaisons sont également identiques à l'exception des formes **nous** et **vous**. Cela signifie que les formes « de la botte » du subjonctif des verbes réguliers en **-er** ressemblent exactement au présent de l'indicatif.
+Le subjonctif est un mode verbal. Comme tous les modes, il indique la relation entre la réalité et la situation évoquée par le verbe. Le subjonctif indique que la situation existe dans l'attitude du locuteur---par exemple, que le locuteur veut la situation, doute la situation, éprouve un sentiment envers la situation, voit la situation comme nécessaire, etc.
 
-Parce que le subjonctif apparaît dans les propositions subordonnées, la conjonction de subordination **que** est généralement incluse dans le cadre du paradigme des formes du subjonctif.
+Cela ne veut pas forcément dire que la situation ne s'est pas aussi produite dans la réalité. Dans l'exemple ci-dessous, la personne à qui la phrase est adressée semble être venue. Mais le but de la phrase est de dire quelque chose sur les désirs du locuteur plutôt que de déclarer que quelqu'un est venu.
 
-| parler |
-| ... que je parle | ... que nous parlions |
-| ... que tu parles | ... que vous parliez |
-| ... qu'il/elle/on parle | ... qu'ils/elles parlent |
+{% include callout.html content="C'est pour ça que j'*ai voulu que* tu **viennes** avec nous." type="primary" %}
 
-| finir |
-| ... que je finisse | ... que nous finissions |
-| ... que tu finisses | ... que vous finissiez |
-| ... qu'il/elle/on finisse | ... qu'ils/elles finissent |
+Le subjonctif apparaît presque toujours en phrase complexe, dans la phrase subordonnée. Dans ce cas c'est la phrase principale qui indique l'attitude du locuteur. La phrase subordonnée avec le verbe au subjonctif est typiquement introduite par la conjonction de subordination *que* (voir [Conjonctions](/grammaire_conjonctions.html)).
 
-| attendre |
-| ... que j'attende | ... que nous attendions |
-| ... que tu attendes | ... que vous attendiez |
-| ... qu'il/elle/on attende | ... qu'ils/elles attendent |
+Comme le conditionnel, le subjonctif peut être conjugué au présent ou au passé. Les seules formes du subjonctif qui sont utilisées courrament sont le **présent du subjonctif** (l'équivalent du présent de l'indicatif) et le **passé du subjonctif** (l'équivalent du passé composé de l'indicatif). Il existe aussi un imparfait du subjonctif et un plus-que-parfait du subjonctif, mais ces formes ne sont utilisées qu'en registre très soutenu à l'écrit (voir [Temps littéraires](/grammaire_temps_littéraires.html)). Ils sont généralement remplacés par le présent du subjonctif ou le passé du subjonctif.
 
-Au singulier des verbes **-re** et **-ir**, la forme du subjonctif diffère du présent de l'indicatif puisque le
-radical est différent pour les deux modes.
+Il n'y a pas de futur du subjonctif---si la phrase principale est au futur, la phrase subordonnée aura le verbe au présent du subjonctif (par exemple : *Il **voudra** que je lui **écrive** un poème pour sa petite Amandine*).
 
-| présent de l'indicatif | présent du subjonctif |
-| je finis | ... que je finisse |
-| j'attends | ... que j'attende |
+## Forme
 
-Notez que, pour toutes les conjugaisons, la troisième personne du pluriel du subjonctif est identique à l'indicatif présent puisque le radical du subjonctif vient de la troisième personne du pluriel.
+La grande majorité des verbes sont réguliers au subjonctif. Même beaucoup de verbes qui sont irréguliers à l'indicatif sont réguliers au subjonctif (*dire*, *connaitre*, *venir*, *boire*, *croire*, *recevoir*, *devoir*, etc.).
 
-| présent de l'indicatif | présent du subjonctif |
-| ils parlent | ... qu'ils parlent |
-| ils finissent | ... qu'ils finissent |
-| ils attendent | ... qu'ils attendent |
+### verbes réguliers
 
-### verbes irréguliers avec des formes régulières au subjonctif (dormir, etc.)
-De nombreux verbes irréguliers au présent de l'indicatif sont réguliers dans la forme du subjonctif. En d'autres termes, le radical est formé en supprimant la terminaison **-ent** de la troisième personne du pluriel de l'indicatif présent, puis les terminaisons **-e**, **-es**, **-e**, **-ions**, **-iez**, **-ent** sont ajoutées. Voici quelques verbes irréguliers, avec les formes subjonctives régulières correspondantes.
+Pour toutes les personnes du singulier (*je*, *tu*, *il*/*elle*/*on*), le subjonctif des verbes réguliers est formé en prenant la forme *ils*/*elles* du présent de l'indicatif, en supprimant le *-ent*, et en ajoutant les terminaisons **-e**, **-es**, **-e** :
+* présent de l'indicatif : *ils reçoivent*
+* supprimer *-ent* : *reçoiv*
+* ajouter les terminaisons : *que je reçoiv<ins>e</ins>*, *que tu reçoiv<ins>es</ins>*, *qu'il/elle reçoiv<ins>e</ins>*
 
-* dormir ... que je **dorme**
-* sortir ... que je **sorte**
-* partir ... que je **parte**
-* lire ... que je **lise**
-* sourire ... que je **sourie**
-* dire ... que je **dise**
-* écrire ... que j'**écrive**
-* mettre ... que je **mette**
-* connaître ... que je **connaisse**
+Pour les première et deuxième personnes du pluriel (*nous* et *vous*), la forme du subjonctif est la même que celle de l'imparfait de l'indicatif :
+* imparfait : *nous recevions*, *vous receviez*
+* subjonctif : *que nous recevions*, *que vous receviez*
 
-### verbes au radical changeant
-Les verbes dont le radical change au présent de l'indicatif ont un radical pour le subjonctif des formes « nous » et « vous » et un autre radical pour les formes « de la botte ». Ces verbes, comme **acheter**, **appeler**, **manger**, **commencer**, utilisent les mêmes deux changements au présent du subjonctif.
+Pour la troisième personne du pluriel (*ils*/*elles*), la forme du subjonctif est la même que celle du présent de l'indicatif :
+* présent de l'indicatif : *ils reçoivent*
+* subjonctif : *ils reçoivent*
 
-{% include callout.html content="Il faut que j'**appelle** un médecin.<br/><br/>Il faut que vous **appeliez** les lieutenants pour leur dire de lever le camp à vingt et une heures." type="primary" %}
+| recevoir |
+|---|---|
+| ... *que je **reçoiv<ins>e</ins>*** | ... *que nous **recev<ins>ions</ins>*** |
+| ... *que tu **reçoiv<ins>es</ins>*** | ... *que vous **recev<ins>iez</ins>*** |
+| ... *qu'il/elle/on **reçoiv<ins>e</ins>*** | ... *qu'ils/elles **reçoiv<ins>ent</ins>*** |
 
-## Subjonctif irrégulier
+Notez que pour beaucoup de verbes, le subjonctif a la même forme que le présent de l'indicatif, à l'exception des formes pour *nous* et *vous*, qui ont la même forme que l'imparfait. Il est donc souvent le cas qu'on ne peut pas savoir si un verbe est conjugué au subjonctif ou à l'indicatif, comme dans la phrase suivante :
 
-### verbes à deux radicaux
-Il existe plusieurs catégories de formes irrégulières du subjonctif. La première de ces catégories concerne les verbes à deux radicaux au subjonctif. Ces verbes ont une irrégularité similaire au présent de l'indicatif (par exemple, 'ils **vienn**ent' MAIS 'nous **ven**ons'). Le radical dans « la botte » (pour les formes **je**, **tu**, **il**/**elle**, **ils**/**elles**) est la troisième personne du pluriel de l'indicatif présent, le même que le radical pour la forme régulière du subjonctif. La première personne du pluriel de l'indicatif présent fournit le second radical pour les formes « nous » et « vous » du subjonctif. Les terminaisons régulières du subjonctif sont ajoutées à ces deux radicaux.
+{% include callout.html content="Il faut que je **parle** au capitaine." type="primary" %}
 
-| venir |
-| que je vienne | que nous venions |
-| que tu viennes | que vous veniez |
-| qu'il/elle/on vienne | qu'ils/elles viennent |
+### verbes irréguliers
 
-À part venir, voici une liste des verbes les plus fréquents à deux radicaux au subjonctif :
+Les verbes suivants ont les mêmes terminaisons que les verbes réguliers (*-e*, *-es*, *-e*, *-ions*, *-iez*, *-ent*), mais un radical irrégulier :
+* faire : **fass**- (*que je **fass<ins>e</ins>***, *que nous **fass<ins>ions</ins>***, etc.)
+* pouvoir : **puiss**- (*que je **puiss<ins>e</ins>***, *que nous **puiss<ins>ions</ins>***, etc.)
+* savoir : **sach**- (*que je **sach<ins>e</ins>***, *que nous **sach<ins>ions</ins>***, etc.)
+* falloir : **faill**- (*qu'il **faill<ins>e</ins>***)
+* pleuvoir : **pleuv**- (*qu'il **pleuv<ins>e</ins>***)
 
-| infinitif | radical pour « la botte » | radical pour **nous** et **vous** |
-| aller | que j'aille | que nous allions |
-| boire | que je boive | que nous buvions |
-| croire | que je croie | que nous croyions |
-| devoir | que je doive | que nous devions |
-| mourir | que je meure | que nous mourions |
-| prendre | que je prenne | que nous prenions |
-| recevoir | que je reçoive | que nous recevions |
-| tenir | que je tienne | que nous tenions |
-| voir | que je voie | que nous voyions |
-| vouloir | que je veuille | que nous voulions |
+Les verbes suivants ont aussi les mêmes terminaisons que les verbes réguliers, mais ils ont deux radicaux irréguliers---un radical pour le singulier et la troisième personne du pluriel, et un autre radical pour les première et deuxième personnes du pluriel :
+* aller : **aill**- (*que j**aill<ins>e</ins>***, etc.), **all**- (*que nous **all<ins>ions</ins>***, *que vous **all<ins>iez</ins>***)
+* valoir : **vaill**- (*que je **vaill<ins>e</ins>***, etc.), **val**- (*que nous **val<ins>ions</ins>***, *que vous **val<ins>iez</ins>***)
+* vouloir : **veuill**- (*que je **veuill<ins>e</ins>***, etc.), **voul**- (*que nous **voul<ins>ions</ins>***, *que vous **voul<ins>iez</ins>***)
 
-### verbes irréguliers : avoir et être
-**Avoir** et **être** sont très irréguliers au subjonctif et doivent être mémorisés. Notez que les formes 'nous' et 'vous' s'écrivent avec la lettre **y** (au lieu du **i** caractéristique des terminaisons régulières du subjonctif). Notez en particulier la prononciation des formes d'**avoir** au subjonctif, qui ont le même son de voyelle que dans **j'ai**, la première personne du singulier du présent de l'indicatif.
-
-| avoir |
-| que j'aie | que nous ayons |
-| que tu aies | que vous ayez |
-| qu'il/elle/on ait | qu'ils/elles aient |
+Les verbes *être* et *avoir* sont complètement irréguliers au subjonctif :
 
 | être |
-| que je sois | que nous soyons |
-| que tu sois | que vous soyez |
-| qu'il/elle/on soit | qu'ils/elles soient |
+|---|---|
+| ... *que je **sois*** | ... *que nous **soyons*** |
+| ... *que tu **sois*** | ... *que vous **soyez*** |
+| ... *qu'il/elle/on **soit*** | ... *qu'ils/elles **soient*** |
 
-Notez la similarité entre les formes des verbes **être** et **avoir** au subjonctif et à l'impératif.
+| avoir |
+|---|---|
+| ... *que j'**aie*** | ... *que nous **ayons*** |
+| ... *que tu **aies*** | ... *que vous **ayez*** |
+| ... *qu'il/elle/on **ait*** | ... *qu'ils/elles **aient*** |
 
-### verbes irréguliers : faire, savoir, pouvoir
-Les verbes **faire**, **savoir** et **pouvoir** ont des radicaux complètement irréguliers. Les terminaisons, cependant, sont régulières.
-
-| faire |
-| que je fasse | que nous fassions |
-| que tu fasses | que vous fassiez |
-| qu'il/elle/on fasse | qu'ils/elles fassent |
-
-* savoir : que je **sache**
-* pouvoir : que je **puisse**
-
-Notez la similarité entre les formes du verbe savoir au subjonctif et à l'impératif.
+{% include information.html content="La voyelle des formes au subjonctif d'*avoir* (*aie*, *aies*, *ait*, *aient*) est la même que dans le présent de l'indicatif *j'ai* : [e]. Les formes de *je*, *tu*, *il*/*elle*/*on* et *ils*/*elles* au subjonctif d'*aller* (*aille*, *ailles*, *aillent*) riment avec *taille* et *travail* : [aj]. On ne prononce le *ll* comme [l] que pour les formes de *nous* et *vous* : *allions* [aljɔ̃], *alliez* [alje]." %}
 
 ## Fonction
 
