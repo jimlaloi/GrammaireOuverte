@@ -186,22 +186,23 @@ Lorsqu'un verbe prend un complément nominal, le marqueur sur le complément dé
 
 Certains verbes peuvent avoir un complément oblique marqué par une autre préposition. Parfois, le choix de préposition change légèrement le sens du verbe.
 
-+ penser à = 'diriger ses pensées vers' (*J'ai tout de suite pensé **à** vous.*)
-+ penser de = 'avoir une opinion de' (*Qu'avez-vous pensé **de** ce reportage?*)
-+ passer par = 'visiter en trajet' (*Je suis passée **par** là.*)
-+ parler à = 'communiquer avec' (*Mais avant tout, je voudrais parler **à** mon père.*)
-+ parler de = 'communiquer au sujet de' (*On parle **de** toi et **de** ton canard partout.*)
++ consister en = 'être constitué de' (*La recombinaison génétique **consiste en** un échange de gènes entre deux chromosomes.*)
 + croire = 'être persuadé par' (*Je crois François Fillon, je n'ai aucune raison de ne pas le croire.*)
 + croire à = 'être persuadé de l'existence de' (*Tout le monde a eu envie de croire **à** un miracle.*)
 + croire en = 'avoir confiance en' (*Il faut être sacrément idiot ou désespéré pour croire **en** vous.*)
-+ jouer à = 'faire un jeu ou un sport' (*Il jouait **au** basket quand il était jeune.*)
-+ jouer de = 'faire de la musique' (*Je chante et je joue **de** la guitare, voilà.*)
++ dépendre de = 'être déterminé ou influencé par' (*Le pronostic **dépend de** la rapidité des soins.*)
 + entendre = 'sentir à l'oreille' (*J'entends ses cris, ses appels au secours.*)
 + entendre (parler) de = 'connaître indirectement' (*Je n'ai jamais entendu parler **de** lui.*)
-+ se rendre compte de = 'devenir conscient de' (*La commissaire se rend compte **de** son erreur.*)
-+ s'apercevoir de = 'devenir conscient de' (*Le spectateur ne doit pas s'apercevoir **de** cette disparition.*)
++ jouer à = 'faire un jeu ou un sport' (*Il jouait **au** basket quand il était jeune.*)
++ jouer de = 'faire de la musique' (*Je chante et je joue **de** la guitare, voilà.*)
++ parler à = 'communiquer avec' (*Mais avant tout, je voudrais parler **à** mon père.*)
++ parler de = 'communiquer au sujet de' (*On parle **de** toi et **de** ton canard partout.*)
++ passer par = 'visiter en trajet' (*Je suis passée **par** là.*)
++ penser à = 'diriger ses pensées vers' (*J'ai tout de suite pensé **à** vous.*)
++ penser de = 'avoir une opinion de' (*Qu'avez-vous pensé **de** ce reportage?*)
 + prendre pour = 'confondre avec, croire à tort qu'on est' (*On nous prend **pour** des jeunes sans expérience.*)
-+ consister en = 'être constitué de' (*La recombinaison génétique **consiste en** un échange de gènes entre deux chromosomes.*)
++ s'apercevoir de = 'devenir conscient de' (*Le spectateur ne doit pas s'apercevoir **de** cette disparition.*)
++ se rendre compte de = 'devenir conscient de' (*La commissaire se rend compte **de** son erreur.*)
 
 ## Observations sur quelques prépositions
 

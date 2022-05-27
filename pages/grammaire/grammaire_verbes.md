@@ -150,7 +150,7 @@ L'indicatif est utilisé par défaut. Si un contexte ne requiert pas un autre mo
 
 {% include callout.html content="Il faut qu'il **prenne** son médicament ." type="primary" %}
 
-**Le conditionnel** indique qu'une situation dépend sur la réalisation d'une condition.
+**Le conditionnel** indique qu'une situation dépend de la réalisation d'une condition.
 
 {% include callout.html content="Si je pouvais je **prendrais** un médicament pour dormir et ne me réveiller qu'après les fêtes." type="primary" %}
 

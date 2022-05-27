@@ -7,8 +7,6 @@ permalink: grammaire_futur.html
 folder: grammaire
 ---
 
-
-
 ## Introduction
 Il existe trois temps du futur en français : le futur périphrastique, le futur simple, et le futur antérieur.
 
