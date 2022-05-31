@@ -139,7 +139,9 @@ Un groupe très limité de verbes dont l'infinitif se termine par *-ir* ont les 
 | il/elle/on **ouvr<ins>e</ins>** | ils/elles **ouvr<ins>ent</ins>** |
 
 Les verbes conjugués comme *ouvrir* incluent:
-* *accueillir*, *couvrir*, *cueillir*, *découvrir*, *offrir*, *recouvrir*, *recueillir*, *souffrir*
+* *couvrir*, *découvrir*, *offrir*, *recouvrir*, *souffrir*
+
+*Cueillir* et ses dérivés (*accueillir*, *recueillir*) sont aussi conjugués comme *ouvrir* sauf qu'ils ont un participe passé comme *finir* (*cueilli*).
 
 ### verbes *-ir* (comme *partir*)
 Les verbes **partir**, **sortir** et **dormir** ont un radical régulier au pluriel, mais le radical au singulier se termine en *r*. Les terminaisons au singulier sont celles de *finir*, et les terminaisons au pluriel sont celle d'*ouvrir*.
@@ -171,7 +173,7 @@ Les verbes **partir**, **sortir** et **dormir** ont un radical régulier au plur
 | il/elle/on **rend** | ils/elles **rend<ins>ent</ins>** |
 
 Les verbes conjugués comme *rendre* incluent :
-* *attendre*, *rendre*, *dépendre*, *entendre*, *répondre*, *pendre*, *vendre*, *perdre*
+* *tendre* (*attendre*, *entendre*), *pendre* (*dépendre*, *répondre*), *vendre*, *perdre*
 
 Le verbe *rompre* est conjugué comme *rendre* sauf qu'il y a la terminaison *-t* à la troisième personne du singulier : *il rompt*.
 * Les verbes dérivés de *rompre* sont aussi conjugués de cette manière: *corrompre*, *interrompre*
