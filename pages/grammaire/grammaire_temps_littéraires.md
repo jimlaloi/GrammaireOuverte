@@ -1,69 +1,61 @@
 ---
 title: Les temps littéraires
 keywords: temps littéraires, verbes
-summary: "Les temps littéraires en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_temps_littéraires.html
 folder: grammaire
 ---
 
+## Introduction
+
+Certains temps du passé qui étaient utilisés couramment dans le français d'autrefois sont devenus archaïques. Ils ont été remplacés dans le français oral, et de plus en plus dans le français écrit, par d'autres temps du passé (le passé composé, le plus-que-parfait, le passé du subjonctif).
+
+Ces temps sont encore utilisés dans un style très soutenu, principalement à l'écrit. On voit ces temps parfois dans les journaux, les romans, les documents religieux, la correspondance officielle, et d'autres genres formels. Aux registres informels à l'écrit (par exemple dans les blogs, les mails, les affiches...) on n'utilise pas ces temps. À l'oral, ces temps ne sont presque jamais utilisés. L'exception serait des genres oraux très formels, comme un discours politique préparé à l'avance, ou des situations où on souhaite apporter un sens archaïque, comme quand on raconte un conte de fées.
+
+Pour la plupart des gens qui apprennent le français comme langue seconde, il n'est probablement pas très utile d'apprendre à conjuguer ces temps. Mais il est important de savoir les reconnaître, afin de comprendre des textes qui les utilisent.
+
 ## Le passé simple
 
-Le passé simple est un passé réservé principalement au discours écrit. Il peut cependant être utilisé dans un langage parlé très formel, comme les discours présidentiels, les sermons ou la diffusion d'informations. Il a traditionnellement été utilisé uniquement pour des évènements achevés dans un passé historique lointain; cependant, les écrivains modernes l'utilisent parfois pour un effet stylistique.
-Le passé simple se traduira généralement en anglais par un prétérit, c'est-à-dire le passé simple : « I talk**ed** ». Mais comme le passé composé, le passé simple n'est utilisé en français que pour mentionner les changements et les évènements, tandis que l'imparfait reste le temps utilisé pour décrire le cadre, l'atmosphère, un état d'esprit en cours ou la situation générale.
+Le passé simple est utilisé à la place du passé composé. Dans des narrations au registre soutenu ou archaïque, on utilise le passé simple pour des évènements et l'imparfait pour des descriptions (voir [Imparfait](/grammaire_imparfait.html#emplois)). Ce temps s'appelle le passé *simple* car, en contraste avec le passé composé qui comprend un auxiliaire, il n'y a qu'un mot.
 
-### infinitifs réguliers se terminant par -er, -ir & -re
-Pour tous les verbes réguliers en **-er**, **-ir** et **-re**, le passé simple est formé en supprimant la terminaison, les deux dernières lettres de l'infinitif, et en les remplaçant par les terminaisons suivantes. Il n'y a pas d'auxiliaire et c'est la raison pour laquelle on l'appelle un temps « simple » : c'est un temps à un mot (contrairement au passé composé à deux mots). De nombreux verbes, tels que **aller**, **sortir** et **suivre**, qui sont irréguliers au présent de l'indicatif suivent le paradigme des verbes réguliers dans leurs formes du passé simple.
-
-| terminaisons pour les verbes en -er | terminaisons pour les verbes en -ir et -re |
-| -ai | -âmes | -is | -îmes |
-| -as | -âtes | -is | -îtes |
-| -a | -èrent | -it | irent |
+Pour tous les verbes réguliers en **-er**, le passé simple est formé en supprimant la terminaison (les deux dernières lettres de l'infinitif) et en les remplaçant par les terminaisons suivantes.
 
 | parler |
-| je parlai | nous parlâmes |
-| tu parlas | vous parlâtes |
-| il/elle/on parla | ils/elles parlèrent |
+|---|
+| *je **parl<ins>ai</ins>*** | *nous **parl<ins>âmes</ins>*** |
+| *tu **parl<ins>as</ins>*** | *vous **parl<ins>âtes</ins>*** |
+| *il/elle/on **parl<ins>a</ins>*** | *ils/elles **parl<ins>èrent</ins>*** |
+
+Les verbes réguliers en **-ir** et **-re** ont les mêmes terminaisons :
 
 | finir |
-| je finis | nous finîmes |
-| tu finis | vous finîtes |
-| il/elle/on finit | ils/elles finirent |
+|---|
+| *je **fin<ins>is</ins>*** | *nous **fin<ins>îmes</ins>*** |
+| *tu **fin<ins>is</ins>*** | *vous **fin<ins>îtes</ins>*** |
+| *il/elle/on **fin<ins>it</ins>*** | *ils/elles **fin<ins>irent</ins>*** |
 
 | perdre |
-| je perdis | nous perdîmes |
-| tu perdis | vous perdites |
-| il/elle/on perdit | ils/elles perdirent |
+|---|
+| *je **perd<ins>is</ins>*** | *nous **perd<ins>îmes</ins>*** |
+| *tu **perd<ins>is</ins>*** | *vous **perd<ins>îtes</ins>*** |
+| *il/elle/on **perd<ins>it</ins>*** | *ils/elles **perd<ins>irent</ins>*** |
 
-### verbes irréguliers : avoir, être, faire
-Ces verbes sont irréguliers au passé simple.
-
-| avoir |
-| j'eus | nous eûmes |
-| tu eus | vous eûtes |
-| il/elle/on eut | ils/elles eurent |
-
-| être |
-| je fus | nous fûmes |
-| tu fus | vous fûtes |
-| il/elle/on fut | ils/elles furent |
-
-| faire |
-| je fis | nous fîmes |
-| tu fis | vous fîtes |
-| il/elle/on fit | ils/elles firent |
-
-### autres verbes irréguliers
-Il existe deux ensembles de terminaisons pour le passé simple des verbes irréguliers
+Les autres verbes ont un radical irrégulier (souvent dérivé du participe passé), mais généralement des terminaisons régulières. Il existe deux ensembles de terminaisons pour le passé simple des verbes irréguliers.
 
 | terminaisons en -i- | terminaisons en -u- |
-| -is | -îmes | -us | -ûmes |
-| -is | -îtes | -us | -ûtes |
-| -it | irent | -ut | -urent |
+|---|---|
+| -is | -us |
+| -is | -us |
+| -it | -ut |
+| -îmes | -ûmes |
+| -îtes | -ûtes |
+| -irent | -urent |
 
-Les verbes irréguliers ont généralement des radicaux irréguliers pour le passé simple. Dans certains cas, les radicaux sont les mêmes que le participe passé du verbe. Les radicaux de quelques autres verbes, marqués d'un *, sont complètement irréguliers (comme **naître**, **mourir**, **voir**). Les terminaisons sont régulières, cependant, sauf pour **venir** et **tenir** qui ont des formes plurielles irrégulières.
+Radical du passé simple dérivé du participe passé, terminaisons régulières :
 
 | infinitif | participe passé | passé simple |
+|---|---|---|
 | boire | bu | je bus, tu bus, il but, nous bûmes, vous bûtes, ils burent |
 | connaître | connu | je connus, tu connus, il connut, nous connûmes, vous connûtes, ils connurent |
 | croire | cru | je crus, tu crus, il crut, nous crûmes, vous crûtes, ils crurent |
@@ -73,8 +65,6 @@ Les verbes irréguliers ont généralement des radicaux irréguliers pour le pas
 | falloir | fallu | il fallut |
 | lire | lu | je lus, tu lus, il lut, nous lûmes, vous lûtes, ils lurent |
 | mettre | mis | je mis, tu mis, il mit, nous mîmes, vous mîtes, ils mirent |
-| mourir* | mort | je mourus, tu mourus, il mourut, nous mourûmes, vous mourûtes, ils moururent |
-| naître* | né | je naquis, tu naquis, naquit, nous naquîmes, vous naquîtes, ils naquirent |
 | ouvrir | ouvert | j'ouvris, tu ouvris, il ouvrit, nous ouvrîmes, vous ouvrîtes, ils ouvrirent |
 | pleuvoir | plu | il plut |
 | pouvoir | pu | je pus, tu pus, il put, nous pûmes, vous pûtes, ils purent |
@@ -82,11 +72,30 @@ Les verbes irréguliers ont généralement des radicaux irréguliers pour le pas
 | recevoir | reçu | je reçus, tu reçus, il reçut, nous reçûmes, vous reçutes, ils reçurent |
 | rire | ri | je ris, tu ris, il rit, nous rîmes, vous rîtes, ils rirent |
 | savoir | su | je sus, tu sus, il sut, nous sûmes, vous sûtes, ils surent |
-| tenir* | tenu | je tins, tu tins, il tint, nous tînmes, vous tîntes, ils tinrent |
-| venir* | venu | je vins, tu vins, il vint, nous vînmes, vous vîntes, ils vinrent |
 | vivre | vécu | je vécus, tu vécus, il vécut, nous vécûmes, vous vécûtes, ils vécurent |
-| voir* | vu | je vis, tu vis, il vit, nous vîmes, vous vîtes, ils virent |
 | vouloir | voulu | je voulus, tu voulus, il voulut, nous voulûmes, vous voulûtes, ils voulurent |
+
+Radical irrégulier, terminaisons régulières :
+
+| infinitif | participe passé | passé simple |
+|---|---|---|
+| avoir | eu | j'eus, tu eus, il eut, nous eûmes, vous eûtes, ils eurent |
+| être | été | je fus, tu fus, il fut, nous fûmes, vous fûtes, ils furent |
+| faire | fait | je fis, tu fis, il fit, nous fîmes, vous fîtes, ils firent |
+| mourir | mort | je mourus, tu mourus, il mourut, nous mourûmes, vous mourûtes, ils moururent |
+| naître | né | je naquis, tu naquis, naquit, nous naquîmes, vous naquîtes, ils naquirent |
+| voir | vu | je vis, tu vis, il vit, nous vîmes, vous vîtes, ils virent |
+
+Radical irrégulier, terminaisons irrégulières :
+
+| infinitif | participe passé | passé simple |
+|---|---|---|
+| tenir | tenu | je tins, tu tins, il tint, nous tînmes, vous tîntes, ils tinrent |
+| venir | venu | je vins, tu vins, il vint, nous vînmes, vous vîntes, ils vinrent |
+
+Voici des exemples de l'emploi du passé simple :
+
+{% include callout.html content="À l'heure de la sortie des théâtres, elle **changea** d'itinéraire pour éviter les embouteillages.<br/><br/>Chen **posa** les mains sur la paroi et **fit** signe qu'il était prêt." type="primary" %}
 
 ## Le passé antérieur
 Comme le 'passé simple', le passé antérieur est un temps littéraire. On les retrouve souvent ensemble dans le même texte. Le passé antérieur est utilisé dans littérature, dans l'écriture formelle, et dans les discours très formels, en parlant d'évènements passés qui sont antérieurs à d'autres actions passées ; c'est l'équivalent littéraire du plus-que-parfait. En d'autres termes, il est utilisé pour une action passée qui a été accomplie avant une autre action dans le passé (généralement exprimée au passé simple).
