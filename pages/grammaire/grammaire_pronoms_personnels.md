@@ -132,7 +132,7 @@ Parfois, il y aura à la fois un pronom de complément direct et un pronom de co
 
 {% include callout.html content="S'il a un souci, il **me le** dit.<br/><br/>Je **le leur** ai dit, d'ailleurs." type="primary" %}
 
-À l'impératif affirmatif, les pronoms compléments suivent le verbe.
+À l'impératif affirmatif, les pronoms compléments suivent le verbe (voir [Impératif](/grammaire_impératif.html)).
 
 | | -le | | -moi (m') | | |
 | VERBE | -la | -lui | -toi (t') | -y | -en |
