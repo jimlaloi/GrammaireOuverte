@@ -45,6 +45,7 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 + Grevisse, Maurice (1986). *Le bon usage*. 12e édition. Ducolot.
 + Office québécois de la langue française. [www.oqlf.gouv.qc.ca](http://www.oqlf.gouv.qc.ca/)
 + Ollivier, Jacqueline et Martin Beaudoin (2011). *Grammaire Française*. 5e édition. Cengage Learning.
++ Stavinohová, Zdeňka (1978). Les temps passés de l’indicatif dans le français contemporain. Univerzita J.E. Purkyně.
 + TLFi : Trésor de la langue Française informatisé, [www.atilf.fr/tlfi](http://www.atilf.fr/tlfi), ATILF - CNRS & Université de Lorraine.
 
 
