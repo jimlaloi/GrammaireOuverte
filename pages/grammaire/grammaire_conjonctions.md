@@ -37,20 +37,52 @@ Les conjonctions **ni** et **soit** sont généralement redoublées devant toute
 
 {% include callout.html content="Là, j'ai brûlé **et** <ins>les chaussures</ins> **et** <ins>les pieds</ins>, bien sûr.<br/><br/>Il y a eu une période quand il faisait n'importe quoi, on aurait dit qu'il est **ou** <ins>ivre</ins> **ou** <ins>drogué</ins>." type="primary" %}
 
+Avec la plupart des catégories, c'est possible de coordonner sans conjonction. Cette sorte de coordination est courante à l'oral et comporte généralement l'interprétation d'un *et* sous-entendu :
+
+{% include callout.html content="Ils veulent être **consultés**, **écoutés**, **entendus** ." type="primary" %}
+
 ## Conjonctions de subordination
-Les conjonctions de subordination introduisent des propositions subordonnées ou dépendantes. Les plus couramment utilisés sont **que**, **pendant que**, **quand**/**lorsque**, **depuis que**, **tandis que**, **puisque**, **parce que**.
 
-{% include callout.html content="Le père fait diversion **pendant que** la mère attire les petits derrière la termitière.<br/><br/>Mais je ne suis pas seul, **puisque** tu es là!<br/><br/>Vous reviendrez **quand** vous aurez retrouvé votre bon sens." type="primary" %}
+Contrairement aux conjonctions de coordination, les conjonctions de subordination ne peuvent pas joindre des noms, des verbes, des adjectifs, etc. Elles ne peuvent que joindre deux phrases pour en faire une phrase complexe. Dans une phrase complexe coordonnée, les phrases ont un statut égal. Mais dans une phrase complexe subordonnée, une phrase exprime l'idée principale (c'est donc la *phrase principale*) et l'autre exprime une circonstance (c'est donc la *phrase subordonnée* ou la *phrase subordonnée circonstancielle*).
 
-Certaines de ces conjonctions peuvent se produire avec d'autres temps que le présent, y compris le futur, le conditionnel et l'imparfait. Il existe d'autres conjonctions qui nécessitent le subjonctif.
+La phrase subordonnée circonstancielle peut avoir une variété de relations sémantiques avec la phrase principale, selon la conjonction. Ces relations incluent les suivantes :
 
-### conjonctions de subordination
-Une conjonction de subordination lie une proposition indépendante à une proposition dépendante (ou « subordonnée »). En d'autres termes, une conjonction de subordination joint deux propositions non équivalentes (une indépendantes et une dépendante). Une proposition indépendante est une proposition qui peut être autonome pour former une phrase grammaticale. Une proposition dépendante, d'autre part, ne peut pas être autonome et donc « dépend » de la proposition principale afin de former une pensée complète.
++ une cause
 
-Les conjonctions de subordination les plus couramment utilisées :
+{% include callout.html content="Il faut maintenir cet outil **parce qu'**<ins>il est efficace et répond à un vrai besoin</ins>." type="primary" %}
 
-* que, pendant que, quand, lorsque, depuis que, tandis que, puisque, parce que
++ une concession
 
-{% include callout.html content="Il est donc évident **que** tous les pays européens sont inquiets pour le futur." type="primary" %}
+{% include callout.html content="**Bien qu'**<ins>ayant récupéré une partie de ses fonctions motrices</ins>, il continue à souffrir de différents troubles." type="primary" %}
+
++ une condition
+
+{% include callout.html content="**Si** <ins>tout va bien</ins>, le vélo sera livré en décembre." type="primary" %}
+
++ un temps
+
+{% include callout.html content="Elle est morte **quand** <ins>j'avais 3 ans</ins>." type="primary" %}
+
+Rappelez-vous qu'une circonstancielle exprimant une condition (**si**...) oblige une concordance des temps entre la phrase subordonnée (la condition) et la phrase principale (le conséquent). C'est-à-dire que le temps du verbe dans la condition détermine les temps possibles du verbe dans le conséquent. Pour les détails, voir [Conditionnel](/grammaire_conditionnel.html).
+
+Certaines conjonctions (et la combinaison de certains verbes, prépositions, ou adverbes avec la conjonction **que**) obligent que le verbe dans la phrase subordonnée soit au subjonctif. Après d'autres conjonctions, le verbe est à l'indicatif. Pour les détails, voir [Subjonctif](/grammaire_subjonctif.html). L'emploi du subjonctif varie par dialecte, alors une conjonction qui est suivie du subjonctif dans un certain dialecte pourrait être suivie de l'indicatif dans un autre. Mais comme rappel, voici des conjonctions fréquentes qui sont typiquements suivies de chaque mode selon les normes de la langue :
+
+**Conjonctions typiquement suivies de l'indicatif** :
++ que (après *savoir*, *voir*, *apprendre*, etc.), si, comme, quand, lorsque, puisque, parce que, tandis que, alors que, tant que, dès que, après que, depuis que, pendant que
+
+**Conjonctions typiquement suivies du subjonctif** :
++ que (après *vouloir*, *douter*, *falloir*, etc.), afin que, pour que, bien que, malgré que, sans que, à moins que, avant que, pourvu que, jusqu'à ce que, de crainte que, de peur que
+
+Deux phrases subordonnées peuvent être reliées à une seule phrase principale :
+
+{% include callout.html content="**Depuis que** <ins>ma femme est partie</ins>, et **avant que** <ins>tu arrives</ins>, c'est à elle que je parlais." type="primary" %}
+
+Si la même conjonction introduit plusieurs phrases subordonnées dans la même phrase complexe, elle peut être remplacée par **que** après sa première apparence :
+
+{% include callout.html content="**Si** <ins>tu me réponds</ins> et **que** <ins>tu trouves un remède</ins> je serai très contente." type="primary" %}
+
+Ne confondez pas la subordination circonstancielle, où la phrase subordonnée décrit une circonstance de la phrase principale, et la subordination relative, où la phrase subordonnée décrit les propriétés d'un antécédent dans la phrase principale (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html)). Une phrase subordonnée relative n'est pas liée à la phrase principale par une conjonction de subordination (*quand*, *si*, *puisque*, etc.) mais par un pronom relatif (*qui*, *dont*, *auquel*, etc.). Le mot **que** peut être une conjonction de subordination ou un pronom relatif.
+
+{% include callout.html content="Conjonction de subordination : Pour les repas, c'est clair **que** tu ne manges pas assez surtout le midi.<br/><br/>Pronom relatif : C'est une question **que** pose Michel." type="primary" %}
 
 {% include links.html %}
