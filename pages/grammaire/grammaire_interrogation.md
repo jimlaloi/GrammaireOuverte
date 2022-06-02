@@ -1,22 +1,28 @@
 ---
 title: L'interrogation
 keywords: interrogation, questions, interrogatives
-summary: "Interrogation en français"
+summary: ""
 sidebar: grammaire_sidebar
 permalink: grammaire_interrogation.html
 folder: grammaire
 ---
 
 ## Introduction
-Une construction interrogative est une forme grammaticale utilisée pour poser une question. Il existe deux types de questions : les questions oui/non et les questions d'information. Les questions dites oui/non peuvent être répondues par un simple « oui » ou « non ».
+Une construction interrogative est une forme grammaticale utilisée pour poser une question. Il existe trois types de questions :
+
+Les **questions totales** attendent comme réponse soit *oui* soit *non* soit *si*. Elles sont *totales* car elles incluent toute l'information de la phrase (le sujet, le verbe, les compléments...), et la seule information qui manque est si la phrase est vraie ou fausse.
 
 {% include callout.html content="Vous êtes d'accord ?<br/><br/>Est-ce que tu aimes bien aller à l'école?" type="primary" %} 
 
-Les questions d'information contiennent un mot interrogatif spécifique (qui, quoi, quand, pourquoi, comment) et ne peuvent pas être répondues par **oui** ou par **non**. Leur but est d'obtenir une information spécifique.
+Les **questions alternatives** donnent des alternatives et attendent une réponse qui en choisit une. Comme les questions totales, elles contiennent toute l'information que contient une phrase déclarative et n'ont pas de mot interrogatif. Mais contrairement aux questions totales, elles n'attendent pas une réponse *oui* ou *non*.
 
-{% include callout.html content="Qui vous a donné ça ?<br/><br/>Quand ces efforts vont-ils porter leurs fruits?<br/><br/>Vous l'avez rencontrée comment ?" type="primary" %} 
+{% include callout.html content="Tu as pris le haut ou le bas?<br/><br/>D'abord êtes-vous chrétien, juif, ou athée?" type="primary" %} 
 
-## formuler des questions oui/non
+Les **questions partielles** ont une partie de la phrase (le sujet, le complément...) qui est remplacée par un mot interrogatif. Elles attendent une réponse qui fournit cette information qui manque.
+
+{% include callout.html content="**Qui** vous a donné ça ?<br/><br/>**Quand** ces efforts vont-ils porter leurs fruits?<br/><br/>Vous l'avez rencontrée **comment** ?" type="primary" %} 
+
+## Questions totales
 Le mot « do » est utilisé dans les questions en anglais. De la même manière, les questions françaises oui/non peuvent être formulées avec la phrase **est-ce que**. Notez que **que** devient **qu'** devant une voyelle.
 
 {% include callout.html content="**Est-ce que** vous avez perdu votre accent lyonnais assez facilement?" type="primary" %} 
@@ -58,6 +64,18 @@ Les formes inversées de 'c'est' et 'il y a' sont **est-ce** et **y a-t-il**.
 
 {% include callout.html content="**Est-ce** vraiment nécessaire ?<br/><br/>**Y a-t-il** un risque d'embrasement?" type="primary" %}
 
+**Oui** est une réponse affirmative à une question affirmative, tandis que **si** est une réponse affirmative (contraire) à une question négative.
+
+{% include callout.html content="Tu veux goûter ? **Oui** !<br/><br/>Vous n'êtes jamais venus ? Mais **si** !" type="primary" %} 
+
+**Non** est une réponse négative à une question totale ; **pas**, en soi, nie une partie d'une phrase:
+
+{% include callout.html content="A-t-elle songé à divorcer ? **Non**.<br/><br/>On lance le reportage ? **Pas** tout de suite." type="primary" %} 
+
+## Questions alternatives
+
+## Questions partielles
+
 ### Quel interrogatif et exclamatif
 **Quel** est un adjectif. Comme tout autre adjectif, il s'accorde en nombre et en genre avec le nom qu'il modifie. Pensez à faire la liaison entre **quels**/**quelles** et un mot suivant commençant par une voyelle (**quels** animaux).
 
@@ -73,8 +91,6 @@ Les formes inversées de 'c'est' et 'il y a' sont **est-ce** et **y a-t-il**.
 **Quel** peut également être utilisé pour l'emphase. Dans ce cas, **quel** est suivi soit d'un adjectif, soit d'un nom, et cela signifie « what » ou « what a ». Notez qu'il y a un point d'exclamation à la fin de la phrase.
 
 {% include callout.html content="**Quelle** bonne surprise!<br/><br/>**Quels** beaux dessins !" type="primary" %} 
-
-## Pronoms interrogatifs
 
 ### questions sur les gens
 **Qui** est utilisé pour poser des questions sur les gens. Il peut s'agir du sujet ou de l'objet direct d'une phrase et peut donc signifier « who » ou « whom » Vous pouvez également choisir d'utiliser les formes plus longues : **qui est-ce qui** pour demander « who ? », **qui est-ce que** pour demander « whom ? »
@@ -107,7 +123,7 @@ Les formes inversées de 'c'est' et 'il y a' sont **est-ce** et **y a-t-il**.
 
 {% include callout.html content="**Laquelle** serait moins grave ?<br/><br/>Et si vous devriez en choisir un, vous préféreriez **lequel**?" type="primary" %} 
 
-## Mots interrogatifs : où, quand, comment ...
+### Mots interrogatifs : où, quand, comment ...
 **Où**, **quand**, **comment**, **pourquoi**, **combien**, et **combien de** peuvent être utilisés pour poser des questions avec l'inversion du sujet et du verbe ou avec **est-ce que**. Notez que le mot interrogatif vient avant **est-ce que**.
 
 {% include links.html %}

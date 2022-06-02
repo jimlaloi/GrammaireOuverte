@@ -141,11 +141,8 @@ En général, les adverbes négatifs précèdent les pronoms négatifs (*plus pe
 {% include callout.html content="Je **ne** les ai **encore jamais** vus.<br/><br/>On **ne** sait **plus du tout** où il est passé." type="primary" %}
 
 ## Réponses négatives
-**Oui** est une réponse affirmative à une question affirmative, tandis que **si** est une réponse affirmative (contraire) à une question négative.
 
-{% include callout.html content="Tu veux goûter ? **Oui** !<br/><br/>Vous n'êtes jamais venus ? Mais **si** !" type="primary" %} 
-
-**Non** est une réponse négative à une question oui/non ; **pas**, en soi, nie une partie d'une phrase:
+**Non** est une réponse négative à une question totale ; **pas**, en soi, nie une partie d'une phrase:
 
 {% include callout.html content="A-t-elle songé à divorcer ? **Non**.<br/><br/>On lance le reportage ? **Pas** tout de suite." type="primary" %} 
 
