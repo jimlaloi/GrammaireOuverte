@@ -8,9 +8,9 @@ folder: grammaire
 ---
 
 ## Introduction
-Une construction interrogative est une forme grammaticale utilisée pour poser une question. Il existe trois types de questions :
+Une phrase interrogative pose une question. Il existe trois types de questions :
 
-Les **questions totales** attendent comme réponse soit *oui* soit *non* soit *si*. Elles sont *totales* car elles incluent toute l'information de la phrase (le sujet, le verbe, les compléments...), et la seule information qui manque est si la phrase est vraie ou fausse.
+Les **questions totales** attendent comme réponse *oui* ou *non* (ou *si*, *peut-être*, etc.). Elles sont *totales* car elles incluent toute l'information de la phrase (le sujet, le verbe, les compléments...), et la seule information qui manque est si la phrase est vraie ou fausse.
 
 {% include callout.html content="Vous êtes d'accord ?<br/><br/>Est-ce que tu aimes bien aller à l'école?" type="primary" %} 
 
@@ -22,27 +22,27 @@ Les **questions partielles** ont une partie de la phrase (le sujet, le compléme
 
 {% include callout.html content="**Qui** vous a donné ça ?<br/><br/>**Quand** ces efforts vont-ils porter leurs fruits?<br/><br/>Vous l'avez rencontrée **comment** ?" type="primary" %} 
 
+{% include information.html content="Chaque type de question a une prosodie (ton de voix) différente. Les questions totales ont généralement un ton qui monte vers la fin de la phrase, souvent sur la dernière syllabe :<br/>- *Est-ce que tu aimes bien aller à l'éc<ins>ole</ins>↑ ?*<br/>Les questions alternatives ont généralement un ton qui monte sur la/les première(s) alternative(s) et qui tombe sur la dernière :<br/>- *D'abord êtes-vous chré<ins>tien</ins>↑, <ins>juif</ins>↑, ou a<ins>thée</ins>↓ ?*<br/>Les questions partielles ont généralement un ton qui tombe vers la fin de la phrase :<br/>- *Qui vous a donné <ins>ça</ins>↓ ?*" %}
+
 ## Questions totales
-Le mot « do » est utilisé dans les questions en anglais. De la même manière, les questions françaises oui/non peuvent être formulées avec la phrase **est-ce que**. Notez que **que** devient **qu'** devant une voyelle.
 
-{% include callout.html content="**Est-ce que** vous avez perdu votre accent lyonnais assez facilement?" type="primary" %} 
+Il y a trois moyens de poser une question totale en français. Ils sont grammaticalement équivalents, mais chacun est associé à un style et un contexte particuliers.
 
-Il existe plusieurs autres façons de poser une question en français. Par exemple, une question tag est un mot ou une phrase interrogative « étiquetée » à la fin d'une déclaration qui nécessite une confirmation avec une réponse « oui » ou « non ». **N'est-ce pas ?** est ajouté à la fin d'une question oui/non lorsque le locuteur attend une réponse affirmative.
+### *est-ce que*
 
-{% include callout.html content="Vous mangez avec nous, **n'est-ce pas** ?" type="primary" %} 
+On peut formuler une question totale en ajoutant *est-ce que* au début d'une phrase déclarative (*est-ce qu'* si le mot qui suit commence par une voyelle ou un *h* muet).
 
-La façon la plus courante de poser une question dans une conversation française est d'utiliser une intonation montante. Dans ce genre de construction interrogative, l'ordre des mots est le même qu'une phrase déclarative, mais la voix du locuteur monte à la fin pour signaler la question. Dans une déclaration déclarative, le ton tombe normalement.
+{% include callout.html content="**Est-ce que** vous avez perdu votre accent lyonnais assez facilement?" type="primary" %}
 
-{% include callout.html content="Tu veux que je laisse la lumière allumée ?" type="primary" %} 
+*Est-ce que* appartient à un registre familier et c'est plus commun à l'oral qu'à l'écrit.
 
-En plus de ces moyens, les questions en français peuvent être formulées par inversion du sujet et du verbe.
+### inversion
 
-{% include callout.html content="**Veux-tu** nous expliquer le dessin que tu as fait de ta famille?" type="primary" %} 
+On peut aussi formuler une question totale par inversion de l'ordre du pronom sujet et du verbe. Le verbe est lié au sujet par un trait d'union.
 
-### l'inversion
-Des questions formelles peuvent être posées en inversant l'ordre du pronom sujet et du verbe et en reliant les deux par un trait d'union.
+{% include callout.html content="**Veux-tu** nous expliquer le dessin que tu as fait de ta famille?" type="primary" %}
 
-{% include callout.html content="**As-tu** un peu de temps libre en ce moment ?<br/><br/>**Savez-vous** ce qu'il y a dans mon panier ?" type="primary" %}
+Poser une question par inversion est plus commun à l'écrit qu'à l'oral et appartient à un registre plutôt formel.
 
 A la troisième personne du singulier, lorsque le verbe se termine par une voyelle, un **-t-** est ajouté pour faciliter la liaison.
 
@@ -50,80 +50,121 @@ A la troisième personne du singulier, lorsque le verbe se termine par une voyel
 
 Lorsque le sujet est un nom (propre ou commun), le pronom sujet correspondant (**il**, **elle**, **ils** ou **elles**) est ajouté pour faire l'inversion avec le verbe.
 
-{% include callout.html content="Comment **Clément** va-t-**il** faire face à ces taureaux ?<br/><br/>**La révolution technologique en cours** va-t-**elle** changer les choses ?" type="primary" %} 
+{% include callout.html content="**Netflix** signe-t-**il** la fin de la télévision?<br/><br/>**La révolution technologique en cours** va-t-**elle** changer les choses ?" type="primary" %} 
 
-Dans les temps composés, comme le passé composé, le pronom sujet est inversé avec l'auxiliaire (le verbe conjugué).
+Dans les temps composés, comme le passé composé, le pronom sujet est inversé avec l'auxiliaire. Le participe passé suit le sujet.
 
 {% include callout.html content="La promesse **a-t-elle été** tenue ?<br/><br/>**As-tu goûté** tes produits ? -Non." type="primary" %} 
 
-Pour la négation de l'inversion, **ne** précède le verbe conjugué et la seconde moitié du négatif (**pas**, **jamais**, **plus**, etc.) suit le pronom.
+Pour la négation de l'inversion, **ne** précède le verbe conjugué et le négateur (**pas**, **jamais**, **plus**, etc.) suit le pronom.
 
 {% include callout.html content="**N'**a-t-il **pas** entendu ?<br/><br/>Cela **ne** finira-t-il **jamais** ?" type="primary" %} 
 
-Les formes inversées de 'c'est' et 'il y a' sont **est-ce** et **y a-t-il**.
+Les formes inversées de *c'est* et *il y a* sont **est-ce** et **y a-t-il**.
 
 {% include callout.html content="**Est-ce** vraiment nécessaire ?<br/><br/>**Y a-t-il** un risque d'embrasement?" type="primary" %}
 
-**Oui** est une réponse affirmative à une question affirmative, tandis que **si** est une réponse affirmative (contraire) à une question négative.
+{% include variation.html content="Si l'inversion appartient à un registre plutôt formel, l'inversion à la première personne du singulier est encore plus soutenue. C'est défendu dans la plupart des cas et seulement permis avec quelques verbes : **suis-je** (*être*), **ai-je** (*avoir*), **vais-je** (*aller*), et **dois-je** (*devoir*). *Pouvoir* a une forme spéciale utilisée seulement en inversion pour remplacer *peux* : **puis-je**." %}
 
-{% include callout.html content="Tu veux goûter ? **Oui** !<br/><br/>Vous n'êtes jamais venus ? Mais **si** !" type="primary" %} 
+### structure déclarative
 
-**Non** est une réponse négative à une question totale ; **pas**, en soi, nie une partie d'une phrase:
+On peut poser une question totale avec une structure identique à celle d'une phrase déclarative. La seule différence est la prosodie (le ton de voix monte vers la fin de la phrase).
 
-{% include callout.html content="A-t-elle songé à divorcer ? **Non**.<br/><br/>On lance le reportage ? **Pas** tout de suite." type="primary" %} 
+{% include callout.html content="Tu veux que je laisse la lumière allumée ?" type="primary" %}
+
+Ce type de question appartient à un registre familier, est utilisé plus à l'oral qu'à l'écrit, et s'utilise rarement en début de conversation. C'est typiquement utilisé pour continuer une conversation, et surtout pour réagir à ce que quelqu'un d'autre vient de dire.
+
+Les questions à structure déclarative sont souvent utilisées quand on cherche une confirmation. Si on sait déjà ce que sera la réponse mais on veut exprimer la surprise ou recevoir une explication, on aura tendance à utiliser cette structure.
+
+{% include callout.html content="Tu crois que ça va résoudre nos problèmes?<br/><br/>Il est déjà arrivé ?" type="primary" %}
+
+On peut ajouter des expressions négatives (*n'est-ce pas*, *non*, *pas vrai*) à la fin de la question pour souligner qu'on cherche une confirmation.
+
+{% include callout.html content="Vous mangez avec nous, **n'est-ce pas** ?<br/><br/>C'est un peu ringard, **non**?" type="primary" %}
+
+{% include variation.html content="En français européen, on dit *si* plutôt que *oui* pour faire une réponse affirmative (contraire) à une question négative :<br/>- *Vous n'êtes jamais venus ? Mais **si** (on est venus) !*<br/>En Amérique du Nord, on dit toujours *oui* pour une réponse affirmative, même si la question est négative.<br/>- *Vous n'êtes jamais venus ? Mais **oui** (on est venus) !*<br/>En français africain, on dit *oui* pour confirmer une question et *non* pour la contredire, qu'elle soit affirmative ou négative :<br/>- *Vous n'êtes jamais venus ? **Non** (on est venus)*<br/>- *Vous n'êtes jamais venus ? **Oui** (on n'est jamais venus)*<br/><br/>*Ouais* est une forme très familière de *oui*, utilisée entre amis dans la conversation informelle." %}
 
 ## Questions alternatives
 
+Les questions alternatives sont formées de la même manière que les questions totales, sauf qu'elles comportent la conjonction de coordination **ou**.
+
+{% include callout.html content="Chez vous, c'est plutôt classique **ou** contemporain?" type="primary" %}
+
+Une question alternative peut attendre une réponse *oui*/*non* si la deuxième alternative est un adverbe négatif :
+
+{% include callout.html content="Tu vas jouer **ou non** ?<br/><br/>Il faut laisser sécher **ou pas**?" type="primary" %}
+
+On peut aussi poser une question avec **ou quoi**. Alors que cette construction a la structure d'une question alternative, c'est généralement plutôt une accusation pour laquelle on demande une explication.
+
+{% include callout.html content="Vous boudez mon post, **ou quoi**?" type="primary" %}
+
 ## Questions partielles
 
-### Quel interrogatif et exclamatif
-**Quel** est un adjectif. Comme tout autre adjectif, il s'accorde en nombre et en genre avec le nom qu'il modifie. Pensez à faire la liaison entre **quels**/**quelles** et un mot suivant commençant par une voyelle (**quels** animaux).
+Les questions partielles remplacent un élément de la phrase par un mot interrogatif, qui peut être un pronom, un adjectif, un adverbe, ou un déterminant.
++ **qui**, **que** (*quoi*), **lequel**, **quel**, **combien**, **comment**, **où**, **pourquoi**, **quand**
 
-| masculin singulier | masculin pluriel | féminin singulier | féminin pluriel |
-| quel | quels | quelle | quelles |
+**Quel**, qui indique un choix, est un déterminant qui doit précéder un nom qu'il détermine et s'accorde avec ce nom en genre et en nombre (*quelle*, *quels*, *quelles*).
 
-#### quel interrogatif
-**Quel** est généralement traduit en anglais par 'what' ou 'which'. Il est toujours suivi d'un nom ou du verbe 'être' + nom.
+{% include information.html content="**Quel** peut également être utilisé dans un sens exclamatif :<br/>*- **Quelle** bonne surprise!*<br/>*- **Quels** beaux dessins !*" %}
 
-{% include callout.html content="**Quel** est votre avis réel sur les OGM?<br/><br/>**Quel** âge as-tu?<br/><br/>**Quelle** heure est-il ?" type="primary" %} 
+**Lequel** est un pronom qui remplace *quel + nom* pour indiquer un choix. Il assume le nombre et le genre du nom qu'il remplace (*laquelle*, *lesquels*, *lesquelles*). Avec les prépositions **à** et **de** il fait les formes amalgamées **auquel** (*auxquel(le)s*) et **duquel** (*desquel(le)s*).
 
-#### quel exclamatif
-**Quel** peut également être utilisé pour l'emphase. Dans ce cas, **quel** est suivi soit d'un adjectif, soit d'un nom, et cela signifie « what » ou « what a ». Notez qu'il y a un point d'exclamation à la fin de la phrase.
+**Combien** peut être seul ou suivi d'un nom qu'il quantifie, marqué par la préposition *de*.
 
-{% include callout.html content="**Quelle** bonne surprise!<br/><br/>**Quels** beaux dessins !" type="primary" %} 
+**Que** devient **quoi** quand il est le complément d'une préposition (*avec quoi*, *en quoi*, etc.).
 
-### questions sur les gens
-**Qui** est utilisé pour poser des questions sur les gens. Il peut s'agir du sujet ou de l'objet direct d'une phrase et peut donc signifier « who » ou « whom » Vous pouvez également choisir d'utiliser les formes plus longues : **qui est-ce qui** pour demander « who ? », **qui est-ce que** pour demander « whom ? »
+{% include information.html content="Le mot interrogatif **qui** indique une personne et le mot interrogatif **que** indique une chose. Ces pronoms interrogatifs peuvent être le sujet de la phrase ou un complément.<br/>Ne confondez pas ces mots avec les pronoms relatifs *qui* et *que*. Le pronom relatif *qui* a la fonction du sujet (qu'il soit une personne ou une chose) ou la fonction du complément d'une préposition (seulement si c'est une personne). Le pronom relatif *que* a la fonction du complément direct (qu'il soit une personne ou une chose). Voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html) pour plus de détails." %}
 
-* Comme sujet : **qui**, **qui est-ce qui**
-* Comme objet direct : **qui**, **qui est-ce que**
+Les questions partielles ont les mêmes structures possibles que les questions totales (*est-ce que*, inversion, structure déclarative).
 
-{% include callout.html content="**Qui** va gagner la Coupe du monde?<br/><br/>**Qui** veux-tu consulter ?<br/><br/>**Qui est-ce qui** a apporté une bouteille?<br/><br/>**Qui est-ce que** je vais chercher ?" type="primary" %} 
+### *est-ce que*
 
-* Comme objet d'une préposition : **qui**
+Pour former une question partielle avec *est-ce que*, mettez le mot interrogatif devant *est-ce que* au début de la phrase.
 
-{% include callout.html content="**A qui** appartient cette veste ?<br/><br/>**Pour qui** peuvent-ils voter?" type="primary" %} 
+{% include callout.html content="**Pourquoi est-ce que** j'entends dans ta voix de la tristesse?<br/><br/>**Qu'est-ce que** vous faites dehors à cette heure-ci?<br/><br/>Mais **qui est-ce que** j'entends rire comme ça derrière?<br/><br/>**Quelles** idées **est-ce qu'**il te met dans la tête ?<br/><br/>Et **combien** de temps **est-ce que** ça va durer ?" type="primary" %}
 
-### questions sur les choses
-**Qu'est-ce qui**, **que** et sa forme plus longue **qu'est-ce que** sont utilisés pour poser des questions sur des choses. Ils sont utilisés pour demander « wnat ? ». **Que** et sa forme plus longue **qu'est-ce que** sont des objets directs dans une phrase, alors que **qu'est-ce qui** ne peut être utilisé que comme sujet. (Il n'y a pas de forme abrégée de **qu'est-ce qui**.)
+Si le mot interrogatif remplace le sujet de la phrase, on utilise *est-ce qui* au lieu de *est-ce que*.
 
-* Comme sujet : **qu'est-ce qui**
-* Comme objet direct : **que**, **qu'est-ce que**
-* Comme objet d'une préposition : **quoi**
+{% include callout.html content="**Qui est-ce qui** a apporté une bouteille?<br/><br/>**Qu'est-ce qui** se passait dans sa petite tête ?" type="primary" %}
 
-{% include callout.html content="**Qu'est-ce qui** se passait dans sa petite tête ?<br/><br/>**Qu'est-ce que** vous faites dehors à cette heure-ci?<br/><br/>**Que** pouvons-nous faire ?<br/><br/>Ça sert **à quoi** vos bêtises ?" type="primary" %}
+*Qu'est-ce que c'est que* est utilisé pour demander une définition ou pour exprimer l'incrédulité.
 
-### pronom interrogatif lequel
-**Lequel**, **lesquels**, **laquelle**, **lesquelles** sont des pronoms, c'est-à-dire qu'ils s'emploient à la place d'un nom. Ils sont utilisés pour poser les questions « which one ? » ou « which ones ? » Ils assument le nombre et le genre des noms qu'ils remplacent et se contractent avec les prépositions **à** et **de**.
+{% include callout.html content="**Qu'est-ce que c'est que** ce truc ?<br/><br/>Mais **qu'est-ce que c'est que** cette tenue !" type="primary" %}
 
-| préposition | masculin singulier | masculin pluriel | féminin singulier | féminin pluriel |
-| | lequel | lesquels | laquelle | lesquelles |
-| avec **à** | auquel | auxquels | à laquelle | auxquelles |
-| avec **de** | duquel | desquels | de laquelle | desquelles |
+### inversion
 
-{% include callout.html content="**Laquelle** serait moins grave ?<br/><br/>Et si vous devriez en choisir un, vous préféreriez **lequel**?" type="primary" %} 
+On peut aussi mettre un mot interrogatif au début d'une phrase dont le verbe et le pronom sujet sont à l'ordre inverse.
 
-### Mots interrogatifs : où, quand, comment ...
-**Où**, **quand**, **comment**, **pourquoi**, **combien**, et **combien de** peuvent être utilisés pour poser des questions avec l'inversion du sujet et du verbe ou avec **est-ce que**. Notez que le mot interrogatif vient avant **est-ce que**.
+{% include callout.html content="**Laquelle voulez-vous** ?<br/><br/>**Pour qui peuvent-ils** voter?<br/><br/>**Qu'avez-vous fait** pendant dix ans ?<br/><br/>**Comment allez-vous** ce matin ?<br/><br/>**Quel** âge **as-tu**?<br/><br/>**Quelle** heure **est-il** ?" type="primary" %}
+
+L'inversion dans une question totale ne peut se faire qu'avec un pronom sujet. Si le sujet est un nom, on doit ajouter le pronom correspondant pour faire l'inversion. Par contre, dans une question partielle on peut faire l'inversion avec un nom sujet ou un pronom sujet. Si on fait l'inversion avec un nom sujet, il n'y a pas de trait d'union entre le verbe et le nom.
+
+{% include callout.html content="**Où** sont <ins>les filles</ins> ?<br/><br/>**A qui** appartient <ins>cette veste</ins> ?" type="primary" %}
+
+On peut séparer **quel** du nom qu'il modifie par le verbe *être* :
+
+{% include callout.html content="**Quel** est votre avis réel sur les OGM?" type="primary" %}
+
+### structure déclarative
+
+Si le mot interrogatif remplace le sujet, la manière la plus typique de formuler une question est simplement de mettre le mot interrogatif dans la place du sujet, devant le verbe (Notez que **que** ne peut pas être sujet dans une question à structure déclarative---il faut utiliser **qu'est-ce qui**).
+
+{% include callout.html content="**Qui** va gagner la Coupe du monde?<br/><br/>**Combien** ont réussi à arriver jusqu'ici ?<br/><br/>**Quelles** couleurs sont à la mode ?<br/><br/>**Laquelle** serait moins grave ?" type="primary" %}
+
+On peut aussi utiliser une structure déclarative si le mot interrogatif remplace le complément ou une autre partie de la phrase, en mettant simplement le mot interrogatif dans sa place après le verbe. Cette structure appartient à un registre familier et est plus commun à l'oral qu'à l'écrit. Notez que le mot interrogatif **que** devient **quoi** après le verbe.
+
+{% include callout.html content="Tu préfères **quoi** ?<br/><br/>Je mets **laquelle** ?<br/><br/>Tu t'appelles **comment**?<br/><br/>Ils sont partis **où**, les pompiers ?" type="primary" %}
+
+Les adverbes interrogatifs *pourquoi*, *comment*, et *où* peuvent aussi être mis en début de phrase, suivie d'une structure déclarative. À part *Comment tu t'appelles ?*, formulation courante qui utilise cette structure, ce type de question appartient à un registre très familier et n'est pas standard.
+
+{% include callout.html content="**Pourquoi** tu dis ça ?<br/><br/>**Comment** il va ?<br/><br/>**Où** tu vas ?" type="primary" %}
+
+{% include variation.html content="Pour demander à quelqu'un de répéter ce qu'il vient de dire, ou pour exprimer l'incrédulité, on peut dire « *Comment ?* ». Dans un registre très familier, on peut dire « *Quoi ?* » avec le même sens. Dans un registre plus formel, on peut dire « *Pardon ?* » pour demander à quelqu'un de se répéter, mais pas pour exprimer l'incrédulité." %}
+
+### mots interrogatifs multiples
+
+C'est possible d'inclure plusieurs mots interrogatifs dans la même question. Si deux mots interrogatifs viennent avant ou après le verbe, ils doivent être liés par une conjonction de coordination (*ou*, *et*, etc.). On peut aussi avoir un mot interrogatif devant le verbe et un autre après.
+
+{% include callout.html content="**Comment** et **pourquoi** avez-vous pris cet enfant ?<br/><br/>Vos fans pourront vous retrouver **où** et **quand**?<br/><br/>Première question : **qui** était au courant de **quoi** et **quand** ?" type="primary" %}
 
 {% include links.html %}
