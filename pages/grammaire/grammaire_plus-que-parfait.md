@@ -34,7 +34,7 @@ Le plus-que-parfait se forme avec l'auxiliaire à l'imparfait suivi du participe
 
 Le participe passé doit parfois faire l'accord en genre et en nombre avec le sujet ou le complément direct. Les règles d'accord pour le plus-que-parfait sont les mêmes que celles pour le passé composé.
 
-La négation se forme de la manière habituelle en plaçant **ne ... pas** autour de l'auxiliaire : *Je **n'**avais **pas** mangé*, *Je **n'**étais **pas** allé*, etc.
+La négation se forme de la manière habituelle en plaçant **ne ... pas** autour de l'auxiliaire&nbsp;: *Je **n'**avais **pas** mangé*, *Je **n'**étais **pas** allé*, etc.
 
 ## Emplois
 
@@ -50,14 +50,14 @@ Pour renforcer son sens antérieur, le plus-que-parfait est souvent, mais pas to
 
 {% include callout.html content="Il m'a dit qu'il était content pour moi et très fier de ce que j'**avais accompli**.<br/><br/>Les personnels de cuisine **avaient déjà été évacués** à l'arrivée des secours.<br/><br/>Il **n'avait pas encore dit** un seul mot quand la rampe de projecteurs lui est tombée dessus écrasant sous un poids terrible son pauvre corps." type="primary" %}
 
-{% include information.html content="L'équivalent anglais du plus-que-parfait est *had + participe passé*. Néanmoins, toutes les instances de *had + participe passé* en anglais ne sont pas traduites en plus-que-parfait en français. Par exemple, *depuis* est généralement utilisé avec **l'imparfait** (pas le plus-que-parfait) :<br/>- *Jocelyne était venue nous confier un secret qui la **rongeait** depuis quarante ans.* ('<ins>had bothered</ins> her for 40 years')<br/>En plus, « *had <ins>just</ins> done something* » se traduit généralement par **venir de** à l'imparfait :<br/>- *Un train **venait d'**entrer en gare quand nous sommes arrivées.* ('<ins>had just entered</ins> the station')" %}
+{% include information.html content="L'équivalent anglais du plus-que-parfait est *had + participe passé*. Néanmoins, toutes les instances de *had + participe passé* en anglais ne sont pas traduites en plus-que-parfait en français. Par exemple, *depuis* est généralement utilisé avec **l'imparfait** (pas le plus-que-parfait)&nbsp;:<br/>- *Jocelyne était venue nous confier un secret qui la **rongeait** depuis quarante ans.* ('<ins>had bothered</ins> her for 40 years')<br/>En plus, « *had <ins>just</ins> done something* » se traduit généralement par **venir de** à l'imparfait&nbsp;:<br/>- *Un train **venait d'**entrer en gare quand nous sommes arrivées.* ('<ins>had just entered</ins> the station')" %}
 
-Le plus-que-parfait est également utilisé pour exprimer des regrets ou des désirs par rapport au passé, comme dans cet exemple :
+Le plus-que-parfait est également utilisé pour exprimer des regrets ou des désirs par rapport au passé, comme dans cet exemple&nbsp;:
 
 {% include callout.html content="Si seulement son père **avait pu** voir ça." type="primary" %}
 
-Le plus-que-parfait est aussi couramment utilisé dans les propositions avec **si** suivi du conditionnel passé (voir [Conditionnel](/grammaire_conditionnel.html)). Par exemple:
+Le plus-que-parfait est aussi couramment utilisé dans les propositions avec **si** suivi du conditionnel passé (voir [Conditionnel](/grammaire_conditionnel.html)). Par exemple&nbsp;:
 
-{% include callout.html content="Si j'**avais été** marrant, elle aurait rigolé.<br/><br/>Si j'**avais été** présent, est-ce que ça aurait changé le résultat final ? Franchement je ne sais pas." type="primary" %}
+{% include callout.html content="Si j'**avais été** marrant, elle aurait rigolé.<br/><br/>Si j'**avais été** présent, est-ce que ça aurait changé le résultat final&nbsp;? Franchement je ne sais pas." type="primary" %}
 
 {% include links.html %}

@@ -38,17 +38,17 @@ Notez comment les formes singulière et plurielle de l'adjectif masculin ont la 
 * **petits** [pəti]
 * **petites** [pətit]
 
-L'adjectif prend le masculin pluriel lorsque les noms qu'il modifie sont de genres différents : 
+L'adjectif prend le masculin pluriel lorsque les noms qu'il modifie sont de genres différents&nbsp;: 
 
 {% include callout.html content="Ses yeux et ses oreilles sont petit**s**." type="primary" %}
 
-Un nom pluriel peut être modifié par plusieurs adjectifs singuliers si chaque adjectif est lié à un membre différent de la collectivité évoquée par le nom :
+Un nom pluriel peut être modifié par plusieurs adjectifs singuliers si chaque adjectif est lié à un membre différent de la collectivité évoquée par le nom&nbsp;:
 
 {% include callout.html content="A 150 km de là, retour à Montréal, un savoureux mélange entre les cultures **québécoise** et **américaine**." type="primary" %}
 
 ### irrégularités de genre
 
-Certains adjectifs sont complètement irréguliers :
+Certains adjectifs sont complètement irréguliers&nbsp;:
 
 | **masculin** | **féminin** |
 | doux | douce |
@@ -78,7 +78,7 @@ D'autres adjectifs peuvent être regroupés en catégories :
 
 Certains adjectifs ont des formes masculines et féminines identiques. C'est généralement le cas des adjectifs en **e** dans la forme masculine (*pauvre*, *difficile*, *sensible*, etc.) et des adjectifs empruntés comme *snob*, *cool*, etc.
 
-{% include callout.html content="Le progrès est **énorme** pour les salariés âgés de moins de trente ans.<br/><br/>Cette rencontre est **énorme** !<br/><br/>Les risques sont **énormes** pour des chances de réussite relativement minces." type="primary" %}
+{% include callout.html content="Le progrès est **énorme** pour les salariés âgés de moins de trente ans.<br/><br/>Cette rencontre est **énorme**&nbsp;!<br/><br/>Les risques sont **énormes** pour des chances de réussite relativement minces." type="primary" %}
 
 **Beau**, **nouveau** et **vieux** ont des formes irrégulières. Notez les formes spéciales au masculin singulier lorsqu'elles précèdent un mot commençant par une voyelle ou un **h** muet.
 
@@ -88,47 +88,47 @@ Certains adjectifs ont des formes masculines et féminines identiques. C'est gé
 | vieux [vjø] | vieil [vjɛj] | vieille [vjɛj] | vieux [vjø] | vieilles [vjɛj] |
 
 ### irrégularités de nombre
-La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un **-s** est ajouté aux formes singulières masculines ou féminines. Il existe deux exceptions majeures à cette règle :
+La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un **-s** est ajouté aux formes singulières masculines ou féminines. Il existe deux exceptions majeures à cette règle&nbsp;:
 
-1. N'ajoutez pas de **s** à la forme masculine des adjectifs se terminant par **s** ou **x**. Le masculin singulier et le pluriel sont ainsi identiques : un animal **heureux**, des animaux **heureux**. Cependant, le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier : une fille **heureuse**, des filles **heureuses**.
+1. N'ajoutez pas de **s** à la forme masculine des adjectifs se terminant par **s** ou **x**. Le masculin singulier et le pluriel sont ainsi identiques&nbsp;: un animal **heureux**, des animaux **heureux**. Cependant, le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier&nbsp;: une fille **heureuse**, des filles **heureuses**.
 
 2. Les adjectifs se terminant par **al** au masculin singulier se transforment en **aux** au masculin pluriel.
 
 {% include callout.html content="Il est **international**, même s'il est d'origine roumaine.<br/><br/>Elle est en contact avec énormément de gens **internationaux**." type="primary" %}
 
-Le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier : 
+Le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier&nbsp;: 
 
 {% include callout.html content="Il sait bien que sa notoriété **internationale** le protège.<br/><br/>Il écouta plus que d'habitude les informations **internationales**." type="primary" %}
 
 ### exceptions à l'accord
 
-Il y a quelques circonstances où l'adjectif reste à la forme masculine singulière quels que soient le genre et le nombre du nom qu'il modifie :
+Il y a quelques circonstances où l'adjectif reste à la forme masculine singulière quels que soient le genre et le nombre du nom qu'il modifie&nbsp;:
 
 + Après un [pronom indéfini](/grammaire_pronoms_indéfinis.html) et la préposition **de** (*quelqu'un d'intelligent*)
 + Si l'adjectif modifie un verbe plutôt qu'un nom (*Elle chante **fort***; *La voiture coûte **cher***; *Les filles travaillent **dur***)
 + Après **ce** + **être** (*C'est beau*)
 + Si c'est un adjectif de couleur composé (*bleu clair*, *vert foncé*)
-+ Si c'est un adjectif de couleur dérivé d'un nom (*marron*, *orange*, *chocolat*; Exception: *rose*; l'accord de *châtain* est variable)
++ Si c'est un adjectif de couleur dérivé d'un nom (*marron*, *orange*, *chocolat*; Exception&nbsp;: *rose*; l'accord de *châtain* est variable)
 + Si c'est un adjectif évaluatif emprunté (*cool* et *super* sont invariables; l'accord au pluriel est variable pour *chic* et *extra*)
-+ Après *avoir l'air* si l'adjectif modifie *l'air* et non la personne :
++ Après *avoir l'air* si l'adjectif modifie *l'air* et non la personne&nbsp;:
 
 {% include callout.html content="Elle a l'air **charmante** cette jeune fille pleine de jeunesse. (= elle est charmante)<br/><br/>Elle a cet air **sérieux** qui m'a plu quand elle lisait mes rapports. (= son attitude est sérieuse)" type="primary" %}
 
 ## Place
 La plupart du temps, l'adjectif suit le nom qu'il modifie, mais il y a quelques adjectifs qui précèdent normalement le nom.
 
-{% include callout.html content="Très remarqué, il a fait une **belle** carrière.<br/><br/>C'est la **troisième** fois que le club est récompensé.<br/><br/>La valise était remplie de **vieux** journaux !" type="primary" %}
+{% include callout.html content="Très remarqué, il a fait une **belle** carrière.<br/><br/>C'est la **troisième** fois que le club est récompensé.<br/><br/>La valise était remplie de **vieux** journaux&nbsp;!" type="primary" %}
 
 Un adjectif aura tendance à précéder le nom si c'est...
 
-+ un nombre (cardinal: *deux*, *trois*; ordinal: *premier*, *deuxième*, *troisième*; adjectif de quantité: *seul*, *quelques*)
++ un nombre (cardinal&nbsp;: *deux*, *trois*; ordinal&nbsp;: *premier*, *deuxième*, *troisième*; adjectif de quantité&nbsp;: *seul*, *quelques*)
 + un adjectif de similarité (*même*, *autre*)
 + une évaluation subjective (*bon*, *mauvais*, *beau*, *joli* --- en contraste avec des qualités objectives comme *vert*, *carré*)
 + une qualité qui dépend du nom (*une **petite** maison* est plus grande qu'*un **grand** insecte* --- s'applique à *grand*, *petit*, *gros*, *jeune*, *nouveau*, *vieux*...)
 
 Parmi ces catégories, les adjectifs qui sont plus courts et communs ont plus tendance à précéder le nom. *Bon* et *incroyable* sont tous les deux des évaluations subjectives, mais *bon*, qui est monosyllabique, précède quasiment toujours le nom alors qu'*incroyable* peut apparaître avant ou après le nom.
 
-Si un adjectif est modifié par un complément ou un adverbe long, il est mis après le nom pour ne pas trop séparer le nom de son déterminant:
+Si un adjectif est modifié par un complément ou un adverbe long, il est mis après le nom pour ne pas trop séparer le nom de son déterminant&nbsp;:
 
 {% include callout.html content="Ce sont des frères **beaux à voir**.<br/><br/>J'ai vu un parc avec des arbres **vraiment petits**." type="primary" %}
 
@@ -147,7 +147,7 @@ Certains adjectifs peuvent être placés avant ou après le nom mais avec une di
 | **simple** | Une **simple** déclaration de travaux est demandée. (just) | Il faut comprendre que mes parents sont des gens **simples**. (uncomplicated) |
 | **vrai** | C'était là en réalité sa **vraie** passion. (real) | Il irait la retrouver après tout cela et il lui parlerait enfin des choses **vraies**. (true) |
 
-Un changement de place ne change pas forcément le sens de l'adjectif. Certains adjectifs ont le même sens avant ou après le nom :
+Un changement de place ne change pas forcément le sens de l'adjectif. Certains adjectifs ont le même sens avant ou après le nom&nbsp;:
 
 {% include callout.html content="On arrive devant une **énorme** usine et on voit un monsieur qui vient.<br/><br/>Ce film a eu un succès **énorme**.<br/><br/>Je vous souhaite un très **agréable** séjour parmi nous.<br/><br/>Il régnait une odeur **agréable** dans la cuisine." type="primary" %}
 
@@ -157,7 +157,7 @@ Un nom peut être modifié par plus d'un adjectif à la fois. Les adjectifs pren
 
 ## Les participes comme des adjectifs
 
-Les participes présents et les participes passés des verbes sont souvent utilisés comme adjectifs. Ils s'accordent donc en nombre et en genre avec le nom qu'ils modifient, tout comme les adjectifs réguliers. La distinction entre les adjectifs dérivés du participe présent et du participe passé est similaire à celle entre les adjectifs **-ing** et **-ed** en anglais : **fatigant** (tiring) / **fatigué** (tired).
+Les participes présents et les participes passés des verbes sont souvent utilisés comme adjectifs. Ils s'accordent donc en nombre et en genre avec le nom qu'ils modifient, tout comme les adjectifs réguliers. La distinction entre les adjectifs dérivés du participe présent et du participe passé est similaire à celle entre les adjectifs **-ing** et **-ed** en anglais&nbsp;: **fatigant** (tiring) / **fatigué** (tired).
 
 {% include callout.html content="Il était **fatigué** d'avoir marché si longtemps.<br/><br/>Nous avons eu un concert hyper **fatigant** hier soir." type="primary" %}
 
@@ -167,9 +167,9 @@ Le participe présent est formé en supprimant le **-ons** de la forme **nous** 
 
 La forme du participe passé dépend de la classe du verbe (**-er**, **-ir**, **-re** ou irrégulier).
 
-{% include callout.html content="Un couple **uni**, un foyer bien **tenu**. (*unir*, *tenir*)<br/><br/>Je suis comme un enfant **perdu** ! (*perdre*)<br/><br/>Vous êtes un enfant **gâté**, vous avez trop de chance, tout vous réussit. (*gâter*)" type="primary" %}
+{% include callout.html content="Un couple **uni**, un foyer bien **tenu**. (*unir*, *tenir*)<br/><br/>Je suis comme un enfant **perdu**&nbsp;! (*perdre*)<br/><br/>Vous êtes un enfant **gâté**, vous avez trop de chance, tout vous réussit. (*gâter*)" type="primary" %}
 
-Notez que les participes passés utilisés comme adjectifs peuvent avoir un sens passif, et donc être suivis d'un agent introduit par **par** ou **de**:
+Notez que les participes passés utilisés comme adjectifs peuvent avoir un sens passif, et donc être suivis d'un agent introduit par **par** ou **de**&nbsp;:
 
 {% include callout.html content="Elle imaginait Bordeaux en village **entouré de** vignes.<br/><br/>Vous pouvez alors leur suggérer de les donner à un autre enfant moins **gâté par** la vie." type="primary" %}
 
@@ -181,7 +181,7 @@ L'adjectif possessif permet d'éviter la répétition d'un nom précédé d'un d
 
 {% include callout.html content="De toute façon **ton pays** et **le mien** ne veulent pas se faire la guerre." type="primary" %}
 
-Les adjectifs possessifs font l'accord en genre et en nombre avec le nom qu'ils remplacent. Ils indiquent donc à la fois le possesseur et le nombre et le genre de l'objet possédé : **le mien** indique que le possesseur est « je » et que la possession est au masculin singulier. Voici les adjectifs possessifs :
+Les adjectifs possessifs font l'accord en genre et en nombre avec le nom qu'ils remplacent. Ils indiquent donc à la fois le possesseur et le nombre et le genre de l'objet possédé&nbsp;: **le mien** indique que le possesseur est « je » et que la possession est au masculin singulier. Voici les adjectifs possessifs&nbsp;:
 
 | | **singulier** |  | **pluriel** | |
 | | *masculin* | *féminin* | *masculin* | *féminin* |
@@ -198,7 +198,7 @@ Selon le contexte, **le sien**, **la sienne**, **les siens**, **les siennes** pe
 
 {% include callout.html content="Il a retenu ma main dans **la sienne**. (*his*)<br/><br/>Marie a déjà recueilli des dizaines de récits comme **le sien**. (*hers*)<br/><br/>La société marche à son rythme, le dogme religieux **au sien**. (*its own*)" type="primary" %}
 
-Notez que les articles **le** et **les** qui précèdent les adjectifs possessifs forment des contractions avec les prépositions **de** et **à**. Par exemple:
+Notez que les articles **le** et **les** qui précèdent les adjectifs possessifs forment des contractions avec les prépositions **de** et **à**. Par exemple&nbsp;:
 
 {% include callout.html content="On n'a qu'à parler à tes parents et **aux miens**.<br/><br/>J'ai appris à respecter les points de vue différents **du mien**." type="primary" %}
 
@@ -213,6 +213,6 @@ Les formes masculines plurielles des adjectifs possessifs peuvent être utilisé
 
 **Faire des** + **miennes**, **tiennes**, **siennes**, **nôtres**, **vôtres** ou **leurs** sont des locutions suggérant une mauvaise conduite.
 
-{% include callout.html content="Cela devient encore plus problématique lorsque l'ordinateur **fait des siennes**.<br/><br/>Oh toi ! Tu as encore **fais des tiennes** ...tu peux pas te retenir." type="primary" %}
+{% include callout.html content="Cela devient encore plus problématique lorsque l'ordinateur **fait des siennes**.<br/><br/>Oh toi&nbsp;! Tu as encore **fais des tiennes** ...tu peux pas te retenir." type="primary" %}
 
 {% include links.html %}

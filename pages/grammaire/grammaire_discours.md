@@ -1,7 +1,7 @@
 ---
 title: Le discours direct et indirect
 keywords: discours, quoting, citation, discours indirect, discours indirect
-summary: "Discours direct et indirect en français"
+summary: "Page en construction"
 sidebar: grammaire_sidebar
 permalink: grammaire_discours.html
 folder: grammaire

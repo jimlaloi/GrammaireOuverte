@@ -29,7 +29,7 @@ Ces pronoms démonstratifs ne se trouvent pas seuls. Ils sont suivis de la prép
 *Pronom démonstratif* + *pronom relatif* introduit une proposition relative où ces pronoms ont la fonction du sujet, de l'objet du verbe, ou de l'objet d'une préposition.
 
 {% include callout.html content="Là encore, il faut reconnaître que **ceux qui** ont organisé cette expérience ont bien fait les choses.
-<br/><br/>Et voici maintenant **celui que** vous attendez tous!<br/><br/>Ma mère n'est pas comme **celle dont** je parle dans le spectacle." type="primary" %}
+<br/><br/>Et voici maintenant **celui que** vous attendez tous&nbsp;!<br/><br/>Ma mère n'est pas comme **celle dont** je parle dans le spectacle." type="primary" %}
 
 **-ci** et **-là** sont ajoutés aux pronoms démonstratifs pour indiquer la proximité ou l'éloignement comme la distinction entre 'this one' et 'that one' en anglais. Dans cet usage, ils ne sont pas forcément accompagnés d'un pronom relatif ou de *de*. Ils remplacent un nom avec un déterminant démonstratif (*cette télévision-ci* devient *celle-ci*).
 
@@ -39,14 +39,14 @@ Ces pronoms démonstratifs ne se trouvent pas seuls. Ils sont suivis de la prép
 
 **Ceci** et **cela** sont des pronoms démonstratifs invariables. Ils font référence à des choses qui ne peuvent pas avoir de genre spécifique, comme des idées ou des déclarations. **Ceci** évoque une notion de proximité, alors que **cela** est plus éloigné. Mais cette distinction est souvent métaphorique. Par exemple, **ceci** pourrait indiquer une idée que l'on vient de mentionner ou mentionnera, alors que **cela** fait référence à une idée discutée plus tôt. **Ça** est souvent utilisé dans un style familier ou conversationnel à la place de **cela**. Devant une voyelle, **ça** peut (mais ne doit pas forcément) devenir **ç'**.
 
-{% include callout.html content="Mais à quelles conditions pouvons-nous affirmer **ceci** ? Il nous faut pour **cela** reprendre notre confrontation.<br/><br/>Il est encore trop tôt mais **ça** pourrait arriver.<br/><br/>**Ç'**aurait été plus probant." type="primary" %}
+{% include callout.html content="Mais à quelles conditions pouvons-nous affirmer **ceci**&nbsp;? Il nous faut pour **cela** reprendre notre confrontation.<br/><br/>Il est encore trop tôt mais **ça** pourrait arriver.<br/><br/>**Ç'**aurait été plus probant." type="primary" %}
 
 ## ce
 
 Le pronom neutre **ce**, comme sujet du verbe **être**, *présente* ou *désigne* quelqu'un ou quelque chose. Ne confondez pas cette construction avec **il**/**elle** + **être**, qui sert à *décrire* quelqu'un ou quelque chose qui a déjà été présenté.
 
 ### *ce* + *être*
-**C'est** ou **ce sont** peuvent être suivis de :
+**C'est** ou **ce sont** peuvent être suivis de&nbsp;:
 
 + nom, y compris les noms modifiés 
  
@@ -72,10 +72,10 @@ Le pronom neutre **ce**, comme sujet du verbe **être**, *présente* ou *désign
 
 {% include callout.html content="**C'est** intéressant, mais il faut être prudent." type="primary" %}
 
-{% include variation.html content="Normalement, on utilise **c'est** devant un nom singulier et **ce sont** devant un nom pluriel. Néanmoins, à l'oral on peut utiliser **c'est** même devant un nom pluriel: **C'est des gens** qu'on aime beaucoup." %}
+{% include variation.html content="Normalement, on utilise **c'est** devant un nom singulier et **ce sont** devant un nom pluriel. Néanmoins, à l'oral on peut utiliser **c'est** même devant un nom pluriel&nbsp;: **C'est des gens** qu'on aime beaucoup." %}
 
 ### *il*/*elle* + *être*
-Utilisez **il**/**elle est** ou **ils**/**elles sont** devant les éléments suivants :
+Utilisez **il**/**elle est** ou **ils**/**elles sont** devant les éléments suivants&nbsp;:
 
 + adjectif pour référents spécifiques
 
@@ -85,7 +85,7 @@ Utilisez **il**/**elle est** ou **ils**/**elles sont** devant les éléments sui
 
 {% include callout.html content="**Elle est** américaine .<br/><br/>**Ils sont** ingénieurs et designers.<br/><br/>**Il est** musulman, non pratiquant." type="primary" %}
 
-{% include information.html content="Pour *présenter* une personne par sa nationalité, profession, ou religion (plutôt que de *décrire* la nationalité, profession, ou religion d'une personne déjà présentée), utilisez **ce** + **être** avec un article: *C'est un musulman*, *Ce sont des ingénieurs*. Notez que la nationalité prend une minuscule comme adjectif, mais une majuscule comme nom: *C'est une Américaine*." %}
+{% include information.html content="Pour *présenter* une personne par sa nationalité, profession, ou religion (plutôt que de *décrire* la nationalité, profession, ou religion d'une personne déjà présentée), utilisez **ce** + **être** avec un article&nbsp;: *C'est un musulman*, *Ce sont des ingénieurs*. Notez que la nationalité prend une minuscule comme adjectif, mais une majuscule comme nom&nbsp;: *C'est une Américaine*." %}
 
 Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à une chose spécifique. Le pronom **ce** ne fait pas référence à une personne ou à une chose en particulier ; il est généralement traduit comme « that ».
 
@@ -93,16 +93,16 @@ Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à
 
 ### d'autres fonctions de *ce*
 
-**Ce** est utilisé comme antécédent d'un pronom relatif, quand l'antécédent n'est pas spécifié par un nom dans la phrase :
+**Ce** est utilisé comme antécédent d'un pronom relatif, quand l'antécédent n'est pas spécifié par un nom dans la phrase&nbsp;:
 
 {% include callout.html content="Prends **ce que** tu veux.<br/><br/>C'est clairement **ce dont** nous avons besoin." type="primary" %}
 
-**Ce** (ou **ça** dans le langage familier) est toujours utilisé quand le verbe **être** est composé avec un verbe auxiliaire ou semi-auxiliaire :
+**Ce** (ou **ça** dans le langage familier) est toujours utilisé quand le verbe **être** est composé avec un verbe auxiliaire ou semi-auxiliaire&nbsp;:
 
 {% include callout.html content="**Ce peut être** une forme de réponse.<br/><br/>Maintenant, **ça aurait été** du gâteau." type="primary" %}
 
-Ce est utilisé souvent pour mettre un élément au début de la phrase pour le souligner :
+Ce est utilisé souvent pour mettre un élément au début de la phrase pour le souligner&nbsp;:
 
-{% include callout.html content="**C'est** très important, son apparence. (vs *Son apparence est très important*)<br/><br/>**C'est** moi qui joue au ballon. (vs *Je joue au ballon*)<br/><br/>**Ça**, c'est une vraie ambition ! (vs *C'est une vraie ambition*)" type="primary" %}
+{% include callout.html content="**C'est** très important, son apparence. (vs *Son apparence est très important*)<br/><br/>**C'est** moi qui joue au ballon. (vs *Je joue au ballon*)<br/><br/>**Ça**, c'est une vraie ambition&nbsp;! (vs *C'est une vraie ambition*)" type="primary" %}
 
 {% include links.html %}

@@ -10,13 +10,13 @@ folder: grammaire
 ## Introduction
 La négation est un terme grammatical pour la contradiction en tout ou en partie du sens d'une phrase affirmative. Des mots de plusieurs catégories différentes peuvent contribuer à la négation. Il y a des adverbes, des pronoms, des déterminants, et des conjonctions négatives.
 
-- Adverbes négatifs: *pas* (*pas du tout*, *pas encore*, *toujours pas*), *jamais*, *plus*, *point*, *guère*, *aucunement*, *nullement*, *nulle part*, *non plus*
+- Adverbes négatifs&nbsp;: *pas* (*pas du tout*, *pas encore*, *toujours pas*), *jamais*, *plus*, *point*, *guère*, *aucunement*, *nullement*, *nulle part*, *non plus*
 
-- Pronoms négatifs: *personne*, *rien*, *pas grand-chose*, *aucun*, *nul*
+- Pronoms négatifs&nbsp;: *personne*, *rien*, *pas grand-chose*, *aucun*, *nul*
 
-- Déterminants négatifs: *aucun*, *nul*
+- Déterminants négatifs&nbsp;: *aucun*, *nul*
 
-- Conjonction négative: *ni*
+- Conjonction négative&nbsp;: *ni*
 
 Tous ces mots s'appellent des *négateurs*.
 
@@ -38,11 +38,11 @@ Aux temps composés, comme le passé composé, l'adverbe de négation suit l'aux
 
 {% include callout.html content="Je **n'**ai **pas** fini.<br/><br/>Ça **ne** va **pas** commencer." type="primary" %}
 
-{% include information.html content="Les adverbes plus longs (*complètement*) et les adverbes de temps (*hier*) suivent le participe passé ou l'infinitif (voir [Adverbes](/grammaire_adverbes.html#place)). C'est aussi le cas pour les négateurs *nulle part* et *non plus* :<br/>- *Mais moi, je **ne** veux aller **nulle part**.*<br/>*Non plus* est une continuation de la négation qui doit accompagner un autre négateur :<br/>- *Je **ne** l'ai **jamais** cuisiné **non plus**.*" %}
+{% include information.html content="Les adverbes plus longs (*complètement*) et les adverbes de temps (*hier*) suivent le participe passé ou l'infinitif (voir [Adverbes](/grammaire_adverbes.html#place)). C'est aussi le cas pour les négateurs *nulle part* et *non plus*&nbsp;:<br/>- *Mais moi, je **ne** veux aller **nulle part**.*<br/>*Non plus* est une continuation de la négation qui doit accompagner un autre négateur&nbsp;:<br/>- *Je **ne** l'ai **jamais** cuisiné **non plus**.*" %}
 
 En cas d'inversion du verbe et du pronom sujet, **ne** est placé devant le verbe et ses pronoms compléments, avec le négateur après le sujet.
 
-{% include callout.html content="C'est idiot, pourquoi **ne** m'a-t-il **pas** prévenu ?" type="primary" %}
+{% include callout.html content="C'est idiot, pourquoi **ne** m'a-t-il **pas** prévenu&nbsp;?" type="primary" %}
 
 Notez que si un verbe au négatif est modifié par un autre adverbe (en plus du négateur), cet adverbe suit généralement le négateur. Mais si un adverbe modifie le négateur, il précède le négateur.
 
@@ -52,11 +52,11 @@ Pour rendre négatif un infinitif, on met **ne + [adverbe]** ensemble devant l'i
 
 {% include callout.html content="Je **ne** crois **pas** être un artiste majeur de ma génération.<br/><br/>Ce n'est pas possible, il doit y avoir une erreur, je croyais **ne pas** avoir mis l'adresse d'ici." type="primary" %}
 
-{% include variation.html content="Dans un registre soutenu, si le verbe est à l'infinitif passé, on peut mettre l'adverbe négatif après l'auxiliaire (*être* ou *avoir*) :<br/>- *Pardon de **n'**avoir **pas** su le défendre.*<br/>Aussi dans un registre soutenu, on peut omettre le négateur et rendre négatif les verbes *savoir*, *pouvoir*, *oser*, et *cesser* avec le mot **ne** seulement :<br/>- *Je **ne** sais comment me faire pardonner.*" %}
+{% include variation.html content="Dans un registre soutenu, si le verbe est à l'infinitif passé, on peut mettre l'adverbe négatif après l'auxiliaire (*être* ou *avoir*)&nbsp;:<br/>- *Pardon de **n'**avoir **pas** su le défendre.*<br/>Aussi dans un registre soutenu, on peut omettre le négateur et rendre négatif les verbes *savoir*, *pouvoir*, *oser*, et *cesser* avec le mot **ne** seulement&nbsp;:<br/>- *Je **ne** sais comment me faire pardonner.*" %}
 
 On peut rendre négatif d'autres parties de la phrase (sans forcément mettre la phrase entière au négatif) en mettant le négateur directement devant le mot. Dans ce cas, le négateur n'est pas accompagné du mot **ne** (sauf pour la négation d'un infinitif). Le négateur **non pas** rend négatif une partie de la phrase en contraste avec une autre partie.
 
-{% include callout.html content="C'est un jouet **pas** <ins>cher</ins> qui plaît aux enfants.<br/><br/>Tu viens avec moi ? **Pas** <ins>maintenant</ins>, je mange !<br/><br/>Nous sommes en démocratie et **non pas** <ins>sous un régime totalitaire</ins>." type="primary" %}
+{% include callout.html content="C'est un jouet **pas** <ins>cher</ins> qui plaît aux enfants.<br/><br/>Tu viens avec moi&nbsp;? **Pas** <ins>maintenant</ins>, je mange&nbsp;!<br/><br/>Nous sommes en démocratie et **non pas** <ins>sous un régime totalitaire</ins>." type="primary" %}
 
 Les négateurs **toujours pas** et **pas encore** ont le même sens, mais **toujours pas** est plus impatient.
 
@@ -66,7 +66,7 @@ Les négateurs **toujours pas** et **pas encore** ont le même sens, mais **touj
 
 Dans une question ou une phrase conditionnelle, **jamais** peut avoir le sens 'ever', sans négation. **À jamais** veut dire 'forever'.
 
-{% include callout.html content="Et si **jamais** elle découvrait la vérité sur notre passé?<br/><br/>C'est une photo qui marquera l'histoire **à jamais**." type="primary" %}
+{% include callout.html content="Et si **jamais** elle découvrait la vérité sur notre passé&nbsp;?<br/><br/>C'est une photo qui marquera l'histoire **à jamais**." type="primary" %}
 
 ### pronoms négatifs
 
@@ -74,7 +74,7 @@ Les pronoms négatifs (*personne*, *rien*, *grand-chose*, *aucun*, *nul*) peuven
 
 {% include callout.html content="**Personne ne** le regrette car tout le monde le détestait.<br/><br/>Mais ici, **rien ne** peut nous arriver.<br/><br/>**Pas grand-chose n'**a changé dans l'équilibre des pouvoirs à Washington avec cette élection.<br/><br/>**Aucun ne** cherche à fuir ses responsabilités.<br/><br/>**Nul ne** croit qu'il durera réellement." type="primary" %}
 
-*Personne*, *rien*, *grand-chose*, et *aucun* peuvent aussi être compléments (directs ou obliques) du verbe :
+*Personne*, *rien*, *grand-chose*, et *aucun* peuvent aussi être compléments (directs ou obliques) du verbe&nbsp;:
 
 {% include callout.html content="Il **ne** demande de l'aide à **personne**.<br/><br/>Je **n'**ai **rien** payé pour entrer.<br/><br/>On ne sait **pas grand-chose** de ces gens.<br/><br/>Non, je n'en reconnais **aucun**." type="primary" %}
 
@@ -90,7 +90,7 @@ Si un pronom négatif est suivi d'un infinitif, l'infinitif est marqué par la p
 
 {% include callout.html content="Il n'y avait **plus grand-chose à faire**." type="primary" %}
 
-La préposition **sans** peut créer un contexte négatif où on peut employer un pronom négatif dans une phrase globalement affirmative :
+La préposition **sans** peut créer un contexte négatif où on peut employer un pronom négatif dans une phrase globalement affirmative&nbsp;:
 
 {% include callout.html content="Elle part du bureau **sans rien** dire." type="primary" %}
 
@@ -106,7 +106,7 @@ Le nom déterminé par *aucun* ou *nul* est singulier et peut être sujet ou com
 
 **Ni** est une conjonction de coordination qui peut relier des éléments de la même catégorie (des noms, des verbes, etc.) y compris des phrases. **Ne** est placé devant le verbe.
 
-Le premier **ni** peut être remplacé par un adverbe négatif :
+Le premier **ni** peut être remplacé par un adverbe négatif&nbsp;:
 
 {% include callout.html content="D.Deschamps a montré que ses joueurs **ne** sont **ni** des génies **ni** des incapables.<br/><br/>Je **ne** supporte **pas** les querelles **ni** les affrontements." type="primary" %}
 
@@ -114,9 +114,9 @@ Pour relier deux verbes conjugués, on met **ne** devant le (premier) verbe comm
 
 {% include callout.html content="Il **ne** voulait **ni ne** pouvait faire ça." type="primary" %}
 
-Voici des exemples de l'emploi de **ni** pour coordonner d'autres éléments d'une phrase :
+Voici des exemples de l'emploi de **ni** pour coordonner d'autres éléments d'une phrase&nbsp;:
 
-{% include callout.html content="Sujets : **Ni** les écologistes **ni** les communistes **ne** parvenaient à entrer au Parlement.<br/><br/>Compléments obliques : Il **ne** répond **pas à** mes appels **ni à** mes messages.<br/><br/>Adjectifs : On **ne** peut les rapporter à une idéologie **ni** aristocratique **ni** bourgeoise .<br/><br/>Participes passés : Je **n'**en ai **plus** acheté **ni** cuisiné depuis belle lurette.<br/><br/>Infinitifs : Elle **ne** sait **ni** lire **ni** écrire.<br/><br/>Phrases subordonnées : Je **ne** crois **pas que** vous me détestiez **ni que** vous ayez particulièrement envie de m'être désagréable." type="primary" %}
+{% include callout.html content="Sujets&nbsp;: **Ni** les écologistes **ni** les communistes **ne** parvenaient à entrer au Parlement.<br/><br/>Compléments obliques&nbsp;: Il **ne** répond **pas à** mes appels **ni à** mes messages.<br/><br/>Adjectifs&nbsp;: On **ne** peut les rapporter à une idéologie **ni** aristocratique **ni** bourgeoise.<br/><br/>Participes passés&nbsp;: Je **n'**en ai **plus** acheté **ni** cuisiné depuis belle lurette.<br/><br/>Infinitifs&nbsp;: Elle **ne** sait **ni** lire **ni** écrire.<br/><br/>Phrases subordonnées&nbsp;: Je **ne** crois **pas que** vous me détestiez **ni que** vous ayez particulièrement envie de m'être désagréable." type="primary" %}
 
 ### ne ... que
 
@@ -130,7 +130,7 @@ Voici des exemples de l'emploi de **ni** pour coordonner d'autres éléments d'u
 
 ## Négation multiple
 
-Certaines des négations énumérées ci-dessus peuvent être combinées, comme le montrent ces exemples :
+Certaines des négations énumérées ci-dessus peuvent être combinées, comme le montrent ces exemples&nbsp;:
 
 {% include callout.html content="La vieille **ne** sortira **plus jamais** de prison.<br/><br/>Je **n'**en ai **jamais rien** dit à mon père." type="primary" %}
 
@@ -142,12 +142,12 @@ En général, les adverbes négatifs précèdent les pronoms négatifs (*plus pe
 
 ## Réponses négatives
 
-**Non** est une réponse négative à une question totale ; **pas**, en soi, nie une partie d'une phrase:
+**Non** est une réponse négative à une question totale ; **pas**, en soi, nie une partie d'une phrase&nbsp;:
 
-{% include callout.html content="A-t-elle songé à divorcer ? **Non**.<br/><br/>On lance le reportage ? **Pas** tout de suite." type="primary" %} 
+{% include callout.html content="A-t-elle songé à divorcer&nbsp;? **Non**.<br/><br/>On lance le reportage&nbsp;? **Pas** tout de suite." type="primary" %} 
 
-Les adverbes **jamais** et **nulle part** et les pronoms **rien**, **personne**, **pas grand-chose**, et **aucun** peuvent être utilisés dans des réponses à un mot :
+Les adverbes **jamais** et **nulle part** et les pronoms **rien**, **personne**, **pas grand-chose**, et **aucun** peuvent être utilisés dans des réponses à un mot&nbsp;:
 
-{% include callout.html content="Qu'est-ce que tu en penses ? **Rien**.<br/><br/>Qui t'oblige à lire mes posts ? **Personne** !<br/><br/>Vous en avez entendu parler ? **Jamais**." type="primary" %} 
+{% include callout.html content="Qu'est-ce que tu en penses&nbsp;? **Rien**.<br/><br/>Qui t'oblige à lire mes posts&nbsp;? **Personne**&nbsp;!<br/><br/>Vous en avez entendu parler&nbsp;? **Jamais**." type="primary" %} 
 
 {% include links.html %}

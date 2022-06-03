@@ -11,9 +11,9 @@ folder: grammaire
 
 L'imparfait, l'un des temps passés en français, est généralement utilisé pour décrire des états et des actions habituelles dans le passé. L'imparfait peut être traduit en anglais d'au moins quatre manières différentes selon le contexte.
 
-{% include callout.html content="On **chantait** la \"Marseillaise\".<br/>- *We <ins>sang</ins> the \"Marseillaise\"*<br/>- *We <ins>were singing</ins> the \"Marseillaise\"*<br/>- *We <ins>would sing</ins> the \"Marseillaise\"*<br/>- *We <ins>used to sing</ins> the \"Marseillaise\"*" type="primary" %}
+{% include callout.html content="On **chantait** la *Marseillaise*.<br/>- *We <ins>sang</ins> the* Marseillaise<br/>- *We <ins>were singing</ins> the* Marseillaise<br/>- *We <ins>would sing</ins> the* Marseillaise<br/>- *We <ins>used to sing</ins> the* Marseillaise" type="primary" %}
 
-Ce temps s'appelle l'imparfait car il indique le plus souvent un aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect)). Cela veut dire qu'il présente une situation au passé comme ayant une complexité interne ou sans début ou fin précis. Des exemples de contextes où on voit l'imparfait incluent :
+Ce temps s'appelle l'imparfait car il indique le plus souvent un aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect)). Cela veut dire qu'il présente une situation au passé comme ayant une complexité interne ou sans début ou fin précis. Des exemples de contextes où on voit l'imparfait incluent&nbsp;:
 
 + une description qui « dresse le décor » pour une narration qui suivra
 
@@ -28,18 +28,18 @@ Ce temps s'appelle l'imparfait car il indique le plus souvent un aspect imperfec
 {% include callout.html content="Elle **s'appelait** Laure, elle **avait** entre 16 et 18 ans." type="primary" %}
 
 ## Forme
-Le radical de l'imparfait est la première personne du pluriel (**nous**) du présent, moins le **-ons**. Le radical de l'imparfait est régulier pour tous les verbes sauf **être** :
+Le radical de l'imparfait est la première personne du pluriel (**nous**) du présent, moins le **-ons**. Le radical de l'imparfait est régulier pour tous les verbes sauf **être**&nbsp;:
 
 | verbe | forme *nous* au présent | radical de l'imparfait |
 |---|---|---|
-| verbes **-er**: *parler* | nous parl<ins>ons</ins> | parl- |
-| verbes **-ir**: *finir* | nous finiss<ins>ons</ins> | finiss- |
-| verbes **-re**: *rendre* | nous rend<ins>ons</ins> | rend- |
+| verbes **-er**&nbsp;: *parler* | nous parl<ins>ons</ins> | parl- |
+| verbes **-ir**&nbsp;: *finir* | nous finiss<ins>ons</ins> | finiss- |
+| verbes **-re**&nbsp;: *rendre* | nous rend<ins>ons</ins> | rend- |
 | *faire* | nous fais<ins>ons</ins> | fais- |
 | *prendre* | nous pren<ins>ons</ins> | pren- |
 | *partir* | nous part<ins>ons</ins> | part- |
 | *commencer* | nous commenç<ins>ons</ins> | commenç- |
-| **Exception :** *être* | nous sommes | **ét-** |
+| **Exception&nbsp;:** *être* | nous sommes | **ét-** |
 
 Les terminaisons ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez** et **-aient**. Notez que **-ais**, **-ais**, **-ait** et **-aient** se prononcent tous de la même manière.
 
@@ -49,9 +49,9 @@ Les terminaisons ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions
 | tu **dans<ins>ais</ins>** | vous **dans<ins>iez</ins>** |
 | il/elle/on **dans<ins>ait</ins>** | ils/elles **dans<ins>aient</ins>** |
 
-{% include variation.html content="Les terminaisons **-ais**, **-ais**, **-ait** et **-aient** sont toutes prononcées de la même manière, mais cette prononciation peut varier selon le locuteur. Au Canada, on a tendance à les prononcer avec la voyelle [ɛ] (comme dans le mot *t<ins>ê</ins>te*). L'imparfait est ainsi distingué de l'infinitif et du participe passé : *parlais* [paʁlɛ], *parler*/*parlé* [paʁle]. Mais pour beaucoup de locuteurs en Europe et en Afrique, surtout dans le Sud de la France et en Algérie, la tendance est de prononcer ces terminaisons avec la voyelle [e] (comme dans le mot *th<ins>é</ins>*). Dans ce cas, il n'y a aucune différence de prononciation entre *parlais*, *parler*, et *parlé* [paʁle]." %}
+{% include variation.html content="Les terminaisons **-ais**, **-ais**, **-ait** et **-aient** sont toutes prononcées de la même manière, mais cette prononciation peut varier selon le locuteur. Au Canada, on a tendance à les prononcer avec la voyelle [ɛ] (comme dans le mot *t<ins>ê</ins>te*). L'imparfait est ainsi distingué de l'infinitif et du participe passé&nbsp;: *parlais* [paʁlɛ], *parler*/*parlé* [paʁle]. Mais pour beaucoup de locuteurs en Europe et en Afrique, surtout dans le Sud de la France et en Algérie, la tendance est de prononcer ces terminaisons avec la voyelle [e] (comme dans le mot *th<ins>é</ins>*). Dans ce cas, il n'y a aucune différence de prononciation entre *parlais*, *parler*, et *parlé* [paʁle]." %}
 
-{% include information.html content="Si le radical d'un verbe se termine par *i*, les formes de l'imparfait aux premières et deuxièmes personnes du pluriel auront deux *i* : *nous étud<ins>ii</ins>ons*, *vous cr<ins>ii</ins>ez*. C'est possible dans ce cas de prononcer ces verbes avec une voyelle [i] allongée. Mais la plupart du temps, les locuteurs ne font aucune différence de prononciation entre un verbe à l'imparfait comme *criiez* et un verbe au présent comme *criez*." %}
+{% include information.html content="Si le radical d'un verbe se termine par *i*, les formes de l'imparfait aux premières et deuxièmes personnes du pluriel auront deux *i*&nbsp;: *nous étud<ins>ii</ins>ons*, *vous cr<ins>ii</ins>ez*. C'est possible dans ce cas de prononcer ces verbes avec une voyelle [i] allongée. Mais la plupart du temps, les locuteurs ne font aucune différence de prononciation entre un verbe à l'imparfait comme *criiez* et un verbe au présent comme *criez*." %}
 
 ## Emplois
 
@@ -63,7 +63,7 @@ Ce contraste est plus visible dans la narration au passé, lorsque les deux temp
 |---|---|
 | Un couple qui **promenait** son chien sur sa propriété ... | ...**a trouvé** un trésor en pièces d'or. |
 
-Les adverbes suivants sont généralement associés à chacun des temps passés :
+Les adverbes suivants sont généralement associés à chacun des temps passés&nbsp;:
 
 | adverbes associés à l'imparfait | adverbes associés au passé composé |
 |---|---|
@@ -74,15 +74,15 @@ Les adverbes suivants sont généralement associés à chacun des temps passés 
 | toujours, souvent ... | d'abord, enfin ... |
 | rarement ... | puis, ensuite ... |
 
-Généralement, lorsque des verbes comme **être**, **avoir**, **pouvoir**, **vouloir** et **savoir** sont dans une narration au passé, ils seront à l'imparfait, car ils décrivent très probablement un état ou une condition passé. Cependant, lorsque ces verbes (et d'autres verbes similaires) apparaissent au passé composé, c'est typiquement parce qu'ils indiquent un changement d'état ou un changement de condition. Comparez ces exemples :
+Généralement, lorsque des verbes comme **être**, **avoir**, **pouvoir**, **vouloir** et **savoir** sont dans une narration au passé, ils seront à l'imparfait, car ils décrivent très probablement un état ou une condition passé. Cependant, lorsque ces verbes (et d'autres verbes similaires) apparaissent au passé composé, c'est typiquement parce qu'ils indiquent un changement d'état ou un changement de condition. Comparez ces exemples&nbsp;:
 
 {% include callout.html content="Quand j'**avais** quatre ans, moi et mon cousin on **faisait** des bêtises.<br/><br/>Quand nous **avons eu** 21 ans, nous **avons déménagé**." type="primary" %}
 
-Le passé composé est aussi généralement utilisé pour des activités qui ont duré un certain temps précis, avec un début et une fin définis. En revanche, l'imparfait est utilisé pour des durées indéfinies. Regardez ces exemples : 
+Le passé composé est aussi généralement utilisé pour des activités qui ont duré un certain temps précis, avec un début et une fin définis. En revanche, l'imparfait est utilisé pour des durées indéfinies. Regardez ces exemples&nbsp;: 
 
-* **période déterminée :** 
+* **période déterminée&nbsp;:** 
 {% include callout.html content="De 1997 à 2002, elle **a été** députée d'Eure-et-Loir.<br/><br/>Pendant 36 ans, j'**ai été** dans l'armée." type="primary" %}
-* **durée indéterminée :** 
+* **durée indéterminée&nbsp;:** 
 {% include callout.html content="Avant, elle **était** étudiante en histoire de l'art.<br/><br/>Quand j'**étais** enfant, le quartier **était** un village, tout le monde **se connaissait** et **se disait** bonjour." type="primary" %}
 
 Mais en fin de compte, c'est l'ensemble du contexte qui détermine lequel de ces deux temps passés utiliser et non un adverbe donné. Par exemple, dans les phrases ci-dessous, la même expression adverbiale, *un jour*, est utilisé avec l'imparfait ou le passé composé selon le contexte.
@@ -91,11 +91,11 @@ Mais en fin de compte, c'est l'ensemble du contexte qui détermine lequel de ces
 
 L'imparfait est aussi utilisé pour suggérer une action dans des phrases commençant par **si**. Cette construction a un sens comme 'How about...' ou 'What if...'.
 
-{% include callout.html content="Si tu **allais** nous chercher quelque chose à manger?<br/><br/>Et si on **faisait** une pause ?" type="primary" %}
+{% include callout.html content="Si tu **allais** nous chercher quelque chose à manger&nbsp;?<br/><br/>Et si on **faisait** une pause&nbsp;?" type="primary" %}
 
 Cette même construction peut aussi avoir le sens d'un souhait ('If only...'). Cette structure peut ou non contenir l'adverbe *seulement*.
 
-{% include callout.html content="Si on **voulait** faire des efforts dans les écoles!<br/><br/>Si seulement je **pouvais** aller à Rome!" type="primary" %}
+{% include callout.html content="Si on **voulait** faire des efforts dans les écoles&nbsp;!<br/><br/>Si seulement je **pouvais** aller à Rome&nbsp;!" type="primary" %}
 
 Notez que le point d'interrogation à la fin de la phrase indique une suggestion, et le point d'exclamation un souhait. En français parlé, cependant, il faut se fier au contexte et à l'intonation pour faire la distinction entre le souhait et la suggestion.
 

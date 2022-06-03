@@ -15,11 +15,11 @@ Les déterminants peuvent être définis ou indéfinis. Un déterminant défini 
 
 {% include callout.html content="Il prend **le** livre de **sa** soeur et commence à lire." type="primary" %}
 
-Par contre, la phrase suivante contient des déterminants indéfinis: **un**, **quelques**, **du**, et **une**. Ces déterminants introduisent des noms qui ne sont pas spécifiques.
+Par contre, la phrase suivante contient des déterminants indéfinis&nbsp;: **un**, **quelques**, **du**, et **une**. Ces déterminants introduisent des noms qui ne sont pas spécifiques.
 
 {% include callout.html content="Il porte **un** plateau avec **quelques** tasses, **du** sucre et **une** cafetière." type="primary" %}
 
-Une fois qu'une entité est introduite dans un discours, typiquement à l'aide d'un déterminant indéfini, il devient identifiable. La prochaine fois que l'on en parle, on peut donc généralement utiliser un déterminant défini: 
+Une fois qu'une entité est introduite dans un discours, typiquement à l'aide d'un déterminant indéfini, il devient identifiable. La prochaine fois que l'on en parle, on peut donc généralement utiliser un déterminant défini&nbsp;: 
 
 {% include callout.html content="C'est **un** livre de rédemption. **Ce** livre a été très bien traduit." type="primary" %}
 
@@ -31,17 +31,17 @@ Il y a trois sortes de déterminants qui modifient un nom défini. L'article dé
 
 ### l'article défini
 
-L'article défini (**le**) fait l'accord en genre et en nombre avec le nom qu'il modifie: 
+L'article défini (**le**) fait l'accord en genre et en nombre avec le nom qu'il modifie&nbsp;: 
 
 + masculin singulier - **le** (**l'**)
 + féminin singulier - **la** (**l'**)
 + masculin et féminin pluriel (**les**)
 
-**Le** et **la** deviennent tous les deux **l'** lorsqu'ils précèdent un nom commençant par une voyelle ou un **h** muet : *l'université*, *l'hôpital*. C'est ce qu'on appelle **l'élision**.
+**Le** et **la** deviennent tous les deux **l'** lorsqu'ils précèdent un nom commençant par une voyelle ou un **h** muet&nbsp;: *l'université*, *l'hôpital*. C'est ce qu'on appelle **l'élision**.
 
 Contrairement à **le** et **la**, **les** n'a pas de forme contractée et réduite. Lorsque **les** est suivi d'un mot commençant par une voyelle ou un **h** muet, le **s** final normalement silencieux de **les** est prononcé, produisant un son **/z/**. Ce son supplémentaire reliant deux mots est appelé **liaison**.
 
-Notez que l'élision et la liaison apparaissent avec la plupart des mots commençant par **h** : **l'h**omme, le**s_(z)\_h**ommes, **l'h**iver, le**s_(z)\_h**ivers. Les exceptions à cette règle sont les mots commençant par un **h** aspiré : le haricot, les haricots, le héros, les héros.
+Notez que l'élision et la liaison apparaissent avec la plupart des mots commençant par **h**&nbsp;: **l'h**omme, le**s_(z)\_h**ommes, **l'h**iver, le**s_(z)\_h**ivers. Les exceptions à cette règle sont les mots commençant par un **h** aspiré&nbsp;: le haricot, les haricots, le héros, les héros.
 
 | **Élision** | **Liaison** | **Pas d'élision/liaison devant une consonne** |
 | **l'**animal | le**s a**nimaux | le chat, les chats |
@@ -49,7 +49,7 @@ Notez que l'élision et la liaison apparaissent avec la plupart des mots commen�
 
 {% include information.html content="Le **h** aspiré, comme le **h** muet, n'est pas prononcé. Mais le **h** aspiré bloque l'élision et la liaison alors que le **h** muet les permet. En général, les mots venus du latin ont un **h** muet alors que ceux empruntés du vieux-francique, une ancienne langue germanique, ont un **h** aspiré. Cette différence est dûe au fait que le **h** des mots empruntés du vieux-francique était prononcé jusqu'au 17e siècle (ou même plus tard dans certains dialectes). La consonne n'est plus prononcée aujourd'hui, mais ses effets sur la liaison et l'élision ont duré." %}
 
-L'article défini est utilisé dans les contextes suivants :
+L'article défini est utilisé dans les contextes suivants&nbsp;:
 
 + pour un nom spécifique ou qui a déjà été spécifié
 
@@ -96,13 +96,13 @@ Par contre, un déterminant indéfini est utilisé si la partie du corps est mod
 #### Omission de l'article
 Les noms de personnes n'ont pas d'article, sauf pour désigner une famille ou pour parler des personnes avec un certain nom sans parler d'une personne en particulier.
 
-{% include callout.html content="**Antoinette** et **Juliette** sont assises et prennent des notes.<br/><br/>Pour avoir ma fête, mon jour comme **les** Catherine ou **les** Julie !" type="primary" %}
+{% include callout.html content="**Antoinette** et **Juliette** sont assises et prennent des notes.<br/><br/>Pour avoir ma fête, mon jour comme **les** Catherine ou **les** Julie&nbsp;!" type="primary" %}
 
 Les villes n'exigent généralement pas d'article en français.
 
 {% include callout.html content="Il quitta **Berlin** comme il avait quitté **Paris**." type="primary" %}
 
-Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions : Haïti, Israël, Madagascar, etc. (voir [prépositions](/grammaire_prépositions.html))
+Les continents, les pays, les états, les régions et les océans nécessitent généralement un article (**l'**Afrique, **la** France, **le** Texas, **la** Bourgogne, **l'**Atlantique etc.), mais il existe quelques exceptions&nbsp;: Haïti, Israël, Madagascar, etc. (voir [prépositions](/grammaire_prépositions.html))
 
 Les mois ne nécessitent jamais d'article.
 
@@ -140,7 +140,7 @@ N'oubliez pas de faire la liaison entre les formes plurielles des déterminants 
 
 {% include callout.html content="Tu es vraiment mo**n a**mie, toi.<br/><br/>On peut connecter so**n a**mpoule à sa tablette ou à son téléphone." type="primary" %}
 
-Les déterminants possessifs ne sont qu'un moyen d'exprimer la possession. D'autres expressions de possession incluent :
+Les déterminants possessifs ne sont qu'un moyen d'exprimer la possession. D'autres expressions de possession incluent&nbsp;:
 
 + les adjectifs possessifs (voir [Adjectifs](/grammaire_adjectifs.html))
 
@@ -158,14 +158,14 @@ Les déterminants possessifs ne sont qu'un moyen d'exprimer la possession. D'aut
 
 Le déterminant démonstratif **ce** (traduit par 'this/that/these/those') est utilisé pour un nom défini qui est observé dans la situation ou qui vient d'être mentionné. Il s'accorde en nombre et en genre avec le nom qu'il introduit.
 
-+ masculin singulier: **ce**
-+ masculin singulier devant une voyelle ou un **h** muet: **cet**
-+ féminin singulier: **cette**
-+ pluriel (masculin ou féminin): **ces**
++ masculin singulier&nbsp;: **ce**
++ masculin singulier devant une voyelle ou un **h** muet&nbsp;: **cet**
++ féminin singulier&nbsp;: **cette**
++ pluriel (masculin ou féminin)&nbsp;: **ces**
 
 Notez que la liaison est obligatoire entre **ces** et les mots commençant par une voyelle ou un **h** muet.
 
-Souvent, le déterminant démonstratif désigne quelque chose que l'on peut voir ou montrer :
+Souvent, le déterminant démonstratif désigne quelque chose que l'on peut voir ou montrer&nbsp;:
 
 {% include callout.html content="Tu peux jeter **cette** perruque et **ces** lunettes." type="primary" %}
 
@@ -174,9 +174,9 @@ Le déterminant démonstratif peut aussi rappeler une chose ou une idée qui a �
 {% include callout.html content="Pour autant, **cette** question n'a pas à intervenir dans **ce** projet de loi." type="primary" %} 
 
 #### -ci et -là
-Les déterminants démonstratifs peuvent désigner quelque chose de proche ou de lointain : pour distinguer deux éléments ou plus, on peut ajouter les suffixes **-ci** ou **-là** au déterminant démonstratif. Le suffixe **-ci** indique que l'élément est relativement proche du locuteur ; **-là** suggère que quelque chose est plus loin.
+Les déterminants démonstratifs peuvent désigner quelque chose de proche ou de lointain&nbsp;: pour distinguer deux éléments ou plus, on peut ajouter les suffixes **-ci** ou **-là** au déterminant démonstratif. Le suffixe **-ci** indique que l'élément est relativement proche du locuteur ; **-là** suggère que quelque chose est plus loin.
 
-{% include callout.html content="Mais qui peut bien nous appeler à **cette** heure**-ci** ?<br/><br/>Je danse entre **ces** deux choses**-là**." type="primary" %}
+{% include callout.html content="Mais qui peut bien nous appeler à **cette** heure**-ci**&nbsp;?<br/><br/>Je danse entre **ces** deux choses**-là**." type="primary" %}
 
 ## Les déterminants indéfinis
 
@@ -190,9 +190,9 @@ Les articles indéfinies indiquent simplement que le nom modifié n'est pas iden
 
 Si le nom est comptable, on utilise l'article indéfini **un**, qui s'accorde en genre et en nombre avec le nom.
 
-+ masculin singulier: **un**
-+ féminin singulier: **une**
-+ pluriel (masculin ou féminin): **des**
++ masculin singulier&nbsp;: **un**
++ féminin singulier&nbsp;: **une**
++ pluriel (masculin ou féminin)&nbsp;: **des**
 
 {% include callout.html content="C'est **un** cadeau pour **une** amie.<br/><br/>Vous seriez mieux dans **une** chambre, **une** belle chambre, avec **des** rideaux." type="primary" %}
 
@@ -204,45 +204,45 @@ Si le mot est modifié par un adjectif qui le précède, **des** devient génér
 
 Si le nom est massif (indénombrable), on utilise l'article indéfini **du** (souvent appelé l'article *partitif*), qui s'accorde en genre avec le nom et fait l'élision devant une voyelle.
 
-+ masculin : **du** (**du** pain)
-+ féminin : **de la** (**de la** viande) 
-+ masculin ou féminin devant une voyelle ou un **h** muet : **de l'** (**de l'**ail, **de l'**eau)
++ masculin&nbsp;: **du** (**du** pain)
++ féminin&nbsp;: **de la** (**de la** viande) 
++ masculin ou féminin devant une voyelle ou un **h** muet&nbsp;: **de l'** (**de l'**ail, **de l'**eau)
 
 {% include callout.html content="Nous avons, tous ensemble, **du** travail à faire.<br/><br/>Je fais cuire cela dans **de l'**huile avec **du** thym et **de l'**ail .<br/><br/>Il y a **de la** glace et **de la** neige partout." type="primary" %}
 
-Rappelez-vous qu'un nom qui est typiquement comptable peut souvent être conçu en termes massifs, et vice versa. Ainsi, le même nom peut être introduit par un article défini ou par l'un ou l'autre des articles indéfinis. Comparez ces exemples :
+Rappelez-vous qu'un nom qui est typiquement comptable peut souvent être conçu en termes massifs, et vice versa. Ainsi, le même nom peut être introduit par un article défini ou par l'un ou l'autre des articles indéfinis. Comparez ces exemples&nbsp;:
 
 {% include callout.html content="Ici, **le** vin est encore un produit de luxe.<br/><br/>On fait **du** vin ici depuis le XVIIIe siècle.<br/><br/>Le champagne est **un** vin relativement cher par rapport à tous les autres." type="primary" %}
 
 Dans le premier exemple ci-dessus, **le vin** fait référence à la catégorie générale. Dans le deuxième exemple, **du vin** fait référence au vin comme une substance massive et non-comptable. Dans le troisième exemple, **un vin** fait référence à un type de vin parmi d'autres, qui est donc comptable.
 
 #### 'de' après le négatif
-Quand le nom est le complément d'un verbe mis au négatif, les articles indéfinis sont typiquement remplacés par la préposition **de** (**d'** devant une voyelle) :
+Quand le nom est le complément d'un verbe mis au négatif, les articles indéfinis sont typiquement remplacés par la préposition **de** (**d'** devant une voyelle)&nbsp;:
 
 {% include callout.html content="Il n'y a pas **de** danger imminent.<br/><br/>Je mange du poisson, mais pas **de** viande animale." type="primary" %}
 
-Cependant, à la suite du verbe **être**, les articles indéfinis restent inchangés :
+Cependant, à la suite du verbe **être**, les articles indéfinis restent inchangés&nbsp;:
 
 {% include callout.html content="La défaite n'est pas **une** option.<br/><br/>Ce ne sont pas **des** principes cohérents à mes yeux." type="primary" %}
 
-L'article peut aussi rester pour souligner le nom positif contrasté. Par exemple:
+L'article peut aussi rester pour souligner le nom positif contrasté. Par exemple&nbsp;:
 
 {% include callout.html content="On a **des** adversaires mais pas **des** ennemis." type="primary" %}
 
 #### 'de' après une expression de quantité
-Les expressions de quantité incluent des noms (*un kilo*, *un tas*, *une bouteille*, etc.) ainsi que des adverbes (*trop*, *assez*, *beaucoup*, *plein*, etc.). Ces expressions peuvent prendre comme complément un nom indiquant la chose quantifiée. Dans ce cas, le nom est marqué par la préposition **de** :
+Les expressions de quantité incluent des noms (*un kilo*, *un tas*, *une bouteille*, etc.) ainsi que des adverbes (*trop*, *assez*, *beaucoup*, *plein*, etc.). Ces expressions peuvent prendre comme complément un nom indiquant la chose quantifiée. Dans ce cas, le nom est marqué par la préposition **de**&nbsp;:
 
 + *nom/adverbe de quantité + préposition **de** + nom de chose*
 
 Si le nom de chose dans cette construction a un déterminant *défini*, le déterminant garde sa place après la préposition **de**. La préposition **de** est amalgamée avec l'article défini pour faire les formes **du** (*de* + *le*) et **des** (*de* + *les*). (Ne confondez pas ces formes amalgamées avec les articles indéfinis **du** et **des**.)
 
-{% include callout.html content="Chez Lucie, j'ai trouvé **une bouteille de cette** fameuse absinthe !<br/><br/>**Beaucoup de mes** étudiants sont chrétiens ou juifs.<br/><br/>C'est **un petit morceau du** mur de Berlin.<br/><br/>**Beaucoup des** textes suivants sont des textes classiques, souvent donnés au bac." type="primary" %}
+{% include callout.html content="Chez Lucie, j'ai trouvé **une bouteille de cette** fameuse absinthe&nbsp;!<br/><br/>**Beaucoup de mes** étudiants sont chrétiens ou juifs.<br/><br/>C'est **un petit morceau du** mur de Berlin.<br/><br/>**Beaucoup des** textes suivants sont des textes classiques, souvent donnés au bac." type="primary" %}
 
 Par contre, si le nom de chose dans cette construction a un déterminant *indéfini*, la préposition **de** *remplace* le déterminant.
 
 {% include callout.html content="Il faut **10kg de** protéines végétales pour faire **un kilo de** viande.<br/><br/>Tu as fait **assez de** bêtises pour ce soir.<br/><br/>Il y a **beaucoup d'**argent à gagner.<br/><br/>Il faut **une douzaine de** jours pour y arriver." type="primary" %}
 
-Voici une liste d'expressions de quantité courantes :
+Voici une liste d'expressions de quantité courantes&nbsp;:
 
 * *une boîte de*,  *un litre de*, *un bol de*, *une livre de*, *un bout de*, *un morceau de*, *une bouteille de*, *une part de*, *une cuillère de*, *une pincée de*, *une douzaine de*, *une tasse de*, *50 grammes de*, *une tranche de*, *un kilo de*, *un verre de*, *un peu de*, *un tas de*, *trop de*, *beaucoup de*, *assez de*, *plein de*, *pas mal de*, *énormément de*
 
@@ -252,7 +252,7 @@ Certains adjectifs peuvent introduire un nom pluriel *avec ou sans* l'aide d'un 
 
 {% include callout.html content="Il le lui a dit à **plusieurs** reprises.<br/><br/>Chez Elisabeth et Saïd, il avait rencontré, lors de **ses plusieurs** visites, d'autres personnes dont un couple qui l'entraîna pour cinq jours de tourisme près de Foix.<br/><br/>**Différents** sujets me préoccupent en ce moment, vous le savez bien.<br/><br/>**Les différents** conseillers régionaux vont discuter entre eux." type="primary" %}
 
-Voici des adjectifs courants qui peuvent introduire un nom indéfini pluriel: *plusieurs*, *différents*, *divers*, *quelques*, *certains*, *maints*
+Voici des adjectifs courants qui peuvent introduire un nom indéfini pluriel&nbsp;: *plusieurs*, *différents*, *divers*, *quelques*, *certains*, *maints*
 
 Les adjectifs *pareille*, *maint*, *tel*, et *semblable* peuvent introduire un nom indéfini *singulier* sans déterminant, mais cette construction est typiquement limitée à un registre très formel.
 
@@ -264,9 +264,9 @@ Les numéraux cardinaux (**deux**, **six**, **cent**, etc.) sont aussi des adjec
 
 {% include callout.html content="**Trois** personnes dont **deux** policiers ont été légèrement blessées.<br/><br/>**Nos quatre mille** militaires déployés au Mali y mènent une action exemplaire.<br/><br/>Même si la série a été conçue comme un film, **les six** épisodes peuvent se regarder séparément." type="primary" %}
 
-Pour les numéraux 21, 31, 41, 51, 61 et 71, le mot *et* sépare le multiple de 10 de la fin du numéral: *vingt-et-un*, *cinquante-et-un*, *soixante-et-onze* (mais *quatre-vingt-un*, *quatre-vingt-onze*).
+Pour les numéraux 21, 31, 41, 51, 61 et 71, le mot *et* sépare le multiple de 10 de la fin du numéral&nbsp;: *vingt-et-un*, *cinquante-et-un*, *soixante-et-onze* (mais *quatre-vingt-un*, *quatre-vingt-onze*).
 
-{% include variation.html content="En France, les numéraux 70, 80, et 90 suivent le système vigésimal hérité des Gaulois: *soixante-dix*, *quatre-vingts*, *quatre-vingt-dix*. En Belgique, 70 et 90 sont remplacés par *septante* et *nonante*. En Suisse, 80 est remplacé aussi, par *huitante*. En dehors de l'Europe, les pays francophones suivent généralement le système de leur pays colonisateur: *soixante-dix* au Québec et en Algérie, anciennes colonies françaises, mais *septante* au Congo-Kinshasa, ancienne colonie belge." %}
+{% include variation.html content="En France, les numéraux 70, 80, et 90 suivent le système vigésimal hérité des Gaulois&nbsp;: *soixante-dix*, *quatre-vingts*, *quatre-vingt-dix*. En Belgique, 70 et 90 sont remplacés par *septante* et *nonante*. En Suisse, 80 est remplacé aussi, par *huitante*. En dehors de l'Europe, les pays francophones suivent généralement le système de leur pays colonisateur&nbsp;: *soixante-dix* au Québec et en Algérie, anciennes colonies françaises, mais *septante* au Congo-Kinshasa, ancienne colonie belge." %}
 
 Un tiret lie les parties des numéraux composés en-dessous de cent (*cinquante-sept*). Le tiret est variable au-dessus de cent (*trois mille deux cent trente-et-un*, *trois-mille-deux-cent-trente-et-un*).
 
@@ -274,9 +274,9 @@ La forme des numéraux cardinaux est invariable (*quatre femmes*, *deux mille oi
 
 Les nombres 100 et 1 000 sont représentés par les mots *cent* et *mille*, sans *un* (*cent hommes*, *mille hommes*). Les mots *million* et *milliard* sont des noms nécessitant un déterminant (*un million d'hommes*, *un milliard d'hommes*).
 
-{% include information.html content="Le **f** de **neuf** se prononce comme /v/ en laison avec *ans*, *autres*, *heures*, et *hommes* (et comme /f/ ailleurs): *neuf ans* [nø vɑ̃], *neuf amis* [nø fami]<br/><br/>Les consonnes finales de **cinq**, **six**, **huit**, et **dix** peuvent ne pas être prononcées devant un mot commençant par une consonne: *six livres* [si livʁ] ou [sis livʁ].<br/><br/>Il n'y a pas de liaison à l'intérieur des noms composés: *deux-cent-onze* [dø sɑ̃ ɔ̃z]" %}
+{% include information.html content="Le **f** de **neuf** se prononce comme /v/ en laison avec *ans*, *autres*, *heures*, et *hommes* (et comme /f/ ailleurs)&nbsp;: *neuf ans* [nø vɑ̃], *neuf amis* [nø fami]<br/><br/>Les consonnes finales de **cinq**, **six**, **huit**, et **dix** peuvent ne pas être prononcées devant un mot commençant par une consonne&nbsp;: *six livres* [si livʁ] ou [sis livʁ].<br/><br/>Il n'y a pas de liaison à l'intérieur des noms composés&nbsp;: *deux-cent-onze* [dø sɑ̃ ɔ̃z]" %}
 
-En chiffres, une espace regroupe les grands nombres par ordre de mille (*mille-sept-cent*: 1 700). Une virgule sépare la partie décimale (trois quarts: 0,75). La monnaie est indiquée généralement après le chiffre (300 EUR, 300 €, 2,50 €), mais il n'est pas rare de voir un symbole de monnaie séparateur de la partie décimale (2€50).
+En chiffres, une espace regroupe les grands nombres par ordre de mille (*mille-sept-cent*&nbsp;: 1 700). Une virgule sépare la partie décimale (trois quarts&nbsp;: 0,75). La monnaie est indiquée généralement après le chiffre (300 EUR, 300 €, 2,50 €), mais il n'est pas rare de voir un symbole de monnaie séparateur de la partie décimale (2€50).
 
 
 

@@ -16,7 +16,7 @@ L'infinitif exprime le sens d'un verbe sans spécifier un sujet ou un temps. Si 
 Le présent de l'infinitif est la forme de référence de tous les verbes. L'infinitif se termine toujours par **-er**, **-ir**, ou **-re**.
 + *all<ins>er</ins>*, *ven<ins>ir</ins>*, *fai<ins>re</ins>*, etc.
 
-{% include callout.html content="Qu'est-ce que tu veux **faire** ?" type="primary" %}
+{% include callout.html content="Qu'est-ce que tu veux **faire**&nbsp;?" type="primary" %}
 
 La construction passive (voir [Verbes](grammaire_verbes.html#alternances-de-valence)) peut être mise à l'infinitif avec le verbe *être* à l'infinitif et le participe passé du verbe.
 
@@ -51,13 +51,13 @@ L'infinitif peut être utilisé pour donner un ordre écrit lorsqu'il n'y a pas 
 
 {% include callout.html content="Ne pas **toucher** à la friteuse." type="primary" %}
 
-L'infinitif est souvent le complément direct d'un verbe. Les verbes suivants peuvent prendre un infinitif comme complément :
+L'infinitif est souvent le complément direct d'un verbe. Les verbes suivants peuvent prendre un infinitif comme complément&nbsp;:
 
-* Verbes de mouvement : (Dans cette catégorie, l'infinitif indique le but) **aller**, **descendre**, **partir**, **rentrer**, **retourner**, **revenir**, **sortir**, **venir**, etc.
-* Verbes de préférence : **adorer**, **aimer**, **désirer**, **détester**, **préférer**, **vouloir**
-* Verbes d'opinion : **compter**, **croire**, **espérer**, **nier**, **penser**, **valoir mieux** (impersonnel : **il vaut mieux**)
-* Verbes de perception : **écouter**, **entendre**, **regarder**, **sentir**, **voir**
-* Verbes de capacité, d'obligation et de nécessité : **avoir beau** (faire quelque chose en vain), **devoir**, **faillir** (presque faire quelque chose), **falloir** (impersonnel : **il faut**), **pouvoir**, **savoir**
+* Verbes de mouvement&nbsp;: (Dans cette catégorie, l'infinitif indique le but) **aller**, **descendre**, **partir**, **rentrer**, **retourner**, **revenir**, **sortir**, **venir**, etc.
+* Verbes de préférence&nbsp;: **adorer**, **aimer**, **désirer**, **détester**, **préférer**, **vouloir**
+* Verbes d'opinion&nbsp;: **compter**, **croire**, **espérer**, **nier**, **penser**, **valoir mieux** (impersonnel : **il vaut mieux**)
+* Verbes de perception&nbsp;: **écouter**, **entendre**, **regarder**, **sentir**, **voir**
+* Verbes de capacité, d'obligation et de nécessité&nbsp;: **avoir beau** (faire quelque chose en vain), **devoir**, **faillir** (presque faire quelque chose), **falloir** (impersonnel&nbsp;: **il faut**), **pouvoir**, **savoir**
 
 Beaucoup de verbes peuvent prendre un infinitif comme complément oblique, marqué par une préposition. Cette préposition est généralement **de** ou **à** (pour plus de détails, voir [Prépositions](/grammaire_prépositions.html#verbe-prép-verbe)).
 
@@ -69,7 +69,7 @@ Notez que la préposition **en** est suivie d'un participe présent, pas de l'in
 
 {% include callout.html content="L'appétit vient **en mangeant**." type="primary" %}
 
-L'infinitif peut être utilisé pour compléter le sens d'un adjectif ou d'un pronom. Généralement, les infinitifs qui suivent un nom ou un adjectif sont précédés de la préposition **de**. Cependant, les adjectifs et les noms sont suivis de la préposition **à + infinitif** pour indiquer un sens passif ou une fonction :
+L'infinitif peut être utilisé pour compléter le sens d'un adjectif ou d'un pronom. Généralement, les infinitifs qui suivent un nom ou un adjectif sont précédés de la préposition **de**. Cependant, les adjectifs et les noms sont suivis de la préposition **à + infinitif** pour indiquer un sens passif ou une fonction&nbsp;:
 
 {% include callout.html content="J'ai été très content **de venir**.<br/><br/>Elles n'ont pas les moyens **d'aller** en Suisse.<br/><br/>Tous les chocolats sont bons **à prendre**.<br/><br/>J'avais à peine de l'eau **à boire** pour huit jours.<br/><br/>" type="primary" %}
 
@@ -79,6 +79,6 @@ L'infinitif est souvent utilisé dans des expressions impersonnelles pour évite
 
 L'infinitif peut être utilisé dans une phrase interrogative ou des phrases exclamatives pour exprimer un dilemme.
 
-{% include callout.html content="Quel processeur **choisir** ? AMD ou Intel ? Double ou quadruple coeur ? Tout dépend de vos usages.<br/><br/>**Faire** une chose pareille à sa femme!" type="primary" %}
+{% include callout.html content="Quel processeur **choisir**&nbsp;? AMD ou Intel&nbsp;? Double ou quadruple coeur&nbsp;? Tout dépend de vos usages.<br/><br/>**Faire** une chose pareille à sa femme&nbsp;!" type="primary" %}
 
 {% include links.html %}

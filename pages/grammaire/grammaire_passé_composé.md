@@ -12,13 +12,13 @@ Le passé composé est le temps le plus couramment utilisé pour désigner des a
 
 {% include callout.html content="Elle **a mangé** un peu de purée.<br/>- *'She <ins>ate</ins> some mashed potatoes'*<br/>- *'She <ins>has eaten</ins> some mashed potatoes'*<br/>- *'She <ins>did eat</ins> some mashed potatoes'*" type="primary" %}
 
-Ce temps s'appelle le passé composé car il est composé de deux éléments : le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé :
+Ce temps s'appelle le passé composé car il est composé de deux éléments&nbsp;: le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé&nbsp;:
 
 >*passé composé* = *présent de l'auxiliaire* + *participe passé*
 
 Dans la plupart des cas, le verbe auxiliaire est **avoir**, mais certains verbes nécessitent **être** comme auxiliaire.
 
-Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'imparfait qui exprime l'aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect) et [Imparfait](/grammaire_imparfait.html)). Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin. Des exemples de contextes où on voit le passé composé incluent :
+Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'imparfait qui exprime l'aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect) et [Imparfait](/grammaire_imparfait.html)). Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin. Des exemples de contextes où on voit le passé composé incluent&nbsp;:
 
 + une action accomplie à un moment dans le passé
 
@@ -38,7 +38,7 @@ Le passé composé exprime généralement l'aspect perfectif, en contraste avec 
 
 + une réaction ou une situation qui a changé
 
-{% include callout.html content="Tu **as été** triste quand il est parti?" type="primary" %}
+{% include callout.html content="Tu **as été** triste quand il est parti&nbsp;?" type="primary" %}
 
 ## Forme
 
@@ -58,9 +58,9 @@ Le choix de l'auxiliaire dépend du verbe. La plupart des verbes prennent *avoir
 
 | **classe verbale** | **exemples (avec *être*)** | **exceptions (avec *avoir*)** |
 | verbes réfléchis | *se laver*, *se parler*, *se dépêcher*, *se reposer*, etc. | (sans exception) |
-| changement de lieu | *aller*, *(re)venir*, *arriver*, *retourner*, *(r)entrer*, *partir*, *sortir*, *monter*, *descendre*, *tomber*, *passer*, *apparaître* | quelques exceptions: *bouger*, *voyager*, etc. |
-| changement d'état | *devenir*, *naître*, *mourir*, *décéder* | plusieurs exceptions: *périr*, *rougir*, *fondre*, *grandir*, etc. |
-| persistance de lieu/état | *rester*, *demeurer* | beaucoup d'exceptions: *exister*, *durer*, *continuer*, *stagner*, *être*, etc. |
+| changement de lieu | *aller*, *(re)venir*, *arriver*, *retourner*, *(r)entrer*, *partir*, *sortir*, *monter*, *descendre*, *tomber*, *passer*, *apparaître* | quelques exceptions&nbsp;: *bouger*, *voyager*, etc. |
+| changement d'état | *devenir*, *naître*, *mourir*, *décéder* | plusieurs exceptions&nbsp;: *périr*, *rougir*, *fondre*, *grandir*, etc. |
+| persistance de lieu/état | *rester*, *demeurer* | beaucoup d'exceptions&nbsp;: *exister*, *durer*, *continuer*, *stagner*, *être*, etc. |
 
 {% include variation.html content="Pour certains verbes, le choix de l'auxiliaire est absolu. Pour d'autres (typiquement des verbes moins communs) on observe de la variation. Le verbe *apparaître* prend normalement *être*, mais il n'est pas rare qu'il se voie avec l'auxiliaire *avoir*. De l'autre côté, les verbes *paraître* et *disparaître* prennent typiquement *avoir*, mais peuvent se conjuguer avec *être*, surtout pour souligner l'état résultant. Certains locuteurs préfèrent *avoir* pour les verbes *monter* et *descendre* pour évoquer le trajet plutôt que la destination. Cette variation est parfois régionale. Par exemple, dans plusieurs variétés nord-américaines, *avoir* est choisi assez souvent pour des verbes comme *passer*, *retourner*, et *rester*, même si la sélection d'*être* est toujours en vigueur pour d'autres verbes comme *aller* et *venir*." %}
 
@@ -70,7 +70,7 @@ N'oubliez pas que c'est seulement les verbes intransitifs (et réfléchis) qui p
 
 Alors que *sortir* et *retourner* prennent l'auxiliaire *être* au passé composé lorsqu'ils sont intransitifs, dans l'exemple ci-dessus ils sont utilisés transitivement (avec les compléments directs *un stylo* et *son sous-bock*). Ils prennent donc *avoir*.
 
-{% include information.html content="Pourquoi est-ce que le français a deux auxiliaires, et qu'est-ce qui distingue les verbes qui utilisent *être* ? C'est dû à la transitivité. Les verbes transitifs ont deux participants: un sujet, qui est plutôt actif dans l'action, et un complément, qui est plutôt passif dans l'action. Les verbes intransitifs n'ont qu'un participant (le sujet), qui est plutôt actif ou passif selon le verbe. Le sujet de *danser* est un agent qui montre de la volonté, alors que le sujet de *tomber* est un victime non-volontaire. Plusieurs langues reflètent cette différence dans la grammaire. Mais l'inventaire précis de ces deux groupes de verbes intransitifs (appelés *inergatifs* et *inaccusatifs* par les linguistes) diffère d'une langue à une autre. Les exceptions apparaissent quand la tendance de distinguer ces deux types de verbes se manifeste en conflit avec la tendance opposée de régulariser un maximum de verbes en utilisant le même auxiliaire." %}
+{% include information.html content="Pourquoi est-ce que le français a deux auxiliaires, et qu'est-ce qui distingue les verbes qui utilisent *être*&nbsp;? C'est dû à la transitivité. Les verbes transitifs ont deux participants&nbsp;: un sujet, qui est plutôt actif dans l'action, et un complément, qui est plutôt passif dans l'action. Les verbes intransitifs n'ont qu'un participant (le sujet), qui est plutôt actif ou passif selon le verbe. Le sujet de *danser* est un agent qui montre de la volonté, alors que le sujet de *tomber* est un victime non-volontaire. Plusieurs langues reflètent cette différence dans la grammaire. Mais l'inventaire précis de ces deux groupes de verbes intransitifs (appelés *inergatifs* et *inaccusatifs* par les linguistes) diffère d'une langue à une autre. Les exceptions apparaissent quand la tendance de distinguer ces deux types de verbes se manifeste en conflit avec la tendance opposée de régulariser un maximum de verbes en utilisant le même auxiliaire." %}
 
 Ne confondez pas les verbes *rentrer*, *retourner*, et *revenir*. *Retourner* 'go back' prend la perspective du point de départ, alors que *revenir* 'come back' prend la perspective de la destination. *Rentrer* a une perspective neutre, mais sa destination est généralement le lieu où on habite (*rentrer chez moi*).
 
@@ -78,7 +78,7 @@ Ne confondez pas les verbes *rentrer*, *retourner*, et *revenir*. *Retourner* 'g
 
 Attention au fait que *rester* veut dire 'stay' et non pas 'rest'. Pour dire 'rest', le verbe est *se reposer*.
 
-{% include callout.html content="Il **est resté** à la maison pour s'occuper des mômes!<br/><br/>Hier, les 171 coureurs encore en compétition **se sont reposés**." type="primary" %}
+{% include callout.html content="Il **est resté** à la maison pour s'occuper des mômes&nbsp;!<br/><br/>Hier, les 171 coureurs encore en compétition **se sont reposés**." type="primary" %}
 
 ### l'accord
 
@@ -92,7 +92,7 @@ Le participe passé d'un verbe qui prend **être** s'accorde en genre et en nomb
 
 {% include callout.html content="Elles **sont** donc **parties** et elles **sont allées** chez un docteur.<br/><br/>Maria **est morte** des fièvres il y a quelques mois.<br/><br/>On **est montés** dans la voiture, on a démarré.<br/><br/>La nuit, le thermomètre **est descendu** aux environs de vingt degrés sous zéro." type="primary" %}
 
-Le participe passé d'un verbe qui prend *avoir* ne s'accorde pas avec le sujet. Néanmoins, il peut faire l'accord avec un complément direct *qui précede le verbe*. Typiquement, les compléments directs suivent le verbe, et il n'y a pas d'accord. Mais le complément direct peut précéder le verbe dans les circonstances suivantes :
+Le participe passé d'un verbe qui prend *avoir* ne s'accorde pas avec le sujet. Néanmoins, il peut faire l'accord avec un complément direct *qui précede le verbe*. Typiquement, les compléments directs suivent le verbe, et il n'y a pas d'accord. Mais le complément direct peut précéder le verbe dans les circonstances suivantes&nbsp;:
 + si le complément direct est un pronom
 
 {% include callout.html content="Tu **les** as rencontré**s** il y a quelque temps." type="primary" %}
@@ -106,7 +106,7 @@ Notez que le participe passé ne s'accorde pas avec un complément oblique, mêm
 {% include callout.html content="Je **leur** ai dit de ne pas compter sur moi." type="primary" %}
 
 ## Passé composé des verbes réfléchis
-Un verbe réfléchi est un verbe qui a un pronom réfléchi, c'est-à-dire un pronom renvoyant à son sujet. Ces verbes sont facilement reconnaissables par le pronom **se** avant l'infinitif : **se lever**, **se laver**, **se promener**, etc.
+Un verbe réfléchi est un verbe qui a un pronom réfléchi, c'est-à-dire un pronom renvoyant à son sujet. Ces verbes sont facilement reconnaissables par le pronom **se** avant l'infinitif&nbsp;: **se lever**, **se laver**, **se promener**, etc.
 
 Au passé composé, les verbes réfléchis sont conjugués avec **être** comme auxiliaire. Notez que le pronom réfléchi (**me**, **te**, **se**, **nous**, **vous**, **se**) précède l'auxiliaire. Le participe passé des verbes réfléchis s'accorde en genre et en nombre avec le pronom réfléchi si c'est un complément direct. Le participe passé fait l'accord avec le sujet si le verbe est idiomatiquement réfléchi ou si c'est dans la construction médiopassive. Le participe passé ne fait pas l'accord si le pronom réfléchi est un complément oblique (voir [Verbes réfléchis](/grammaire_verbes_réfléchis.html)).
 
@@ -116,27 +116,27 @@ Au passé composé, les verbes réfléchis sont conjugués avec **être** comme 
 | tu t'es amusé(e) | vous vous êtes amusé(e)(s) |
 | il s'est amusé<br/>elle s'est amusée<br/>on s'est amusé(e)(s) | ils se sont amusés<br/>elles se sont amusées |
 
-{% include callout.html content="Très rapidement, il **s'est réveillé.**<br/><br/>Victoire **s'est réveillée** à 6h en pleine forme.<br/><br/>Le matin, on **s'est réveillés** avec un super soleil et une super vue!<br/><br/>Hier, les deux présidents **se sont parlé**. (*se* = complément oblique, aucun accord)" type="primary" %}
+{% include callout.html content="Très rapidement, il **s'est réveillé.**<br/><br/>Victoire **s'est réveillée** à 6h en pleine forme.<br/><br/>Le matin, on **s'est réveillés** avec un super soleil et une super vue&nbsp;!<br/><br/>Hier, les deux présidents **se sont parlé**. (*se* = complément oblique, aucun accord)" type="primary" %}
 
 Dans le deuxième exemple ci-dessous, le complément direct **les dents de devant** est placé après le verbe; il n'y a donc pas d'accord avec le pronom réfléchi, qui est complément oblique.
 
 {% include callout.html content="Elle **s'est maquillée** et **coiffée**.<br/><br/>Elle **s'est cassé** <ins>les dents de devant</ins>." type="primary" %}
 
 ## Négation et interrogation
-La négation du passé composé se forme en plaçant **ne ... pas** autour de l'auxiliaire *avoir* ou *être* : *Je **ne** suis **pas** allé(e)*, *Tu **n'**as **pas** fait*, etc.
+La négation du passé composé se forme en plaçant **ne ... pas** autour de l'auxiliaire *avoir* ou *être*&nbsp;: *Je **ne** suis **pas** allé(e)*, *Tu **n'**as **pas** fait*, etc.
 
-Pour les verbes réfléchis, le **ne** précède le pronom réfléchi et le **pas** suit l'auxiliaire : *je **ne** me suis **pas** amusé(e)*
+Pour les verbes réfléchis, le **ne** précède le pronom réfléchi et le **pas** suit l'auxiliaire&nbsp;: *je **ne** me suis **pas** amusé(e)*
 
 Si une question est posée par inversion du pronom sujet et du verbe, et le verbe est au passé composé, c'est l'auxiliaire qui précède le sujet. Le participe passé suit le sujet. L'auxiliaire et le pronom sujet sont liés par un tiret.
 
-{% include callout.html content="**As-tu goûté** tes produits ?<br/><br/>N'**avez-vous** pas **oublié** certains détails à préciser?" type="primary" %}
+{% include callout.html content="**As-tu goûté** tes produits&nbsp;?<br/><br/>N'**avez-vous** pas **oublié** certains détails à préciser&nbsp;?" type="primary" %}
 
 ## Le passé immédiat (*venir de* + infinitif)
 Lorsque *venir* se conjugue au présent et est suivi de *de + infinitif*, cela signifie « avoir fait quelque chose tout récemment ». Cette construction s'appelle le *passé immédiat*.
 
 {% include callout.html content="Ce que vous **venez de dire** est très intéressant.<br/><br/>La version 3 **vient de sortir** et elle est disponible sur Internet." type="primary" %}
 
-Quand **venir** se conjugue à l'imparfait suivi de **de + infinitif**, cela veut dire « avait fait quelque chose tout récemment » :
+Quand **venir** se conjugue à l'imparfait suivi de **de + infinitif**, cela veut dire « avait fait quelque chose tout récemment »&nbsp;:
 
 {% include callout.html content="Je **venais de rentrer** quand Maurice est arrivé.<br/><br/>Ce qu'elle **venait d'entendre** lui semblait complètement incroyable." type="primary" %}
 

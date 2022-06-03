@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-Pour comparer des choses ou des personnes, le français a des constructions particulières appelées *constructions comparatives* (similaires au suffixe **-er** de l'anglais: *faster*, *smarter*, *larger*). Des formes modifiées de ces constructions, les *constructions superlatives*, permettent d'élever des choses ou des personnes au-dessus de tous les autres (comme le suffixe **-est** de l'anglais: *fastest*, *smartest*, *largest*). Les superlatifs peuvent porter un sens de supériorité (*most*) ou d'infériorité (*least*). Les comparatifs peuvent porter un sens de supériorité (*more*), d'infériorité (*less*), ou d'égalité (*as*, *as much*). La forme des constructions comparatives et superlatives dépend de la catégorie du mot utilisé pour la comparaison: adjectif, adverbe, nom, ou verbe.
+Pour comparer des choses ou des personnes, le français a des constructions particulières appelées *constructions comparatives* (similaires au suffixe **-er** de l'anglais&nbsp;: *faster*, *smarter*, *larger*). Des formes modifiées de ces constructions, les *constructions superlatives*, permettent d'élever des choses ou des personnes au-dessus de tous les autres (comme le suffixe **-est** de l'anglais&nbsp;: *fastest*, *smartest*, *largest*). Les superlatifs peuvent porter un sens de supériorité (*most*) ou d'infériorité (*least*). Les comparatifs peuvent porter un sens de supériorité (*more*), d'infériorité (*less*), ou d'égalité (*as*, *as much*). La forme des constructions comparatives et superlatives dépend de la catégorie du mot utilisé pour la comparaison&nbsp;: adjectif, adverbe, nom, ou verbe.
 
 ## Le comparatif
 
@@ -55,9 +55,9 @@ Tout comme **bon** et **bien**, **meilleur** et **mieux** peuvent tous les deux 
 
 **Mieux** apparaît aussi dans les expressions *valoir mieux* (*il vaut mieux* = 'il est préférable') et *faire de son mieux* ('to do one's best').
 
-*Moins bon/bien* et *aussi bon/bien* ont une forme régulière :
+*Moins bon/bien* et *aussi bon/bien* ont une forme régulière&nbsp;:
 
-{% include callout.html content="C'est un peu **moins bon**, mais ça va.<br/><br/>Ta cuisine est **aussi bonne que** ta personnalité.<br/><br/>Ces jeunes propriétaires vivent **moins bien que** leurs parents.<br/><br/>Je connais la campagne **aussi bien que** vous !" type="primary" %}
+{% include callout.html content="C'est un peu **moins bon**, mais ça va.<br/><br/>Ta cuisine est **aussi bonne que** ta personnalité.<br/><br/>Ces jeunes propriétaires vivent **moins bien que** leurs parents.<br/><br/>Je connais la campagne **aussi bien que** vous&nbsp;!" type="primary" %}
 
 La forme irrégulière **pire** vaut pour l'adjectif *plus mauvais* ainsi que l'adverbe *plus mal*. Mais les formes régulières **plus mauvais** et **plus mal** sont aussi acceptées. *Moins mauvais/mal* et *aussi mauvail/mal* sont réguliers.
 
@@ -71,21 +71,21 @@ L'adverbe **bien** est un intensificateur et peut modifier des adjectifs et des 
 
 Le mot **pis** est une forme réduite de *pire* utilisée dans les expressions *de mal en pis* ('from bad to worse') et *tant pis* ('too bad, what a shame'). Les expressions équivalentes positives sont *de mieux en mieux* ('better and better') et *tant mieux* ('all the better, that's great'). (On peut faire une comparaison croissante avec d'autre mots avec les expressions *de plus en plus...* et *de moins en moins...*).
 
-{% include callout.html content="**Tant mieux** si je t'énerve, c'est le but (du moins en partie).<br/><br/>**Tant pis** pour le théâtre, on ira un autre soir.<br/><br/>Je me sentais **de mieux en mieux**.<br/><br/>Les agriculteurs s'arrachaient les cheveux : les récoltes de blé, de maïs et de tournesol allaient **de mal en pis**." type="primary" %}
+{% include callout.html content="**Tant mieux** si je t'énerve, c'est le but (du moins en partie).<br/><br/>**Tant pis** pour le théâtre, on ira un autre soir.<br/><br/>Je me sentais **de mieux en mieux**.<br/><br/>Les agriculteurs s'arrachaient les cheveux&nbsp;: les récoltes de blé, de maïs et de tournesol allaient **de mal en pis**." type="primary" %}
 
-{% include variation.html content="Á l'écrit, si une comparaison avec **plus** ou **moins** est faite avec une proposition, cette proposition aura **ne** et/ou **le** devant le verbe: *Vous êtes **plus** forte **que** vous **ne le** pensez.* À l'oral, ce n'est souvent pas le cas: *Oui, en Chine, la chute de la fécondité est allée **plus** loin **qu'**on imaginait.*" %}
+{% include variation.html content="Á l'écrit, si une comparaison avec **plus** ou **moins** est faite avec une proposition, cette proposition aura **ne** et/ou **le** devant le verbe&nbsp;: *Vous êtes **plus** forte **que** vous **ne le** pensez.* À l'oral, ce n'est souvent pas le cas&nbsp;: *Oui, en Chine, la chute de la fécondité est allée **plus** loin **qu'**on imaginait.*" %}
 
 ## Le superlatif
 
 La forme du superlatif est très similaire à celle du comparatif. On ajoute simplement l'article défini devant **plus** (pour la supériorité) ou **moins** (pour l'infériorité). Pour indiquer le groupe ou la catégorie dont un membre est supérieur ou inférieur, on utilise la préposition **de**.
 
-Pour le superlatif d'un adjectif, l'article défini s'accorde en genre et en nombre avec le nom modifié. La place de l'adjectif superlatif suit les même règles que pour les adjectifs normaux. Notez que si l'adjectif suit le nom, l'article défini est utilisé deux fois: devant le nom et encore devant *plus* ou *moins*.
+Pour le superlatif d'un adjectif, l'article défini s'accorde en genre et en nombre avec le nom modifié. La place de l'adjectif superlatif suit les même règles que pour les adjectifs normaux. Notez que si l'adjectif suit le nom, l'article défini est utilisé deux fois&nbsp;: devant le nom et encore devant *plus* ou *moins*.
 
 | **place de l'adjectif** | **supériorité** | **infériorité** |
 | *adjectif après le nom* | C'est **la** solution **la plus raisonnable** compte tenu de nos moyens et de nos opportunités. | Astérix est **le** personnage **le moins sexy de** la série. |
 | *adjectif devant le nom* | C'est **le plus beau** jour **de** ma vie. | Il n'empêche qu'il nous faut maintenant adopter **la moins mauvaise** solution. |
 
-Notez que le nom peut être marqué par un déterminant possessif (**mon**, **ma**, **mes**, etc.) au lieu de l'article défini. Si l'adjectif suit le nom, l'article défini sera toujours mis devant **plus/moins** :
+Notez que le nom peut être marqué par un déterminant possessif (**mon**, **ma**, **mes**, etc.) au lieu de l'article défini. Si l'adjectif suit le nom, l'article défini sera toujours mis devant **plus/moins**&nbsp;:
 
 {% include callout.html content="C'est probablement **sa** plus grande réussite.<br/><br/>Il jette **ses** habits **les** plus moches." type="primary" %}
 

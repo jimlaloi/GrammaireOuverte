@@ -31,7 +31,7 @@ Par contre, un nom massif (ou *indénombrable*) signifie une entité que l'on ne
 
 {% include callout.html content="J'ajoute de la **farine**, du **lait**, du **sel** et du **poivre**." type="primary" %}
 
-La différence entre les noms comptables et massifs est typiquement très claire. Cependant, quelque chose qui est typiquement massif comme l'eau (*je voudrais de l'eau*) peut néanmoins être conçu en termes comptables. Et vice versa, quelque chose qui est typiquement comptable comme un chemin (*un chemin*, *deux chemins*, *trois chemins*) peut être conçu en termes massifs :
+La différence entre les noms comptables et massifs est typiquement très claire. Cependant, quelque chose qui est typiquement massif comme l'eau (*je voudrais de l'eau*) peut néanmoins être conçu en termes comptables. Et vice versa, quelque chose qui est typiquement comptable comme un chemin (*un chemin*, *deux chemins*, *trois chemins*) peut être conçu en termes massifs&nbsp;:
 
 {% include callout.html content="Je trouve que c'est **une eau** de bonne qualité.<br/><br/>Le fait qu'il y ait encore un ministère des Droits des femmes prouve qu'il y a **du chemin** à parcourir." type="primary" %}
 
@@ -41,21 +41,21 @@ Les noms comptables ont une forme singulière et une forme plurielle. Typiquemen
 
 {% include callout.html content="Il y a 2 **personnes** la nuit et une **personne** le jour." type="primary" %}
 
-Les noms en **-s**, **-x**, ou **-z** ne changent pas au pluriel. Par exemple: 
+Les noms en **-s**, **-x**, ou **-z** ne changent pas au pluriel. Par exemple&nbsp;: 
 
 {% include callout.html content="Il passe environ 8h par jour à chercher des **souris**.<br/><br/>Je ne mange que des **noix** de coco.<br/><br/>Cette nuit, les **nez** rouges risquent d'être nombreux." type="primary" %}
 
 Les noms en **-al**, **-ail**, ou **-au** au singulier se terminent en **-aux** au pluriel. Par exemple:
 
-{% include callout.html content="Ce n'est pas un **animal**: les **animaux** ne pensent pas.<br/><br/>Je pense que le rapporteur fait honnêtement son **travail** et respecte les **travaux** de la commission.<br/><br/>Ce **matériau** nous permet justement d'avoir plusieurs **matériaux** regroupés en un." type="primary" %}
+{% include callout.html content="Ce n'est pas un **animal**&nbsp;: les **animaux** ne pensent pas.<br/><br/>Je pense que le rapporteur fait honnêtement son **travail** et respecte les **travaux** de la commission.<br/><br/>Ce **matériau** nous permet justement d'avoir plusieurs **matériaux** regroupés en un." type="primary" %}
 
-Il y a quelques exceptions: un **bal**, des **bals**; un **carnaval**, des **carnavals**; un **festival**, des **festivals**; un **récital**, des **récitals**.
+Il y a quelques exceptions&nbsp;: un **bal**, des **bals**; un **carnaval**, des **carnavals**; un **festival**, des **festivals**; un **récital**, des **récitals**.
 
-Les noms en **-eu** ou **-eau** au singulier ajoutent **-x** au pluriel. Par exemple: 
+Les noms en **-eu** ou **-eau** au singulier ajoutent **-x** au pluriel. Par exemple&nbsp;: 
 
-{% include callout.html content="S'il touche à un seul de ses **cheveux**... un **cheveu** tu entends, je l'étrangle de mes mains !<br/><br/>On va avoir aussi des **morceaux** des années 80 avec un **morceau** d'Earth Wind And Fire ou de Phil Collins." type="primary" %}
+{% include callout.html content="S'il touche à un seul de ses **cheveux**... un **cheveu** tu entends, je l'étrangle de mes mains&nbsp;!<br/><br/>On va avoir aussi des **morceaux** des années 80 avec un **morceau** d'Earth Wind And Fire ou de Phil Collins." type="primary" %}
 
-Les noms en **-ou** se terminent par **-oux** au pluriel:
+Les noms en **-ou** se terminent par **-oux** au pluriel&nbsp;:
 
 * un bijou, des **bijoux**
 * un caillou, des **cailloux**
@@ -64,18 +64,18 @@ Les noms en **-ou** se terminent par **-oux** au pluriel:
 * un hibou, des **hiboux**
 * un pou, des **poux**
 
-Les exceptions incluent: un clou, des **clous**; un sou, des **sous**; un trou, des **trous**. 
+Les exceptions incluent&nbsp;: un clou, des **clous**; un sou, des **sous**; un trou, des **trous**. 
 
 ### pluriels irréguliers 
 
-Certains noms ont une forme irrégulière au pluriel: 
+Certains noms ont une forme irrégulière au pluriel&nbsp;: 
 
 * un oeil, des **yeux**
 * Madame, **Mesdames**
 * Monsieur, **Messieurs**
 * Mademoiselle, **Mesdemoiselles**
 
-Notez que certains noms suivent la règle normale pour la forme écrite du pluriel mais ont une prononciation différente au pluriel. Par exemple, le **-f** de ces mots est prononcé au singulier, mais pas au pluriel:
+Notez que certains noms suivent la règle normale pour la forme écrite du pluriel mais ont une prononciation différente au pluriel. Par exemple, le **-f** de ces mots est prononcé au singulier, mais pas au pluriel&nbsp;:
 
 * un oeuf, des **oeufs**
 * un boeuf, des **boeufs**
@@ -108,7 +108,7 @@ Le genre grammatical a peu de relation avec le genre naturel. Les noms qui font 
 
 ### le genre des personnes
 
-Quand un nom fait référence à une personne, son genre est généralement déterminé par le genre de la personne. Le plus souvent, la forme féminine d'un nom est faite en ajoutant un **-e** au nom masculin. Notez que l'ajout du **-e** change la prononciation de certains mots:
+Quand un nom fait référence à une personne, son genre est généralement déterminé par le genre de la personne. Le plus souvent, la forme féminine d'un nom est faite en ajoutant un **-e** au nom masculin. Notez que l'ajout du **-e** change la prononciation de certains mots&nbsp;:
  
 {% include callout.html content="Votre père est **avocat**, votre mère était **avocate**.<br/><br/>La femme de mon meilleur **ami** est naturellement ma meilleure **amie**." type="primary" %}
 
@@ -120,7 +120,7 @@ En général, quand un nom masculin se termine par **-e**, le nom féminin reste
 
 {% include callout.html content="Puis les circonstances font que je rencontre un jeune **artiste**, une jeune **artiste**." type="primary" %}
 
-{% include variation.html content="Les noms de certains métiers historiquement inaccessibles aux femmes ont subi depuis les années 70 un processus de féminisation, avec des formes variables comme résultat. Si *docteure* se présente comme le féminin évident de *docteur*, d'autres métiers donnent lieu à une diversité de formes suggérées (pour *chef*: *cheffe*, *chèfe*, *cheffesse*...). Au Québec, la féminisation des métiers a avancé plutôt progressivement. En France, à cause de l'influence conservatrice de l'Académie Française, beaucoup d'institutions ont été plus lentes à adopter certaines formes, y compris *écrivaine* et *auteure*/*autrice*. Ceux qui préfèrent garder les formes masculines en parlant des femmes regardent le masculin grammatical comme neutre, alors que d'autres critiquent la présomption d'un masculin par défaut. Lorsque la forme du nom reste invariable (*médecin*, par exemple, garde sa forme car la forme féminine potentielle, *médecine*, est déjà son propre mot), le genre de la personne est toujours indiqué par l'article: *une médecin*." %}
+{% include variation.html content="Les noms de certains métiers historiquement inaccessibles aux femmes ont subi depuis les années 70 un processus de féminisation, avec des formes variables comme résultat. Si *docteure* se présente comme le féminin évident de *docteur*, d'autres métiers donnent lieu à une diversité de formes suggérées (pour *chef*&nbsp;: *cheffe*, *chèfe*, *cheffesse*...). Au Québec, la féminisation des métiers a avancé plutôt progressivement. En France, à cause de l'influence conservatrice de l'Académie Française, beaucoup d'institutions ont été plus lentes à adopter certaines formes, y compris *écrivaine* et *auteure*/*autrice*. Ceux qui préfèrent garder les formes masculines en parlant des femmes regardent le masculin grammatical comme neutre, alors que d'autres critiquent la présomption d'un masculin par défaut. Lorsque la forme du nom reste invariable (*médecin*, par exemple, garde sa forme car la forme féminine potentielle, *médecine*, est déjà son propre mot), le genre de la personne est toujours indiqué par l'article&nbsp;: *une médecin*." %}
 
 ### le genre des objets et des idées
 
@@ -143,14 +143,14 @@ Les noms propres n'ont parfois aucun indice de leur genre, étant donné qu'ils 
 
 {% include callout.html content="Dans la famille Lévy, il y a **une Sylvie**.<br/><br/>Viens, **mon Francis**, on y va.<br/><br/>Nous allons parler de notre **douce** et **belle France**." type="primary" %}
 
-Le genre des noms propres est déterminé selon le tableau suivant :
+Le genre des noms propres est déterminé selon le tableau suivant&nbsp;:
 
 | **Type de nom propre** | **Genre** | **Exemples** |
 | nom d'une personne | genre de la personne | Sylvie (f), Francis (m) |
 | nom d'un évènement | genre du nom commun correspondant | le Tour de France, la Coupe du monde |
 | nom d'une planète | féminin | Saturne (f) |
 | nom d'un continent | féminin sauf l'Antarctique et l'Arctique | l'Asie (f) |
-| nom d'un pays ou d'une île | généralement féminin si se terminant par -e <br/>exceptions: le Mexique, le Cambodge, le Mozambique, le Zimbabwe, le Belize, le Suriname | la Côte d'Ivoire, le Pérou |
+| nom d'un pays ou d'une île | généralement féminin si se terminant par -e <br/>exceptions&nbsp;: le Mexique, le Cambodge, le Mozambique, le Zimbabwe, le Belize, le Suriname | la Côte d'Ivoire, le Pérou |
 | nom d'une ville | généralement masculin | Paris (m) |
 
 {% include information.html content="Certaines villes, comme la Nouvelle Orléans ou le Caire, incluent l'article dans leur nom, rendant donc évident leur genre. Parmi d'autres villes, on peut trouver des genres contradictoires (*la Londres du XIXe siècle*, *le Londres des années 60*). Néanmoins, l'application du genre masculin à toutes les villes sans article devient de plus en plus commun." %}
@@ -170,7 +170,7 @@ Des paires de mots avec la même forme mais un sens différent sont appelés *ho
 
 ### les nombres nominaux
 
-Les numéraux cardinaux *deux*, *trois*, etc. sont des adjectifs. On peut dériver un nom pour une quantité approximative en ajoutant *-aine* à certains nombres. Les nombres qui le permettent sont *douze* (*une douzaine*), *quinze* (*une quinzaine*), et les multiples de *dix* (*une dizaine*, *une vingtaine*, *une trentaine*...) jusqu'à *cent* (*une centaine*). *Mille* a sa propre forme pour indiquer une quantité approximative: *un millier*. Ces nombres sont suivis de **de** devant un nom :
+Les numéraux cardinaux *deux*, *trois*, etc. sont des adjectifs. On peut dériver un nom pour une quantité approximative en ajoutant *-aine* à certains nombres. Les nombres qui le permettent sont *douze* (*une douzaine*), *quinze* (*une quinzaine*), et les multiples de *dix* (*une dizaine*, *une vingtaine*, *une trentaine*...) jusqu'à *cent* (*une centaine*). *Mille* a sa propre forme pour indiquer une quantité approximative&nbsp;: *un millier*. Ces nombres sont suivis de **de** devant un nom&nbsp;:
 
 {% include callout.html content="Elle sera en ville pour **une quinzaine de** jours.<br/><br/>**Une cinquantaine de** députés étaient présents au moment du vote." type="primary" %}
 
@@ -178,9 +178,9 @@ Pour indiquer une fraction, il faut dire le nominateur comme nombre cardinal (*c
 
 {% include callout.html content="Les montagnes couvrent les **trois cinquièmes** de l'étendue du territoire." type="primary" %}
 
-Les dénominateurs en bas de cinq ont des formes spéciales : *un demi* (1/2), *un tiers* (1/3), et *un quart* (1/4).
+Les dénominateurs en bas de cinq ont des formes spéciales&nbsp;: *un demi* (1/2), *un tiers* (1/3), et *un quart* (1/4).
 
-*Demi* est variable après (mais pas devant) un nom qu'il modifie :
+*Demi* est variable après (mais pas devant) un nom qu'il modifie&nbsp;:
 
 {% include callout.html content="Mireille ajoute une tasse et **demie** de lait.<br/><br/>J'ai quitté Paris une **demi**-heure après eux." type="primary" %}
 
@@ -194,17 +194,17 @@ Ne confondez pas *demi*, qui modifie une unité (*un demi-siècle*, *un an et de
 
 {% include callout.html content="Ils passaient la plupart de leur **temps** dans le jardin.<br/><br/>Là, on part, il fait un **temps** pourri." type="primary" %}
 
-**Temps** est généralement singulier mais peut être utilisé au pluriel, en particulier dans l'expression suivante :
+**Temps** est généralement singulier mais peut être utilisé au pluriel, en particulier dans l'expression suivante&nbsp;:
 
 {% include callout.html content="On dirait que les **temps** ont changé." type="primary" %}
 
-Voici les expressions les plus couramment utilisées avec **temps** :
+Voici les expressions les plus couramment utilisées avec **temps**&nbsp;:
 
 {% include callout.html content="Faut bien rêver **de temps en temps**.<br/><br/>Je pense à toi **tout le temps**.<br/><br/>Brigitte **prend son temps** avant de rentrer chez elle.<br/><br/>Ça me rappelle le **bon vieux temps**.<br/><br/>**De mon temps**, il était normal de saluer ses voisins.<br/><br/>Mais **la plupart du temps** ils refusent.<br/><br/>Elle était trop brillante pour **perdre son temps** à taper sur un clavier et répondre au téléphone.<br/><br/>**Pendant ce temps**, on va faire la sauce blanche.<br/><br/>On n'a pas **le temps de** discuter.<br/><br/>Tu arrives **à temps pour** prendre ma place." type="primary" %}
 
 **Heure** est féminin et peut être utilisé au singulier ou au pluriel. Il est utilisé pour désigner l'heure de l'horloge.
 
-{% include callout.html content="Quelle **heure** est-il?<br/><br/>Tu as **l'heure**?<br/><br/>Il arrive à Liège vers six **heures** du matin!<br/><br/>Maintenant c'est **l'heure** de la lecture." type="primary" %}
+{% include callout.html content="Quelle **heure** est-il&nbsp;?<br/><br/>Tu as **l'heure**&nbsp;?<br/><br/>Il arrive à Liège vers six **heures** du matin&nbsp;!<br/><br/>Maintenant c'est **l'heure** de la lecture." type="primary" %}
 
 **Fois** est féminin et ses formes singulières et plurielles sont identiques. Il est utilisé pour désigner un ou plusieurs cas d'un évènement.
 

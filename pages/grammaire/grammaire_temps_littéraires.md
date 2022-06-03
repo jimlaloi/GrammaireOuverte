@@ -19,7 +19,7 @@ Pour la plupart des gens qui apprennent le français comme langue seconde, il n'
 
 Le passé simple est utilisé à la place du passé composé. Dans des narrations dans un style littéraire, on utilise le passé simple pour des évènements et l'imparfait pour des descriptions (voir [Imparfait](/grammaire_imparfait.html#emplois)). Ce temps s'appelle le passé *simple* car, en contraste avec le passé composé qui comprend un auxiliaire, il n'y a qu'un mot.
 
-Notez l'emploi du passé simple dans les phrases suivantes, dans des contextes où on utiliserait normalement le passé composé :
+Notez l'emploi du passé simple dans les phrases suivantes, dans des contextes où on utiliserait normalement le passé composé&nbsp;:
 
 {% include callout.html content="À l'heure de la sortie des théâtres, elle **changea** (*a changé*) d'itinéraire pour éviter les embouteillages.<br/><br/>Chen **posa** (*a posé*) les mains sur la paroi et **fit** (*a fait*) signe qu'il était prêt." type="primary" %}
 
@@ -31,7 +31,7 @@ Pour tous les verbes réguliers en **-er**, le passé simple est formé en suppr
 | *tu **parl<ins>as</ins>*** | *vous **parl<ins>âtes</ins>*** |
 | *il/elle/on **parl<ins>a</ins>*** | *ils/elles **parl<ins>èrent</ins>*** |
 
-Les verbes réguliers en **-ir** et **-re** ont les mêmes terminaisons :
+Les verbes réguliers en **-ir** et **-re** ont les mêmes terminaisons&nbsp;:
 
 | finir |
 |---|
@@ -45,10 +45,10 @@ Les verbes réguliers en **-ir** et **-re** ont les mêmes terminaisons :
 | *tu **perd<ins>is</ins>*** | *vous **perd<ins>îtes</ins>*** |
 | *il/elle/on **perd<ins>it</ins>*** | *ils/elles **perd<ins>irent</ins>*** |
 
-Beaucoup d'autres verbes ont un radical dérivé du participe passé et un de deux ensembles de terminaisons :
+Beaucoup d'autres verbes ont un radical dérivé du participe passé et un de deux ensembles de terminaisons&nbsp;:
 
-* terminaisons en *-i-* : *-is*, *-is*, *-it*, *-îmes*, *-îtes*, *-irent*
-* terminaisons en *-u-* : *-us*, *-us*, *-ut*, *-ûmes*, *-ûtes*, *-urent*
+* terminaisons en *-i-*&nbsp;: *-is*, *-is*, *-it*, *-îmes*, *-îtes*, *-irent*
+* terminaisons en *-u-*&nbsp;: *-us*, *-us*, *-ut*, *-ûmes*, *-ûtes*, *-urent*
 
 | infinitif | participe passé | passé simple |
 |---|---|---|
@@ -72,7 +72,7 @@ Beaucoup d'autres verbes ont un radical dérivé du participe passé et un de de
 | vivre | vécu | je vécus, tu vécus, il vécut, nous vécûmes, vous vécûtes, ils vécurent |
 | vouloir | voulu | je voulus, tu voulus, il voulut, nous voulûmes, vous voulûtes, ils voulurent |
 
-Quelques verbes ont un radical irrégulier (non-dérivé du participe passé), mais des terminaisons régulières :
+Quelques verbes ont un radical irrégulier (non-dérivé du participe passé), mais des terminaisons régulières&nbsp;:
 
 | infinitif | participe passé | passé simple |
 |---|---|---|
@@ -109,18 +109,18 @@ Le passé antérieur se compose du passé simple de l'auxiliaire (*avoir* ou *ê
 
 Le passé antérieur occupe une place unique dans le système des temps. Comme le plus-que-parfait, il indique qu'une action est antérieure à un point de référence dans le passé (voir [Plus-que-parfait](/grammaire_plus-que-parfait.html)). Mais généralement, l'action décrite par le passé antérieur précède *immédiatement* l'action qui sert comme point de référence (qui est typiquement au passé simple). Alors, dans un style littéraire, on trouve le passé antérieur pour des actions antérieures immédiates et le plus-que-parfait pour des actions qui sont antérieures de manière plus éloignée.
 
-Le contexte où on trouve le plus souvent le passé antérieur est dans une phrase subordonnée après une conjonction temporelle : *quand*, *lorsque*, *dès que*, *après que*, *aussitôt que*.
+Le contexte où on trouve le plus souvent le passé antérieur est dans une phrase subordonnée après une conjonction temporelle&nbsp;: *quand*, *lorsque*, *dès que*, *après que*, *aussitôt que*.
 
 {% include callout.html content="Après qu'il lui **eut transmis** l'information, Charly secoua la tête.<br/><br/>Quand il **eut terminé**, il leva la tête vers le ciel." type="primary" %}
 
-Dans la phrase suivante, il y a une séquence avec une action principale et deux actions antérieures, dont une précède l'autre :
+Dans la phrase suivante, il y a une séquence avec une action principale et deux actions antérieures, dont une précède l'autre&nbsp;:
 1. Charance est coincé (plus-que-parfait dans une construction passive)
 2. Le sujet peut démêler (découvrir) la situation de Charance (passé antérieur)
 3. Le sujet fonce bride abattue (se dépêche) vers le campement (action principale au passé simple)
 
 {% include callout.html content="Quand enfin il **eut pu** démêler que son fidèle Charance **avait été coincé** dans un piège infernal, il **fonça** bride abattue vers le campement dans les marécages." type="primary" %}
 
-Dans un style non-littéraire, cette fonction d'*antériorité immédiate* est généralement remplie par le passé composé, avec la simple interprétation d'une séquence d'évènements :
+Dans un style non-littéraire, cette fonction d'*antériorité immédiate* est généralement remplie par le passé composé, avec la simple interprétation d'une séquence d'évènements&nbsp;:
 
 {% include callout.html content="Quand elle **a fini** son bac, elle a décidé de travailler dans la mode." type="primary" %}
 
@@ -128,29 +128,29 @@ Dans un style non-littéraire, cette fonction d'*antériorité immédiate* est g
 
 Tous les verbes, sans exception, sont réguliers à l'imparfait du subjonctif.
 
-Le radical de l'imparfait du subjonctif est la troisième personne du singulier du passé simple, moins le **-t** (s'il y a un *t* à la fin). À ce radical on ajoute les terminaisons *-sse*, *-sses*, *-t*, *-ssions*, *-ssiez*, *-ssent*. On ajoute un accent circonflexe à la dernière voyelle du radical pour la troisième personne du singulier, pour faire une distinction avec le passé simple. Voici quelques exemples :
+Le radical de l'imparfait du subjonctif est la troisième personne du singulier du passé simple, moins le **-t** (s'il y a un *t* à la fin). À ce radical on ajoute les terminaisons *-sse*, *-sses*, *-t*, *-ssions*, *-ssiez*, *-ssent*. On ajoute un accent circonflexe à la dernière voyelle du radical pour la troisième personne du singulier, pour faire une distinction avec le passé simple. Voici quelques exemples&nbsp;:
 
 **Ouvrir**
-+ passé simple : *il ouvrit*
-+ radical : *ouvri-*
-+ imparfait du subjonctif : *j'**ouvri<ins>sse</ins>***, *tu **ouvri<ins>sses</ins>***, *il **ouvr<ins>ît</ins>***, *nous **ouvri<ins>ssions</ins>***, *vous **ouvri<ins>ssiez</ins>***, *ils **ouvri<ins>ssent</ins>***
++ passé simple&nbsp;: *il ouvrit*
++ radical&nbsp;: *ouvri-*
++ imparfait du subjonctif&nbsp;: *j'**ouvri<ins>sse</ins>***, *tu **ouvri<ins>sses</ins>***, *il **ouvr<ins>ît</ins>***, *nous **ouvri<ins>ssions</ins>***, *vous **ouvri<ins>ssiez</ins>***, *ils **ouvri<ins>ssent</ins>***
 
 **Être**
-+ passé simple : *il fut*
-+ radical : *fu-*
-+ imparfait du subjonctif : *je **fu<ins>sse</ins>***, *tu **fu<ins>sses</ins>***, *il **f<ins>ût</ins>***, *nous **fu<ins>ssions</ins>***, *vous **fu<ins>ssiez</ins>***, *ils **fu<ins>ssent</ins>***
++ passé simple&nbsp;: *il fut*
++ radical&nbsp;: *fu-*
++ imparfait du subjonctif&nbsp;: *je **fu<ins>sse</ins>***, *tu **fu<ins>sses</ins>***, *il **f<ins>ût</ins>***, *nous **fu<ins>ssions</ins>***, *vous **fu<ins>ssiez</ins>***, *ils **fu<ins>ssent</ins>***
 
 **Parler**
-+ passé simple : *il parla*
-+ radical : *parla-*
-+ imparfait du subjonctif : *je **parla<ins>sse</ins>***, *tu **parla<ins>sses</ins>***, *il **parl<ins>ât</ins>***, *nous **parla<ins>ssions</ins>***, *vous **parla<ins>ssiez</ins>***, *ils **parla<ins>ssent</ins>***
++ passé simple&nbsp;: *il parla*
++ radical&nbsp;: *parla-*
++ imparfait du subjonctif&nbsp;: *je **parla<ins>sse</ins>***, *tu **parla<ins>sses</ins>***, *il **parl<ins>ât</ins>***, *nous **parla<ins>ssions</ins>***, *vous **parla<ins>ssiez</ins>***, *ils **parla<ins>ssent</ins>***
 
 **Venir**
-+ passé simple : *il vint*
-+ radical : *vin-*
-+ imparfait du subjonctif : *je **vin<ins>sse</ins>***, *tu **vin<ins>sses</ins>***, *il **v<ins>înt</ins>***, *nous **vin<ins>ssions</ins>***, *vous **vin<ins>ssiez</ins>***, *ils **vin<ins>ssent</ins>***
++ passé simple&nbsp;: *il vint*
++ radical&nbsp;: *vin-*
++ imparfait du subjonctif&nbsp;: *je **vin<ins>sse</ins>***, *tu **vin<ins>sses</ins>***, *il **v<ins>înt</ins>***, *nous **vin<ins>ssions</ins>***, *vous **vin<ins>ssiez</ins>***, *ils **vin<ins>ssent</ins>***
 
-Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du subjonctif : le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le présent du subjonctif quand l'action dans la phrase subordonnée est au même moment que l'action de la phrase principale, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
+Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du subjonctif&nbsp;: le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le présent du subjonctif quand l'action dans la phrase subordonnée est au même moment que l'action de la phrase principale, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
 
 {% include callout.html content="Je <ins>suis</ins> contente que tu **viennes** avec moi.<br/><br/>Les gens <ins>étaient</ins> contents qu'on **vienne** les voir. (style non-littéraire)" type="primary" %}
 
@@ -178,7 +178,7 @@ Le plus-que-parfait du subjonctif se compose de l'imparfait du subjonctif de l'a
 | *tu **fusses allé(e)*** | *vous **fussiez allé(e)(s)*** |
 | *il/elle/on **fût allé(e)(s)*** | *ils/elles **fussent allé(e)s*** |
 
-Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du subjonctif : le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le passé du subjonctif quand l'action dans la phrase subordonnée est antérieure à l'action de la phrase principale, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
+Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du subjonctif&nbsp;: le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le passé du subjonctif quand l'action dans la phrase subordonnée est antérieure à l'action de la phrase principale, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
 
 {% include callout.html content="Je <ins>suis</ins> tellement contente que vous **soyez venu** nous voir.<br/><br/>J'<ins>étais</ins> content que tout le monde **soit venu**.  (style non-littéraire)" type="primary" %}
 
@@ -188,7 +188,7 @@ Mais si on utilise les temps littéraires, le temps du subjonctif dépend du tem
 
 On a donc deux systèmes du subjonctif---un système pour le style non-littéraire et un autre pour le style littéraire.
 
-**Style non-littéraire :**
+**Style non-littéraire&nbsp;:**
 
 <table>
     <thead>
@@ -215,7 +215,7 @@ On a donc deux systèmes du subjonctif---un système pour le style non-littérai
     </tbody>
 </table>
 
-**Style littéraire :**
+**Style littéraire&nbsp;:**
 
 <table>
     <thead>
@@ -251,26 +251,26 @@ Le plus-que-parfait du subjonctif est aussi utilisé pour remplacer le **passé 
 Voici les temps littéraires avec leur fonction et les temps qui les remplacent pour remplir cette fonction dans un style non-littéraire.
 
 + Le passé simple (*il fit*)
-    + Fonction : actions complètes au passé
-    + Exemple : *Pour étudier, il **fit** un séjour à Paris.*
-    + Remplacé par : le passé composé (*il a fait*)
+    + Fonction&nbsp;: actions complètes au passé
+    + Exemple&nbsp;: *Pour étudier, il **fit** un séjour à Paris.*
+    + Remplacé par&nbsp;: le passé composé (*il a fait*)
 
 + Le passé antérieur (*il eut fait*)
-    + Fonction : actions immédiatement antérieures à un point de référence au passé
-    + Exemple : *Dès qu'il **eut fait** démarrer les deux moteurs du Night-Fighter, il comprit que l'avion ne pourrait pas voler normalement.*
-    + Remplacé par : le passé composé (*il a fait*) ou parfois le plus-que-parfait (*il avait fait*)
+    + Fonction&nbsp;: actions immédiatement antérieures à un point de référence au passé
+    + Exemple&nbsp;: *Dès qu'il **eut fait** démarrer les deux moteurs du Night-Fighter, il comprit que l'avion ne pourrait pas voler normalement.*
+    + Remplacé par&nbsp;: le passé composé (*il a fait*) ou parfois le plus-que-parfait (*il avait fait*)
 
 + L'imparfait du subjonctif (*il fît*)
-    + Fonction : phrase subordonnée (au subjonctif) simultanée avec une phrase principale au passé
-    + Exemple : *Je ne voulais pas qu'il **fît** un effort.*
-    + Remplacé par : le présent du subjonctif (*il fasse*)
+    + Fonction&nbsp;: phrase subordonnée (au subjonctif) simultanée avec une phrase principale au passé
+    + Exemple&nbsp;: *Je ne voulais pas qu'il **fît** un effort.*
+    + Remplacé par&nbsp;: le présent du subjonctif (*il fasse*)
 
 + Le plus-que-parfait du subjonctif (*il eût fait*)
-    + Fonction : phrase subordonnée (au subjonctif) antérieure à une phrase principale au passé
-    + Exemple : *Il n'y avait guère que la soeur de Couchet à détonner au premier rang, bien qu'elle **eût fait** l'impossible pour être élégante.*
-    + Remplacé par : le passé du subjonctif (*il ait fait*)
-    + Autre fonction : phrase conditionnelle au passé
-    + Exemple : *En vérité, si elle avait été blonde aux yeux marron, cela n'**eût fait** aucune différence.*
-    + Remplacé par : le passé du conditionnel (*il aurait fait*)
+    + Fonction&nbsp;: phrase subordonnée (au subjonctif) antérieure à une phrase principale au passé
+    + Exemple&nbsp;: *Il n'y avait guère que la soeur de Couchet à détonner au premier rang, bien qu'elle **eût fait** l'impossible pour être élégante.*
+    + Remplacé par&nbsp;: le passé du subjonctif (*il ait fait*)
+    + Autre fonction&nbsp;: phrase conditionnelle au passé
+    + Exemple&nbsp;: *En vérité, si elle avait été blonde aux yeux marron, cela n'**eût fait** aucune différence.*
+    + Remplacé par&nbsp;: le passé du conditionnel (*il aurait fait*)
 
 {% include links.html %}

@@ -17,7 +17,7 @@ Dans la première phrase ci-dessous, le verbe n'est pas réfléchi parce que son
 
 Beaucoup de verbes, comme *appeler*, peuvent apparaitre dans des constructions réfléchies ou non-réfléchies. Mais certains verbes, comme *se dépêcher*, sont toujours réfléchis.
 
-Pour la première et la deuxième personnes, la forme du pronom réfléchi est la même que celle des pronoms de complément direct et oblique: **me** (**m'**), **te** (**t'**), **nous**, **vous**. À la troisième personne, le pronom réfléchi a la forme **se** (**s'**) au singulier et au pluriel.
+Pour la première et la deuxième personnes, la forme du pronom réfléchi est la même que celle des pronoms de complément direct et oblique&nbsp;: **me** (**m'**), **te** (**t'**), **nous**, **vous**. À la troisième personne, le pronom réfléchi a la forme **se** (**s'**) au singulier et au pluriel.
 
 Notez la conjugaison du verbe réfléchi suivant. Le verbe se conjugue normalement (ici un verbe **-er**) mais en ajoutant les pronoms réfléchis **me**, **te**, **se**, **nous**, **vous**, **se**.
 
@@ -28,11 +28,11 @@ Notez la conjugaison du verbe réfléchi suivant. Le verbe se conjugue normaleme
 
 ## Fonction
 
-Les verbes réfléchis expriment souvent des actions **réflexives**, c'est-à-dire que le sujet exécute l'action sur lui-même. Si le sujet exécute l'action sur quelqu'un d'autre, le verbe n'est pas réfléchi. Par exemple, comparez la différence de sens entre **se raser** et **raser** dans les phrases suivantes :
+Les verbes réfléchis expriment souvent des actions **réflexives**, c'est-à-dire que le sujet exécute l'action sur lui-même. Si le sujet exécute l'action sur quelqu'un d'autre, le verbe n'est pas réfléchi. Par exemple, comparez la différence de sens entre **se raser** et **raser** dans les phrases suivantes&nbsp;:
 
 {% include callout.html content="Papa voulait peut-être **se raser** la barbe.<br/><br/>Pourquoi vous obstinez-vous à faire **raser** ce pauvre animal ?" type="primary" %}
 
- Voici une liste de verbes réfléchis courants avec un sens réflexif :
+ Voici une liste de verbes réfléchis courants avec un sens réflexif&nbsp;:
 
 * *s'appeler*, *s'arrêter*, *se brosser*, *s'habiller*, *se laver*, *se lever*, *se promener*, *se raser*, *se réveiller*
 
@@ -40,19 +40,19 @@ Parfois un verbe réfléchi exprime une action **réciproque** entre plus d'une 
 
 {% include callout.html content="Nous **nous parlons** souvent, une fois par semaine au bas mot.<br/><br/>Il lui caresse le visage, puis ils **s'embrassent** de nouveau." type="primary" %}
 
-Voici une liste de verbes réfléchis courants qui ont souvent un sens réciproque :
+Voici une liste de verbes réfléchis courants qui ont souvent un sens réciproque&nbsp;:
 
 * *s'aimer*, *se détester*, *se disputer*, *s'embrasser*, *se parler*, *se quitter*, *se regarder*, *se retrouver*, *se téléphoner*
 
 Certains verbes réfléchis sont **idiomatiques** et ne représentent pas des actions réflexives ou réciproques. Ces verbes sont toujours réfléchis (ou s'ils ont une forme non-réfléchie, le sens est différent --- comparez *s'amuser* 'have fun' et *amuser* 'entertain', *s'ennuyer* 'get bored' et *ennuyer* 'bother, bore', *s'entendre* 'get along' et *entendre* 'hear').
 
-La liste suivante comprend des verbes réfléchis idiomatiques courants :
+La liste suivante comprend des verbes réfléchis idiomatiques courants&nbsp;:
 
 * *s'amuser*, *se dépêcher*, *s'endormir*, *s'ennuyer*, *s'entendre*, *se fâcher*, *se marier*, *se passer*, *se reposer*, *se sentir*, *se souvenir de*, *se taire*, *se tromper*, *se trouver*
 
-{% include information.html content="Pour exprimer le même sens que beaucoup d'expressions anglaises en *get + [adjectif/préposition]*, on utilise souvent un verbe réfléchi :<br/>'get married' - *se marier*<br/>'get angry' - *se fâcher*<br/>'get bored' - *s'ennuyer*<br/>'get hurt' - *se faire mal*<br/>'get dressed' - *s'habiller*<br/>'get better' - *s'améliorer*<br/>'get up' - *se lever*<br/>'get by' - *se débrouiller*" %}
+{% include information.html content="Pour exprimer le même sens que beaucoup d'expressions anglaises en *get + [adjectif/préposition]*, on utilise souvent un verbe réfléchi&nbsp;:<br/>'get married' - *se marier*<br/>'get angry' - *se fâcher*<br/>'get bored' - *s'ennuyer*<br/>'get hurt' - *se faire mal*<br/>'get dressed' - *s'habiller*<br/>'get better' - *s'améliorer*<br/>'get up' - *se lever*<br/>'get by' - *se débrouiller*" %}
 
-Beaucoup de verbes transitifs peuvent avoir un sens **passif** dans une construction réfléchie (par exemple: *La porte **s'est fermée***). Cette construction s'appelle la *construction médiopassive*. Pour plus d'informations sur les constructions passives, voir [Verbes](/grammaire_verbes.html#alternances-de-valence).
+Beaucoup de verbes transitifs peuvent avoir un sens **passif** dans une construction réfléchie (par exemple&nbsp;: *La porte **s'est fermée***). Cette construction s'appelle la *construction médiopassive*. Pour plus d'informations sur les constructions passives, voir [Verbes](/grammaire_verbes.html#alternances-de-valence).
 
 ## Conjugaison et place du pronom
 
@@ -60,12 +60,12 @@ Aux temps composés (le passé composé, le plus-que-parfait, le passé du subjo
 
 {% include callout.html content="Je **me suis** souvent **posé** la question.<br/><br/>Nous **nous étions** déjà **rencontrés** il y a 50 ans." type="primary" %}
 
-La place du pronom réfléchi est la même que les autres pronoms de complément :
-+ devant le verbe à l'affirmatif des temps simples : *je me repose*
-+ entre *ne* et le verbe au négatif : *je ne me repose pas*
-+ devant l'auxiliaire aux temps composés : *je me suis reposé*
-+ devant l'infinitif : *je veux me reposer*
-+ après le verbe à l'impératif affirmatif (lié par un trait d'union) : *reposez-vous*
+La place du pronom réfléchi est la même que les autres pronoms de complément&nbsp;:
++ devant le verbe à l'affirmatif des temps simples&nbsp;: *je me repose*
++ entre *ne* et le verbe au négatif&nbsp;: *je ne me repose pas*
++ devant l'auxiliaire aux temps composés&nbsp;: *je me suis reposé*
++ devant l'infinitif&nbsp;: *je veux me reposer*
++ après le verbe à l'impératif affirmatif (lié par un trait d'union)&nbsp;: *reposez-vous*
 
 À l'impératif affirmatif, les pronoms réfléchis **me** et **te** deviennent **moi** et **toi** après le verbe. Pour plus de détails sur la place des pronoms de complément, voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments) et [Impératif](/grammaire_impératif.html).
 
@@ -91,7 +91,7 @@ Si le pronom réfléchi est un complément oblique, le participe passé du verbe
 
 {% include callout.html content="Alors, une jeune femme **s'est lancé** un défi.<br/><br/>Vous **vous êtes téléphoné** hier soir.<br/><br/>Je remarquai qu'elle **s'était lavé** les cheveux." type="primary" %}
 
-{% include information.html content="Pour savoir si un pronom réfléchi est un complément direct ou oblique, pensez à la forme non-réfléchi du verbe. Si le verbe prend un complément direct normalement, alors il prend un pronom réfléchi de complément direct en tant que verbe réfléchi :<br/>*On regarde <ins>quelqu'un</ins>* (complément direct) > Elle *<ins>s'</ins>est regardé<ins>e</ins>* (accord)<br/>*On téléphone <ins>à quelqu'un</ins>* (complément oblique) > *Ils se sont téléphoné* (aucun accord)<br/><br/>Un verbe ne peut avoir qu'un complément direct. Si un complément direct vient après le verbe réfléchi, on sait donc que le pronom réfléchi est oblique, et on ne fait pas l'accord :<br/>*Elle s'est lancé <ins>un défi</ins>* (*un défi* = direct, *se* = oblique, aucun accord)<br/>*Elle s'est lavé <ins>les cheveux</ins>* (*les cheveux* = direct, *se* = oblique, aucun accord)<br/>*Elle <ins>s'</ins>est lavée* (*se* = direct, accord)" %}
+{% include information.html content="Pour savoir si un pronom réfléchi est un complément direct ou oblique, pensez à la forme non-réfléchi du verbe. Si le verbe prend un complément direct normalement, alors il prend un pronom réfléchi de complément direct en tant que verbe réfléchi&nbsp;:<br/>*On regarde <ins>quelqu'un</ins>* (complément direct) > Elle *<ins>s'</ins>est regardé<ins>e</ins>* (accord)<br/>*On téléphone <ins>à quelqu'un</ins>* (complément oblique) > *Ils se sont téléphoné* (aucun accord)<br/><br/>Un verbe ne peut avoir qu'un complément direct. Si un complément direct vient après le verbe réfléchi, on sait donc que le pronom réfléchi est oblique, et on ne fait pas l'accord&nbsp;:<br/>*Elle s'est lancé <ins>un défi</ins>* (*un défi* = direct, *se* = oblique, aucun accord)<br/>*Elle s'est lavé <ins>les cheveux</ins>* (*les cheveux* = direct, *se* = oblique, aucun accord)<br/>*Elle <ins>s'</ins>est lavée* (*se* = direct, accord)" %}
 
 Si le verbe est réfléchi à cause d'un sens idiomatique ou une construction médiopassive (au lieu d'un sens réflexif ou réciproque), le pronom réfléchi n'est ni un complément direct, ni un complément oblique. Dans ce cas, le participe passé du verbe fait l'accord avec le sujet.
 

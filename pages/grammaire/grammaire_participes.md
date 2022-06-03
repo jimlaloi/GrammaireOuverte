@@ -8,7 +8,7 @@ folder: grammaire
 ---
 
 ## Introduction
-Un participe est une forme verbale spéciale qui par sa fonction a plus en commun avec les modificateurs (adjectifs, adverbes, etc.) que les verbes. Il y a deux participes en français : le participe présent et le participe passé.
+Un participe est une forme verbale spéciale qui par sa fonction a plus en commun avec les modificateurs (adjectifs, adverbes, etc.) que les verbes. Il y a deux participes en français&nbsp;: le participe présent et le participe passé.
 
 Le participe présent se termine toujours par **-ant**. Les participes présents sont généralement traduits par la forme *-ing* du verbe anglais (mais beaucoup d'emplois du verbe anglais en *-ing* sont traduits en français par l'infinitif, l'indicatif, ou un nom).
 
@@ -34,9 +34,9 @@ Le participe présent est formé en supprimant la terminaison **-ons** de la for
 
 Seuls trois verbes, **être**, **avoir** et **savoir**, ont des participes présents irréguliers.
 
-* être: **étant**
-* avoir: **ayant**
-* savoir: **sachant**
+* être&nbsp;: **étant**
+* avoir&nbsp;: **ayant**
+* savoir&nbsp;: **sachant**
 
 ### emplois
 
@@ -46,9 +46,9 @@ Le participe présent peut être utilisé pour modifier un nom, de sens similair
 
 Le participe présent peut indiquer la cause, le résultat, ou les circonstances de l'action principale.
 
-{% include callout.html content="Il était temps: les jeux traditionnels **déclinant** ici plus qu'ailleurs, les casinos étaient exsangues.<br/><br/>Il est invaincu depuis la deuxième partie de la saison, **suscitant** l'admiration de tous.<br/><br/>Il voyait des conspirateurs communistes partout, **accusant** le magazine The Economist d'être gangrené par les marxistes." type="primary" %}
+{% include callout.html content="Il était temps&nbsp;: les jeux traditionnels **déclinant** ici plus qu'ailleurs, les casinos étaient exsangues.<br/><br/>Il est invaincu depuis la deuxième partie de la saison, **suscitant** l'admiration de tous.<br/><br/>Il voyait des conspirateurs communistes partout, **accusant** le magazine The Economist d'être gangrené par les marxistes." type="primary" %}
 
-Le complément direct du verbe principal peut être le sujet du participe passé :
+Le complément direct du verbe principal peut être le sujet du participe passé&nbsp;:
 
 {% include callout.html content="En 2010, on **l'**a vue **portant** la flamme olympique avant les Jeux d'hiver organisés dans sa ville." type="primary" %}
 
@@ -60,43 +60,43 @@ Pour dire que deux actions sont exécutées simultanément par le même sujet, o
 
 {% include callout.html content="Mais, **tout en étant** très studieux, on prend le temps de rigoler.<br/><br/>Vous protégerez ainsi votre santé et celle de votre entourage **tout en conservant** le plaisir du jardinage." type="primary" %}
 
-Notez que les formes anglaises en **-ing** sont très souvent traduites en français par l'infinitif, l'indicatif, ou un nom plutôt que par un participe présent. Par exemple:
+Notez que les formes anglaises en **-ing** sont très souvent traduites en français par l'infinitif, l'indicatif, ou un nom plutôt que par un participe présent. Par exemple&nbsp;:
 
 {% include callout.html content="**Avant de venir** ici, je me suis renseigné sur toi. (Before **coming** here...)<br/><br/>**Vivre** avec toi c'est **vivre** avec un fantôme. (**Living** with you...)<br/><br/>Elle **est en train de taper** à la porte. (She is **knocking**...)<br/><br/>Vous **parlez** avec quelqu'un que j'aime beaucoup. (You're **talking** to...)<br/><br/>Elle adore **la randonnée**. (She loves **hiking**)" type="primary" %}
 
-Le participe présent est invariable, mais les adjectifs dérivés du participe présent doivent s'accorder en genre et en nombre avec le nom qu'ils modifient :
+Le participe présent est invariable, mais les adjectifs dérivés du participe présent doivent s'accorder en genre et en nombre avec le nom qu'ils modifient&nbsp;:
 
-{% include callout.html content="Participe présent : Il signe cette photo d'une jeune femme **posant** en Lara Croft.<br/><br/>Adjectif : Je ne suis pas une femme **exigeant<ins>e</ins>**." type="primary" %}
+{% include callout.html content="Participe présent&nbsp;: Il signe cette photo d'une jeune femme **posant** en Lara Croft.<br/><br/>Adjectif : Je ne suis pas une femme **exigeant<ins>e</ins>**." type="primary" %}
 
 ## Participe passé
 
 ### forme
 
-Le participe passé des verbes réguliers en **-er** (et *aller*) est formé en ajoutant **-é** au radical :
+Le participe passé des verbes réguliers en **-er** (et *aller*) est formé en ajoutant **-é** au radical&nbsp;:
 + *parler* > **parlé**
 
-Le participe passé des verbes réguliers en **-ir** est formé en ajoutant **-i** au radical :
+Le participe passé des verbes réguliers en **-ir** est formé en ajoutant **-i** au radical&nbsp;:
 + *finir* > **fini**
 
-Les verbes comme *ouvrir* (*couvrir*, *découvrir*, *offrir*, *recouvrir*, *souffrir*) ont un participe passé irrégulier : *ouvert*, *offert*, *souffert*, etc.
+Les verbes comme *ouvrir* (*couvrir*, *découvrir*, *offrir*, *recouvrir*, *souffrir*) ont un participe passé irrégulier&nbsp;: *ouvert*, *offert*, *souffert*, etc.
 
-Le participe passé des verbes réguliers en **-re** varie :
-+ Verbes **-re** avec un participe passé en **-u** : *rendre* (*rendu*), *tendre* (*tendu*), *pendre* (*pendu*), *vendre* (*vendu*), *perdre* (*perdu*), *rompre* (*rompu*), *vivre* (*vécu*), *lire* (*lu*), *plaire* (*plu*), *boire* (*bu*), *croire* (*cru*), *connaitre* (*connu*) et leurs dérivés (*attendu*, *corrompu*, etc.)
-+ Verbes **-re** avec un participe passé en **-i** : *rire* (*ri*), *suivre* (*suivi*) et leurs dérivés (*sourire*, *survivre*)
-+ Verbes **-re** avec un participe passé en **-is** : *mettre* (*mis*), *prendre* (*pris*) et leurs dérivés (*promis*, *compris*, etc.)
-+ Verbes **-re** avec un participe passé en **-it** : *écrire* (*écrit*), *dire* (*dit*) et les verbes en *-uire* (*cuit*, *introduit*, *construit*, etc.)
-+ Verbes **-re** avec un participe passé en **-int** : les verbes en *-eindre* (*peindre* : *peint*, etc.) et en *-aindre* (*craindre* : *craint*, etc.)
+Le participe passé des verbes réguliers en **-re** varie&nbsp;:
++ Verbes **-re** avec un participe passé en **-u**&nbsp;: *rendre* (*rendu*), *tendre* (*tendu*), *pendre* (*pendu*), *vendre* (*vendu*), *perdre* (*perdu*), *rompre* (*rompu*), *vivre* (*vécu*), *lire* (*lu*), *plaire* (*plu*), *boire* (*bu*), *croire* (*cru*), *connaitre* (*connu*) et leurs dérivés (*attendu*, *corrompu*, etc.)
++ Verbes **-re** avec un participe passé en **-i**&nbsp;: *rire* (*ri*), *suivre* (*suivi*) et leurs dérivés (*sourire*, *survivre*)
++ Verbes **-re** avec un participe passé en **-is**&nbsp;: *mettre* (*mis*), *prendre* (*pris*) et leurs dérivés (*promis*, *compris*, etc.)
++ Verbes **-re** avec un participe passé en **-it**&nbsp;: *écrire* (*écrit*), *dire* (*dit*) et les verbes en *-uire* (*cuit*, *introduit*, *construit*, etc.)
++ Verbes **-re** avec un participe passé en **-int**&nbsp;: les verbes en *-eindre* (*peindre*&nbsp;: *peint*, etc.) et en *-aindre* (*craindre* : *craint*, etc.)
 
-Les verbes en **-oir** et **-cevoir** ont un participe passé en **-u** :
+Les verbes en **-oir** et **-cevoir** ont un participe passé en **-u**&nbsp;:
 + *voir* (*vu*)
 + *savoir* (*su*)
 + *recevoir* (*reçu*)
 + *vouloir* (*voulu*)
 + *pouvoir* (*pu*)
 + *valoir* (*valu*)
-+ Exception: *s'assoir* (*assis*)
++ Exception&nbsp;: *s'assoir* (*assis*)
 
-Voici les participes passés irréguliers les plus courants :
+Voici les participes passés irréguliers les plus courants&nbsp;:
 + *être* (*été*)
 + *faire* (*fait*)
 + *avoir* (*eu*)
@@ -120,7 +120,7 @@ En forme composé après le participe présent d'un auxiliaire (*avoir* ou *êtr
 
 Dans la construction *auxiliaire au participe présent + participe passé*, si l'auxiliaire est *être* et le verbe modifie un nom directement, l'auxiliaire peut être supprimé.
 
-{% include callout.html content="La porte (étant) **refermée**, les ténèbres s'installèrent entre les quatre murs.<br/><br/>Les fêtes (étant) **passées**, que faire du sapin soudainement devenu bien encombrant et qui commence à perdre ses aiguilles?" type="primary" %}
+{% include callout.html content="La porte (étant) **refermée**, les ténèbres s'installèrent entre les quatre murs.<br/><br/>Les fêtes (étant) **passées**, que faire du sapin soudainement devenu bien encombrant et qui commence à perdre ses aiguilles&nbsp;?" type="primary" %}
 
 Le participe passé s'accorde parfois avec un nom (le sujet d'un verbe composé avec l'auxiliaire *être*; le complément direct qui précède un verbe composé), mais les adjectifs dérivés du participe passé s'accordent toujours avec le nom qu'ils modifient.
 

@@ -14,7 +14,7 @@ Un pronom relatif introduit une proposition qui explique ou décrit un nom menti
 
 Dans l'exemple ci-dessus, le pronom relatif **que** introduit la proposition subordonnée, c'est-à-dire la proposition qui ajoute des informations supplémentaires sur le tableau (le fait qu'on l'a acheté). **Que** est un *pronom* dans cette phrase parce qu'il remplace le nom *tableau* dans la proposition subordonnée pour éviter la répétition. 
 
-On utilise des pronoms relatifs différents selon le rôle grammatical (sujet, complément direct, complément oblique, etc) du nom remplacé dans la proposition subordonnée. Voici les pronoms relatifs :
+On utilise des pronoms relatifs différents selon le rôle grammatical (sujet, complément direct, complément oblique, etc) du nom remplacé dans la proposition subordonnée. Voici les pronoms relatifs&nbsp;:
 
 | **Rôle grammatical** | **Pronom relatif** | **Exemple simple** |
 | Sujet | *qui* | C'est Bob *qui* dort |
@@ -26,11 +26,11 @@ On utilise des pronoms relatifs différents selon le rôle grammatical (sujet, c
 | Antécédent n'est pas énoncé<br/>par un nom précédent | *ce* + *qui*/*que*/*dont*<br/>*ce* + [prép] + *quoi*<br/>*là où* | C'est *ce que* je fais<br/>C'est *ce à quoi* je m'attends<br/>C'est *là où* je vais |
 
 ## qui
-**Qui** a deux fonctions relatives : comme sujet de la subordonnée, et comme complément d'une préposition de la subordonnée.
+**Qui** a deux fonctions relatives&nbsp;: comme sujet de la subordonnée, et comme complément d'une préposition de la subordonnée.
 
 Comme sujet, *qui* peut remplacer n'importe quel nom, animé ou inanimé.
 
-{% include callout.html content="J'ai des amis **qui** veulent visiter.<br/><br/>On demande des choses **qui** sont impossibles.<br/><br/>C'est le livre **qui** m'a fait le plus peur!" type="primary" %}
+{% include callout.html content="J'ai des amis **qui** veulent visiter.<br/><br/>On demande des choses **qui** sont impossibles.<br/><br/>C'est le livre **qui** m'a fait le plus peur&nbsp;!" type="primary" %}
 
 Les règles d'accord avec le sujet s'appliquent à l'antécédent de qui. C'est-à-dire que le participe passé d'un verbe composé s'accorde en nombre et en genre avec le sujet si l'auxiliaire est *être*.
 
@@ -80,7 +80,7 @@ Le relatif **où** peut avoir un sens spatial ou temporel. **Où** peut remplace
 
 Alors que le relatif **où** est typique quand l'antécédent est un lieu ou un moment dans le temps, c'est généralement acceptable de le remplacer par **préposition + lequel** si possible (e.g. *l'heure **à laquelle** je vais me coucher* dans le dernier exemple ci-dessus).
 
-{% include variation.html content="Les locutions non standard *où c'est que* et *où ce que* apparaissent à la place du relatif *où* ou *là où* dans plusieurs variétés du français à l'oral: *J'ai un voisin d'ici qui habitait **où c'est que** j'habite*." %}
+{% include variation.html content="Les locutions non standard *où c'est que* et *où ce que* apparaissent à la place du relatif *où* ou *là où* dans plusieurs variétés du français à l'oral&nbsp;: *J'ai un voisin d'ici qui habitait **où c'est que** j'habite*." %}
 
 ## pronoms relatifs sans antécédent
 
@@ -90,9 +90,9 @@ Ceci peut être nécessaire si l'antécédent apparaît plus tard dans la phrase
 
 {% include callout.html content="**Ce qui** m'intéresse aujourd'hui, ce sont les carottes.<br/><br/>**Ce que** je veux éviter, c'est le renouvellement de tels événements.<br/><br/>**Là où** je me sens le mieux, c'est sur scène." type="primary" %}
 
-Parfois, l'antécédent n'est pas un nom, mais une idée exprimée par le verbe ou la proposition principale en générale. Dans l'exemple suivant, le pronom relatif renvoie au syntagme verbal *jouer en équipe*:
+Parfois, l'antécédent n'est pas un nom, mais une idée exprimée par le verbe ou la proposition principale en générale. Dans l'exemple suivant, le pronom relatif renvoie au syntagme verbal *jouer en équipe*&nbsp;:
 
-{% include callout.html content="Bien sûr, ils doivent apprendre à jouer en EQUIPE, **ce qu'**ils n'ont jamais fait!" type="primary" %}
+{% include callout.html content="Bien sûr, ils doivent apprendre à jouer en EQUIPE, **ce qu'**ils n'ont jamais fait&nbsp;!" type="primary" %}
 
 L'antécédent peut être un mot indéfini (*tout*, *rien*, *quelque chose*...) qui n'indique pas une personne ou une chose spécifique.
 
@@ -108,6 +108,6 @@ Il n'est pas toujours nécessaire de mettre le mot **ce** devant la préposition
 
 {% include callout.html content="Je sais **de quoi** je parle.<br/><br/>Je vous propose donc de retirer cet amendement, **sans quoi** je demanderai son rejet.<br/><br/>Il décida de compter mentalement jusqu'à dix, **après quoi** il donnerait un ordre." type="primary" %}
 
-{% include variation.html content="En français non standard, principalement à l'oral, les formes interrogatives *qu'est-ce que* et *qu'est-ce qui* sont parfois utilisées à la place des pronoms relatifs *ce que* et *ce qui* : *Eh mon pote, on dit **qu'est-ce qu'**on veut en France !*" %}
+{% include variation.html content="En français non standard, principalement à l'oral, les formes interrogatives *qu'est-ce que* et *qu'est-ce qui* sont parfois utilisées à la place des pronoms relatifs *ce que* et *ce qui*&nbsp;: *Eh mon pote, on dit **qu'est-ce qu'**on veut en France&nbsp;!*" %}
 
 {% include links.html %}

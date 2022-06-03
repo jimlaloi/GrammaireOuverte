@@ -56,13 +56,13 @@ Le pronom disjoint **soi** est souvent groupé parmi les pronoms personnels disj
 
 Notez que comme dans le deuxième exemple ci-dessus, le pronom **lui** (ou **elle**, **eux**, **elles** selon le genre et le nombre de l'antécédent) correspond au pronom réfléchi **se**. Le pronom **soi** correspond très rarement à **se**, car son antécédent doit être indéfini. Il est utilisé souvent dans le contexte d'autres pronoms indéfinis comme **chacun** ou pour parler d'une vérité générale.
 
-{% include callout.html content="Chacun reste chez **soi** et s'occupe de ses problèmes.<br/><br/>Il ne faut pas regarder derrière **soi**.<br/><br/>Quels sont les risques à construire **soi**-même sa maison?" type="primary" %}
+{% include callout.html content="Chacun reste chez **soi** et s'occupe de ses problèmes.<br/><br/>Il ne faut pas regarder derrière **soi**.<br/><br/>Quels sont les risques à construire **soi**-même sa maison&nbsp;?" type="primary" %}
 
 ## l'un et les uns
 
 **L'un** et **les uns** renvoient à une/des personne(s) ou chose(s) indéfinies. Les deux s'accordent en genre avec l'antécédent (**l'une**, **les unes**). Ils servent souvent à comparer certains membres d'un ensemble à d'autres.
 
-{% include callout.html content="Des deux hommes, **l'un** était coupable, l'autre innocent.<br/><br/>Cette lenteur s'explique par au moins deux types de raisons: **les unes** scientifiques, les autres économiques et industrielles." type="primary" %}
+{% include callout.html content="Des deux hommes, **l'un** était coupable, l'autre innocent.<br/><br/>Cette lenteur s'explique par au moins deux types de raisons&nbsp;: **les unes** scientifiques, les autres économiques et industrielles." type="primary" %}
 
 **L'un** peut prendre un complément de la préposition **de**, indiquant l'ensemble dont le pronom renvoie à un membre.
 
@@ -78,7 +78,7 @@ Notez que comme dans le deuxième exemple ci-dessus, le pronom **lui** (ou **ell
 
 **Tel** est principalement un adjectif qui exprime la similarité ou l'intensité. Comme adjectif, il s'accorde en genre et en nombre avec le nom qu'il modifie.
 
-{% include callout.html content="Une **telle** technique pourrait aider les paralysés à s'exprimer.<br/><br/>Ca faisait 50 ans qu'on n'avait pas vu de **telles** inondations!" type="primary" %}
+{% include callout.html content="Une **telle** technique pourrait aider les paralysés à s'exprimer.<br/><br/>Ca faisait 50 ans qu'on n'avait pas vu de **telles** inondations&nbsp;!" type="primary" %}
 
 Plus rarement, **tel** peut être un pronom qui renvoie à une personne indéfinie. Ce **tel** est invariable et ne modifie pas de nom. Il est souvent répété dans la locution *tel ou tel* 'so-and-so'.
 
