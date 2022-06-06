@@ -1,7 +1,7 @@
 ---
 title: Les voyelles
 keywords: voyelle, voyelles
-summary: ""
+summary: "Page en construction"
 sidebar: grammaire_sidebar
 permalink: grammaire_voyelles.html
 folder: grammaire

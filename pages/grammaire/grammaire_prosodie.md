@@ -1,7 +1,7 @@
 ---
 title: La prosodie
 keywords: prosodie
-summary: ""
+summary: "Page en construction"
 sidebar: grammaire_sidebar
 permalink: grammaire_prosodie.html
 folder: grammaire

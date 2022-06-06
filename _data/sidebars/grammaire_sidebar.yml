@@ -144,8 +144,8 @@ entries:
       url: /grammaire_interrogation.html
       output: web, pdf
 
-    - title: Discours direct et indirect
-      url: /grammaire_discours.html
+    - title: Discours rapporté
+      url: /grammaire_discours_rapporté.html
       output: web, pdf
 
 # Copyright 2021 Google LLC

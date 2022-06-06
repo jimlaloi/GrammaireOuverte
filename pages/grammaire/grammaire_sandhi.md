@@ -1,7 +1,7 @@
 ---
 title: Le sandhi
 keywords: sandhi, liaison, élision
-summary: ""
+summary: "Page en construction"
 sidebar: grammaire_sidebar
 permalink: grammaire_sandhi.html
 folder: grammaire
