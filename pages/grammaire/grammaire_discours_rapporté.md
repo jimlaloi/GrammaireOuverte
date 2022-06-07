@@ -41,9 +41,9 @@ On utilise un tiret long (—) pour marquer le changement de locuteur dans le di
 
 {% include callout.html content="Susan soupire. — Maman.<br/>— Qu'y a-t-il&nbsp;?<br/>— Je ne dors pas.<br/>— Ce n'est pas le matin.<br/>— Le croque-mitaine m'observe.<br/><br/>«&nbsp;Marty est mort, dis-je quand elle arrive.<br/>— Oui, je sais&nbsp;», répond-elle en s'asseyant près de moi.<br/><br/>«&nbsp;T'ai-je manqué, mon amour&nbsp;? — Peut-être.&nbsp;» Il l'embrassa de nouveau." type="primary" %}
 
-## Discours indirect au présent
+## Discours indirect
 
-On peut relater le sens de ce que quelqu'un dit (ou a dit, ou dira) sans citer ses mots exactement. Au style indirect, le discours rapporté est situé dans la syntaxe de la phrase et doit souvent subir certaines modifications.
+On peut relater le sens de ce que quelqu'un dit sans citer ses mots exactement. Au style indirect, le discours rapporté est situé dans la syntaxe de la phrase et doit souvent subir certaines modifications.
 
 {% include callout.html content="Direct : *Il demande «&nbsp;Est-ce que **vos** vacances se passent bien&nbsp;?&nbsp;»*<br/>Indirect : *Il demande si **nos** vacances se passent bien.*" type="primary" %}
 
@@ -53,37 +53,37 @@ Les éléments déictiques d'une citation qui peuvent changer au style indirect 
 
 Comparez les citations suivantes aux styles directs et indirects. *Est-ce que*, qui introduit une question totale, change en *si*, qui introduit une question totale au discours indirect. Le pronom personnel *tu* change en *je*. Le temps du verbe change du présent à l'imparfait, et le mot *demain* est remplacé par *le lendemain*. Tous ces changements suivent du fait que la citation est relatée de manière indirecte à un moment plus tard par la personne à qui elle a été adressée.
 
-{% include callout.html content="Direct : *Le soir, il m'a demandé «&nbsp;***Est-ce que tu peux** apporter les croissants **demain**&nbsp;?&nbsp;»*<br/>Indirect : *Le soir, il m'a demandé **si je pouvais** apporter les croissants **le lendemain**.*" type="primary" %}
+{% include callout.html content="Direct : *Le soir, il m'a demandé «&nbsp;**Est-ce que tu peux** apporter les croissants **demain**&nbsp;?&nbsp;»*<br/>Indirect : *Le soir, il m'a demandé **si je pouvais** apporter les croissants **le lendemain**.*" type="primary" %}
 
-Pour relater une déclaration au style indirect, associez la phrase principale (**il dit**, **il pense**, etc.) et la phrase subordonnée avec **que** (**qu'** devant un mot commençant par une voyelle):
+Pour relater une déclaration au style indirect, utilisez **que** pour associer la phrase principale (*il dit*, *il pense*, etc.) et la phrase subordonnée&nbsp;:
 
-{% include callout.html content="**Il dit que** ça donne du goût à la crème brûlée. (*«&nbsp;Ça donne du goût à la crème brûlée.&nbsp;»*)" type="primary" %}
+{% include callout.html content="**Il dit que** ça donne du goût à la crème brûlée.<br/>(*«&nbsp;Ça donne du goût à la crème brûlée.&nbsp;»*)" type="primary" %}
 
-Pour relater une question totale ou alternative, utilisez **si**. Notez que **si** se transforme en **s'** devant un mot commençant par un **i** (**s'il**), mais ne change pas devant les autres voyelles (**si elle**, **si on**).
+Pour relater une question totale ou alternative, utilisez **si**. Notez que **si** se transforme en **s'** devant un mot commençant par un **i** (**s'il**), mais ne change pas devant les autres voyelles (**si elle**, **si on**)&nbsp;:
 
-{% include callout.html content="**Il demande si** nos vacances se passent bien. (*«&nbsp;Est-ce que vos vacances se passent bien&nbsp;?&nbsp;»*)" type="primary" %}
+{% include callout.html content="**Il demande si** nos vacances se passent bien.<br/>(*«&nbsp;Est-ce que vos vacances se passent bien&nbsp;?&nbsp;»*)" type="primary" %}
 
-Pour relater une question partielle, utilisez le mot interrogatif (**quand**, **comment**, **où**, etc.) :
+Pour relater une question partielle, utilisez le mot interrogatif (**quand**, **comment**, **où**, etc.)&nbsp;:
 
-{% include callout.html content="**Il demande où** se trouve sa montre. (*«&nbsp;Où se trouve ma montre&nbsp;?&nbsp;»*)" type="primary" %}
+{% include callout.html content="**Il demande où** se trouve sa montre.<br/>(*«&nbsp;Où se trouve ma montre&nbsp;?&nbsp;»*)" type="primary" %}
 
-Pour relater des questions commençant par **que**, **qu'est-ce que** et **qu'est-ce qui**, utilisez **ce que** et **ce qui** :
+Pour relater des questions commençant par *que*, *qu'est-ce que* et *qu'est-ce qui*, utilisez **ce que** et **ce qui**&nbsp;:
 
-{% include callout.html content="Je ne **comprends** pas **ce que** vous dites. (*«&nbsp;Qu'est-ce que vous dites&nbsp;?&nbsp;»*)<br/><br/>Grand-père **veut savoir ce qui** est arrivé à son neveu. (*«&nbsp;Qu'est-ce qui est arrivé à mon neveu&nbsp;?&nbsp;»*)" type="primary" %}
+{% include callout.html content="Je ne **comprends** pas **ce que** vous dites.<br/>(*«&nbsp;Qu'est-ce que vous dites&nbsp;?&nbsp;»*)<br/><br/>Grand-père **veut savoir ce qui** est arrivé à son neveu.<br/>(*«&nbsp;Qu'est-ce qui est arrivé à mon neveu&nbsp;?&nbsp;»*)" type="primary" %}
 
-Pour relater un ordre, remplacez l'impératif par **de** (**d'**) + infinitif :
+Pour relater un ordre, remplacez l'impératif par **de** (**d'**) + infinitif&nbsp;:
 
-{% include callout.html content="Ils **ont dit de** prendre le bus 148. (*«&nbsp;Prenez le bus 148.&nbsp;»*)<br/><br/>Je lui **ai dit de** ne pas venir. (*«&nbsp;Ne viens pas.&nbsp;»*)" type="primary" %}
+{% include callout.html content="Ils **ont dit de** prendre le bus 148.<br/>(*«&nbsp;Prenez le bus 148.&nbsp;»*)<br/><br/>Je lui **ai dit de** ne pas venir.<br/>(*«&nbsp;Ne viens pas.&nbsp;»*)" type="primary" %}
 
-Pour relater des réponses *oui* et *non*, utilisez **que** :
+Pour relater des réponses *oui* et *non*, utilisez **que**&nbsp;:
 
 {% include callout.html content="Après, si on leur demande s'ils comptent partir en vacances, ils répondent **que** non." type="primary" %}
 
 Lorsque la phrase principale est au passé, le temps du verbe dans la phrase subordonnée doit changer, car ils appartiennent à la même période.
 
-{% include callout.html content="Il **a dit que** les records ne l'**intéressaient** pas. (*«&nbsp;Les records ne m'intéressent pas.&nbsp;»*)" type="primary" %}
+{% include callout.html content="Il <ins>a dit que</ins> les records ne l'**intéressaient** pas.<br/>(*«&nbsp;Les records ne m'intéressent pas.&nbsp;»*)" type="primary" %}
 
-| citation | discours indirect |
+| citation | discours indirect au passé |
 |---|---|
 | **présent** | **→ imparfait** |
 | «&nbsp;Je **suis** au courant de tout.&nbsp;» | Je lui <ins>ai dit</ins> que j'**étais** au courant de tout. |
