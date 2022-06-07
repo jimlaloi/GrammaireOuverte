@@ -51,7 +51,7 @@ Transformations
 : Conjonctions
 : Négation
 : Interrogation
-: Discours direct et indirect
+: Discours rapporté
 
 Cette organisation permet de rapidement trouver la section désirée. Cependant, l'instructeur qui veut incorporer *Grammaire Ouverte* dans son cours voudra suivre une séquence motivée par une progression de compétence fonctionnelle. L'ordre dans lequel on décide d'aborder ces concepts dépendra des circonstances d'apprentissage. La séquence suivante est proposée comme modèle :
 
@@ -87,7 +87,7 @@ Fonction: Présenter une opinion
 Fonction: Construire une hypothèse
 : Futur
 : Conditionnel
-: Discours direct et indirect
+: Discours rapporté
 : Infinitif
 
 Fonction: Développer un argument
