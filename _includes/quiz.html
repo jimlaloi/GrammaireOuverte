@@ -1,0 +1,44 @@
+<html>
+    <script>
+    // Setup the HTML string
+    var html_q = '<ol>'
+		+ questions.map(function (question, index) {
+			return '<li>' 
+            + question.q.split(/_/)[0]
+            + '<input type="text" size="8" name="q'
+            + index
+            + '">'
+            + question.q.split(/_/)[1]
+            + '<em id="response_correct_'
+            + index
+            + '" style="display: none">✓</em><em id="response_incorrect_'
+            + index
+            + '" style="display: none">✗</em><br>';
+		}).join('') + '</ol>';
+    var html_a = '<ol>'
+		+ questions.map(function (question, index) {
+			return '<li>'
+            + question.q.split(/_/)[0]
+            + question.q.split(/_/)[1]
+            + '<br><em style="color:green">'
+            + question.a
+            + '</em>';
+		}).join('') + '</ol>';
+    // Log and inject
+    console.log(html_q);
+    document.querySelector('#quiz').innerHTML = html_q;
+    console.log(html_a);
+    document.querySelector('#answers').innerHTML = html_a;
+    // Trigger answer check button on Enter press
+    var input = document.querySelectorAll("input[name]");
+    input.forEach((element) => {
+        element.addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                document.getElementById("Vérifier").click();
+            }
+        });;
+    });
+    </script>
+</html>
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}

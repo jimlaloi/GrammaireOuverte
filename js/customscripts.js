@@ -57,3 +57,18 @@ $(function() {
 function playAudio(url) {
     new Audio(url).play();
   }
+
+// reveal correct and incorrect answers on a quiz
+function checkAnswers(qArray){
+    for (let i = 0; i<qArray.length; i++) {
+        if (document.querySelector('[name="q'+i+'"]').value === qArray[i].a) {
+            document.getElementById("response_correct_"+i).style.display = "inline";
+            document.getElementById("response_correct_"+i).style.color = "green";
+            document.getElementById("response_incorrect_"+i).style.display = "none";
+        } else {
+            document.getElementById("response_correct_"+i).style.display = "none";
+            document.getElementById("response_incorrect_"+i).style.display = "inline";
+            document.getElementById("response_incorrect_"+i).style.color = "red";
+        }
+    }
+}

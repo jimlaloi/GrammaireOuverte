@@ -210,4 +210,32 @@ Voici les expressions les plus couramment utilisées avec **temps**&nbsp;:
 
 {% include callout.html content="C'est toujours un peu inquiétant, la première **fois**.<br/><br/>J'ai un suivi trois **fois** par semaine et je n'ai aucune difficulté à en parler.<br/><br/>A chaque **fois** que je fais quelque chose, je pense à cette promesse.<br/><br/>Cela constitue à la **fois** une bonne nouvelle et une source d'inquiétude." type="primary" %}
 
+## Vérifiez votre compréhension
+
+<script>
+    var questions = [{q: 'un journal, des _', a: 'journaux'},
+    {q: 'un pays, des _', a: 'pays'},
+    {q: 'un cerf-volant, des _', a: 'cerfs-volants'},
+    {q: 'un politicien, une _', a: 'politicienne'},
+    {q: "Est-ce que c'est grand? Oui, Jupiter est _.", a: 'grande'},
+    {q: "On partira dans une heure et _. (demi ou demie)", a: 'demie'},
+    {q: "J'ai vu ce film plusieurs _. (temps, heures, ou fois)", a: 'fois'}];
+    </script>
+<ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#questions" data-toggle="tab">Questions</a></li>
+    <li><a href="#réponses" data-toggle="tab">Voir les réponses</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="questions">
+    <p>Répondez aux questions</p>
+    <div id="quiz"></div>
+    {% include quiz.html %}
+    <input type="button" class="center" value="Vérifier" onClick="checkAnswers(questions)">
+</div>
+<div role="tabpanel" class="tab-pane" id="réponses">
+    <div id="answers"></div>
+    {% include quiz.html %}
+    </div>
+</div>
+
 {% include links.html %}
