@@ -9,11 +9,11 @@ folder: grammaire
 
 ## Introduction
 
-Un nom est un mot qui fait référence (à un lieu, une chose, une personne, un évènement, une activité, un concept...) et qui peut avoir la fonction de sujet ou d'objet dans une phrase. Les noms en français peuvent être catégorisés comme communs ou propres, comptables ou massifs, singuliers ou pluriels, et masculins ou féminins.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> est un mot qui fait référence (à un lieu, une chose, une personne, un évènement, une activité, un concept...) et qui peut avoir la fonction de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou d'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">objet</a> dans une phrase. Les noms en français peuvent être catégorisés comme <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-commun}}">communs</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-propre}}">propres</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-comptable}}">comptables</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-massif}}">massifs</a>, singuliers ou pluriels, et masculins ou féminins.
 
 ### commun ou propre 
 
-Les noms communs indiquent une catégorie (par exemple, le nom *chat* indique la catégorie de chats, qui inclut beaucoup d'animaux individuels). Pour indiquer un membre spécifique de leur catégorie, ces noms ont besoin d'un déterminant (e.g. *ce chat*). Les noms communs ne prennent une majuscule qu'en début de phrase.
+Les noms communs indiquent une catégorie (par exemple, le nom *chat* indique la catégorie de chats, qui inclut beaucoup d'animaux individuels). Pour indiquer un membre spécifique de leur catégorie, ces noms ont besoin d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> (e.g. *ce chat*). Les noms communs ne prennent une majuscule qu'en début de phrase.
 
 {% include callout.html content="**Représentants** de la **vie** artificielle, ils vont progressivement coloniser des **continents** entiers du **cyberespace**." type="primary" %}
 
@@ -87,14 +87,14 @@ Contrairement à l'anglais, le français ne marque pas le pluriel sur les noms q
 
 ### pluriel des noms composés
 
-Les noms composés peuvent être formés à partir de mots de diverses catégories. La marque du pluriel s'applique aux noms et aux adjectifs, mais pas aux verbes ni aux prépositions.
+Les noms composés peuvent être formés à partir de mots de diverses catégories. La marque du pluriel s'applique aux noms et aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectifs</a>, mais pas aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbes</a> ni aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">prépositions</a>.
 
 * des gratte-ciel**s** (gratte = verbe, ciel = nom)
 * des petit**s**-enfant**s** (petit = adjectif, enfant = nom)
 * des en-tête**s** (en = préposition, tête = nom)
 * des va-et-vient (va = verbe, vient = verbe)
 
-Cependant, un nom qui fait partie d'un mot composé ne prend pas la marque du pluriel s'il modifie un autre nom qui vient d'abord (e.g. *des chef**s**-d'œuvre*), si c'est accompagné d'un article (e.g. *des trompe-l'œil*), ou si c'est un nom propre (e.g. *des prie-Dieu*).
+Cependant, un nom qui fait partie d'un mot composé ne prend pas la marque du pluriel s'il modifie un autre nom qui vient d'abord (e.g. *des chef**s**-d'œuvre*), si c'est accompagné d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> (e.g. *des trompe-l'œil*), ou si c'est un nom propre (e.g. *des prie-Dieu*).
 
 ## Le genre
 
@@ -230,7 +230,7 @@ Voici les expressions les plus couramment utilisées avec **temps**&nbsp;:
     <p>Répondez aux questions</p>
     <div id="quiz"></div>
     {% include quiz.html %}
-    <input type="button" class="center" value="Vérifier" onClick="checkAnswers(questions)">
+    <input type="button" class="center" id="Vérifier" value="Vérifier" onClick="checkAnswers(questions)">
 </div>
 <div role="tabpanel" class="tab-pane" id="réponses">
     <div id="answers"></div>

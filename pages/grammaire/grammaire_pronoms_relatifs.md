@@ -8,31 +8,31 @@ folder: grammaire
 ---
 
 ## Introduction
-Un pronom relatif introduit une *phrase relative* qui explique ou décrit un nom mentionné précédemment, qui s'appelle l'*antécédent*. Les pronoms relatifs sont utilisés pour lier deux idées en une seule phrase, évitant ainsi la répétition.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> relatif introduit une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-relative}}">phrase relative</a> qui explique ou décrit un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> mentionné précédemment, qui s'appelle l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a>. Les pronoms relatifs sont utilisés pour lier deux idées en une seule phrase, évitant ainsi la répétition.
 
 {% include callout.html content="(C'est un tableau. On a acheté ce tableau.)...<br/><br/>C'est un tableau **qu'**on a acheté." type="primary" %}
 
-Dans l'exemple ci-dessus, il y a une phrase complexe comprenant une phrase principale (*C'est un tableau...*) et une phrase relative (*...qu'on a acheté*). Le pronom relatif **que** introduit la phrase relative, qui ajoute des informations supplémentaires sur le tableau (le fait qu'on l'a acheté). **Que** est un *pronom* dans cette phrase parce qu'il remplace le nom *tableau* dans la phrase relative pour éviter la répétition. 
+Dans l'exemple ci-dessus, il y a une phrase complexe comprenant une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a> (*C'est un tableau...*) et une phrase relative (*...qu'on a acheté*). Le pronom relatif **que** introduit la phrase relative, qui ajoute des informations supplémentaires sur le tableau (le fait qu'on l'a acheté). **Que** est un *pronom* dans cette phrase parce qu'il remplace le nom *tableau* dans la phrase relative pour éviter la répétition. 
 
-On utilise des pronoms relatifs différents selon le rôle grammatical (sujet, complément direct, complément oblique, etc) du nom remplacé dans la phrase relative. Voici les pronoms relatifs&nbsp;:
+On utilise des pronoms relatifs différents selon le rôle grammatical (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a>, etc) du nom remplacé dans la phrase relative. Voici les pronoms relatifs&nbsp;:
 
 | **Rôle grammatical** | **Pronom relatif** | **Exemple simple** |
 | Sujet | *qui* | C'est Bob *qui* dort |
 | Complément direct | *que* | C'est Bob *que* j'aime |
-| Complément de *de* | *dont* | C'est Bob *dont* je me souviens |
-| Complément d'une<br/>autre préposition | [prép] + *lequel* | C'est la question *à laquelle* je réponds |
+| <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">Complément</a> de *de* | *dont* | C'est Bob *dont* je me souviens |
+| Complément d'une<br/>autre <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> | [prép] + *lequel* | C'est la question *à laquelle* je réponds |
 | Complément d'une<br/>préposition (personne) | [prép] + *qui* | C'est Bob *à qui* je parle |
 | Lieu ou temps | *où* | C'est la ville *où* j'habite<br/>C'est le jour *où* j'arrive |
 | Antécédent n'est pas énoncé<br/>par un nom précédent | *ce* + *qui*/*que*/*dont*<br/>*ce* + [prép] + *quoi*<br/>*là où* | C'est *ce que* je fais<br/>C'est *ce à quoi* je m'attends<br/>C'est *là où* je vais |
 
 ## qui
-**Qui** a deux fonctions relatives&nbsp;: comme sujet de la subordonnée, et comme complément d'une préposition de la subordonnée.
+**Qui** a deux fonctions relatives&nbsp;: comme sujet de la relative, et comme complément d'une préposition de la relative.
 
 Comme sujet, *qui* peut remplacer n'importe quel nom, animé ou inanimé.
 
 {% include callout.html content="J'ai des amis **qui** veulent visiter.<br/><br/>On demande des choses **qui** sont impossibles.<br/><br/>C'est le livre **qui** m'a fait le plus peur&nbsp;!" type="primary" %}
 
-Les règles d'accord avec le sujet s'appliquent à l'antécédent de qui. C'est-à-dire que le participe passé d'un verbe composé s'accorde en nombre et en genre avec le sujet si l'auxiliaire est *être*.
+Les règles d'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> avec le sujet s'appliquent à l'antécédent de qui. C'est-à-dire que le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">composé</a> s'accorde en nombre et en genre avec le sujet si l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> est *être*.
 
 {% include callout.html content="C'est une femme bavarde **qui** s'est mis**e** à parler." type="primary" %}
 
@@ -47,7 +47,7 @@ Comme complément d'une préposition, *qui* ne peut être utilisé qu'avec un an
 
 {% include callout.html content="On retrouve des films **qu'**on a beaucoup aimés.<br/><br/>C'est vrai, j'oubliais les salades **que** je t'ai racontées.<br/><br/>Elle a alors suivi des cours, le soir après son travail, dans l'atelier **que** dirigeait Sylvia Lopez Duclos." type="primary" %}
 
-Lorsque le verbe de la phrase relative est au passé composé, ou à tout autre temps composé, le participe passé s'accorde en nombre et en genre avec **que**.
+Lorsque le verbe de la phrase relative est au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, ou à tout autre <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composé</a>, le participe passé s'accorde en nombre et en genre avec **que**.
 
 {% include callout.html content="Si vous le permettez, madame la présidente, je défendrai ensemble les quatre sous-amendements **que** j'ai déposé**s**." type="primary" %}
 
@@ -69,7 +69,7 @@ Le pronoms relatif **lequel** est utilisé lorsque la phrase relative est introd
 
 {% include variation.html content="La forme **dont** est généralement utilisée en français parlé au lieu des formes **duquel**, **de laquelle**, **desquels**, et **desquelles**; cependant, ces dernières formes peuvent également être trouvées, en particulier dans les textes écrits.<br/><br/>Le pronom relatif **qui** est généralement utilisé au lieu de **lequel** si l'antécédent est une personne. Cependant, l'usage de **lequel** pour un antécédent animé n'est pas incorrect. Après les prépositions *entre* et *parmi*, **lesquel(le)s** est plus accepté que **qui**." %}
 
-Le déterminant **lequel** peut aussi bien se trouver devant un nom dans une construction appositive (où le nom est répété). Cette construction est assez formelle et s'utilise principalement à l'écrit.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> **lequel** peut aussi bien se trouver devant un nom dans une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> appositive (où le nom est répété). Cette construction est assez formelle et s'utilise principalement à l'écrit.
 
 {% include callout.html content="Or, sur ce point, ils ont commis un abus en négligeant l'essence de l'Islam , **lequel abus** ne trouve aucune justification." type="primary" %}
 

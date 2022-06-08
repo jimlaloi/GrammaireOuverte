@@ -10,13 +10,13 @@ folder: grammaire
 
 ## Introduction
 
-Un pronom indéfini désigne des personnes ou des choses sans les identifier précisément.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> indéfini désigne des personnes ou des choses sans les identifier précisément.
 
-La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom* (voir [Déterminants](/grammaire_déterminants.html)). Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des déterminants ou adjectifs indéfinis avec une forme similaire, comme **quelques** ou **un**, qui introduisent un nom (comme *quelques livres*, *un chat*).
+La fonction d'un pronom indéfini est similaire à celle d'un *déterminant indéfini + nom* (voir [Déterminants](/grammaire_déterminants.html)). Ne confondez pas des pronoms indéfinis comme **quelqu'un** ou **l'un**, qui forment un syntagme nominal tous seuls, avec des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminants</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectifs</a> indéfinis avec une forme similaire, comme **quelques** ou **un**, qui introduisent un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> (comme *quelques livres*, *un chat*).
 
 Le pronom personnel **on** a souvent un sens indéfini, mais il est décrit avec les autres [pronoms personnels](/grammaire_pronoms_personnels.html).
 
-Certains pronoms comme **tout**, **personne**, et **rien** (ainsi que des mots d'autres catégories, comme le déterminant **chaque**) ont une fonction particulière de quantification. La description de ces mots se trouve donc sur les pages sur les [quantifieurs](/grammaire_quantifieurs.html) et (pour les quantifieurs négatifs) la [négation](/grammaire_négation.html).
+Certains pronoms comme **tout**, **personne**, et **rien** (ainsi que des mots d'autres catégories, comme le déterminant **chaque**) ont une fonction particulière de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.quantifieur}}">quantification</a>. La description de ces mots se trouve donc sur les pages sur les [quantifieurs](/grammaire_quantifieurs.html) et (pour les quantifieurs négatifs) la [négation](/grammaire_négation.html).
 
 ## quelque + un/chose/part
 
@@ -54,23 +54,23 @@ Le pronom disjoint **soi** est souvent groupé parmi les pronoms personnels disj
 
 {% include callout.html content="Je ne pouvais pas **me** mentir à **moi-même**.<br/><br/>Le ciseleur **s'**avoue à **lui-même** que sa main tremble un peu." type="primary" %}
 
-Notez que comme dans le deuxième exemple ci-dessus, le pronom **lui** (ou **elle**, **eux**, **elles** selon le genre et le nombre de l'antécédent) correspond au pronom réfléchi **se**. Le pronom **soi** correspond très rarement à **se**, car son antécédent doit être indéfini. Il est utilisé souvent dans le contexte d'autres pronoms indéfinis comme **chacun** ou pour parler d'une vérité générale.
+Notez que comme dans le deuxième exemple ci-dessus, le pronom **lui** (ou **elle**, **eux**, **elles** selon le genre et le nombre de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a>) correspond au pronom réfléchi **se**. Le pronom **soi** correspond très rarement à **se**, car son antécédent doit être indéfini. Il est utilisé souvent dans le contexte d'autres pronoms indéfinis comme **chacun** ou pour parler d'une vérité générale.
 
 {% include callout.html content="Chacun reste chez **soi** et s'occupe de ses problèmes.<br/><br/>Il ne faut pas regarder derrière **soi**.<br/><br/>Quels sont les risques à construire **soi**-même sa maison&nbsp;?" type="primary" %}
 
 ## l'un et les uns
 
-**L'un** et **les uns** renvoient à une/des personne(s) ou chose(s) indéfinies. Les deux s'accordent en genre avec l'antécédent (**l'une**, **les unes**). Ils servent souvent à comparer certains membres d'un ensemble à d'autres.
+**L'un** et **les uns** renvoient à une/des personne(s) ou chose(s) indéfinies. Les deux s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accordent</a> en genre avec l'antécédent (**l'une**, **les unes**). Ils servent souvent à comparer certains membres d'un ensemble à d'autres.
 
 {% include callout.html content="Des deux hommes, **l'un** était coupable, l'autre innocent.<br/><br/>Cette lenteur s'explique par au moins deux types de raisons&nbsp;: **les unes** scientifiques, les autres économiques et industrielles." type="primary" %}
 
-**L'un** peut prendre un complément de la préposition **de**, indiquant l'ensemble dont le pronom renvoie à un membre.
+**L'un** peut prendre un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a> de la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de**, indiquant l'ensemble dont le pronom renvoie à un membre.
 
 {% include callout.html content="Cette abbaye demeure **l'un des** plus beaux vestiges gothiques du 13e siècle." type="primary" %}
 
 **Les uns** ne peut pas prendre ce type de complément (**les uns des plus beaux vestiges gothiques du 13e siècle*).
 
-**L'un** et **les uns** peuvent se combiner avec **l'autre** et **les autres** pour évoquer ou renforcer un sens réciproque. Si l'action réciproque comprend un complément direct, les deux parties sont mises ensemble directement (*l'un l'autre*, *les uns les autres*). Si cette action comprend un complément oblique, il faut mettre la préposition appropriée au milieu (*l'un **à** l'autre*, *les uns **pour** les autres*, etc.)
+**L'un** et **les uns** peuvent se combiner avec **l'autre** et **les autres** pour évoquer ou renforcer un sens réciproque. Si l'action réciproque comprend un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>, les deux parties sont mises ensemble directement (*l'un l'autre*, *les uns les autres*). Si cette action comprend un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a>, il faut mettre la préposition appropriée au milieu (*l'un **à** l'autre*, *les uns **pour** les autres*, etc.)
 
 {% include callout.html content="Il ne faut pas se discréditer **l'un l'autre** devant les enfants.<br/><br/>Je sais que mes parents étaient fous amoureux **l'un de l'autre** avant ma naissance.<br/><br/>Ce sont des couches de peinture mises **les unes à côté des autres**." type="primary" %}
 

@@ -16,7 +16,6 @@ Le contenu du site a été développé d'après [Tex's French Grammar](https://w
 ## Contenu
 
 Ce site peut être employé au sein d'un cours de français ou bien pour l'étude individuelle. Les exposés des concepts grammaticaux sont organisés par catégorie dans la barre de navigation. L'instructeur ou l'apprenant est encouragé à étudier ces concepts dans l'ordre qui convient le mieux à ses besoins. Pour des suggestions à ce propos, voir la page destinée [aux instructeurs](/accueil_instructeurs.html).
-
  
 Les pages contiennent des explications de grammaire accompagnées d'exemples, présentés dans des boîtes comme celle-ci:
 
@@ -28,6 +27,7 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 
 {% include information.html content="D'autres boîtes offrent des explications supplémentaires sur des règles grammaticales (telles que les raisons historiques pour leur développement) qui peuvent contribuer à la compréhension." %}
 
+Sur chaque page, la première apparition de certains mots techniques (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a>, etc.) est présenté en italiques verts. Si on passe sa souris au-dessus de ces mots, une définition en anglais apparaît pour faciliter la compréhension.
 
 ## License
 
@@ -41,6 +41,7 @@ Tous les exemples sont tirés du <a href="https://doi.org/10.1051/shsconf/201627
 
 + Abeillé, Anne et Danièle Godard (2021). *La Grande Grammaire du français*. ACTES SUD. [www.grandegrammairedufrançais.com](https://www.grandegrammairedufrançais.com)
 + Delais-Roussarie, Élisabeth et Laurence Labrune (eds.) (2007). *Des sons et des sens - données et modèles en phonologie et en morphologie*. Hermès.
++ Detey, Sylvain, Jacques Durand, Bernard Laks et Chantal Lyche (eds.) (2016). *Varieties of spoken French*. Oxford.
 + Dictionnaire des francophones: [www.dictionnairedesfrancophones.org](https://www.dictionnairedesfrancophones.org)
 + Grevisse, Maurice (1986). *Le bon usage*. 12e édition. Ducolot.
 + Office québécois de la langue française. [www.oqlf.gouv.qc.ca](http://www.oqlf.gouv.qc.ca/)

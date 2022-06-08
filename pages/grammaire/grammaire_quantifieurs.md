@@ -9,13 +9,13 @@ folder: grammaire
 
 ## Introduction
 
-Les quantifieurs sont des mots ou des expressions qui quantifient un ensemble de personnes ou de choses. On peut regrouper les quantifieurs selon la quantité qu'ils indiquent de l'ensemble&nbsp;:
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.quantifieur}}">quantifieurs</a> sont des mots ou des expressions qui quantifient un ensemble de personnes ou de choses. On peut regrouper les quantifieurs selon la quantité qu'ils indiquent de l'ensemble&nbsp;:
 
 + quantifieurs universels (100%, par ex. *tous les livres*)
 + quantifieurs négatifs (0%, par ex. *aucun livre*)
 + quantifieurs proportionnels (entre 0% et 100%, par ex. *la plupart des livres*)
 
-La catégorie grammaticale des quantifieurs peut varier (déterminant, pronom, adjectif, adverbe), mais cette fonction de quantification réunit tous ces mots. Parce qu'ils ont une syntaxe particulière en commun avec d'autres expressions négatives, les quantifieurs négatifs sont décrits sur la page sur la [négation](/grammaire_n%C3%A9gation.html).
+La catégorie grammaticale des quantifieurs peut varier (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a>), mais cette fonction de quantification réunit tous ces mots. Parce qu'ils ont une syntaxe particulière en commun avec d'autres expressions négatives, les quantifieurs négatifs sont décrits sur la page sur la [négation](/grammaire_n%C3%A9gation.html).
 
 Une autre famille d'expressions, les expressions de choix libre, remplit une fonction similaire à celle des quantifieurs. Comme les quantifieurs, ces mots portent sur un ensemble d'entités. Mais au lieu de quantifier cet ensemble, ces mots (*n'importe quel*, *quelconque*, etc.) indiquent que le choix d'un individu ou d'un autre dans l'ensemble ne change rien.
 
@@ -23,15 +23,15 @@ Une autre famille d'expressions, les expressions de choix libre, remplit une fon
 
 ### chaque et chacun
 
-**Chacun** est un pronom qui est toujours singulier. La forme féminine est **chacune**. Ces pronoms peuvent avoir plusieurs rôles dans la phrase&nbsp;: sujet, complément direct ou oblique, ou ajout suivant le verbe. 
+**Chacun** est un pronom qui est toujours singulier. La forme féminine est **chacune**. Ces pronoms peuvent avoir plusieurs rôles dans la phrase&nbsp;: <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">oblique</a>, ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.ajout}}">ajout</a> suivant le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>. 
 
 {% include callout.html content="Il faut que **chacun** prenne ses responsabilités.<br/><br/>Un même temps de formation doit être offert à **chacune** et à **chacun**.<br/><br/>Les petits peintres ont **chacun** leur motivation." type="primary" %}
 
-L'ensemble quantifié par chacun est soit toute l'humanité soit un groupe plus spécifique selon le contexte (comme les peintres du dernier exemple ci-dessus). L'ensemble peut être indiqué par la préposition **de** après le quantifieur&nbsp;:
+L'ensemble quantifié par chacun est soit toute l'humanité soit un groupe plus spécifique selon le contexte (comme les peintres du dernier exemple ci-dessus). L'ensemble peut être indiqué par la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de** après le quantifieur&nbsp;:
 
 {% include callout.html content="**Chacune des équipes** va essayer de se mettre à l'abri en cette fin de championnat." type="primary" %}
 
-**Chaque**, en revanche, est un déterminant suivi d'un nom singulier. La forme est invariable.
+**Chaque**, en revanche, est un déterminant suivi d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> singulier. La forme est invariable.
 
 {% include callout.html content="**Chaque** enfant aura une réponse à sa lettre." type="primary" %}
 
@@ -43,11 +43,11 @@ Le mot **tout** peut modifier un adverbe, adjectif, nom, ou pronom, ou il peut s
 
 {% include callout.html content="Je voudrais **tout d'abord** saluer ce progrès relatif.<br/><br/>Tu fais un mouvement en cercle avec ta cuillère, **tout simplement**." type="primary" %}
 
-Quand il modifie un adjectif, **tout** prend les formes suivantes pour faire l'accord avec l'adjectif et le nom&nbsp;: **tout** (masc. sing. et pl.), **toute** (fém. sing.), **toutes** (fém. pl).
+Quand il modifie un adjectif, **tout** prend les formes suivantes pour faire l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> avec l'adjectif et le nom&nbsp;: **tout** (masc. sing. et pl.), **toute** (fém. sing.), **toutes** (fém. pl).
 
 {% include callout.html content="Il avait la phobie des insectes depuis qu'il était **tout petit**.<br/><br/>Mon oncle a les doigts **tout noirs** de cambouis.<br/><br/>L'alarme s'est déclenchée **toute seule**.<br/><br/>Vous pouvez faire de **toutes petites** crêpes." type="primary" %}
 
-Sans article, **tout** peut quantifier un nom propre ou un pronom. Il peut aussi quantifier un nom commun avec un article. **Tout** s'accorde avec le nom ou le pronom avec les formes suivantes&nbsp;: **tout** (masc. sing.), **toute** (fém. sing.), **tous** (mas. pl.), **toutes** (fém. pl).
+Sans <a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a>, **tout** peut quantifier un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-propre}}">nom propre</a> ou un pronom. Il peut aussi quantifier un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-commun}}">nom commun</a> avec un article. **Tout** s'accorde avec le nom ou le pronom avec les formes suivantes&nbsp;: **tout** (masc. sing.), **toute** (fém. sing.), **tous** (mas. pl.), **toutes** (fém. pl).
 
 {% include callout.html content="La manifestation doit avoir lieu dans **tout Paris**, le long des artères principales de la ville.<br/><br/>Franchement, tu es un vrai exemple pour **nous toutes**.<br/><br/>**Toute une génération** a connu ce genre de mésaventure.<br/><br/>Ils ont ramené **tous les blessés** ici." type="primary" %}
 
@@ -57,18 +57,18 @@ Le pronom **tout** renvoie à un ensemble de choses et se traduit typiquement pa
 
 {% include callout.html content="C'est vrai que, depuis trois ans, **tout** a changé.<br/><br/>Le philosophe veut **tout** expliquer, **tout** comprendre ." type="primary" %}
 
-Le pronom **tous**, par contre, peut indiquer des personnes ou des choses. Il est toujours pluriel et doit s'accorder en genre avec son antécédent (**tous**, **toutes**). Il est souvent traduit par « all » ou « all of them ».
+Le pronom **tous**, par contre, peut indiquer des personnes ou des choses. Il est toujours pluriel et doit s'accorder en genre avec son <a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a> (**tous**, **toutes**). Il est souvent traduit par « all » ou « all of them ».
 
 {% include callout.html content="**Tous** sont fiers des succès de nos armées.<br/><br/>**Toutes** portaient de très stricts tailleurs noirs.<br/><br/>Vous savez que je les ai **toutes** gardées dans une petite caisse en bois." type="primary" %}
 
 {% include information.html content="Il faut prononcer le **s** du pronom **tous**. Le **s** est également prononcé quand **tous** modifie un pronom (e.g. **nous tous**). Par contre, le **s** n'est pas prononcé quand la forme plurielle **tous** modifie un nom (e.g. **tous les jours**)." %}
 
 Voici une liste de phrases idiomatiques courantes avec **tout**&nbsp;:
-*pas du tout*, *en tout cas*, *tout de suite*, *malgré tout*, *tout le monde*, *tout à l'heure*, *tout le temps*, *tout à coup*, *tous les jours*, *tout à fait*, *tous* (*toutes*) *les deux*, *tout droit*, *tous les deux jours*, *tous les trois jours* ... etc., *tout de même*, *toutes les deux semaines*, *tout le temps*, *tout en + participe présent*
+*pas du tout*, *en tout cas*, *tout de suite*, *malgré tout*, *tout le monde*, *tout à l'heure*, *tout le temps*, *tout à coup*, *tous les jours*, *tout à fait*, *tous* (*toutes*) *les deux*, *tout droit*, *tous les deux jours*, *tous les trois jours* ... etc., *tout de même*, *toutes les deux semaines*, *tout le temps*, *tout en + <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participe présent</a>*
 
 ### quantifieurs proportionnels
 
-Les quantifieurs **la plupart**, **la moitié**, et **la majorité** renvoient à une partie (vers ou en-dessus de 50%) d'un ensemble d'entités. Alors que ces quantifieurs sont singuliers, la conjugaison du verbe dépend souvent sur le nombre du nom représentant cet ensemble. Pour **la plupart**, le verbe est conjugué au pluriel quand le nom est pluriel&nbsp;:
+Les quantifieurs **la plupart**, **la moitié**, et **la majorité** renvoient à une partie (vers ou en-dessus de 50%) d'un ensemble d'entités. Alors que ces quantifieurs sont singuliers, la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugaison</a> du verbe dépend souvent sur le nombre du nom représentant cet ensemble. Pour **la plupart**, le verbe est conjugué au pluriel quand le nom est pluriel&nbsp;:
 
 {% include callout.html content="**La plupart** des enfants **vont** être à l'école de 7h45 le matin jusqu'à 18h le soir." type="primary" %}
 
@@ -102,7 +102,7 @@ Ces expressions ont souvent un sens péjoratif, surtout *n'importe quoi* ('nonse
 
 ### Où/Quel/Qui/Quoi que
 
-Les expressions de choix libre **où que** ('wherever'), **quel que** ('whichever'), **qui que** (whoever/whomever), et **quoi que** ('whatever') introduisent une proposition subordonnée qui requiert le subjonctif.
+Les expressions de choix libre **où que** ('wherever'), **quel que** ('whichever'), **qui que** (whoever/whomever), et **quoi que** ('whatever') introduisent une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> qui requiert le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a>.
 
 {% include callout.html content="De toute façon il me retrouvera **où que** j'aille.<br/><br/>Il permettra de donner à tous les jeunes une bonne formation, **quel que** soit leur niveau.<br/><br/>Il ne s'agit pas de blâmer **qui que** ce soit.<br/><br/>**Quoi qu'**il fasse, il fait mal." type="primary" %}
 

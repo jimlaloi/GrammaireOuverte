@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-Un **déterminant** est un mot qui détermine ou qualifie le sens d'un nom en exprimant des concepts tels que la quantité et le caractère défini. Il n'y a jamais plus d'un déterminant par nom et il est toujours placé avant le nom. Les déterminants s'accordent typiquement en genre et en nombre avec les noms qu'ils modifient.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">**déterminant**</a> est un mot qui détermine ou qualifie le sens d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> en exprimant des concepts tels que la quantité et le caractère défini. Il n'y a jamais plus d'un déterminant par nom et il est toujours placé avant le nom. Les déterminants s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accordent</a> typiquement en genre et en nombre avec les noms qu'ils modifient.
 
 Les déterminants peuvent être définis ou indéfinis. Un déterminant défini exprime que le nom qu'il modifie est identifiable. Par exemple, dans la phrase ci-dessous, **le** et **sa** sont des déterminants définis. La phrase parle d'un *livre* et d'une *soeur* spécifiques que les locuteurs peuvent identifier.
 
@@ -27,7 +27,7 @@ En introduisant quelque chose, on peut quand même utiliser un déterminant déf
 
 ## Les déterminants définis
 
-Il y a trois sortes de déterminants qui modifient un nom défini. L'article défini (**le**) fournit un sens défini sans autre modification du nom. Les déterminants possessifs (**mon**, **ton**, **son**, **notre**, **votre**, **leur**) expriment en plus que le nom est possédé. Le déterminant démonstratif (**ce**) indique que le référent du nom est identifiable parce que c'est observé dans la situation ou vient d'être mentionné.
+Il y a trois sortes de déterminants qui modifient un nom défini. L'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> défini (**le**) fournit un sens défini sans autre modification du nom. Les déterminants possessifs (**mon**, **ton**, **son**, **notre**, **votre**, **leur**) expriment en plus que le nom est possédé. Le déterminant démonstratif (**ce**) indique que le référent du nom est identifiable parce que c'est observé dans la situation ou vient d'être mentionné.
 
 ### l'article défini
 
@@ -59,7 +59,7 @@ L'article défini est utilisé dans les contextes suivants&nbsp;:
 
 {% include callout.html content="**Les** enfants ont de plus en plus tôt un smartphone.<br/><br/>**L'**argent et **le** pouvoir ne nous survivent pas." type="primary" %}
 
-+ pour le complément d'un verbe de préférence (*aimer*, *préférer*, *détester*), car le nom indique une catégorie entière
++ pour le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément</a> d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> de préférence (*aimer*, *préférer*, *détester*), car le nom indique une catégorie entière
 
 {% include callout.html content="J' adore **les** cacahuètes.<br/><br/>C'est marrant que t'aimes pas **le** foot.<br/><br/>Son caractère lui fait préférer **les** moyens pacifiques à **la** violence." type="primary" %}
 
@@ -85,9 +85,9 @@ L'article défini est utilisé dans les contextes suivants&nbsp;:
 
 {% include callout.html content="Simon lui jeta un regard sombre, alors il ferma **la** bouche et baissa **les** yeux.<br/><br/>Elle met sa tête en arrière et se masse **les** yeux." type="primary" %}
 
-Notez que le déterminant possessif peut aussi être utilisé avec les parties du corps (*Elle met **sa** tête en arrière*). L'article défini est obligatoire seulement si le possesseur est déjà indiqué par un pronom précédent (elle **se** masse **les** yeux; elle **lui** lave **la** main).
+Notez que le déterminant possessif peut aussi être utilisé avec les parties du corps (*Elle met **sa** tête en arrière*). L'article défini est obligatoire seulement si le possesseur est déjà indiqué par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> précédent (elle **se** masse **les** yeux; elle **lui** lave **la** main).
 
-Par contre, un déterminant indéfini est utilisé si la partie du corps est modifié par un adjectif qui précède le nom. Dans la phrase suivante, *un énorme nez* veut simplement dire que le nez du patient est énorme, alors que *l'énorme nez* voudrait dire qu'il y a un énorme nez spécifique qui a déjà été introduit.
+Par contre, un déterminant indéfini est utilisé si la partie du corps est modifié par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a> qui précède le nom. Dans la phrase suivante, *un énorme nez* veut simplement dire que le nez du patient est énorme, alors que *l'énorme nez* voudrait dire qu'il y a un énorme nez spécifique qui a déjà été introduit.
 
 {% include callout.html content="Un patient entre avec **un énorme** nez et **d'immenses** oreilles." type="primary" %}
 
@@ -184,7 +184,7 @@ Les déterminants indéfinis sont principalement les articles **un** (**une**, *
 
 ### les articles indéfinis
 
-Les articles indéfinies indiquent simplement que le nom modifié n'est pas identifiable. Le choix d'article dépend de si le nom est comptable ou massif (voir [Noms](/grammaire_noms.html)).
+Les articles indéfinies indiquent simplement que le nom modifié n'est pas identifiable. Le choix d'article dépend de si le nom est <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-comptable}}">comptable</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-massif}}">massif</a> (voir [Noms](/grammaire_noms.html)).
 
 #### noms comptables
 
@@ -217,7 +217,7 @@ Rappelez-vous qu'un nom qui est typiquement comptable peut souvent être conçu 
 Dans le premier exemple ci-dessus, **le vin** fait référence à la catégorie générale. Dans le deuxième exemple, **du vin** fait référence au vin comme une substance massive et non-comptable. Dans le troisième exemple, **un vin** fait référence à un type de vin parmi d'autres, qui est donc comptable.
 
 #### 'de' après le négatif
-Quand le nom est le complément d'un verbe mis au négatif, les articles indéfinis sont typiquement remplacés par la préposition **de** (**d'** devant une voyelle)&nbsp;:
+Quand le nom est le complément d'un verbe mis au négatif, les articles indéfinis sont typiquement remplacés par la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de** (**d'** devant une voyelle)&nbsp;:
 
 {% include callout.html content="Il n'y a pas **de** danger imminent.<br/><br/>Je mange du poisson, mais pas **de** viande animale." type="primary" %}
 
@@ -230,11 +230,11 @@ L'article peut aussi rester pour souligner le nom positif contrasté. Par exempl
 {% include callout.html content="On a **des** adversaires mais pas **des** ennemis." type="primary" %}
 
 #### 'de' après une expression de quantité
-Les expressions de quantité incluent des noms (*un kilo*, *un tas*, *une bouteille*, etc.) ainsi que des adverbes (*trop*, *assez*, *beaucoup*, *plein*, etc.). Ces expressions peuvent prendre comme complément un nom indiquant la chose quantifiée. Dans ce cas, le nom est marqué par la préposition **de**&nbsp;:
+Les expressions de quantité incluent des noms (*un kilo*, *un tas*, *une bouteille*, etc.) ainsi que des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a> (*trop*, *assez*, *beaucoup*, *plein*, etc.). Ces expressions peuvent prendre comme complément un nom indiquant la chose quantifiée. Dans ce cas, le nom est marqué par la préposition **de**&nbsp;:
 
 + *nom/adverbe de quantité + préposition **de** + nom de chose*
 
-Si le nom de chose dans cette construction a un déterminant *défini*, le déterminant garde sa place après la préposition **de**. La préposition **de** est amalgamée avec l'article défini pour faire les formes **du** (*de* + *le*) et **des** (*de* + *les*). (Ne confondez pas ces formes amalgamées avec les articles indéfinis **du** et **des**.)
+Si le nom de chose dans cette <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> a un déterminant *défini*, le déterminant garde sa place après la préposition **de**. La préposition **de** est amalgamée avec l'article défini pour faire les formes **du** (*de* + *le*) et **des** (*de* + *les*). (Ne confondez pas ces formes amalgamées avec les articles indéfinis **du** et **des**.)
 
 {% include callout.html content="Chez Lucie, j'ai trouvé **une bouteille de cette** fameuse absinthe&nbsp;!<br/><br/>**Beaucoup de mes** étudiants sont chrétiens ou juifs.<br/><br/>C'est **un petit morceau du** mur de Berlin.<br/><br/>**Beaucoup des** textes suivants sont des textes classiques, souvent donnés au bac." type="primary" %}
 

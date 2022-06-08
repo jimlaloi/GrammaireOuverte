@@ -9,9 +9,9 @@ folder: grammaire
 
 ## Introduction
 
-Un pronom est un mot utilisé pour remplacer un nom. Il est souvent utilisé pour éviter de répéter un nom mentionné précédemment (**l'antécédent**).
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> est un mot utilisé pour remplacer un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a>. Il est souvent utilisé pour éviter de répéter un nom mentionné précédemment (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">**l'antécédent**</a>).
 
-Les différents types de pronoms sont nommés selon leur fonction grammaticale. Les **pronoms personnels** sont associés aux personnes grammaticales&nbsp;: la première personne (qui parle - e.g. **je**), la deuxième personne (à qui l'on parle - e.g. **tu**), et la troisième personne (de qui l'on parle - e.g. **il**). Ces pronoms peuvent être *conjoints* ou *disjoints*. Les pronoms conjoints ont une place particulière en tant que sujet ou complément du verbe, alors que les pronoms disjoints ont une position plutôt libre, séparée du verbe.
+Les différents types de pronoms sont nommés selon leur fonction grammaticale. Les **pronoms personnels** sont associés aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personnes</a> grammaticales&nbsp;: la première personne (qui parle - e.g. **je**), la deuxième personne (à qui l'on parle - e.g. **tu**), et la troisième personne (de qui l'on parle - e.g. **il**). Ces pronoms peuvent être *conjoints* ou *disjoints*. Les pronoms conjoints ont une place particulière en tant que <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a> du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>, alors que les pronoms disjoints ont une position plutôt libre, séparée du verbe.
 
 **pronoms personnels conjoints&nbsp;:**
 <p style="margin-left: 30px"><em>pronoms sujets</em></p>
@@ -43,7 +43,7 @@ pronoms relatifs (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html))&nbs
 pronoms indéfinis (voir [Pronoms indéfinis](/grammaire_pronoms_indéfinis.html))&nbsp;:
 : quelqu'un, quelques-uns, quelque chose, quelque part, autrui, autre chose, autre part, l'un, les uns, soi, tel
 
-Néanmoins, les pronoms adverbiaux **y** et **en**, qui remplacent typiquement un nom introduit par une préposition, sont traités sur cette page avec les pronoms personnels, puisque leur place, comme celle des pronoms personnels, est définie en relation avec le verbe.
+Néanmoins, les pronoms adverbiaux **y** et **en**, qui remplacent typiquement un nom introduit par une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a>, sont traités sur cette page avec les pronoms personnels, puisque leur place, comme celle des pronoms personnels, est définie en relation avec le verbe.
 
 ## Pronoms sujets
 
@@ -72,9 +72,9 @@ Le pronom **tu** est singulier et, surtout, informel. Utilisez **tu** pour vous 
 
 **on**
 
-Le pronom **on** signifie « one », ou « they » dans un sens non spécifique&nbsp;: *comme on dit* (as they say). **On** remplace souvent **nous** en français parlé&nbsp;: *On y va&nbsp;?* (Shall we go?). Dans ce cas, le verbe est toujours conjugué à la troisième personne du singulier, mais on fait l'accord du pluriel sur un participe passé suivant l'auxiliaire *être*&nbsp;: *On est partis*.
+Le pronom **on** signifie « one », ou « they » dans un sens non spécifique&nbsp;: *comme on dit* (as they say). **On** remplace souvent **nous** en français parlé&nbsp;: *On y va&nbsp;?* (Shall we go?). Dans ce cas, le verbe est toujours conjugué à la troisième personne du singulier, mais on fait l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> du pluriel sur un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> suivant l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> *être*&nbsp;: *On est partis*.
 
-Dans certains contextes et facultativement, **on** peut prendre un article sans role grammatical pour éviter le hiatus de deux voyelles&nbsp;: *si l'on*, *que l'on*, *mais l'on*, etc.
+Dans certains contextes et facultativement, **on** peut prendre un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> sans role grammatical pour éviter le hiatus de deux voyelles&nbsp;: *si l'on*, *que l'on*, *mais l'on*, etc.
 
 **nous**
 
@@ -100,7 +100,7 @@ Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évi
 
 {% include variation.html content="À l'oral, *il* et *ils* sont fréquemment prononcés sans /l/ (*Ils font* devient « *i font* », *Ils ont* « *i-z-ont* »). Au Québec, en langage familier, la distinction entre *ils* et *elles* est souvent effacée, avec tous deux réduits à *i* à l'oral&nbsp;: *Les femmes, i(ls) sont venus*." %}
 
-Typiquement, le pronom sujet vient devant le verbe. Il y a néanmoins quelques contextes où le pronom sujet est placé après le verbe (ou après l'auxiliaire au temps composés). Dans tous ces contextes, le verbe est lié au pronom par un trait d'union (*Crois-tu*). Si le verbe se termine par une voyelle (e.g. *arriv**e***) et le pronom commence par une voyelle (*il*, *elle*, *on*), on insère alors un **-t-** pour éviter le hiatus entre les deux voyelles (*arrive-t-il*).
+Typiquement, le pronom sujet vient devant le verbe. Il y a néanmoins quelques contextes où le pronom sujet est placé après le verbe (ou après l'auxiliaire au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>). Dans tous ces contextes, le verbe est lié au pronom par un trait d'union (*Crois-tu*). Si le verbe se termine par une voyelle (e.g. *arriv**e***) et le pronom commence par une voyelle (*il*, *elle*, *on*), on insère alors un **-t-** pour éviter le hiatus entre les deux voyelles (*arrive-t-il*).
 
 + L'interrogation
 
@@ -110,7 +110,7 @@ Typiquement, le pronom sujet vient devant le verbe. Il y a néanmoins quelques c
 
 {% include callout.html content="Moi aussi, dit-**il**, je suis très heureux de ce dîner.<br/><br/>Cela fait partie du métier, m'a-**t-elle** expliqué.<br/><br/>Il a demandé&nbsp;: « Tu peux parler&nbsp;? »" type="primary" %}
 
-+ Dans une phrase commençant par certains adverbes qui modifient le verbe (*aussi*, *à peine... que*, *encore*, *peut-être*, *sans doute*)
++ Dans une phrase commençant par certains <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a> qui modifient le verbe (*aussi*, *à peine... que*, *encore*, *peut-être*, *sans doute*)
 
 {% include callout.html content="**Aussi** ai-**je** pris en tutorat l'élève qui présente le plus de difficultés afin de lui apporter une aide individuelle.<br/><br/>**À peine** étiez-**vous** sortie **qu'**elle demandait à vous voir.<br/><br/>**Encore** faudrait-**il** prouver que cette affirmation est vraie.<br/><br/>**Peut-être** y a-**t-il** aussi dans cette critique une dimension sexiste.<br/><br/>**Sans doute** pouvons-**nous** espérer une réponse ce soir." type="primary" %}
 
@@ -128,11 +128,11 @@ Le tableau suivant décrit l'ordre des pronoms compléments dans la phrase.
 | | vous | les | leur | | | |
 | | se | | | | | |
 
-Parfois, il y aura à la fois un pronom de complément direct et un pronom de complément oblique dans la même phrase. Le pronom direct est généralement le plus proche du verbe dont il est l'objet (**me le**, **te la**, etc.). Cependant, l'ordre des pronoms directs/obliques est inversé à la troisième personne (**le lui**, **le leur**, etc.). Dans ce cas, le pronom oblique est le plus proche du verbe.
+Parfois, il y aura à la fois un pronom de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> et un pronom de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a> dans la même phrase. Le pronom direct est généralement le plus proche du verbe dont il est l'objet (**me le**, **te la**, etc.). Cependant, l'ordre des pronoms directs/obliques est inversé à la troisième personne (**le lui**, **le leur**, etc.). Dans ce cas, le pronom oblique est le plus proche du verbe.
 
 {% include callout.html content="S'il a un souci, il **me le** dit.<br/><br/>Je **le leur** ai dit, d'ailleurs." type="primary" %}
 
-À l'impératif affirmatif, les pronoms compléments suivent le verbe (voir [Impératif](/grammaire_impératif.html)).
+À l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a> affirmatif, les pronoms compléments suivent le verbe (voir [Impératif](/grammaire_impératif.html)).
 
 | | -le | | -moi (m') | | |
 | VERBE | -la | -lui | -toi (t') | -y | -en |
@@ -143,7 +143,7 @@ Notez qu'après le verbe, **me** et **te** deviennent **moi** et **toi**.
 
 {% include callout.html content="Tu **me le** donnes et je me barre...<br/><br/>La mère a refusé de **me le** donner.<br/><br/>T'as de l'argent, donne-**le**-**moi** ou je te tape." type="primary" %}
 
-Pour la négation dans les temps simples, comme le présent, le futur, l'imparfait et le passé simple, les pronoms de complément sont placés entre le **ne** et le verbe. Aux temps composés, comme le passé composé, le plus-que-parfait etc., les pronoms de complément sont placés entre le **ne** et le verbe auxiliaire.
+Pour la négation dans les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-simple}}">temps simples</a>, comme le présent, le futur, l'imparfait et le passé simple, les pronoms de complément sont placés entre le **ne** et le verbe. Aux temps composés, comme le passé composé, le plus-que-parfait etc., les pronoms de complément sont placés entre le **ne** et le verbe auxiliaire.
 
 {% include callout.html content="Il **ne nous en** a **pas** parlé." type="primary" %}
 
@@ -164,7 +164,7 @@ Les pronoms de complément direct en français s'accordent en nombre et en genre
 
 {% include callout.html content="Les ordres qui vous sont donnés, c'est à moi de **les** assumer et de **les** prendre aussi." type="primary" %}
 
-Notez que **le**/**l**' peut remplacer un adjectif ou un verbe.
+Notez que **le**/**l**' peut remplacer un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a> ou un verbe.
 
 {% include callout.html content="Comme d'habitude vous dites n'importe quoi, je pense que vous **le** faites exprés&nbsp;!<br/><br/>J'ai des amis qui n'étaient pas racistes et **le** sont devenus une fois entrés dans la police." type="primary" %}
 
@@ -209,7 +209,7 @@ Notez la présence du pronom **y** dans les locutions suivantes. Comment traduir
 
 ### en
 
-**En** remplace généralement **de + nom** ; cela inclut les noms introduits par des déterminants partitifs ou indéfinis (**de**, **du**, **de l'**, **de la**, **des**).
+**En** remplace généralement **de + nom** ; cela inclut les noms introduits par des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminants</a> indéfinis dérivés de *de* (**de**, **du**, **de l'**, **de la**, **des**).
 
 {% include callout.html content="**Des câlins**, il **en** voudrait tellement.<br/><br/>Quand on prend **du safran**, on n'**en** prend pas beaucoup." type="primary" %}
 

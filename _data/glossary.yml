@@ -1,13 +1,87 @@
-jekyll_platform: "Jekyll is a static site generator that builds sites using most modern web technologies."
+accord: "Agreement: changing the form of a determiner, adjective, past participle, or pronoun to reflect the gender and number of a noun it modifies or replaces [Ex: des livres intéressant*s*]"
 
-fractious: "Like a little mischevious child, full of annoying and constant trouble."
+adjectif: "Adjective: a word that modifies a noun or pronoun, especially by describing its qualities [Ex: gentil, bleu]"
 
-gratuitous: "Something that is unwarranted and uncouth, like the social equivalent of a flagrant foul."
+adverbe: "Adverb: a word that modifies a word other than a noun or pronoun, especially by describing manner, degree, or time [Ex: lentement, très, hier]"
 
-haughty: "Proud and flaunting it. Holding your head high up like a snooty, too-good-for-everything rich person."
+ajout: "Adjunct: a part of a sentence that, unlike a complement, could be removed without impacting its structure [Ex: Je vais au supermarché *à 8h*.]"
 
-impertinent: "Someone acting rude and insensitive to others."
+antecedent: "Antecedent: the thing that a pronoun refers to or replaces [Ex: *La femme*, je lui parle.]"
 
-intrepid: "Brave and courageous especially in a difficult, dangerous situation."
+article: "Article: a short determiner that simply expresses whether a noun is definite (le) or indefinite (un/du)"
+
+auxiliaire: "Auxiliary: the verb être or avoir used in combination with a past participle in a compound tense [Ex: j'*ai* fait]"
+
+complement-direct: "Direct object: something affected by a verb's action, unmarked by a preposition [Ex: Je mange *la pomme*]"
+
+complement-oblique: "Indirect object: something affected by a verb's action, marked by a preposition [Ex: Je réponds *à la question*]"
+
+complement: "Complement/Object: a word, phrase, or clause that completes the meaning of another expression (usually a verb or preposition) [Ex: dans *la cuisine*; croire *quelque chose*]"
+
+conditionnel: "Conditional: a verbal mood expressing that a situation depends on some condition [Ex: je travaillerais]"
+
+conjonction: "Conjunction: a word that connects one word or expression to another of the same category [Ex: grand *et* beau]"
+
+conjugaison: "Conjugation: changing the form of a verb to indicate its mood, tense, aspect, person and number"
+
+construction: "Construction: a grammatical pattern that expresses a particular meaning [Ex: the passive construction, Elle a été trouvée]"
+
+determinant: "Determiner: a word that indicates the definiteness (and often other qualities) of a common noun [Ex: une, mon, ces]"
+
+imparfait: "Imperfect: a past tense that also expresses imperfective aspect [Ex: j'étais]"
+
+imperatif: "Imperative: a verbal mood expressing a command, order, request, or suggestion [Ex: Viens !]"
+
+indicatif: "Indicative: the default verbal mood expressing that a situation exists in reality [Ex: je fais]"
+
+infinitif: "Infinitive: a verbal mood expressing a verb's meaning without tense or subject [Ex: faire]"
+
+nom: "Noun: a word that refers to something and can function as subject or object of a verb [Ex: fille, courage, natation]"
+
+nom-commun : "Common noun: a word that refers to a category rather than an individual person or thing [Ex: fille, courage, natation]"
+
+nom-comptable: "Count noun: a noun that construes its referent as an item or items that could be counted [Ex: une chaise, des haricots]"
+
+nom-massif: "Mass noun: a noun that construes its referent as a substance of which individual parts cannot be counted [Ex: de l'eau, du riz, du courage]"
+
+nom-propre: "Proper noun: a word that refers to an individual person or thing rather than a category [Ex: Emmanuel Macron, Noël, Tour Eiffel]"
+
+participe-passe: "Past participle: the verb form used in compound tenses and passive constructions [Ex: parlé]"
+
+participe-present: "Present participle: the verb form used like an adjective to modify nouns [Ex: parlant]"
+
+passe-compose: "Compound past: a past tense expressing perfective aspect with an auxiliary (conjugated in the present) and a past participle [Ex: j'ai mangé]"
+
+passe-simple: "Simple past: a past tense used in certain literary styles to replace the passé composé [Ex: il mangea]"
+
+personne: "Person: a grammatical concept referring to either the speaker (First person: je, nous), the addressee (Second person: tu, vous) or a third party (Third person: il, elle, ils, elles)"
+
+plus-que-parfait: "Pluperfect: a past tense expressing anteriority with an auxiliary (conjugated in the imperfect) and a past participle [Ex: j'avais mangé]"
+
+preposition: "Preposition: a word expressing a spatial, temporal, conceptual or grammatical relation between two words or expressions [Ex: dans, après, contre, à]"
+
+pronom: "Pronoun: a word that replaces a noun [Ex: je, lui, qui, ceci, quelqu'un]"
+
+phrase-principale: "Main clause: the clause that gives the primary meaning in a complex sentence [Ex: Quand j'étais petit, *j'allais à l'école*.]"
+
+phrase-subordonnee: "Subordinate clause: the clause that explains a circumstance or secondary meaning in a complex sentence [Ex: *Quand j'étais petit*, j'allais à l'école.]"
+
+phrase-relative: "Relative clause: a clause that describes a noun in the main clause of a complex sentence [Ex: J'ai un ami *qui joue du piano*.]"
+
+quantifieur: "Quantifier: a word that describes the quantity of something [Ex: tous, aucun, la moitié]"
+
+radical: "Stem: the part of a verb that stays the same when it is conjugated"
+
+subjonctif: "Subjunctive: a verbal mood expressing that a situation exists in the speaker's attitude or beliefs [Ex: Je crois qu'il *vienne*]"
+
+sujet: "Subject: the part of a sentence that performs the verb and determines the verb's conjugation for person and number [Ex: *Ils* arrivent]"
+
+temps-compose: "Compound tense: any verb form composed of an auxiliary (avoir or être) and a past participle [Ex: passé composé, plus-que-parfait, futur antérieur, etc.]"
+
+temps-simple: "Simple tense: any verb form composed of a single word, without an auxiliary [Ex: présent, futur simple, conditionnel, etc.]"
+
+terminaison: "Ending: the part of a verb that changes when it is conjugated"
+
+verbe: "Verb: a word that evokes a situation (an action, a state of being, etc.) and is conjugated [Ex: parler, être, rendre]"
 
 # Copyright 2021 Google LLC
