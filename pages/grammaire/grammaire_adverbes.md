@@ -142,7 +142,7 @@ Ne confondez pas les paires d'adjectifs et d'adverbes suivantes&nbsp;:
 
 {% include callout.html content="Sa mère était une femme **bien**, calme." type="primary" %}
 
-**Bien** et **bon** peuvent être tous les deux attributs du sujet, mais **bon** décrit une qualité spécifique d'un nom ('It's *good*') alors que **bien** est plus général ('It's *nice*'). **Bon** est aussi utilisé dans les locutions *bon à savoir*, *bon pour la santé/la planète*, et *bon à rien*.
+**Bien** et **bon** peuvent tous les deux être <a data-toggle="tooltip" data-original-title="{{site.data.glossary.attribut-du-sujet}}">attributs du sujet</a>, mais **bon** décrit une qualité spécifique d'un nom ('It's *good*') alors que **bien** est plus général ('It's *nice*'). **Bon** est aussi utilisé dans les locutions *bon à savoir*, *bon pour la santé/la planète*, et *bon à rien*.
 
 {% include callout.html content="On va voir si sa sauce est **bonne**.<br/><br/>C'est **bien**, chez vous, et c'est facile à trouver." type="primary" %}
 

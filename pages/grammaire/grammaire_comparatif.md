@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-Pour comparer des choses ou des personnes, le français a des constructions particulières appelées *constructions comparatives* (similaires au suffixe **-er** de l'anglais&nbsp;: *faster*, *smarter*, *larger*). Des formes modifiées de ces constructions, les *constructions superlatives*, permettent d'élever des choses ou des personnes au-dessus de tous les autres (comme le suffixe **-est** de l'anglais&nbsp;: *fastest*, *smartest*, *largest*). Les superlatifs peuvent porter un sens de supériorité (*most*) ou d'infériorité (*least*). Les comparatifs peuvent porter un sens de supériorité (*more*), d'infériorité (*less*), ou d'égalité (*as*, *as much*). La forme des constructions comparatives et superlatives dépend de la catégorie du mot utilisé pour la comparaison&nbsp;: adjectif, adverbe, nom, ou verbe.
+Pour comparer des choses ou des personnes, le français a des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">constructions</a> particulières appelées *constructions comparatives* (similaires au suffixe **-er** de l'anglais&nbsp;: *faster*, *smarter*, *larger*). Des formes modifiées de ces constructions, les *constructions superlatives*, permettent d'élever des choses ou des personnes au-dessus de tous les autres (comme le suffixe **-est** de l'anglais&nbsp;: *fastest*, *smartest*, *largest*). Les superlatifs peuvent porter un sens de supériorité (*most*) ou d'infériorité (*least*). Les comparatifs peuvent porter un sens de supériorité (*more*), d'infériorité (*less*), ou d'égalité (*as*, *as much*). La forme des constructions comparatives et superlatives dépend de la catégorie du mot utilisé pour la comparaison&nbsp;: <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a>, ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>.
 
 ## Le comparatif
 
@@ -31,13 +31,13 @@ Pour comparer la fréquence ou l'intensité des actions, utilisez **verbe + plus
 
 {% include callout.html content="[**Verbe +**] C'est le cinquième de la série et je pense qu'il devrait vous plaire **plus que** les autres.<br/><br/>[**Verbe -**] Dès lors qu'ils sont triés, les bio déchets coûtent et polluent **moins que** les autres types de déchets.<br/><br/>[**Verbe =**] Personne ne t'a aimé **autant que** moi." type="primary" %}
 
-Aux temps composés, on peut aussi mettre plus/moins/autant entre l'auxiliaire et le participe passé.
+Aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>, on peut aussi mettre *plus*/*moins*/*autant* entre l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>.
 
 {% include callout.html content="Je suis sûre que j'ai **moins** dépensé **que** toi." type="primary" %}
 
 ### comparatifs irréguliers
 
-L'adjectif **bon** a une forme irrégulière, **meilleur**, qui remplace *plus bon*. **Meilleur** fait l'accord en genre et en nombre avec le nom qu'il modifie.
+L'adjectif **bon** a une forme irrégulière, **meilleur**, qui remplace *plus bon*. **Meilleur** fait l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> en genre et en nombre avec le nom qu'il modifie.
 
 {% include callout.html content="Si on maîtrise le kung-fu, on pourra être **meilleurs que** les autres.<br/><br/>La défense parisienne est **meilleure que** la défense marseillaise." type="primary" %}
 
@@ -49,7 +49,7 @@ Ne confondez pas ces mots. **Meilleur** est un adjectif qui modifie les noms, al
 
 {% include callout.html content="Les médecins allemands ne sont pas **meilleurs** que les médecins français, mais ils sont **mieux** formés." type="primary" %}
 
-Tout comme **bon** et **bien**, **meilleur** et **mieux** peuvent tous les deux être attributs du sujet. Mais **meilleur** décrit une qualité spécifique d'un nom (comme le goût du yaourt fait maison dans la première phrase ci-dessous) alors que **mieux** a un sens plus général.
+Tout comme **bon** et **bien**, **meilleur** et **mieux** peuvent tous les deux être <a data-toggle="tooltip" data-original-title="{{site.data.glossary.attribut-du-sujet}}">attributs du sujet</a>. Mais **meilleur** décrit une qualité spécifique d'un nom (comme le goût du yaourt fait maison dans la première phrase ci-dessous) alors que **mieux** a un sens plus général.
 
 {% include callout.html content="C'est **meilleur**, à mon goût, que les yaourts achetés.<br/><br/>Je pense que c'est **mieux** comme ça." type="primary" %}
 
@@ -73,11 +73,11 @@ Le mot **pis** est une forme réduite de *pire* utilisée dans les expressions *
 
 {% include callout.html content="**Tant mieux** si je t'énerve, c'est le but (du moins en partie).<br/><br/>**Tant pis** pour le théâtre, on ira un autre soir.<br/><br/>Je me sentais **de mieux en mieux**.<br/><br/>Les agriculteurs s'arrachaient les cheveux&nbsp;: les récoltes de blé, de maïs et de tournesol allaient **de mal en pis**." type="primary" %}
 
-{% include variation.html content="Á l'écrit, si une comparaison avec **plus** ou **moins** est faite avec une proposition, cette proposition aura **ne** et/ou **le** devant le verbe&nbsp;: *Vous êtes **plus** forte **que** vous **ne le** pensez.* À l'oral, ce n'est souvent pas le cas&nbsp;: *Oui, en Chine, la chute de la fécondité est allée **plus** loin **qu'**on imaginait.*" %}
+{% include variation.html content="Á l'écrit, si une comparaison avec **plus** ou **moins** est faite avec une phrase subordonnée, cette subordonnée aura **ne** et/ou **le** devant le verbe&nbsp;:<br/>*Vous êtes **plus** forte <ins>**que** vous **ne le** pensez</ins>.*<br/>À l'oral, ce n'est souvent pas le cas&nbsp;:<br/>*Oui, en Chine, la chute de la fécondité est allée **plus** loin <ins>**qu'**on imaginait</ins>.*" %}
 
 ## Le superlatif
 
-La forme du superlatif est très similaire à celle du comparatif. On ajoute simplement l'article défini devant **plus** (pour la supériorité) ou **moins** (pour l'infériorité). Pour indiquer le groupe ou la catégorie dont un membre est supérieur ou inférieur, on utilise la préposition **de**.
+La forme du superlatif est très similaire à celle du comparatif. On ajoute simplement l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> défini devant **plus** (pour la supériorité) ou **moins** (pour l'infériorité). Pour indiquer le groupe ou la catégorie dont un membre est supérieur ou inférieur, on utilise la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de**.
 
 Pour le superlatif d'un adjectif, l'article défini s'accorde en genre et en nombre avec le nom modifié. La place de l'adjectif superlatif suit les même règles que pour les adjectifs normaux. Notez que si l'adjectif suit le nom, l'article défini est utilisé deux fois&nbsp;: devant le nom et encore devant *plus* ou *moins*.
 
@@ -85,7 +85,7 @@ Pour le superlatif d'un adjectif, l'article défini s'accorde en genre et en nom
 | *adjectif après le nom* | C'est **la** solution **la plus raisonnable** compte tenu de nos moyens et de nos opportunités. | Astérix est **le** personnage **le moins sexy de** la série. |
 | *adjectif devant le nom* | C'est **le plus beau** jour **de** ma vie. | Il n'empêche qu'il nous faut maintenant adopter **la moins mauvaise** solution. |
 
-Notez que le nom peut être marqué par un déterminant possessif (**mon**, **ma**, **mes**, etc.) au lieu de l'article défini. Si l'adjectif suit le nom, l'article défini sera toujours mis devant **plus/moins**&nbsp;:
+Notez que le nom peut être marqué par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> possessif (**mon**, **ma**, **mes**, etc.) au lieu de l'article défini. Si l'adjectif suit le nom, l'article défini sera toujours mis devant **plus/moins**&nbsp;:
 
 {% include callout.html content="C'est probablement **sa** plus grande réussite.<br/><br/>Il jette **ses** habits **les** plus moches." type="primary" %}
 

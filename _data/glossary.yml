@@ -10,6 +10,8 @@ antecedent: "Antecedent: the thing that a pronoun refers to or replaces [Ex: *La
 
 article: "Article: a short determiner that simply expresses whether a noun is definite (le) or indefinite (un/du)"
 
+attribut-du-sujet: "Predicate adjective: an adjective linked to the subject by an attributive verb like être [Ex: Il est *grand*.]"
+
 auxiliaire: "Auxiliary: the verb être or avoir used in combination with a past participle in a compound tense [Ex: j'*ai* fait]"
 
 complement-direct: "Direct object: something affected by a verb's action, unmarked by a preposition [Ex: Je mange *la pomme*]"

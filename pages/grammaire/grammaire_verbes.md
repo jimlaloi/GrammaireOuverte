@@ -10,17 +10,17 @@ folder: grammaire
 ## Introduction
 Le langage est divisé en *énoncés* --- des séquences de mots séparées (à l'oral) par une pause ou (à l'écrit) par un point (d'interrogation, d'exclamation...). Un énoncé accomplit une *acte de langage*. C'est-à-dire qu'on produit un énoncé pour faire quelque chose --- pour déclarer, pour interroger, pour remercier, pour féliciter, pour saluer, etc. On peut accomplir certaines actes de langage en très peu de mots&nbsp;: par exemple, on peut remercier en disant simplement « Merci ». Mais pour la plupart des actes de langage, on doit utiliser une *phrase*.
 
-Une phrase évoque une situation. Le *verbe* est l'élément de la phrase qui indique le type de situation (qui peut être une action comme *parler*, un état comme *être*, une relation comme *avoir*...). D'autres éléments de la phrase font référence à des participants dans la situation. Le *sujet* est le participant principal (souvent celui qui fait l'action). S'il y a d'autres participants dans la situation, elles sont évoquées par des *compléments* au verbe. La phrase peut aussi comporter d'autres éléments qui décrivent des aspects de la situation comme le lieu, le temps, ou la manière.
+Une phrase évoque une situation. Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> est l'élément de la phrase qui indique le type de situation (qui peut être une action comme *parler*, un état comme *être*, une relation comme *avoir*...). D'autres éléments de la phrase font référence à des participants dans la situation. Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> est le participant principal (souvent celui qui fait l'action). S'il y a d'autres participants dans la situation, elles sont évoquées par des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">compléments</a> au verbe. La phrase peut aussi comporter d'autres éléments qui décrivent des aspects de la situation comme le lieu, le temps, ou la manière.
 
 {% include image.html file="verbes_partiesPrincipalesDeLaPhrase.png" alt="Les parties principales de la phrase" caption="Les parties principales de la phrase" max-width=400 %}
 
 Dans la phrase *La journaliste prend quelques photos*, le verbe indique le type de situation (une situation où on *prend* quelque chose), et le sujet et le complément font référence aux participants (la journaliste et les photos). La *valence* d'un verbe détermine le type de complément(s) qu'il prend et le type de sujet qu'il peut avoir.
 
-Mais ce verbe (*prend*) fournit d'autres informations en plus du type de situation. Le verbe est *conjugué* --- c'est-à-dire que sa forme reflète les informations suivantes&nbsp;:
+Mais ce verbe (*prend*) fournit d'autres informations en plus du type de situation. Le verbe est <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> --- c'est-à-dire que sa forme reflète les informations suivantes&nbsp;:
 + *le mode* (cette situation est déclarée comme réelle)
 + *le temps* (cette situation est au présent)
 + *le nombre* (le sujet est singulier)
-+ *la personne* (le sujet n'est pas la personne qui dit la phrase, ni la personne à qui la phrase est addressée, mais une troisième personne)
++ *la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personne</a>* (le sujet n'est pas la personne qui dit la phrase, ni la personne à qui la phrase est addressée, mais une troisième personne)
 
 On peut toujours reconnaître un verbe par sa capacité d'être conjugué --- de changer sa forme pour refléter ces informations. Dans certaines situations, la conjugaison peut refléter d'autres informations comme *le genre* (si le sujet est masculin ou féminin) et *l'aspect* (comment la situation se déroule au fil du temps).
 
@@ -30,7 +30,7 @@ La valence d'un verbe détermine le nombre de participants (le sujet et le(s) co
 
 ### les verbes transitifs
 
-Les verbes transitifs ont un *complément direct*, c'est-à-dire un complément qui n'est pas marqué par une préposition. Le complément direct est parfois appelé *objet direct*.
+Les verbes transitifs ont un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>, c'est-à-dire un complément qui n'est pas marqué par une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a>. Le complément direct est parfois appelé *objet direct*.
 
 {% include callout.html content="Hubert **écrit** <ins>un poème</ins>, l'air inspiré." type="primary" %}
 
@@ -40,7 +40,7 @@ Les verbes intransitifs n'ont pas de complément direct.
 
 {% include callout.html content="De toute façon, quand je **rêve**, je **ronfle**." type="primary" %}
 
-Néanmoins, beaucoup de verbes intransitifs prennent un *complément oblique*, parfois appelé *complément indirect* ou *objet indirect*. La différence entre un complément direct et un complément oblique est qu'un complément oblique doit être marqué par une préposition. Le choix de ce marqueur (typiquement *à*, mais parfois *de*, *en*, *pour*, etc.) dépend de la valence du verbe individuel (voir [prépositions](/grammaire_prépositions.html)).
+Néanmoins, beaucoup de verbes intransitifs prennent un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a>, parfois appelé *complément indirect* ou *objet indirect*. La différence entre un complément direct et un complément oblique est qu'un complément oblique doit être marqué par une préposition. Le choix de ce marqueur (typiquement *à*, mais parfois *de*, *en*, *pour*, etc.) dépend de la valence du verbe individuel (voir [prépositions](/grammaire_prépositions.html)).
 
 {% include callout.html content="Vous allez **répondre** <ins>à toutes les questions</ins>&nbsp;?<br/><br/>Je ne sais même pas si ma mère **s'aperçoit** <ins>de ma présence</ins>." type="primary" %}
 
@@ -56,7 +56,7 @@ Beaucoup de verbes peuvent être transitifs ou intransitifs selon la phrase. Com
 
 ### les verbes attributifs
 
-Les *copules* sont des verbes avec un complément spécial --- *l'attribut du sujet*. L'attribut du sujet n'est pas un participant dans la situation, mais un modificateur du sujet. L'attribut du sujet peut être un adjectif ou un autre mot (ou groupe de mots) qui décrit le sujet. Les verbes qui peuvent avoir un attribut du sujet incluent *être*, *sembler*, *paraître*, et *devenir*.
+Les verbes attributifs (aussi appelés *copules*) sont des verbes avec un complément spécial --- l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.attribut-du-sujet}}">attribut du sujet</a>. L'attribut du sujet n'est pas un participant dans la situation, mais un modificateur du sujet. L'attribut du sujet peut être un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a> ou un autre mot (ou groupe de mots) qui décrit le sujet. Les verbes qui peuvent avoir un attribut du sujet incluent *être*, *sembler*, *paraître*, et *devenir*.
 
 {% include callout.html content="Elle **est** tout le temps <ins>sur son portable</ins>.<br/><br/>La méthode **semble** <ins>efficace</ins>." type="primary" %}
 
@@ -66,17 +66,17 @@ D'autres verbes prennent un complément direct et un *attribut du complément* q
 
 ### les verbes impersonnels
 
-Certains verbes n'ont pas de sujet dans leur valence. Ils ont donc comme sujet un pronom sans antécédent (typiquement *il*). Ce sujet impersonnel satisfait à la nécessité grammaticale d'avoir un sujet pour le verbe sans faire référence à un sujet réel.
+Certains verbes n'ont pas de sujet dans leur valence. Ils ont donc comme sujet un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> sans <a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a> (typiquement *il*). Ce sujet impersonnel satisfait à la nécessité grammaticale d'avoir un sujet pour le verbe sans faire référence à un sujet réel.
 
 Beaucoup de ces verbes ont un sens météorologique (*pleuvoir*, *neiger*, *faire chaud*/*beau*/*froid*, *faire du brouillard*/*vent*/*soleil* etc.).
 
 {% include callout.html content="Attention, **il** pleut un peu partout." type="primary" %}
 
-Le verbe **falloir** n'existe qu'à la forme impersonnelle et exprime la nécessité ou l'obligation. **Falloir** peut prendre comme complément direct un infinitif, un nom, ou une proposition subordonnée introduite par *que* ; notez que le verbe dans la proposition subordonnée requiert le mode subjonctif. Falloir peut aussi prendre un complément oblique indiquant *pour qui* quelque chose est nécessaire.
+Le verbe **falloir** n'existe qu'à la forme impersonnelle et exprime la nécessité ou l'obligation. **Falloir** peut prendre comme complément direct un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.term}}">infinitif</a>, un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a>, ou une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> introduite par *que* ; notez que le verbe dans la phrase subordonnée requiert le mode <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a>. Falloir peut aussi prendre un complément oblique indiquant *pour qui* quelque chose est nécessaire.
 
-{% include callout.html content="Il **faut que** je te dise quelque chose. [*falloir que* + proposition]<br/><br/>Il **faut** une sanction rapide et systématique. [*falloir* + nom]<br/><br/>Il **faut** agir dès à présent. [*falloir* + infinitif]<br/><br/>Il **nous faut** choisir une autre stratégie. [complément oblique + *falloir* + infinitif]" type="primary" %}
+{% include callout.html content="Il **faut que** je te dise quelque chose. [*falloir que* + subordonnée]<br/><br/>Il **faut** une sanction rapide et systématique. [*falloir* + nom]<br/><br/>Il **faut** agir dès à présent. [*falloir* + infinitif]<br/><br/>Il **nous faut** choisir une autre stratégie. [complément oblique + *falloir* + infinitif]" type="primary" %}
 
-Le sujet impersonnel **il** est aussi utilisé dans les constructions suivantes&nbsp;:
+Le sujet impersonnel **il** est aussi utilisé dans les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">constructions</a> suivantes&nbsp;:
 
 + *Il* + *être* + [adjectif] + *de* + [infinitif]
 
@@ -104,11 +104,11 @@ Le sujet impersonnel **il** est aussi utilisé dans les constructions suivantes&
 
 La plupart des verbes peuvent entrer dans des constructions spéciales qui changent leur valence.
 
-**La construction passive** met le complément direct en position du sujet. Le sujet peut être omis ou peut venir après le verbe marqué par la préposition *par*. Le verbe prend la forme du participe passé et est précédé par le verbe *être*.
+**La construction passive** met le complément direct en position du sujet. Le sujet peut être omis ou peut venir après le verbe marqué par la préposition *par*. Le verbe prend la forme du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> et est précédé par le verbe *être*.
 
 {% include callout.html content="Construction active&nbsp;: Les chanteurs **craignent** <ins>le froid et l'humidité</ins>.<br/><br/>Construction passive&nbsp;: <ins>Le froid et l'humidité</ins> **sont craints par** les chanteurs." type="primary" %}
 
-Notez que le participe passé s'accorde toujours en nombre et en genre avec le sujet.
+Notez que le participe passé s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorde</a> toujours en nombre et en genre avec le sujet.
 
 {% include callout.html content="Il faut que les oeufs **soient battus** et que la crème **soit battue**." type="primary" %}
 
@@ -127,7 +127,7 @@ Seuls les verbes transitifs peuvent entrer dans les constructions passive et mé
 
 La forme d'un verbe change pour situer l'action (en mode, en temps, et en aspect) et pour s'accorder avec le sujet (en personne et en nombre). Le participe passé du verbe peut aussi s'accorder avec un sujet ou avec un complément direct en genre et en nombre.
 
-La conjugaison d'un verbe est *régulière* si sa *terminaison* varie selon un schéma et son *radical* (la partie du verbe qui reste si on enlève la terminaison) ne change pas.
+La conjugaison d'un verbe est *régulière* si sa <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaison</a> varie selon un schéma et son <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> (la partie du verbe qui reste si on enlève la terminaison) ne change pas.
 
 Les verbes réguliers du français se répartissent en trois classes basées sur les deux dernières lettres du verbe. Chaque classe a un modèle particulier de conjugaison.
 
@@ -136,7 +136,7 @@ Les verbes réguliers du français se répartissent en trois classes basées sur
 + 3ème conjugaison (verbes *-re*) --- *vendre*, *entendre*, etc.
 
 ### mode
-Le mode d'un verbe indique sa relation avec la réalité. Il existe six modes en français&nbsp;: **l'indicatif**, **le subjonctif**, **le conditionnel**, **l'impératif**, **l'infinitif**, et **le participe**. La conjugaison selon un temps est indépendant du mode, et chaque mode peut être conjugué à des temps différents.
+Le mode d'un verbe indique sa relation avec la réalité. Il existe six modes en français&nbsp;: **l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>**, **le subjonctif**, **le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conditionnel}}">conditionnel</a>**, **l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a>**, **l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>**, et **le participe**. La conjugaison selon un temps est indépendant du mode, et chaque mode peut être conjugué à des temps différents.
 
 **L'indicatif** indique qu'une situation existe dans la réalité.
 
@@ -146,7 +146,7 @@ L'indicatif est utilisé par défaut. Si un contexte ne requiert pas un autre mo
 
 {% include callout.html content="L'unicorne ne **se laisse** prendre que par une pucelle.<br/><br/>Ah oui, c'est l'employeur qui **va** payer&nbsp;?" type="primary" %}
 
-**Le subjonctif** indique qu'une situation existe dans l'attitude du locuteur --- par exemple, que le locuteur veut la situation, doute la situation, éprouve un sentiment envers la situation, voit la situation comme nécessaire, etc. Le subjonctif est typiquement utilisé dans une proposition subordonnée à une proposition principale qui décrit cette attitude.
+**Le subjonctif** indique qu'une situation existe dans l'attitude du locuteur --- par exemple, que le locuteur veut la situation, doute la situation, éprouve un sentiment envers la situation, voit la situation comme nécessaire, etc. Le subjonctif est typiquement utilisé dans une phrase qui est subordonnée à une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a> qui décrit cette attitude.
 
 {% include callout.html content="Il faut qu'il **prenne** son médicament ." type="primary" %}
 
@@ -162,16 +162,16 @@ L'indicatif est utilisé par défaut. Si un contexte ne requiert pas un autre mo
 
 {% include callout.html content="Les personnes âgées aiment bien **prendre** des médicaments ." type="primary" %}
 
-**Le participe** se manifeste en deux formes&nbsp;: le participe présent et le participe passé. Le participe partage certaines caractéristiques avec les adjectifs, car il est souvent capable de modifier les noms.
+**Le participe** se manifeste en deux formes&nbsp;: le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participe présent</a> et le participe passé. Le participe partage certaines caractéristiques avec les adjectifs, car il est souvent capable de modifier les noms.
 
 {% include callout.html content="En **prenant** 4 comprimés par jour j'ai perdu 3,4 kilos en 3 semaines. (participe présent)<br/><br/>Ces médicaments sont normalement **pris** une fois toutes les 24 heures. (participe passé)" type="primary" %}
 
 ### temps
-Le temps désigne le moment où se produit l'action du verbe&nbsp;: passé, présent, futur. Le cadre temporel d'une action est généralement établi en se référant au moment présent ; par exemple, le passé composé et le futur sont respectivement passé et futur par rapport au présent.
+Le temps désigne le moment où se produit l'action du verbe&nbsp;: passé, présent, futur. Le cadre temporel d'une action est généralement établi en se référant au moment présent ; par exemple, le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a> et le futur sont respectivement passé et futur par rapport au présent.
 
-Cependant, certains temps établissent leur cadre temporel en se référant à un point de référence dans le passé ou dans le futur. Par exemple, le plus-que-parfait indique une action passée qui s'est produite avant la fin d'une autre action passée. Le futur antérieur indique une action future qui aura eu lieu avant une autre action future. Les actions qui se produisent avant un point de référence passé ou futur sont décrites comme étant *antérieures*.
+Cependant, certains temps établissent leur cadre temporel en se référant à un point de référence dans le passé ou dans le futur. Par exemple, le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.plus-que-parfait}}">plus-que-parfait</a> indique une action passée qui s'est produite avant la fin d'une autre action passée. Le futur antérieur indique une action future qui aura eu lieu avant une autre action future. Les actions qui se produisent avant un point de référence passé ou futur sont décrites comme étant *antérieures*.
 
-La forme d'une conjugaison peut être un *temps simple*, en un mot (par ex. l'imparfait, le futur simple), ou un *temps composé*, avec un auxiliaire et le participe passé (par ex. le passé composé, le futur antérieur). Il y a aussi le futur périphrastique, qui est un temps composé du verbe *aller* et l'infinitif.
+La forme d'une conjugaison peut être un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-simple}}">temps simple</a>, en un mot (par ex. l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>, le futur simple), ou un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composé</a>, avec un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> et le participe passé (par ex. le passé composé, le futur antérieur). Il y a aussi le futur périphrastique, qui est un temps composé du verbe *aller* et l'infinitif.
 
 Voici toutes les conjugaisons verbales (sauf l'infinitif et les participes) catégorisées par temps&nbsp;:
 
@@ -205,7 +205,7 @@ Une situation à l'aspect perfectif est présentée dans sa totalité. L'aspect 
 
 Une situation à l'aspect imperfectif est présentée comme ayant une complexité interne. L'aspect est imperfectif si la situation est continue, répétée, ou habituelle.
 
-Au présent et au futur, l'aspect peut être indiqué par le contexte mais n'est pas indiqué par la forme du verbe. Au passé, par contre, des conjugaisons différentes sont associées à ces deux aspects. Si une situation au passé est présentée comme perfective, le verbe sera normalement conjugué au passé composé (ou au passé simple/passé du subjonctif). Si une situation au passé est présentée comme imperfective, le verbe sera normalement conjugué à l'imparfait (ou à l'imparfait du subjonctif). Aux temps antérieurs comme le plus-que-parfait, l'aspect est perfectif par définition.
+Au présent et au futur, l'aspect peut être indiqué par le contexte mais n'est pas indiqué par la forme du verbe. Au passé, par contre, des conjugaisons différentes sont associées à ces deux aspects. Si une situation au passé est présentée comme perfective, le verbe sera normalement conjugué au passé composé (ou au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-simple}}">passé simple</a>/passé du subjonctif). Si une situation au passé est présentée comme imperfective, le verbe sera normalement conjugué à l'imparfait (ou à l'imparfait du subjonctif). Aux temps antérieurs comme le plus-que-parfait, l'aspect est perfectif par définition.
 
 Considérez les verbes à l'imparfait dans l'exemple suivant. Les actions décrites par *pleuvait* et *brillaient* n'ont ni un début ni une fin, mais sont continues.
 

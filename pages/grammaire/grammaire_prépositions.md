@@ -8,13 +8,13 @@ folder: grammaire
 ---
 
 ## Introduction
-Une préposition établit une relation entre deux parties d'une phrase, le plus souvent des noms et des verbes. Cette relation peut être...
+Une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> établit une relation entre deux parties d'une phrase, le plus souvent des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">noms</a> et des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbes</a>. Cette relation peut être...
 + spatiale (*L'assiette est **sur** la table*)
 + temporelle (*La réception est **après** le mariage*)
 + conceptuelle (*Il le fait **pour** elle*)
 + purement grammaticale (*Elle oublie **de** fermer la porte*)
 
-Une préposition a un argument externe (qui le précède typiquement) et un complément (qui le suit typiquement). Dans ce sens, une préposition est similaire à un verbe transitif, qui a un sujet et un complément direct.
+Une préposition a un argument externe (qui le précède typiquement) et un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a> (qui le suit typiquement). Dans ce sens, une préposition est similaire à un verbe transitif, qui a un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> et un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>.
 
 {% include image.html file="prépositions_arguments.png" alt="Les arguments des prépositions et des verbes transitifs" caption="Les arguments des prépositions et des verbes transitifs" %}
 
@@ -34,7 +34,7 @@ Les prépositions **de** et **à** font des formes amalgamées devant **le** et 
 + *à* + *le* = **au**
 + *à* + *les* = **aux**
 
-Devant l'article défini avec la forme **la** ou **l'**, ces prépositions ne changent pas.
+Devant l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> défini avec la forme **la** ou **l'**, ces prépositions ne changent pas.
 
 {% include information.html content="**Du**, sans accent circonflexe, est un article indéfini ou la forme amalgamée de la préposition *de* avec l'article défini *le*. **Dû**, avec l'accent circonflexe, est le participe passé du verbe *devoir*." %}
 
@@ -57,7 +57,7 @@ Ne confondez pas **sous** 'under', **en-dessous (de)** 'below, underneath', **su
 {% include information.html content="**Sur**, sans accent circonflexe, est une préposition qui veut dire 'on'. **Sûr**, avec l'accent circonflexe, est un adjectif qui veut dire 'sure' (Notez l'accent dans l'expression *bien sûr*)." %}
 
 ### lieux géographiques
-Les lieux géographiques désignés par un nom propre (les continents, les pays, les états/régions/provinces, et les villes) suivent des règles particulières pour le choix de préposition. Il y a une série de prépositions pour dire qu'on est dans un lieu ou qu'on va vers un lieu, et une autre série pour dire qu'on vient d'un lieu.
+Les lieux géographiques désignés par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-propre}}">nom propre</a> (les continents, les pays, les états/régions/provinces, et les villes) suivent des règles particulières pour le choix de préposition. Il y a une série de prépositions pour dire qu'on est dans un lieu ou qu'on va vers un lieu, et une autre série pour dire qu'on vient d'un lieu.
 
 | **lieu géographique** | **'to/in'** | **'from'** | 
 | villes (sans article) | *à Paris* | *de Paris* |
@@ -71,7 +71,7 @@ Il est généralement possible de savoir le genre d'un pays (ou d'une région, d
 
 {% include variation.html content="En français européen, et surtout à Paris et dans d'autres milieux urbains, certains locuteurs utilisent d'autres prépositions à la place de **à** devant les villes pour apporter une nuance de sens. *Sur Paris* peut indiquer non seulement la ville de Paris mais aussi ses banlieues. *Sur Paris* peut aussi indiquer quelque chose comme « partout à Paris » ou « n'importe où à Paris ». Pour spécifier une ville *sans* ses banlieues, on peut dire *dans Paris* ou *Paris même*." %}
 
-Pour faire référence tout simplement à un lieu géographique, utilisez un déterminant plutôt qu'une préposition&nbsp;: *J'aime la France*; *L'Asie est un grand continent*. Les villes n'ont généralement pas d'article (*J'adore Paris*), avec quelques exceptions en France (*le Havre*, *la Rochelle*, *le Mans*) et dans d'autres pays (*le Caire*, *le Cap*, *la Haye*). Alors que les pays et les états/régions/provinces ont généralement un article, il y a certains pays qui font exception&nbsp;: Bahreïn, Djibouti, Israël, Monaco, et Oman. On dit donc *J'adore Monaco*, sans article.
+Pour faire référence tout simplement à un lieu géographique, utilisez un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> plutôt qu'une préposition&nbsp;: *J'aime la France*; *L'Asie est un grand continent*. Les villes n'ont généralement pas d'article (*J'adore Paris*), avec quelques exceptions en France (*le Havre*, *la Rochelle*, *le Mans*) et dans d'autres pays (*le Caire*, *le Cap*, *la Haye*). Alors que les pays et les états/régions/provinces ont généralement un article, il y a certains pays qui font exception&nbsp;: Bahreïn, Djibouti, Israël, Monaco, et Oman. On dit donc *J'adore Monaco*, sans article.
 
 Les îles, qu'elles soient des pays, des régions, des provinces, ou des états, présentent des complexités pour la présence de l'article et pour le choix de préposition. Certaines îles suivent le schéma typique&nbsp;: *J'aime la Corse*, *Je suis en Corse*. Mais d'autres îles, surtout celles qui sont petites (Jersey, Malte, Chypre) et/ou loin de France (Cuba, Hawaï, Madagascar, Tahiti, Terre-Neuve), n'ont pas d'article et prennent les mêmes prépositions que les villes&nbsp;: *J'aime Hawaï*, *Je suis à Madagascar*.
 
@@ -101,7 +101,7 @@ Les saisons sont marquées par **en** (*en automne*, *en hiver*, *en été*) ou 
 
 **De** est utilisé dans quelques expressions temporelles&nbsp;: *de nos jours*, *de mon temps*.
 
-**Avant** et **après** peuvent prendre un complément nominal ou verbal. Le complément verbal d'**avant** est à l'infinitif et reçoit le marqueur *de*&nbsp;: **avant de + infinitif** ('before doing'). Le complément verbal d'**après** est à l'infinitif passé et n'a pas de marqueur&nbsp;: **après avoir/être + participe passé** ('after doing, after having done'). Notez l'accord du participe passé dans les constructions passées avec **être**.
+**Avant** et **après** peuvent prendre un complément nominal ou verbal. Le complément verbal d'**avant** est à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a> et reçoit le marqueur *de*&nbsp;: **avant de + infinitif** ('before doing'). Le complément verbal d'**après** est à l'infinitif passé et n'a pas de marqueur&nbsp;: **après avoir/être + <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>** ('after doing, after having done'). Notez l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> du participe passé dans les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">constructions</a> passées avec **être**.
 
 {% include callout.html content="J'irai demain matin **avant** les cours, on verra bien.<br/><br/>Il a été chirurgien **avant d'être** nutritionniste.<br/><br/>Les voisins d'en face, ils ont déménagé il y a six mois, **après** leur divorce.<br/><br/>Vous pouvez éteindre la télévision **après avoir regardé** *Télématin*.<br/><br/>Je n'aurais jamais imaginé que tu serais encore dans le théâtre six mois **après être sortie** du conservatoire." type="primary" %}
 
@@ -115,11 +115,11 @@ Pour parler de la durée d'une action, utilisez **pendant** ('for').
 
 {% include information.html content="Pour désigner la durée d'un évènement futur avec les verbes **partir**, **venir** et **(s'en) aller**, on utilise la préposition **pour** au lieu de *pendant*&nbsp;: *Lucie <ins>vient</ins> demain **pour** quelques jours.*" %}
 
-Si une action (ou une inaction, si le verbe est au négatif) a commencé dans le passé et continue jusqu'au présent, on peut utiliser **depuis + espace de temps** ('for') ou **depuis + moment dans le passé où l'action a commencé** ('since'). Si le complément est une proposition, utilisez **depuis que**.
+Si une action (ou une inaction, si le verbe est au négatif) a commencé dans le passé et continue jusqu'au présent, on peut utiliser **depuis + espace de temps** ('for') ou **depuis + moment dans le passé où l'action a commencé** ('since'). Si le complément est une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a>, utilisez **depuis que**.
 
 {% include callout.html content="Je ne reçois plus rien **depuis** deux mois.<br/><br/>Le nombre de sans-abri a presque doublé **depuis** 2001.<br/><br/>Par contre, ça va mieux **depuis que** j'ai repris un peu de poids." type="primary" %}
 
-{% include information.html content="Ne confondez pas *depuis* 'since', qui a un sens temporel, avec *puisque* ou *comme* 'since', qui introduisent une proposition subordonnée&nbsp;: ***Comme** ils parlaient italien, je ne suis pas sûre d'avoir tout bien compris.*" %}
+{% include information.html content="Ne confondez pas *depuis* 'since', qui a un sens temporel, avec *puisque* ou *comme* 'since', qui introduisent une phrase subordonnée&nbsp;: ***Comme** ils parlaient italien, je ne suis pas sûre d'avoir tout bien compris.*" %}
 
 Dans une question, **depuis** est généralement traduit par « how long » ou « since when ». Dans la plupart des cas, on répond à de telles questions soit par l'expression de la durée, soit par le point de départ.
 
@@ -129,9 +129,9 @@ On peut aussi exprimer la durée d'une action avec la construction **il y a/ça 
 
 {% include callout.html content="**Ça fait** longtemps **que** je ne les ai pas vus.<br/><br/>**Voilà** un an **que** nous sommes séparés.<br/><br/>**Il y a** combien de temps **que** t'as pas vu ton mec&nbsp;?" type="primary" %}
 
-{% include information.html content="Bien qu'**il y a ... que** et **ça fait ... que** se retrouvent occasionnellement dans le futur (**il y aura ... que**, **ça fera ... que**), la proposition subordonnée introduite par **que** n'est jamais dans le futur. Par exemple&nbsp;: *Dans quelques mois, **ça fera** 50 ans **que** je <ins>suis</ins> à la télévision.*" %}
+{% include information.html content="Bien qu'**il y a ... que** et **ça fait ... que** se retrouvent occasionnellement dans le futur (**il y aura ... que**, **ça fera ... que**), la phrase subordonnée introduite par **que** n'est jamais dans le futur. Par exemple&nbsp;: *Dans quelques mois, **ça fera** 50 ans **que** je <ins>suis</ins> à la télévision.*" %}
 
-On peut utiliser ces constructions à l'imparfait pour parler d'une action qui continuait jusqu'à un moment dans le passé&nbsp;:
+On peut utiliser ces constructions à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a> pour parler d'une action qui continuait jusqu'à un moment dans le passé&nbsp;:
 
 | **action qui continuait jusqu'à...** | **...un moment dans le passé** |
 | J'**étais** sobre **depuis** 3 mois  | quand j'ai commencé les groupes de parole. |
@@ -161,7 +161,7 @@ La plupart des expressions idiomatiques avec **avoir** nécessitent également *
 
 ### nom/adj [prép] verbe
 
-Beaucoup de noms et d'adjectifs peuvent prendre un complément verbal à l'infinitif, qui est généralement marqué par la préposition **de**.
+Beaucoup de noms et d'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectifs</a> peuvent prendre un complément verbal à l'infinitif, qui est généralement marqué par la préposition **de**.
 
 {% include callout.html content="J'étais **incapable de** changer certaines choses dans ma vie.<br/><br/>Il est **temps de** rentrer à l'appartement.<br/><br/>Il n'avait pas les **moyens de** faire la guerre." type="primary" %}
 
@@ -174,13 +174,13 @@ Quand un nom prend comme complément un autre nom, ce complément est marqué pa
 
 {% include variation.html content="Alors que la règle générale dit que les compléments nominaux d'un nom sont marqués par **de**, beaucoup de locuteurs préfèrent la préposition **en** devant certaines matières (*coton*, *soie*, *cuir* etc.). C'est surtout commun pour le mot *or* (*une bague <ins>en</ins> or*)." %}
 
-Si un pronom indéfini (*quelqu'un*, *quelque chose*, *personne*, *rien*) est modifié par un adjectif, l'adjectif est invariable et marqué par **de**.
+Si un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> indéfini (*quelqu'un*, *quelque chose*, *personne*, *rien*) est modifié par un adjectif, l'adjectif est invariable et marqué par **de**.
 
 {% include callout.html content="Il n'y a rien **de** nouveau.<br/><br/>On va faire quelque chose **de** fabuleux." type="primary" %}
 
 ### verbe [prép] nom
 
-Lorsqu'un verbe prend un complément nominal, le marqueur sur le complément dépend de son type. Les compléments directs n'ont pas de marqueur, et le marqueur des compléments obliques est généralement **à**.
+Lorsqu'un verbe prend un complément nominal, le marqueur sur le complément dépend de son type. Les compléments directs n'ont pas de marqueur, et le marqueur des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">compléments obliques</a> est généralement **à**.
 
 {% include callout.html content="Ma chérie, je dois téléphoner **à maman**.<br/><br/>Je vais donner l'ordre **à mes troupes** de battre en retraite." type="primary" %}
 
@@ -206,7 +206,7 @@ Certains verbes peuvent avoir un complément oblique marqué par une autre prép
 
 ## Observations sur quelques prépositions
 
-La préposition **à cause de** est suivie d'un nom, alors que la conjonction **parce que** est suivie d'une proposition subordonnée.
+La préposition **à cause de** est suivie d'un nom, alors que la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> **parce que** est suivie d'une phrase subordonnée.
 
 {% include callout.html content="Ces personnes ont eu un problème cardiaque **à cause du** cholestérol." type="primary" %}
 
@@ -214,7 +214,7 @@ Les prépositions **avec**, **par**, et **sans** peuvent prendre un complément 
 
 {% include callout.html content="La scène est coupée en deux **par une** cloison **avec une** porte.<br/><br/>On y vient **par** plaisir et **par** curiosité .<br/><br/>Nous l'avons fait **avec** humilité et pragmatisme.<br/><br/>Nous ne pouvons pas partir **sans les** enfants.<br/><br/>C'est **sans** doute ce qui a créé de la jalousie." type="primary" %}
 
-Tout complément verbal d'une préposition doit être à l'infinitif (présent ou passé). La seule exception est la préposition **en**, qui peut prendre comme complément un participe présent.
+Tout complément verbal d'une préposition doit être à l'infinitif (présent ou passé). La seule exception est la préposition **en**, qui peut prendre comme complément un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participe présent</a>.
 
 {% include callout.html content="Il me fait signe de le suivre **sans faire** de bruit.<br/><br/>Dreyfus finit **par être** gracié puis réhabilité en 1906.<br/><br/>Instituteur le matin, il complète ses fins de mois **en vendant** des chaussures." type="primary" %}
 

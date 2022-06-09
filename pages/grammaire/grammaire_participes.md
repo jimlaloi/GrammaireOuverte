@@ -40,7 +40,7 @@ Seuls trois verbes, **être**, **avoir** et **savoir**, ont des participes prés
 
 ### emplois
 
-Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une proposition relative avec **qui + verbe conjugué** soit à une proposition relative avec **puisque**.
+Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une phrase relative avec **qui + verbe conjugué** soit à une phrase subordonnée avec **puisque**.
 
 {% include callout.html content="Le pain de Gênes est un gâteau à pâte assez dense, **contenant** des amandes pilées. (*qui contient...*)<br/><br/>Enfin, la loi **étant** inapplicable ca créé de nombreuses inégalitées devant la justice. (*puisque la loi est inapplicable...*)" type="primary" %}
 

@@ -15,7 +15,7 @@ Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}
 
 Notez que dans le premier exemple ci-dessus, *philosophique* et *importante* sont des adjectifs car ils modifient le nom *question*, mais *extrêmement* est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a> car il modifie l'adjectif *importante*.
 
-Un adjectif peut aussi apparaître comme *prédicat du sujet*, séparé du nom ou pronom qu'il modifie par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>.
+Un adjectif peut aussi apparaître comme <a data-toggle="tooltip" data-original-title="{{site.data.glossary.attribut-du-sujet}}">attribut du sujet</a>, séparé du nom ou pronom qu'il modifie par *être* ou un autre <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> attributif.
 
 {% include callout.html content="Ils semblent **capables** de survivre à tant de choses." type="primary" %}
 

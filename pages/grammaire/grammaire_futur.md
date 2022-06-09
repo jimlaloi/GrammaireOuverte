@@ -122,11 +122,11 @@ Voici les verbes les plus courants qui ont un radical irrégulier au futur&nbsp;
 
 Le futur simple, comme le futur périphrastique, exprime qu'une situation aura lieu dans l'avenir. Le futur simple apparaît plus souvent à l'écrit et dans un registre plutôt formel, car il est souvent remplacé au registre familier par le futur périphrastique. Néanmoins, le futur simple est utilisé même dans la conversation informelle de temps en temps.
 
-Le futur est nécessaire dans des propositions subordonnées commençant par **dès que**, **aussitôt que**, **lorsque** et **quand**. Notez que les équivalents anglais sont typiquement suivis du présent&nbsp;:
+Le futur est nécessaire dans des phrases subordonnées commençant par **dès que**, **aussitôt que**, **lorsque** et **quand**. Notez que les équivalents anglais sont typiquement suivis du présent&nbsp;:
 
 {% include callout.html content="Ne vous inquiétez pas, vous **comprendrez dès que** nous **serons** sur place. (*Don't worry, you will understand as soon as we **are** there.*)<br/><br/>On y **reviendra aussitôt que** je **pourrai** me libérer. (*We will come back as soon as I **can** get free.*)<br/><br/>Le procès **pourra** commencer **lorsque** tout le monde **sera** debout. (*The trial will be able to begin when everyone **is** standing.*)<br/><br/>Tu **feras** quoi **quand** ton contrat **sera** fini&nbsp;? (*What will you do when your contract **is** finished&nbsp;?*)" type="primary" %}
 
-L'action dans la proposition subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la proposition principale. Le futur périphrastique apparaît parfois après ces conjonctions, mais le futur simple est plus commun dans ce contexte.
+L'action dans la phrase subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la phrase principale. Le futur périphrastique apparaît parfois après ces conjonctions, mais le futur simple est plus commun dans ce contexte.
 
 ## Futur antérieur
 

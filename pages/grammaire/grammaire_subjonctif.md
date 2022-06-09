@@ -205,7 +205,7 @@ Rappelons que beaucoup de ces expressions peuvent prendre comme complément dire
 
 Un complément qui est une phrase subordonnée sera généralement marqué par **que** (ou **ce que** si c'est un complément oblique). Un complément qui est un infinitif sera marqué par **de**, une autre préposition, ou rien du tout, selon la valence du mot (voir [Prépositions](/grammaire_prépositions.html#marqueurs)).
 
-Certaines conjonctions ne peuvent pas prendre un complément infinitif et ont donc toujours une phrase subordonnée au subjonctif comme complément, même si le sujet reste le même de la proposition principale à la proposition subordonnée. Ces quatre conjonctions sont **bien que**, **quoique**, **pourvu que**, **jusqu'à ce que**.
+Certaines conjonctions ne peuvent pas prendre un complément infinitif et ont donc toujours une phrase subordonnée au subjonctif comme complément, même si le sujet reste le même de la phrase principale à la phrase subordonnée. Ces quatre conjonctions sont **bien que**, **quoique**, **pourvu que**, **jusqu'à ce que**.
 
 {% include callout.html content="Ils adoptent alors un comportement violent pendant leur sommeil, **bien qu'**ils **soient** calmes et gentils pendant la journée.<br/><br/>Je souscris à cette proposition, **quoique** je **trouve** cet intitulé un tout petit peu restrictif.<br/><br/>Il peut venir avec nous, **pourvu qu'**il se **tienne** tranquille.<br/><br/>On doit les interdire **jusqu'à ce qu'**on en **sache** davantage." type="primary" %}
 
@@ -234,7 +234,7 @@ Certains emplois idiomatiques de cette construction n'ont pas de **que** devant 
 ## Moyens d'éviter le subjonctif
 Alors que le subjonctif est utilisé fréquemment en français, de nombreuses constructions alternatives sont également utilisées à sa place.
 
-De nombreuses expressions qui requièrent le subjonctif peuvent être modifiées et complétées par des propositions infinitives à la place. Notez que la construction infinitive élimine le sujet de la phrase subordonnée originale.
+De nombreuses expressions qui requièrent le subjonctif peuvent être complétées par des infinitifs à la place. Notez que la construction infinitive élimine le sujet de la phrase subordonnée originale.
 
 | subjonctif | infinitif |
 |---|---|

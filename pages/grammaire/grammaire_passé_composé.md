@@ -97,7 +97,7 @@ Le participe passé d'un verbe qui prend *avoir* ne s'accorde pas avec le sujet.
 
 {% include callout.html content="Tu **les** as rencontré**s** il y a quelque temps." type="primary" %}
 
-+ si le complément direct est dans une autre proposition, lié au verbe par un pronom relatif
++ si le verbe est dans une phrase relative
 
 {% include callout.html content="C'est **une déclaration que** vous avez fait**e** à la presse le 9 août." type="primary" %}
 

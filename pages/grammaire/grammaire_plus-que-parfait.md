@@ -56,7 +56,7 @@ Le plus-que-parfait est également utilisé pour exprimer des regrets ou des dé
 
 {% include callout.html content="Si seulement son père **avait pu** voir ça." type="primary" %}
 
-Le plus-que-parfait est aussi couramment utilisé dans les propositions avec **si** suivi du conditionnel passé (voir [Conditionnel](/grammaire_conditionnel.html)). Par exemple&nbsp;:
+Le plus-que-parfait est aussi couramment utilisé dans les phrases conditionnelles, avec le conséquent au conditionnel passé (voir [Conditionnel](/grammaire_conditionnel.html)). Par exemple&nbsp;:
 
 {% include callout.html content="Si j'**avais été** marrant, elle aurait rigolé.<br/><br/>Si j'**avais été** présent, est-ce que ça aurait changé le résultat final&nbsp;? Franchement je ne sais pas." type="primary" %}
 
