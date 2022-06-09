@@ -9,19 +9,19 @@ folder: grammaire
 
 ## Introduction
 
-Un **adjectif** est un mot qui modifie un nom ou un pronom. Généralement, un adjectif est mis après le nom qu'il modifie et doit s'accorder en genre et en nombre avec le nom.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">**adjectif**</a> est un mot qui modifie un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> ou un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a>. Généralement, un adjectif est mis après le nom qu'il modifie et doit s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorder</a> en genre et en nombre avec le nom.
 
 {% include callout.html content="C'est en effet une question **philosophique** extrêmement **importante**.<br/><br/>Vous êtes un homme **charmant**, **raffiné**, **délicat**." type="primary" %}
 
-Notez que dans le premier exemple ci-dessus, *philosophique* et *importante* sont des adjectifs car ils modifient le nom *question*, mais *extrêmement* est un adverbe car il modifie l'adjectif *importante*.
+Notez que dans le premier exemple ci-dessus, *philosophique* et *importante* sont des adjectifs car ils modifient le nom *question*, mais *extrêmement* est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a> car il modifie l'adjectif *importante*.
 
-Un adjectif peut aussi apparaître comme prédicat du sujet, séparé du nom ou pronom qu'il modifie par un verbe.
+Un adjectif peut aussi apparaître comme *prédicat du sujet*, séparé du nom ou pronom qu'il modifie par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>.
 
 {% include callout.html content="Ils semblent **capables** de survivre à tant de choses." type="primary" %}
 
-Certains adjectifs peuvent prendre un complément, comme l'infinitif *de survivre à tant de choses* qui est complément de *capables* dans la phrase ci-dessus.
+Certains adjectifs peuvent prendre un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a>, comme l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a> *de survivre à tant de choses* qui est complément de *capables* dans la phrase ci-dessus.
 
-Les adjectifs peuvent généralement aussi apparaître avec un déterminant sans nom. Dans ce cas, le sens exprimé est *celui/celle qui est [adjectif]* ou *ceux/celles qui sont [adjectif]*.
+Les adjectifs peuvent généralement aussi apparaître avec un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> sans nom. Dans ce cas, le sens exprimé est *celui/celle qui est [adjectif]* ou *ceux/celles qui sont [adjectif]*.
 
 {% include callout.html content="Tous les matins, il réveille **la petite**.<br/><br/>Je vous rappelle que **les rouges** sont pour la prostate." type="primary" %}
 
@@ -90,7 +90,7 @@ Certains adjectifs ont des formes masculines et féminines identiques. C'est gé
 ### irrégularités de nombre
 La majorité des adjectifs sont réguliers au pluriel ; c'est-à-dire qu'un **-s** est ajouté aux formes singulières masculines ou féminines. Il existe deux exceptions majeures à cette règle&nbsp;:
 
-1. N'ajoutez pas de **s** à la forme masculine des adjectifs se terminant par **s** ou **x**. Le masculin singulier et le pluriel sont ainsi identiques&nbsp;: un animal **heureux**, des animaux **heureux**. Cependant, le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier&nbsp;: une fille **heureuse**, des filles **heureuses**.
+1. N'ajoutez pas de **s** à la forme masculine des adjectifs se terminant par **s** ou **x**. Le masculin singulier et le pluriel sont ainsi identiques&nbsp;: *un animal **heureux***, *des animaux **heureux***. Cependant, le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant simplement un **s** au féminin singulier&nbsp;: *une fille **heureuse***, *des filles **heureuses***.
 
 2. Les adjectifs se terminant par **al** au masculin singulier se transforment en **aux** au masculin pluriel.
 
@@ -104,7 +104,7 @@ Le pluriel féminin de ces adjectifs est régulier ; il se forme en ajoutant sim
 
 Il y a quelques circonstances où l'adjectif reste à la forme masculine singulière quels que soient le genre et le nombre du nom qu'il modifie&nbsp;:
 
-+ Après un [pronom indéfini](/grammaire_pronoms_indéfinis.html) et la préposition **de** (*quelqu'un d'intelligent*)
++ Après un [pronom indéfini](/grammaire_pronoms_indéfinis.html) et la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de** (*quelqu'un d'intelligent*)
 + Si l'adjectif modifie un verbe plutôt qu'un nom (*Elle chante **fort***; *La voiture coûte **cher***; *Les filles travaillent **dur***)
 + Après **ce** + **être** (*C'est beau*)
 + Si c'est un adjectif de couleur composé (*bleu clair*, *vert foncé*)
@@ -157,7 +157,7 @@ Un nom peut être modifié par plus d'un adjectif à la fois. Les adjectifs pren
 
 ## Les participes comme des adjectifs
 
-Les participes présents et les participes passés des verbes sont souvent utilisés comme adjectifs. Ils s'accordent donc en nombre et en genre avec le nom qu'ils modifient, tout comme les adjectifs réguliers. La distinction entre les adjectifs dérivés du participe présent et du participe passé est similaire à celle entre les adjectifs **-ing** et **-ed** en anglais&nbsp;: **fatigant** (tiring) / **fatigué** (tired).
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participes présents</a> et les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participes passés</a> des verbes sont souvent utilisés comme adjectifs. Ils s'accordent donc en nombre et en genre avec le nom qu'ils modifient, tout comme les adjectifs réguliers. La distinction entre les adjectifs dérivés du participe présent et du participe passé est similaire à celle entre les adjectifs **-ing** et **-ed** en anglais&nbsp;: **fatigant** (tiring) / **fatigué** (tired).
 
 {% include callout.html content="Il était **fatigué** d'avoir marché si longtemps.<br/><br/>Nous avons eu un concert hyper **fatigant** hier soir." type="primary" %}
 
@@ -198,7 +198,7 @@ Selon le contexte, **le sien**, **la sienne**, **les siens**, **les siennes** pe
 
 {% include callout.html content="Il a retenu ma main dans **la sienne**. (*his*)<br/><br/>Marie a déjà recueilli des dizaines de récits comme **le sien**. (*hers*)<br/><br/>La société marche à son rythme, le dogme religieux **au sien**. (*its own*)" type="primary" %}
 
-Notez que les articles **le** et **les** qui précèdent les adjectifs possessifs forment des contractions avec les prépositions **de** et **à**. Par exemple&nbsp;:
+Notez que les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">articles</a> **le** et **les** qui précèdent les adjectifs possessifs font des formes amalgamées avec les prépositions **de** et **à**. Par exemple&nbsp;:
 
 {% include callout.html content="On n'a qu'à parler à tes parents et **aux miens**.<br/><br/>J'ai appris à respecter les points de vue différents **du mien**." type="primary" %}
 

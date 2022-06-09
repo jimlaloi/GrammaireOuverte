@@ -9,14 +9,14 @@ folder: grammaire
 
 ## Introduction
 
-Si les adjectifs modifient les noms et les pronoms, les **adverbes** modifient toutes les autres catégories de mots.
+Si les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectifs</a> modifient les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">noms</a> et les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronoms</a>, les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">**adverbes**</a> modifient toutes les autres catégories de mots.
 
-| *verbe* modifié par un adverbe&nbsp;: | *Mélangez* **délicatement**. |
+| <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">*verbe*</a> modifié par un adverbe&nbsp;: | *Mélangez* **délicatement**. |
 | *adverbe* modifié par un adverbe&nbsp;: | Les robots marchent **trop** *lentement*. |
 | *adjectif* modifié par un adverbe&nbsp;: | C'est **drôlement** *petit*&nbsp;! |
-| *préposition* modifiée par un adverbe&nbsp;: | Le mélange doit être fait **immédiatement** *avant* l'usage. |
-| *quantifieur* modifié par un adverbe&nbsp;: | On dit cela dans **quasiment** *tous* les pays. |
-| *proposition* modifiée par un adverbe&nbsp;: | **Malheureusement**, *ils ne sont pas ici*. |
+| <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">*préposition*</a> modifiée par un adverbe&nbsp;: | Le mélange doit être fait **immédiatement** *avant* l'usage. |
+| <a data-toggle="tooltip" data-original-title="{{site.data.glossary.quantifieur}}">*quantifieur*</a> modifié par un adverbe&nbsp;: | On dit cela dans **quasiment** *tous* les pays. |
+| *phrase* modifiée par un adverbe&nbsp;: | **Malheureusement**, *ils ne sont pas ici*. |
 
 Notez que dans le deuxième exemple, l'adverbe **trop** modifie l'adverbe **lentement**, et **lentement** modifie le verbe **marchent**.
 
@@ -29,7 +29,7 @@ Les adverbes peuvent exprimer une grande variété d'informations. Voici quelque
 * **séquence**&nbsp;: d'abord, puis, alors, donc, enfin
 
 ## Forme
-Les adverbes sont invariables --- en contraste avec les adjectifs, ils ne font pas l'accord.
+Les adverbes sont invariables --- en contraste avec les adjectifs, ils ne font pas l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a>.
 
 Un grand nombre d'adverbes sont dérivés d'adjectifs. Ces adverbes ont un sens comme *d'une manière [adjectif]*. Par exemple&nbsp;: *heureusement* ('d'une manière heureuse'), *profondément* ('d'une manière profonde').
 
@@ -78,7 +78,7 @@ L'adverbe est mis directement **devant** l'adjectif ou l'adverbe qu'il modifie.
 
 **Adverbes qui modifient un verbe au présent&nbsp;:**
 
-L'adverbe est généralement mis immédiatement **après** le verbe conjugué. Si le verbe est négatif, l'adverbe est mis **après** la négation.
+L'adverbe est généralement mis immédiatement **après** le verbe <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a>. Si le verbe est négatif, l'adverbe est mis **après** la négation.
 
 {% include callout.html content="Je distingue **mal** ma gauche de ma droite.<br/><br/>On ne connaît pas **bien** la raison de leur apparition." type="primary" %}
 
@@ -86,7 +86,7 @@ Notez que les adverbes les plus courants sont mis directement après le verbe av
 
 **Adverbes qui modifient un verbe au temps composé&nbsp;:**
 
-Dans les temps avec un auxiliaire et un participe passé (le passé composé, le plus-que-parfait, etc.), l'adverbe est généralement mis entre l'auxiliaire et le participe passé. Si un verbe à l'infinitif suit un verbe conjugué (par exemple, au futur proche), l'adverbe est mis entre le verbe conjugué et l'infinitif. Si le verbe conjugué est au négatif, l'adverbe suit la négation.
+Dans les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a> (le passé composé, le plus-que-parfait, etc.), l'adverbe est généralement mis entre l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>. Si un verbe à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a> suit un verbe conjugué (par exemple, au futur proche), l'adverbe est mis entre le verbe conjugué et l'infinitif. Si le verbe conjugué est au négatif, l'adverbe suit la négation.
 
 {% include callout.html content="Moi personnellement, j'ai **bien** mangé.<br/><br/>Mais je n'ai pas **trop** compris.<br/><br/>Je vais **vite** préparer le petit déjeuner." type="primary" %}
 
@@ -118,7 +118,7 @@ Lorsqu'**il y a** est suivi d'une expression temporelle (comme **longtemps**, **
 
 {% include callout.html content="Il ne fallait pas arriver **en retard** au match.<br/><br/>Débrouillez-vous si vous n'êtes pas prêt **à l'heure**.<br/><br/>Il est vrai que je suis toujours un peu **en avance**.<br/><br/>Nous aurions dû signer cette alliance plus **tôt**.<br/><br/>On est parties trois mois plus **tard**." type="primary" %}
 
-L'adverbe **aussi** peut modifier le sujet ou le verbe.
+L'adverbe **aussi** peut modifier le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou le verbe.
 
 {% include callout.html content="Ma fille **aussi** préfère les légumes aux fruits.<br/><br/>Ils préfèrent **aussi** les blondes." type="primary" %}
 
