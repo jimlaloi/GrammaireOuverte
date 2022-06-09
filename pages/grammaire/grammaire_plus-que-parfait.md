@@ -9,14 +9,14 @@ folder: grammaire
 
 ## Introduction
 
-Les principales formes verbales utilisées au passé de l'indicatif sont le passé composé, l'imparfait, et le plus-que-parfait. Comme le passé composé, le plus-que-parfait indique l'aspect perfectif. Cela veut dire qu'il présente une situation comme complète, avec un début et une fin (voir [Verbes](/grammaire_verbes.html#aspect)). Mais le plus-que-parfait indique en plus un sens antérieur. C'est-à-dire que l'action décrite par un verbe au plus-que-parfait est située *avant* un point de référence dans le passé (souvent indiqué par un autre verbe au passé composé dans la phrase.)
+Les principales formes <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbales</a> utilisées au passé de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a> sont le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>, et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.plus-que-parfait}}">plus-que-parfait</a>. Comme le passé composé, le plus-que-parfait indique l'aspect perfectif. Cela veut dire qu'il présente une situation comme complète, avec un début et une fin (voir [Verbes](/grammaire_verbes.html#aspect)). Mais le plus-que-parfait indique en plus un sens antérieur. C'est-à-dire que l'action décrite par un verbe au plus-que-parfait est située *avant* un point de référence dans le passé (souvent indiqué par un autre verbe au passé composé dans la phrase.)
 
 {% include image.html file="plus-que-parfait_friseChronologique.png" alt="Plus-que-parfait avant un point de référence au passé" caption="Le sens antérieur du plus-que-parfait" %}
 
 Dans une narration au passé, le point de référence est le moment qui nous intéresse --- le moment des évènements importants de l'histoire. Si on veut mentionner quelque chose qui s'est passée avant ce moment, mais qui est pertinant à l'histoire, on utilise le plus-que-parfait.
 
 ## Forme
-Le plus-que-parfait se forme avec l'auxiliaire à l'imparfait suivi du participe passé du verbe. Le choix de l'auxiliaire, *être* ou *avoir*, est le même que pour le passé composé (voir [Passé composé](/grammaire_passé_composé.html#lauxiliaire)).
+Le plus-que-parfait se forme avec l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> à l'imparfait suivi du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> du verbe. Le choix de l'auxiliaire, *être* ou *avoir*, est le même que pour le passé composé (voir [Passé composé](/grammaire_passé_composé.html#lauxiliaire)).
 
 >*Plus-que-parfait* = *auxiliaire à l'imparfait* + *participe passé du verbe*
 
@@ -32,7 +32,7 @@ Le plus-que-parfait se forme avec l'auxiliaire à l'imparfait suivi du participe
 | tu **étais allé(e)** | vous **étiez allé(e)(s)** |
 | il/elle/on **était allé(e)(s)** | ils/elles **étaient allé(e)s** |
 
-Le participe passé doit parfois faire l'accord en genre et en nombre avec le sujet ou le complément direct. Les règles d'accord pour le plus-que-parfait sont les mêmes que celles pour le passé composé.
+Le participe passé doit parfois faire l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> en genre et en nombre avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>. Les règles d'accord pour le plus-que-parfait sont les mêmes que celles pour le passé composé.
 
 La négation se forme de la manière habituelle en plaçant **ne ... pas** autour de l'auxiliaire&nbsp;: *Je **n'**avais **pas** mangé*, *Je **n'**étais **pas** allé*, etc.
 
@@ -46,7 +46,7 @@ Le plus-que-parfait est utilisé pour une action qui ne fait pas tout à fait pa
 
 {% include callout.html content="On a constaté sur une radiographie qu'il **avait eu** 17 fractures à la main." type="primary" %}
 
-Pour renforcer son sens antérieur, le plus-que-parfait est souvent, mais pas toujours, accompagné de l'adverbe *déjà* (ou de l'adverbe *pas encore* au négatif).
+Pour renforcer son sens antérieur, le plus-que-parfait est souvent, mais pas toujours, accompagné de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a> *déjà* (ou de l'adverbe *pas encore* au négatif).
 
 {% include callout.html content="Il m'a dit qu'il était content pour moi et très fier de ce que j'**avais accompli**.<br/><br/>Les personnels de cuisine **avaient déjà été évacués** à l'arrivée des secours.<br/><br/>Il **n'avait pas encore dit** un seul mot quand la rampe de projecteurs lui est tombée dessus écrasant sous un poids terrible son pauvre corps." type="primary" %}
 
