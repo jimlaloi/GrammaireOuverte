@@ -12,10 +12,10 @@ Il existe trois temps du futur en français&nbsp;: le futur périphrastique, le 
 
 Le futur périphrastique et le futur simple expriment tous les deux qu'une action aura lieu dans l'avenir. La différence entre ces deux temps est plutôt une question de style que de sens.
 
-Le futur antérieur exprime qu'une action n'a pas encore eu lieu mais aura terminé avant un point de référence dans l'avenir. Par son antériorité à un point de référence, le futur antérieur est similaire au plus-que-parfait, qui est situé par rapport à un point de référence dans le passé.
+Le futur antérieur exprime qu'une action n'a pas encore eu lieu mais aura terminé avant un point de référence dans l'avenir. Par son antériorité à un point de référence, le futur antérieur est similaire au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.plus-que-parfait}}">plus-que-parfait</a>, qui est situé par rapport à un point de référence dans le passé.
 
 ## Futur périphrastique
-Le futur périphrastique (souvent appelé le *futur proche*) se forme avec le verbe **aller** conjugué au présent et suivi d'un infinitif.
+Le futur périphrastique (souvent appelé le *futur proche*) se forme avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> **aller** <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> au présent et suivi d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>.
 
 | nager |
 |---|---|
@@ -39,15 +39,15 @@ Parfois, le futur périphrastique est utilisé dans un sens que le futur simple 
 
 Cette phrase ne fait pas vraiment une prédiction pour l'avenir, mais plutôt une déclaration par rapport au présent, à savoir que quelque chose risque d'être cassée. On ne pourrait pas remplacer le futur périphrastique dans cette phrase par un verbe au futur simple sans apporter un changement de sens.
 
-La construction *aller + infinitif* se trouve aussi avec le verbe *aller* à l'imparfait pour désigner ce qu'on avait l'intention de faire. Par exemple&nbsp;:
+La <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> *aller + infinitif* se trouve aussi avec le verbe *aller* à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a> pour désigner ce qu'on avait l'intention de faire. Par exemple&nbsp;:
 
 {% include callout.html content="Il m'a promis qu'il **allait arrêter** ses conneries.<br/><br/>Ben je l'ai vu mais j'**allais repondre** plus tard lol." type="primary" %}
 
 ## Futur simple
 
-Le *futur simple* est ainsi nommé parce que c'est un temps formé d'un seul mot (il n'y a pas d'auxiliaire).
+Le *futur simple* est ainsi nommé parce que c'est un temps formé d'un seul mot (il n'y a pas d'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a>).
 
-Les terminaisons du futur simple sont&nbsp;: **-ai**, **-as**, **-a**, **-ons**, **-ez**, **-ont**. Le radical du futur des verbes **-er** et **-ir** est l'infinitif. Pour les verbes réguliers en **-re**, le radical est l'infinitif moins le **e** final. Dans tous les cas, le radical du futur se termine par **-r**.
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaisons</a> du futur simple sont&nbsp;: **-ai**, **-as**, **-a**, **-ons**, **-ez**, **-ont**. Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> du futur des verbes **-er** et **-ir** est l'infinitif. Pour les verbes réguliers en **-re**, le radical est l'infinitif moins le **e** final. Dans tous les cas, le radical du futur se termine par **-r**.
 
 | nager |
 |---|---|
@@ -69,7 +69,7 @@ Les terminaisons du futur simple sont&nbsp;: **-ai**, **-as**, **-a**, **-ons**,
 | tu **rendras** | vous **rendrez** |
 | il/elle/on **rendra** | ils/elles **rendront** |
 
-Les verbes qui se terminent par *-e*[consonne]*er* (*acheter*, *appeler*, *mener*, etc.) changent l'orthographe du radical au présent de certaines personnes (voir [Présent](/grammaire_présent.html#verbes--er-qui-changent-de-radical)). Les verbes *appeler* et *jeter* (et leurs dérivés) doublent la consonne finale du radical (*j'appe<ins>ll</ins>e*, *elle je<ins>tt</ins>e*). Les autres verbes en *-e*[consonne]*er* ajoutent un accent grave au dernier *e* du radical (*tu m<ins>è</ins>nes*, *ils renouv<ins>è</ins>lent*). Ces mêmes changements affectent le radical du futur&nbsp;:
+Les verbes qui se terminent par *-e*[consonne]*er* (*acheter*, *appeler*, *mener*, etc.) changent l'orthographe du radical au présent de certaines <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personnes</a> (voir [Présent](/grammaire_présent.html#verbes--er-qui-changent-de-radical)). Les verbes *appeler* et *jeter* (et leurs dérivés) doublent la consonne finale du radical (*j'appe<ins>ll</ins>e*, *elle je<ins>tt</ins>e*). Les autres verbes en *-e*[consonne]*er* ajoutent un accent grave au dernier *e* du radical (*tu m<ins>è</ins>nes*, *ils renouv<ins>è</ins>lent*). Ces mêmes changements affectent le radical du futur&nbsp;:
 * *j'appe<ins>ll</ins>erai*, *tu appe<ins>ll</ins>eras*, *il appe<ins>ll</ins>era*, *nous appe<ins>ll</ins>erons*, *vous appe<ins>ll</ins>erez*, *ils appe<ins>ll</ins>eront*
 * *je m<ins>è</ins>nerai*, *tu m<ins>è</ins>neras*, *il m<ins>è</ins>nera*, *nous m<ins>è</ins>nerons*, *vous m<ins>è</ins>nerez*, *ils m<ins>è</ins>neront*
 
@@ -122,15 +122,15 @@ Voici les verbes les plus courants qui ont un radical irrégulier au futur&nbsp;
 
 Le futur simple, comme le futur périphrastique, exprime qu'une situation aura lieu dans l'avenir. Le futur simple apparaît plus souvent à l'écrit et dans un registre plutôt formel, car il est souvent remplacé au registre familier par le futur périphrastique. Néanmoins, le futur simple est utilisé même dans la conversation informelle de temps en temps.
 
-Le futur est nécessaire dans des phrases subordonnées commençant par **dès que**, **aussitôt que**, **lorsque** et **quand**. Notez que les équivalents anglais sont typiquement suivis du présent&nbsp;:
+Le futur est nécessaire dans des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrases subordonnées</a> commençant par **dès que**, **aussitôt que**, **lorsque** et **quand**. Notez que les équivalents anglais sont typiquement suivis du présent&nbsp;:
 
 {% include callout.html content="Ne vous inquiétez pas, vous **comprendrez dès que** nous **serons** sur place. (*Don't worry, you will understand as soon as we **are** there.*)<br/><br/>On y **reviendra aussitôt que** je **pourrai** me libérer. (*We will come back as soon as I **can** get free.*)<br/><br/>Le procès **pourra** commencer **lorsque** tout le monde **sera** debout. (*The trial will be able to begin when everyone **is** standing.*)<br/><br/>Tu **feras** quoi **quand** ton contrat **sera** fini&nbsp;? (*What will you do when your contract **is** finished&nbsp;?*)" type="primary" %}
 
-L'action dans la phrase subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la phrase principale. Le futur périphrastique apparaît parfois après ces conjonctions, mais le futur simple est plus commun dans ce contexte.
+L'action dans la phrase subordonnée implique le futur puisqu'elle aura lieu à peu près en même temps que l'action dans la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a>. Le futur périphrastique apparaît parfois après ces <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonctions</a>, mais le futur simple est plus commun dans ce contexte.
 
 ## Futur antérieur
 
-Le futur antérieur est formé du futur simple de l'auxiliaire (soit *être* ou *avoir*), plus le participe passé du verbe principal. Le choix entre *être* et *avoir* comme auxiliaire est le même qu'au passé composé.
+Le futur antérieur est formé du futur simple de l'auxiliaire (soit *être* ou *avoir*), plus le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> du verbe principal. Le choix entre *être* et *avoir* comme auxiliaire est le même qu'au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>.
 
 >*futur antérieur* = *auxiliaire au futur* + *participe passé du verbe principal*
 
@@ -146,7 +146,7 @@ Le futur antérieur est formé du futur simple de l'auxiliaire (soit *être* ou 
 | tu **seras parti(e)** | vous **serez parti(e)(s)** |
 | il/elle/on **sera parti(e)(s)** | ils/elles **seront parti(e)s** |
 
-Notez que le participe passé doit souvent s'accorder en nombre et en genre avec le sujet ou le complément direct, selon les mêmes règles d'accord qui s'appliquent au [Passé composé](/grammaire_passé_composé.html#laccord).
+Notez que le participe passé doit souvent s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorder</a> en nombre et en genre avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a>, selon les mêmes règles d'accord qui s'appliquent au [Passé composé](/grammaire_passé_composé.html#laccord).
 
 Le futur antérieur est utilisé pour une action qui précède, ou sera terminée avant, un point de référence dans le futur. La différence entre le [Plus-que-parfait](/grammaire_plus-que-parfait.html) et le futur antérieur est simplement si ce point de référence est au passé ou au futur.
 
