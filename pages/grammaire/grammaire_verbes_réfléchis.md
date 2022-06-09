@@ -9,17 +9,17 @@ folder: grammaire
 
 ## Introduction
 
-Un verbe réfléchi (parfois appelé un *verbe pronominal*) est un verbe qui s'accompagne d'un pronom réfléchi. Un pronom de complément direct ou de complément oblique est *réfléchi* si son antécédent est le sujet.
+Un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> réfléchi (parfois appelé un *verbe pronominal*) est un verbe qui s'accompagne d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> réfléchi. Un pronom de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> ou de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a> est *réfléchi* si son <a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a> est le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a>.
 
 Dans la première phrase ci-dessous, le verbe n'est pas réfléchi parce que son sujet, *il*, n'est pas l'antécédent de son complément, *me*. Mais dans la deuxième phrase, le verbe est réfléchi car son sujet, *je*, est l'antécédent du complément *me*.
 
 {% include callout.html content="Il **m'appelle** ici presque tous les jours.<br/><br/>Bonjour, je **m'appelle** Lambert." type="primary" %}
 
-Beaucoup de verbes, comme *appeler*, peuvent apparaitre dans des constructions réfléchies ou non-réfléchies. Mais certains verbes, comme *se dépêcher*, sont toujours réfléchis.
+Beaucoup de verbes, comme *appeler*, peuvent apparaitre dans des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">constructions</a> réfléchies ou non-réfléchies. Mais certains verbes, comme *se dépêcher*, sont toujours réfléchis.
 
-Pour la première et la deuxième personnes, la forme du pronom réfléchi est la même que celle des pronoms de complément direct et oblique&nbsp;: **me** (**m'**), **te** (**t'**), **nous**, **vous**. À la troisième personne, le pronom réfléchi a la forme **se** (**s'**) au singulier et au pluriel.
+Pour la première et la deuxième <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personnes</a>, la forme du pronom réfléchi est la même que celle des pronoms de complément direct et oblique&nbsp;: **me** (**m'**), **te** (**t'**), **nous**, **vous**. À la troisième personne, le pronom réfléchi a la forme **se** (**s'**) au singulier et au pluriel.
 
-Notez la conjugaison du verbe réfléchi suivant. Le verbe se conjugue normalement (ici un verbe **-er**) mais en ajoutant les pronoms réfléchis **me**, **te**, **se**, **nous**, **vous**, **se**.
+Notez la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugaison</a> du verbe réfléchi suivant. Le verbe se conjugue normalement (ici un verbe **-er**) mais en ajoutant les pronoms réfléchis **me**, **te**, **se**, **nous**, **vous**, **se**.
 
 | **se raser** |
 | je me rase | nous nous rasons |
@@ -56,26 +56,26 @@ Beaucoup de verbes transitifs peuvent avoir un sens **passif** dans une construc
 
 ## Conjugaison et place du pronom
 
-Aux temps composés (le passé composé, le plus-que-parfait, le passé du subjonctif, etc.), les verbes réfléchis prennent toujours l'auxiliaire *être*.
+Aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a> (le passé composé, le plus-que-parfait, le passé du subjonctif, etc.), les verbes réfléchis prennent toujours l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> *être*.
 
 {% include callout.html content="Je **me suis** souvent **posé** la question.<br/><br/>Nous **nous étions** déjà **rencontrés** il y a 50 ans." type="primary" %}
 
 La place du pronom réfléchi est la même que les autres pronoms de complément&nbsp;:
-+ devant le verbe à l'affirmatif des temps simples&nbsp;: *je me repose*
++ devant le verbe à l'affirmatif des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-simple}}">temps simples</a>&nbsp;: *je me repose*
 + entre *ne* et le verbe au négatif&nbsp;: *je ne me repose pas*
 + devant l'auxiliaire aux temps composés&nbsp;: *je me suis reposé*
-+ devant l'infinitif&nbsp;: *je veux me reposer*
-+ après le verbe à l'impératif affirmatif (lié par un trait d'union)&nbsp;: *reposez-vous*
++ devant l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>&nbsp;: *je veux me reposer*
++ après le verbe à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a> affirmatif (lié par un trait d'union)&nbsp;: *reposez-vous*
 
 À l'impératif affirmatif, les pronoms réfléchis **me** et **te** deviennent **moi** et **toi** après le verbe. Pour plus de détails sur la place des pronoms de complément, voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments) et [Impératif](/grammaire_impératif.html).
 
 {% include callout.html content="Cette fois, la pop star **ne se cache plus**, ni derrière des images, ni derrière un groupe.<br/><br/>Ils **se sont cachés** tous les trois sous la table.<br/><br/>On ne les voit pas car elles aiment **se cacher**.<br/><br/>**Cache-toi**, il ne faut pas qu'il te voie!" type="primary" %}
 
-Le pronom réfléchi s'accorde avec son sujet réel, même si le verbe est à l'infinitif ou au participe présent et même si le sujet grammatical de la phrase est différente.
+Le pronom réfléchi s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorde</a> avec son sujet réel, même si le verbe est à l'infinitif ou au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participe présent</a> et même si le sujet grammatical de la phrase est différente.
 
 {% include callout.html content="On m'a dit de **me taire**.<br/><br/>Personnellement, je leur demande de **se mettre** au fond.<br/><br/>Cela nous permet de rester en forme tout en **nous amusant**." type="primary" %}
 
-Plusieurs verbes réfléchis peuvent prendre comme complément direct une partie du corps (avec le pronom réfléchi comme complément oblique). Dans ce cas, la partie du corps est typiquement déterminé par l'article défini (*le*/*las*/*les*) et non le déterminant possessif (*mon*/*ma*/*mes*, etc.).
+Plusieurs verbes réfléchis peuvent prendre comme complément direct une partie du corps (avec le pronom réfléchi comme complément oblique). Dans ce cas, la partie du corps est typiquement déterminé par l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> défini (*le*/*las*/*les*) et non le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> possessif (*mon*/*ma*/*mes*, etc.).
 
 {% include callout.html content="Je me penche pour **me laver la figure**.<br/>Judith est dans la salle de bains, en train de **se brosser les cheveux**." type="primary" %}
 
@@ -83,7 +83,7 @@ Les verbes réfléchis qui peuvent prendre une partie du corps comme complément
 
 ## Accord
 
-Le participe passé d'un verbe réfléchi au temps composé doit s'accorder en genre et en nombre avec le pronom réfléchi *si ce pronom est un complément direct*. Notez que c'est la même règle d'accord que pour les autres pronoms de complément direct (voir [Passé composé](/grammaire_passé_composé.html)).
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> d'un verbe réfléchi au temps composé doit s'accorder en genre et en nombre avec le pronom réfléchi *si ce pronom est un complément direct*. Notez que c'est la même règle d'accord que pour les autres pronoms de complément direct (voir [Passé composé](/grammaire_passé_composé.html)).
 
 {% include callout.html content="Je **me suis regardé<ins>e</ins>** dans le rétroviseur.<br/><br/>Les gosses **s'étaient regroupé<ins>s</ins>** pour la nuit.<br/><br/>Ces trois jeunes filles **se sont perdu<ins>es</ins>** dans la tempête." type="primary" %}
 

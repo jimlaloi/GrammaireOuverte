@@ -9,7 +9,7 @@ folder: grammaire
 
 ## Introduction
 
-L'imparfait, l'un des temps passés en français, est généralement utilisé pour décrire des états et des actions habituelles dans le passé. L'imparfait peut être traduit en anglais d'au moins quatre manières différentes selon le contexte.
+L'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>, l'un des temps passés en français, est généralement utilisé pour décrire des états et des actions habituelles dans le passé. L'imparfait peut être traduit en anglais d'au moins quatre manières différentes selon le contexte.
 
 {% include callout.html content="On **chantait** la *Marseillaise*.<br/>- *We <ins>sang</ins> the* Marseillaise<br/>- *We <ins>were singing</ins> the* Marseillaise<br/>- *We <ins>would sing</ins> the* Marseillaise<br/>- *We <ins>used to sing</ins> the* Marseillaise" type="primary" %}
 
@@ -28,7 +28,7 @@ Ce temps s'appelle l'imparfait car il indique le plus souvent un aspect imperfec
 {% include callout.html content="Elle **s'appelait** Laure, elle **avait** entre 16 et 18 ans." type="primary" %}
 
 ## Forme
-Le radical de l'imparfait est la première personne du pluriel (**nous**) du présent, moins le **-ons**. Le radical de l'imparfait est régulier pour tous les verbes sauf **être**&nbsp;:
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> de l'imparfait est la première <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personne</a> du pluriel (**nous**) du présent, moins le **-ons**. Le radical de l'imparfait est régulier pour tous les verbes sauf **être**&nbsp;:
 
 | verbe | forme *nous* au présent | radical de l'imparfait |
 |---|---|---|
@@ -41,7 +41,7 @@ Le radical de l'imparfait est la première personne du pluriel (**nous**) du pr�
 | *commencer* | nous commenç<ins>ons</ins> | commenç- |
 | **Exception&nbsp;:** *être* | nous sommes | **ét-** |
 
-Les terminaisons ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez** et **-aient**. Notez que **-ais**, **-ais**, **-ait** et **-aient** se prononcent tous de la même manière.
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaisons</a> ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez** et **-aient**. Notez que **-ais**, **-ais**, **-ait** et **-aient** se prononcent tous de la même manière.
 
 | danser |
 |---|---|
@@ -55,15 +55,15 @@ Les terminaisons ajoutées au radical sont **-ais**, **-ais**, **-ait**, **-ions
 
 ## Emplois
 
-La fonction principale de l'imparfait est d'indiquer l'aspect imperfectif, comme décrit dans l'introduction. Cet emploi met l'imparfait en contraste avec le passé composé.
+La fonction principale de l'imparfait est d'indiquer l'aspect imperfectif, comme décrit dans l'introduction. Cet emploi met l'imparfait en contraste avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>.
 
-Ce contraste est plus visible dans la narration au passé, lorsque les deux temps se produisent souvent dans la même histoire. Raconter une histoire consiste à la fois à décrire un cadre (actions habituelles, atmosphère, lieux et personnes) et à raconter une intrigue ou une série d'événements, d'actions, de changements de sentiments ou de pensées. En général, toutes les histoires ont une intrigue bien définie des événements, le *premier plan*, et un *arrière-plan* de détails et de descriptions à l'appui.
+Ce contraste est le plus visible dans la narration au passé, lorsque les deux temps se produisent souvent dans la même histoire. Raconter une histoire consiste à la fois à décrire un cadre (actions habituelles, atmosphère, lieux et personnes) et à raconter une intrigue ou une série d'événements, d'actions, de changements de sentiments ou de pensées. En général, toutes les histoires ont une intrigue bien définie des événements, le *premier plan*, et un *arrière-plan* de détails et de descriptions à l'appui.
 
 | imparfait (arrière-plan) | passé composé (évènement) |
 |---|---|
 | Un couple qui **promenait** son chien sur sa propriété ... | ...**a trouvé** un trésor en pièces d'or. |
 
-Les adverbes suivants sont généralement associés à chacun des temps passés&nbsp;:
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a> suivants sont généralement associés à chacun des temps passés&nbsp;:
 
 | adverbes associés à l'imparfait | adverbes associés au passé composé |
 |---|---|
@@ -89,7 +89,7 @@ Mais en fin de compte, c'est l'ensemble du contexte qui détermine lequel de ces
 
 {% include callout.html content="Un jour, mon père **était** dans la cuisine en train de faire la vaisselle.<br/><br/>Un jour, elle **est tombée** gravement malade." type="primary" %}
 
-L'imparfait est aussi utilisé pour suggérer une action dans des phrases commençant par **si**. Cette construction a un sens comme 'How about...' ou 'What if...'.
+L'imparfait est aussi utilisé pour suggérer une action dans des phrases commençant par **si**. Cette <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> a un sens comme 'How about...' ou 'What if...'.
 
 {% include callout.html content="Si tu **allais** nous chercher quelque chose à manger&nbsp;?<br/><br/>Et si on **faisait** une pause&nbsp;?" type="primary" %}
 
@@ -99,7 +99,7 @@ Cette même construction peut aussi avoir le sens d'un souhait ('If only...'). C
 
 Notez que le point d'interrogation à la fin de la phrase indique une suggestion, et le point d'exclamation un souhait. En français parlé, cependant, il faut se fier au contexte et à l'intonation pour faire la distinction entre le souhait et la suggestion.
 
-Il est possible de mettre le futur périphrastique (*aller* + infinitif) et le passé immédiat (*venir de* + infinitif) au passé en utilisant l'imparfait.
+Il est possible de mettre le futur périphrastique (*aller* + <a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>) et le passé immédiat (*venir de* + infinitif) au passé en utilisant l'imparfait.
 
 {% include callout.html content="C'est en 2006 que vous avez fait la connaissance de celui qui **allait devenir** votre mari.<br/><br/>L'homme qui est tombé sous le tir d'un policier **venait de commettre** un braquage." type="primary" %}
 

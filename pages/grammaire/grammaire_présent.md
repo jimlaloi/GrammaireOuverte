@@ -13,7 +13,7 @@ Le présent indique généralement une situation qui se produit au moment où l'
 
 {% include information.html content="Notez que le présent français peut être traduit de trois manières différentes en anglais selon le sens individuel de la phrase&nbsp;:<br/>**Léon fait de la sculpture.**<br/>- *Léon is sculpting* (en ce moment, action progressive)<br/>- *Léon sculpts* (en général, action habituelle)<br/>- *Léon does sculpt* (emphatique ou contrasté)" %}
 
-D'autres éléments d'une phrase à part le verbe peuvent affecter l'interprétation d'un verbe au présent comme une action en cours, une habitude, une vérité générale, etc. Notez les exemples suivants&nbsp;:
+D'autres éléments d'une phrase à part le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> peuvent affecter l'interprétation d'un verbe au présent comme une action en cours, une habitude, une vérité générale, etc. Notez les exemples suivants&nbsp;:
 {% include callout.html content="August vient **toujours** se promener par ici. ('always comes'&nbsp;: habitude)<br/><br/>**Regardez**, vous penchez trop votre verre. ('are tilting'&nbsp;: à l'heure actuelle, action progressive)<br/><br/>**Mais si**, vous le connaissez. ('you do know him'&nbsp;: emphatique)" type="primary" %}
 
 De plus, le présent est parfois utilisé à la place du passé ou du futur si le temps est claire en contexte&nbsp;:
@@ -22,9 +22,9 @@ De plus, le présent est parfois utilisé à la place du passé ou du futur si l
 
 ## Verbes réguliers
 
-La grande majorité des verbes en français sont réguliers au présent. À l'infinitif, ces verbes ont un radical et une terminaison (*-er*, *-ir*, ou *-re*). Pour conjuguer ces verbes au présent, on remplace la terminaison de l'infinitif par la terminaison appropriée du présent. Les terminaisons de tous les verbes réguliers sont très similaires. Là où il y a des différences, on regroupe les verbes réguliers qui ont les mêmes terminaisons.
+La grande majorité des verbes en français sont réguliers au présent. À l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>, ces verbes ont un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> et une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaison</a> (*-er*, *-ir*, ou *-re*). Pour <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjuguer</a> ces verbes au présent, on remplace la terminaison de l'infinitif par la terminaison appropriée du présent. Les terminaisons de tous les verbes réguliers sont très similaires. Là où il y a des différences, on regroupe les verbes réguliers qui ont les mêmes terminaisons.
 
-Pour presque tous les verbes, les terminaisons du singulier (*je*, *tu*, *il*/*elle*/*on*) et de la troisième personne du pluriel (*ils*/*elles*) ne sont pas prononcées (sauf pour faire la liaison avec un mot qui suit). Notez surtout que la terminaison *-ent* qui marque la troisième personne du pluriel pour presque tous les verbes n'est jamais prononcé. Si la séquence *ent* se trouve à la fin d'une autre forme (qu'elle soit un verbe à une autre personne ou nombre comme *il vient* ou un autre mot comme *comment*), elle est généralement prononcée comme /ɛ̃/ ou /ɑ̃/.
+Pour presque tous les verbes, les terminaisons du singulier (*je*, *tu*, *il*/*elle*/*on*) et de la troisième <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personne</a> du pluriel (*ils*/*elles*) ne sont pas prononcées (sauf pour faire la liaison avec un mot qui suit). Notez surtout que la terminaison *-ent* qui marque la troisième personne du pluriel pour presque tous les verbes n'est jamais prononcé. Si la séquence *ent* se trouve à la fin d'une autre forme (qu'elle soit un verbe à une autre personne ou nombre comme *il vient* ou un autre mot comme *comment*), elle est généralement prononcée comme /ɛ̃/ ou /ɑ̃/.
 
 ### verbes *-er* (comme *parler*)
 
@@ -34,7 +34,7 @@ Pour presque tous les verbes, les terminaisons du singulier (*je*, *tu*, *il*/*e
 | tu **parl<ins>es</ins>** | vous **parl<ins>ez</ins>** |
 | il/elle/on **parl<ins>e</ins>** | ils/elles **parl<ins>ent</ins>** |
 
-Environ 90% des verbes en français sont conjugués comme parler. En voici une liste de quelques-uns&nbsp;: 
+Environ 90% des verbes en français sont conjugués comme *parler*. En voici une liste de quelques-uns&nbsp;: 
 
 * *adorer*, *habiter*, *aimer*, *jouer*, *montrer*, *chanter*, *présenter*, *chercher*, *regarder*, *danser*, *rencontrer*, *demander*, *rester*, *détester*, *téléphoner*, *donner*, *travailler*, *écouter*, *trouver*, *étudier*
 
@@ -96,7 +96,7 @@ Les verbes conjugués comme *envoyer* incluent&nbsp;:
 
 {% include variation.html content="Les verbes en *-ayer* (*payer*, *balayer*, *effrayer*, etc) suivent facultativement le schéma des verbes en *-oyer* et *-uyer*. On peut écrire donc *je pa<ins>i</ins>e* ou *je pa<ins>y</ins>e* (les deux formes ont la même prononciation)." %}
 
-Les lettres *c* et *g* ont une prononciation occlusive (/k/ ou /g/) devant les voyelles *a*, *o*, et *u*, et une prononciation fricative (/s/ ou /ʒ/) devant les voyelles *e* et *i*. Un *c* ou *g* en fin de radical verbal aura une prononciation fricative devant *-er*. Pour garder cette prononciation fricative devant la terminaison *-ons* (ou les terminaisons *-ais*, *-ait*, et *-aient* de l'imparfait), le radical change d'orthographe à la première personne du pluriel. Dans le cas de *c*, on ajoute une cédille (*ç*), et dans le cas de *g* on ajoute un *e*.
+Les lettres *c* et *g* ont une prononciation occlusive (/k/ ou /g/) devant les voyelles *a*, *o*, et *u*, et une prononciation fricative (/s/ ou /ʒ/) devant les voyelles *e* et *i*. Un *c* ou *g* en fin de radical verbal aura une prononciation fricative devant *-er*. Pour garder cette prononciation fricative devant la terminaison *-ons* (ou les terminaisons *-ais*, *-ait*, et *-aient* de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>), le radical change d'orthographe à la première personne du pluriel. Dans le cas de *c*, on ajoute une cédille (*ç*), et dans le cas de *g* on ajoute un *e*.
 
 | infinitif&nbsp;: commencer | participe passé&nbsp;: commencé |
 |---|---|
@@ -178,7 +178,7 @@ Les verbes conjugués comme *rendre* incluent&nbsp;:
 Le verbe *rompre* est conjugué comme *rendre* sauf qu'il y a la terminaison *-t* à la troisième personne du singulier&nbsp;: *il rompt*.
 * Les verbes dérivés de *rompre* sont aussi conjugués de cette manière&nbsp;: *corrompre*, *interrompre*
 
-Le verbe *mettre* est conjugué comme *rendre* sauf que le radical n'a qu'un *t* au singulier. Notez aussi la différence dans la forme du participe passé.
+Le verbe *mettre* est conjugué comme *rendre* sauf que le radical n'a qu'un *t* au singulier. Notez aussi la différence dans la forme du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>.
 
 | infinitif : mett<ins>re</ins> | participe passé : m<ins>is</ins> |
 |---|---|

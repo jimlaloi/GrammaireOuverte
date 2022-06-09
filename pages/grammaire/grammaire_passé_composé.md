@@ -8,17 +8,17 @@ folder: grammaire
 ---
 
 ## Introduction
-Le passé composé est le temps le plus couramment utilisé pour désigner des actions accomplies dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a> est le temps le plus couramment utilisé pour désigner des actions accomplies dans le passé. Le passé composé peut être traduit en anglais de trois manières différentes selon le contexte.
 
 {% include callout.html content="Elle **a mangé** un peu de purée.<br/>- *'She <ins>ate</ins> some mashed potatoes'*<br/>- *'She <ins>has eaten</ins> some mashed potatoes'*<br/>- *'She <ins>did eat</ins> some mashed potatoes'*" type="primary" %}
 
-Ce temps s'appelle le passé composé car il est composé de deux éléments&nbsp;: le présent d'un verbe auxiliaire (soit **avoir**, soit **être**), suivi d'un participe passé&nbsp;:
+Ce temps s'appelle le passé composé car il est <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">composé</a> de deux éléments&nbsp;: le présent d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> (soit **avoir**, soit **être**), suivi d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>&nbsp;:
 
 >*passé composé* = *présent de l'auxiliaire* + *participe passé*
 
 Dans la plupart des cas, le verbe auxiliaire est **avoir**, mais certains verbes nécessitent **être** comme auxiliaire.
 
-Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'imparfait qui exprime l'aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect) et [Imparfait](/grammaire_imparfait.html)). Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin. Des exemples de contextes où on voit le passé composé incluent&nbsp;:
+Le passé composé exprime généralement l'aspect perfectif, en contraste avec l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a> qui exprime l'aspect imperfectif (voir [Verbes](/grammaire_verbes.html#aspect) et [Imparfait](/grammaire_imparfait.html)). Ceci veut dire que le passé composé est utilisé pour représenter une situation comme complète, avec un début et une fin. Des exemples de contextes où on voit le passé composé incluent&nbsp;:
 
 + une action accomplie à un moment dans le passé
 
@@ -43,7 +43,7 @@ Le passé composé exprime généralement l'aspect perfectif, en contraste avec 
 ## Forme
 
 ### le participe passé
-Pour les verbes réguliers avec une terminaison infinitive en *-er*, le participe passé est formé en remplaçant le *-er* final de l'infinitif par *-é*. Par exemple, le participe passé de *parler* est *parlé*.
+Pour les verbes réguliers avec une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaison</a> <a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitive</a> en *-er*, le participe passé est formé en remplaçant le *-er* final de l'infinitif par *-é*. Par exemple, le participe passé de *parler* est *parlé*.
 
 Le participe passé des verbes réguliers avec une terminaison infinitive en *-ir* est formé en supprimant le *-r* final de l'infinitif. Par exemple, le participe passé de *finir* est *fini*.
 
@@ -64,7 +64,7 @@ Le choix de l'auxiliaire dépend du verbe. La plupart des verbes prennent *avoir
 
 {% include variation.html content="Pour certains verbes, le choix de l'auxiliaire est absolu. Pour d'autres (typiquement des verbes moins communs) on observe de la variation. Le verbe *apparaître* prend normalement *être*, mais il n'est pas rare qu'il se voie avec l'auxiliaire *avoir*. De l'autre côté, les verbes *paraître* et *disparaître* prennent typiquement *avoir*, mais peuvent se conjuguer avec *être*, surtout pour souligner l'état résultant. Certains locuteurs préfèrent *avoir* pour les verbes *monter* et *descendre* pour évoquer le trajet plutôt que la destination. Cette variation est parfois régionale. Par exemple, dans plusieurs variétés nord-américaines, *avoir* est choisi assez souvent pour des verbes comme *passer*, *retourner*, et *rester*, même si la sélection d'*être* est toujours en vigueur pour d'autres verbes comme *aller* et *venir*." %}
 
-N'oubliez pas que c'est seulement les verbes intransitifs (et réfléchis) qui peuvent se conjuguer avec *être*. Cela veut dire que si un verbe a un complément direct (même si le verbe prend normalement *être*), il prendra *avoir* comme auxiliaire.
+N'oubliez pas que c'est seulement les verbes intransitifs (et réfléchis) qui peuvent se conjuguer avec *être*. Cela veut dire que si un verbe a un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> (même si le verbe prend normalement *être*), il prendra *avoir* comme auxiliaire.
 
 {% include callout.html content="Il **a sorti** *un stylo* de sa veste et **retourné** *son sous-bock*." type="primary" %}
 
@@ -82,7 +82,7 @@ Attention au fait que *rester* veut dire 'stay' et non pas 'rest'. Pour dire 're
 
 ### l'accord
 
-Le participe passé d'un verbe qui prend **être** s'accorde en genre et en nombre avec le sujet ; cela signifie qu'un **-e** est ajouté au participe passé pour s'accorder avec un sujet féminin et un **-s** est ajouté pour un sujet pluriel. Si le sujet est féminin et pluriel, **-es** est ajouté.
+Le participe passé d'un verbe qui prend **être** s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorde</a> en genre et en nombre avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ; cela signifie qu'un **-e** est ajouté au participe passé pour s'accorder avec un sujet féminin et un **-s** est ajouté pour un sujet pluriel. Si le sujet est féminin et pluriel, **-es** est ajouté.
 
 | aller |
 |---|---|
@@ -93,22 +93,22 @@ Le participe passé d'un verbe qui prend **être** s'accorde en genre et en nomb
 {% include callout.html content="Elles **sont** donc **parties** et elles **sont allées** chez un docteur.<br/><br/>Maria **est morte** des fièvres il y a quelques mois.<br/><br/>On **est montés** dans la voiture, on a démarré.<br/><br/>La nuit, le thermomètre **est descendu** aux environs de vingt degrés sous zéro." type="primary" %}
 
 Le participe passé d'un verbe qui prend *avoir* ne s'accorde pas avec le sujet. Néanmoins, il peut faire l'accord avec un complément direct *qui précede le verbe*. Typiquement, les compléments directs suivent le verbe, et il n'y a pas d'accord. Mais le complément direct peut précéder le verbe dans les circonstances suivantes&nbsp;:
-+ si le complément direct est un pronom
++ si le complément direct est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a>
 
 {% include callout.html content="Tu **les** as rencontré**s** il y a quelque temps." type="primary" %}
 
-+ si le verbe est dans une phrase relative
++ si le verbe est dans une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-relative}}">phrase relative</a>
 
 {% include callout.html content="C'est **une déclaration que** vous avez fait**e** à la presse le 9 août." type="primary" %}
 
-Notez que le participe passé ne s'accorde pas avec un complément oblique, même s'il précède le verbe.
+Notez que le participe passé ne s'accorde pas avec un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a>, même s'il précède le verbe.
 
 {% include callout.html content="Je **leur** ai dit de ne pas compter sur moi." type="primary" %}
 
 ## Passé composé des verbes réfléchis
 Un verbe réfléchi est un verbe qui a un pronom réfléchi, c'est-à-dire un pronom renvoyant à son sujet. Ces verbes sont facilement reconnaissables par le pronom **se** avant l'infinitif&nbsp;: **se lever**, **se laver**, **se promener**, etc.
 
-Au passé composé, les verbes réfléchis sont conjugués avec **être** comme auxiliaire. Notez que le pronom réfléchi (**me**, **te**, **se**, **nous**, **vous**, **se**) précède l'auxiliaire. Le participe passé des verbes réfléchis s'accorde en genre et en nombre avec le pronom réfléchi si c'est un complément direct. Le participe passé fait l'accord avec le sujet si le verbe est idiomatiquement réfléchi ou si c'est dans la construction médiopassive. Le participe passé ne fait pas l'accord si le pronom réfléchi est un complément oblique (voir [Verbes réfléchis](/grammaire_verbes_réfléchis.html)).
+Au passé composé, les verbes réfléchis sont conjugués avec **être** comme auxiliaire. Notez que le pronom réfléchi (**me**, **te**, **se**, **nous**, **vous**, **se**) précède l'auxiliaire. Le participe passé des verbes réfléchis s'accorde en genre et en nombre avec le pronom réfléchi si c'est un complément direct. Le participe passé fait l'accord avec le sujet si le verbe est idiomatiquement réfléchi ou si c'est dans la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> médiopassive. Le participe passé ne fait pas l'accord si le pronom réfléchi est un complément oblique (voir [Verbes réfléchis](/grammaire_verbes_réfléchis.html)).
 
 | s'amuser |
 |---|---|
