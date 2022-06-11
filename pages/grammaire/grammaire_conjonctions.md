@@ -8,20 +8,20 @@ folder: grammaire
 ---
 
 ## Introduction
-Une conjonction est un mot utilisé pour lier ou « conjoindre » des mots ou des phrases en un tout cohérent. Il existe deux classes de conjonctions&nbsp;: celles de coordination et celles de subordination.
+Une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> est un mot utilisé pour lier ou « conjoindre » des mots ou des phrases en un tout cohérent. Il existe deux classes de conjonctions&nbsp;: celles de coordination et celles de subordination.
 
 ## Conjonctions de coordination
 
-Une conjonction de coordination « coordonne » deux éléments équivalents dans une phrase, c'est-à-dire des mots (ou des séries de mots) appartenant à la même catégorie grammaticale (verbes + verbes, adjectif + adjectif, phrase + phrase, etc.).
+Une conjonction de coordination « coordonne » deux éléments équivalents dans une phrase, c'est-à-dire des mots (ou des séries de mots) appartenant à la même catégorie grammaticale (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbes</a> + verbes, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a> + adjectif, phrase + phrase, etc.).
 
 Les conjonctions de coordination les plus couramment utilisées sont&nbsp;:
 * *mais*, *ou*, *ou bien*, *et*, *or*, *car*, *ainsi que*, *ni ... ni*, *soit ... soit*
 
-Les noms apparaissent généralement dans un groupe nominal qui inclut au moins un déterminant et souvent d'autres modificateurs. Les conjonctions de coordination joignent des groupes nominaux, chacun avec son déterminant.
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.term}}">noms</a> apparaissent généralement dans un groupe nominal qui inclut au moins un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a> et souvent d'autres modificateurs. Les conjonctions de coordination joignent des groupes nominaux, chacun avec son déterminant.
 
 {% include callout.html content="Elle aime <ins>le débat</ins> **et** <ins>la contradiction</ins>." type="primary" %}
 
-Notez que l'article indéfini des noms coordonnés avec *ni ... ni* est parfois supprimé (voir [Négation](/grammaire_négation.html)).
+Notez que l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.article}}">article</a> indéfini des noms coordonnés avec *ni ... ni* est parfois supprimé (voir [Négation](/grammaire_négation.html)).
 
 {% include callout.html content="Un végétarien ne mange **ni** <ins>viande</ins> **ni** <ins>poisson</ins>." type="primary" %}
 
@@ -43,7 +43,7 @@ Avec la plupart des catégories, c'est possible de coordonner sans conjonction. 
 
 ## Conjonctions de subordination
 
-Contrairement aux conjonctions de coordination, les conjonctions de subordination ne peuvent pas joindre des noms, des verbes, des adjectifs, etc. Elles ne peuvent que joindre deux phrases pour en faire une phrase complexe. Dans une phrase complexe coordonnée, les phrases ont un statut égal. Mais dans une phrase complexe subordonnée, une phrase exprime l'idée principale (c'est donc la *phrase principale*) et l'autre exprime une circonstance (c'est donc la *phrase subordonnée* ou la *phrase subordonnée circonstancielle*).
+Contrairement aux conjonctions de coordination, les conjonctions de subordination ne peuvent pas joindre des noms, des verbes, des adjectifs, etc. Elles ne peuvent que joindre deux phrases pour en faire une phrase complexe. Dans une phrase complexe coordonnée, les phrases ont un statut égal. Mais dans une phrase complexe subordonnée, une phrase exprime l'idée principale (c'est donc la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a>) et l'autre exprime une circonstance (c'est donc la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> ou la *phrase subordonnée circonstancielle*).
 
 La phrase subordonnée circonstancielle peut avoir une variété de relations sémantiques avec la phrase principale, selon la conjonction. Ces relations incluent les suivantes&nbsp;:
 
@@ -65,7 +65,7 @@ La phrase subordonnée circonstancielle peut avoir une variété de relations s�
 
 Rappelez-vous qu'une circonstancielle exprimant une condition (**si**...) oblige une concordance des temps entre la phrase subordonnée (la condition) et la phrase principale (le conséquent). C'est-à-dire que le temps du verbe dans la condition détermine les temps possibles du verbe dans le conséquent. Pour les détails, voir [Conditionnel](/grammaire_conditionnel.html).
 
-Certaines conjonctions (et la combinaison de certains verbes, prépositions, ou adverbes avec la conjonction **que**) obligent que le verbe dans la phrase subordonnée soit au subjonctif. Après d'autres conjonctions, le verbe est à l'indicatif. Pour les détails, voir [Subjonctif](/grammaire_subjonctif.html). L'emploi du subjonctif varie par dialecte, alors une conjonction qui est suivie du subjonctif dans un certain dialecte pourrait être suivie de l'indicatif dans un autre. Mais comme rappel, voici des conjonctions fréquentes qui sont typiquements suivies de chaque mode selon les normes de la langue&nbsp;:
+Certaines conjonctions (et la combinaison de certains verbes, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">prépositions</a>, ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a> avec la conjonction **que**) obligent que le verbe dans la phrase subordonnée soit au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a>. Après d'autres conjonctions, le verbe est à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>. Pour les détails, voir [Subjonctif](/grammaire_subjonctif.html). L'emploi du subjonctif varie par dialecte, alors une conjonction qui est suivie du subjonctif dans un certain dialecte pourrait être suivie de l'indicatif dans un autre. Mais comme rappel, voici des conjonctions fréquentes qui sont typiquements suivies de chaque mode selon les normes de la langue&nbsp;:
 
 **Conjonctions typiquement suivies de l'indicatif**&nbsp;:
 + que (après *savoir*, *voir*, *apprendre*, etc.), si, comme, quand, lorsque, puisque, parce que, tandis que, alors que, tant que, dès que, après que, depuis que, pendant que
@@ -81,7 +81,7 @@ Si la même conjonction introduit plusieurs phrases subordonnées dans la même 
 
 {% include callout.html content="**Si** <ins>tu me réponds</ins> et **que** <ins>tu trouves un remède</ins> je serai très contente." type="primary" %}
 
-Ne confondez pas la subordination circonstancielle, où la phrase subordonnée décrit une circonstance de la phrase principale, et la subordination relative, où la phrase subordonnée décrit les propriétés d'un antécédent dans la phrase principale (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html)). Une phrase subordonnée relative n'est pas liée à la phrase principale par une conjonction de subordination (*quand*, *si*, *puisque*, etc.) mais par un pronom relatif (*qui*, *dont*, *auquel*, etc.). Le mot **que** peut être une conjonction de subordination ou un pronom relatif.
+Ne confondez pas la subordination circonstancielle, où la phrase subordonnée décrit une circonstance de la phrase principale, et la subordination <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-relative}}">relative</a>, où la phrase subordonnée décrit les propriétés d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a> dans la phrase principale (voir [Pronoms relatifs](/grammaire_pronoms_relatifs.html)). Une phrase subordonnée relative n'est pas liée à la phrase principale par une conjonction de subordination (*quand*, *si*, *puisque*, etc.) mais par un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> relatif (*qui*, *dont*, *auquel*, etc.). Le mot **que** peut être une conjonction de subordination ou un pronom relatif.
 
 {% include callout.html content="Conjonction de subordination&nbsp;: Pour les repas, c'est clair **que** tu ne manges pas assez surtout le midi.<br/><br/>Pronom relatif&nbsp;: C'est une question **que** pose Michel." type="primary" %}
 

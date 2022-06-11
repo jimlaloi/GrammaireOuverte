@@ -10,7 +10,7 @@ folder: grammaire
 ## Introduction
 Une phrase interrogative pose une question. Il existe trois types de questions&nbsp;:
 
-Les **questions totales** attendent comme réponse *oui* ou *non* (ou *si*, *peut-être*, etc.). Elles sont *totales* car elles incluent toute l'information de la phrase (le sujet, le verbe, les compléments...), et la seule information qui manque est si la phrase est vraie ou fausse.
+Les **questions totales** attendent comme réponse *oui* ou *non* (ou *si*, *peut-être*, etc.). Elles sont *totales* car elles incluent toute l'information de la phrase (le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a>, le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>, les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">compléments</a>...), et la seule information qui manque est si la phrase est vraie ou fausse.
 
 {% include callout.html content="Vous êtes d'accord&nbsp;?<br/><br/>Est-ce que tu aimes bien aller à l'école&nbsp;?" type="primary" %} 
 
@@ -40,25 +40,25 @@ On peut formuler une question totale en ajoutant *est-ce que* au début d'une ph
 
 ### inversion
 
-On peut aussi formuler une question totale par inversion de l'ordre du pronom sujet et du verbe. Le verbe est lié au sujet par un trait d'union.
+On peut aussi formuler une question totale par inversion de l'ordre du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> sujet et du verbe. Le verbe est lié au sujet par un trait d'union.
 
 {% include callout.html content="**Veux-tu** nous expliquer le dessin que tu as fait de ta famille&nbsp;?" type="primary" %}
 
 Poser une question par inversion est plus commun à l'écrit qu'à l'oral et appartient à un registre plutôt formel.
 
-A la troisième personne du singulier, lorsque le verbe se termine par une voyelle, un **-t-** est ajouté pour faciliter la liaison.
+A la troisième <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personne</a> du singulier, lorsque le verbe se termine par une voyelle, un **-t-** est ajouté pour faciliter la liaison.
 
 {% include callout.html content="L'**aime-t-il** vraiment&nbsp;? Elle en doute.<br/><br/>**Va-t-elle** gagner la cagnotte&nbsp;?<br/><br/>**Sera-t-on** prêt à relever le défi&nbsp;?" type="primary" %}
 
-Lorsque le sujet est un nom (propre ou commun), le pronom sujet correspondant (**il**, **elle**, **ils** ou **elles**) est ajouté pour faire l'inversion avec le verbe.
+Lorsque le sujet est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-propre}}">propre</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom-commun}}">commun</a>), le pronom sujet correspondant (**il**, **elle**, **ils** ou **elles**) est ajouté pour faire l'inversion avec le verbe.
 
 {% include callout.html content="**Netflix** signe-t-**il** la fin de la télévision&nbsp;?<br/><br/>**La révolution technologique en cours** va-t-**elle** changer les choses&nbsp;?" type="primary" %} 
 
-Dans les temps composés, comme le passé composé, le pronom sujet est inversé avec l'auxiliaire. Le participe passé suit le sujet.
+Dans les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>, comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, le pronom sujet est inversé avec l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a>. Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> suit le sujet.
 
 {% include callout.html content="La promesse **a-t-elle été** tenue&nbsp;?<br/><br/>**As-tu goûté** tes produits&nbsp;? -Non." type="primary" %} 
 
-Pour la négation de l'inversion, **ne** précède le verbe conjugué et le négateur (**pas**, **jamais**, **plus**, etc.) suit le pronom.
+Pour la négation de l'inversion, **ne** précède le verbe <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> et le négateur (**pas**, **jamais**, **plus**, etc.) suit le pronom.
 
 {% include callout.html content="**N'**a-t-il **pas** entendu&nbsp;?<br/><br/>Cela **ne** finira-t-il **jamais**&nbsp;?" type="primary" %} 
 
@@ -88,28 +88,28 @@ On peut ajouter des expressions négatives (*n'est-ce pas*, *non*, *pas vrai*) �
 
 ## Questions alternatives
 
-Les questions alternatives sont formées de la même manière que les questions totales, sauf qu'elles comportent la conjonction de coordination **ou**.
+Les questions alternatives sont formées de la même manière que les questions totales, sauf qu'elles comportent la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> de coordination **ou**.
 
 {% include callout.html content="Chez vous, c'est plutôt classique **ou** contemporain&nbsp;?" type="primary" %}
 
-Une question alternative peut attendre une réponse *oui*/*non* si la deuxième alternative est un adverbe négatif&nbsp;:
+Une question alternative peut attendre une réponse *oui*/*non* si la deuxième alternative est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a> négatif&nbsp;:
 
 {% include callout.html content="Tu vas jouer **ou non**&nbsp;?<br/><br/>Il faut laisser sécher **ou pas**&nbsp;?" type="primary" %}
 
-On peut aussi poser une question avec **ou quoi**. Alors que cette construction a la structure d'une question alternative, c'est généralement plutôt une accusation pour laquelle on demande une explication.
+On peut aussi poser une question avec **ou quoi**. Alors que cette <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> a la structure d'une question alternative, c'est généralement plutôt une accusation pour laquelle on demande une explication.
 
 {% include callout.html content="Vous boudez mon post, **ou quoi**&nbsp;?" type="primary" %}
 
 ## Questions partielles
 
-Les questions partielles remplacent un élément de la phrase par un mot interrogatif, qui peut être un pronom, un adjectif, un adverbe, ou un déterminant.
+Les questions partielles remplacent un élément de la phrase par un mot interrogatif, qui peut être un pronom, un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a>, un adverbe, ou un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminant</a>.
 + **qui**, **que** (*quoi*), **lequel**, **quel**, **combien**, **comment**, **où**, **pourquoi**, **quand**
 
-**Quel**, qui indique un choix, est un déterminant qui doit précéder un nom qu'il détermine et s'accorde avec ce nom en genre et en nombre (*quelle*, *quels*, *quelles*).
+**Quel**, qui indique un choix, est un déterminant qui doit précéder un nom qu'il détermine et s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorde</a> avec ce nom en genre et en nombre (*quelle*, *quels*, *quelles*).
 
 {% include information.html content="**Quel** peut également être utilisé dans un sens exclamatif&nbsp;:<br/>*- **Quelle** bonne surprise&nbsp;!*<br/>*- **Quels** beaux dessins&nbsp;!*" %}
 
-**Lequel** est un pronom qui remplace *quel + nom* pour indiquer un choix. Il assume le nombre et le genre du nom qu'il remplace (*laquelle*, *lesquels*, *lesquelles*). Avec les prépositions **à** et **de** il fait les formes amalgamées **auquel** (*auxquel(le)s*) et **duquel** (*desquel(le)s*).
+**Lequel** est un pronom qui remplace *quel + nom* pour indiquer un choix. Il assume le nombre et le genre du nom qu'il remplace (*laquelle*, *lesquels*, *lesquelles*). Avec les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">prépositions</a> **à** et **de** il fait les formes amalgamées **auquel** (*auxquel(le)s*) et **duquel** (*desquel(le)s*).
 
 **Combien** peut être seul ou suivi d'un nom qu'il quantifie, marqué par la préposition *de*.
 

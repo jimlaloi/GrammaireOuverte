@@ -13,17 +13,17 @@ Le discours rapporté concerne la citation d'un autre acte de communication (par
 
 ## Discours direct
 
-Une citation en discours direct est souvent le complément d'un verbe de communication (comme *dire*, *déclarer*, ou *écrire*) ou d'un autre verbe employé à cette fin (*commencer*, *s'acharner*, etc.). Dans ce cas, le verbe est séparé de son complément par les deux-points (:) et la citation est entourée de guillemets («&nbsp;»). La citation commence par une lettre majuscule.
+Une citation en discours direct est souvent le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a> d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> de communication (comme *dire*, *déclarer*, ou *écrire*) ou d'un autre verbe employé à cette fin (*commencer*, *s'acharner*, etc.). Dans ce cas, le verbe est séparé de son complément par les deux-points (:) et la citation est entourée de guillemets («&nbsp;»). La citation commence par une lettre majuscule.
 
 {% include callout.html content="Il lui dit : «&nbsp;J'admire votre sang-froid.&nbsp;»" type="primary" %}
 
 {% include information.html content="Les guillemets, comme le point d'interrogation, le point d'exclamation, et les deux-points, sont séparés du texte qu'ils entourent par une espace insécable (*non-breaking space*). L'espace est *insécable* car elle garde les caractères à chaque côté sur la même ligne. Si votre clavier n'a pas de touche pour les guillemets ou pour l'espace insécable, il suffit de rechercher sur Internet pour trouver comment réaliser ces caractères selon le système d'exploitation de votre ordinateur." %}
 
-Si la citation est incorporée dans la phrase principale, il n'y a pas de deux points, la citation commence par une lettre minuscule et la ponctuation finale se met après le guillemet fermant.
+Si la citation est incorporée dans la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a>, il n'y a pas de deux points, la citation commence par une lettre minuscule et la ponctuation finale se met après le guillemet fermant.
 
 {% include callout.html content="Elle rappelle que «&nbsp;la population québécoise est très attachée au consensus social&nbsp;»." type="primary" %}
 
-Si la citation commence la phrase, on peut indiquer sa source par une incise à la fin de la phrase. Dans cette incise, le sujet suit le verbe. La citation est généralement séparée de l'incise qui la suit par une virgule.
+Si la citation commence la phrase, on peut indiquer sa source par une incise à la fin de la phrase. Dans cette incise, le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> suit le verbe. La citation est généralement séparée de l'incise qui la suit par une virgule.
 
 {% include callout.html content="«&nbsp;Nous étions en quelque sorte le comité des fêtes&nbsp;», **raconte le président**." type="primary" %}
 
@@ -31,7 +31,7 @@ On peut aussi mettre l'incise au milieu de la citation, séparée ou non par des
 
 {% include callout.html content="«&nbsp;En valeur absolue, cela reste faible&nbsp;**», reconnaît-il, «**&nbsp;mais cela reste un résultat encourageant.&nbsp;»<br/><br/>«&nbsp;En quelque sorte**, dit Philippe Quéau,** avec la simulation, les images précèdent le réel.&nbsp;»" type="primary" %}
 
-Dans l'incise, si le sujet est un pronom il est lié au verbe par un trait d'union. Si le verbe est à un temps composé, le pronom sujet suit directement l'auxiliaire. Mais si le sujet est un nom, il suit le participe passé. Comme pour l'inversion dans l'interrogation, un **-t-** est ajouté pour faciliter la liaison entre un verbe se terminant par une voyelle et un pronom sujet commençant par une voyelle.
+Dans l'incise, si le sujet est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> il est lié au verbe par un trait d'union. Si le verbe est à un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composé</a>, le pronom sujet suit directement l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a>. Mais si le sujet est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a>, il suit le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>. Comme pour l'inversion dans l'interrogation, un **-t-** est ajouté pour faciliter la liaison entre un verbe se terminant par une voyelle et un pronom sujet commençant par une voyelle.
 
 {% include callout.html content="«&nbsp;Si le nombre de bénévoles est important&nbsp;», **a-t-il ajouté**, «&nbsp;il en manque encore&nbsp;».<br/><br/>«&nbsp;Nous avons répondu à une urgence&nbsp;», **a expliqué M. Wahl**, rappelant que «&nbsp;l'ensemble des élus nous en parlent depuis le début de l'année&nbsp;»." type="primary" %}
 
@@ -51,11 +51,11 @@ Au style indirect, on doit faire attention aux mots *déictiques*. Les mots déi
 
 Les éléments déictiques d'une citation qui peuvent changer au style indirect incluent les pronoms personnels, les temps des verbes, et des mots spatials ou temporels comme *ici* et *maintenant*.
 
-Comparez les citations suivantes aux styles directs et indirects. *Est-ce que*, qui introduit une question totale, change en *si*, qui introduit une question totale au discours indirect. Le pronom personnel *tu* change en *je*. Le temps du verbe change du présent à l'imparfait, et le mot *demain* est remplacé par *le lendemain*. Tous ces changements suivent du fait que la citation est relatée de manière indirecte à un moment plus tard par la personne à qui elle a été adressée.
+Comparez les citations suivantes aux styles directs et indirects. *Est-ce que*, qui introduit une question totale, change en *si*, qui introduit une question totale au discours indirect. Le pronom personnel *tu* change en *je*. Le temps du verbe change du présent à l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>, et le mot *demain* est remplacé par *le lendemain*. Tous ces changements suivent du fait que la citation est relatée de manière indirecte à un moment plus tard par la personne à qui elle a été adressée.
 
 {% include callout.html content="Direct : *Le soir, il m'a demandé «&nbsp;**Est-ce que tu peux** apporter les croissants **demain**&nbsp;?&nbsp;»*<br/>Indirect : *Le soir, il m'a demandé **si je pouvais** apporter les croissants **le lendemain**.*" type="primary" %}
 
-Pour relater une déclaration au style indirect, utilisez **que** pour associer la phrase principale (*il dit*, *il pense*, etc.) et la phrase subordonnée&nbsp;:
+Pour relater une déclaration au style indirect, utilisez **que** pour associer la phrase principale (*il dit*, *il pense*, etc.) et la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a>&nbsp;:
 
 {% include callout.html content="**Il dit que** ça donne du goût à la crème brûlée.<br/>(*«&nbsp;Ça donne du goût à la crème brûlée.&nbsp;»*)" type="primary" %}
 
@@ -71,7 +71,7 @@ Pour relater des questions commençant par *que*, *qu'est-ce que* et *qu'est-ce 
 
 {% include callout.html content="Je ne **comprends** pas **ce que** vous dites.<br/>(*«&nbsp;Qu'est-ce que vous dites&nbsp;?&nbsp;»*)<br/><br/>Grand-père **veut savoir ce qui** est arrivé à son neveu.<br/>(*«&nbsp;Qu'est-ce qui est arrivé à mon neveu&nbsp;?&nbsp;»*)" type="primary" %}
 
-Pour relater un ordre, remplacez l'impératif par **de** (**d'**) + infinitif&nbsp;:
+Pour relater un ordre, remplacez l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a> par **de** (**d'**) + <a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>&nbsp;:
 
 {% include callout.html content="Ils **ont dit de** prendre le bus 148.<br/>(*«&nbsp;Prenez le bus 148.&nbsp;»*)<br/><br/>Je lui **ai dit de** ne pas venir.<br/>(*«&nbsp;Ne viens pas.&nbsp;»*)" type="primary" %}
 

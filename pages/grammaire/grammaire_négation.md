@@ -8,7 +8,7 @@ folder: grammaire
 ---
 
 ## Introduction
-La négation est un terme grammatical pour la contradiction en tout ou en partie du sens d'une phrase affirmative. Des mots de plusieurs catégories différentes peuvent contribuer à la négation. Il y a des adverbes, des pronoms, des déterminants, et des conjonctions négatives.
+La négation est un terme grammatical pour la contradiction en tout ou en partie du sens d'une phrase affirmative. Des mots de plusieurs catégories différentes peuvent contribuer à la négation. Il y a des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a>, des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronoms</a>, des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.determinant}}">déterminants</a>, et des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonctions</a> négatives.
 
 - Adverbes négatifs&nbsp;: *pas* (*pas du tout*, *pas encore*, *toujours pas*), *jamais*, *plus*, *point*, *guère*, *aucunement*, *nullement*, *nulle part*, *non plus*
 
@@ -24,23 +24,23 @@ Dans la langue standarde écrite, les négateurs s'accompagnent typiquement du m
 
 {% include variation.html content="On omet très souvent le mot *ne* à l'oral et surtout dans des registres moins soutenus, comme la conversation informelle. Ce phénomène est répandu partout dans le monde francophone. L'omission de *ne* est plus fréquente après un pronom sujet (e.g. *Je sais pas*, *Elle va jamais le faire*) qu'après un nom sujet (e.g. *Marie n'est pas venue*, *La boulangerie n'a plus de baguettes*)." %}
 
-La construction *ne...que* n'est pas exactement une négation, étant donné qu'elle a un sens restrictif (*seulement*) plutôt que négatif.
+La <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> *ne...que* n'est pas exactement une négation, étant donné qu'elle a un sens restrictif (*seulement*) plutôt que négatif.
 
 ## Les négateurs
 
 ### adverbes négatifs
 
-Les négateurs qui sont des adverbes (*pas*, *jamais*, *plus*, etc.) se placent après le verbe conjugué pour mettre une phrase au négatif. **Ne** est mis devant le verbe et devant des pronoms compléments ou pronoms adverbiaux qui précèdent le verbe (*le*, *lui*, *se*, *y*, etc.). Notez que **ne** se transforme en **n'** devant un verbe commençant par une voyelle ou un *h* muet. 
+Les négateurs qui sont des adverbes (*pas*, *jamais*, *plus*, etc.) se placent après le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a> <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> pour mettre une phrase au négatif. **Ne** est mis devant le verbe et devant des pronoms <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">compléments</a> ou pronoms adverbiaux qui précèdent le verbe (*le*, *lui*, *se*, *y*, etc.). Notez que **ne** se transforme en **n'** devant un verbe commençant par une voyelle ou un *h* muet. 
 
 {% include callout.html content="On **ne** court **pas**.<br/><br/>Le problème, c'est que les choses **ne** se passent **jamais** comme ça.<br/><br/>Je **n'**en ai **plus** besoin dans ma cuisine." type="primary" %} 
 
-Aux temps composés, comme le passé composé, l'adverbe de négation suit l'auxiliaire, *avoir* ou *être*, et précède le participe passé. Au futur périphrastique ou dans d'autres constructions avec un verbe conjugué et un infinitif, **ne ... [adverbe]** se met autour du verbe conjugué.
+Aux <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>, comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, l'adverbe de négation suit l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a>, *avoir* ou *être*, et précède le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>. Au futur périphrastique ou dans d'autres constructions avec un verbe conjugué et un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>, **ne ... [adverbe]** se met autour du verbe conjugué.
 
 {% include callout.html content="Je **n'**ai **pas** fini.<br/><br/>Ça **ne** va **pas** commencer." type="primary" %}
 
 {% include information.html content="Les adverbes plus longs (*complètement*) et les adverbes de temps (*hier*) suivent le participe passé ou l'infinitif (voir [Adverbes](/grammaire_adverbes.html#place)). C'est aussi le cas pour les négateurs *nulle part* et *non plus*&nbsp;:<br/>- *Mais moi, je **ne** veux aller **nulle part**.*<br/>*Non plus* est une continuation de la négation qui doit accompagner un autre négateur&nbsp;:<br/>- *Je **ne** l'ai **jamais** cuisiné **non plus**.*" %}
 
-En cas d'inversion du verbe et du pronom sujet, **ne** est placé devant le verbe et ses pronoms compléments, avec le négateur après le sujet.
+En cas d'inversion du verbe et du pronom <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a>, **ne** est placé devant le verbe et ses pronoms compléments, avec le négateur après le sujet.
 
 {% include callout.html content="C'est idiot, pourquoi **ne** m'a-t-il **pas** prévenu&nbsp;?" type="primary" %}
 
@@ -74,7 +74,7 @@ Les pronoms négatifs (*personne*, *rien*, *grand-chose*, *aucun*, *nul*) peuven
 
 {% include callout.html content="**Personne ne** le regrette car tout le monde le détestait.<br/><br/>Mais ici, **rien ne** peut nous arriver.<br/><br/>**Pas grand-chose n'**a changé dans l'équilibre des pouvoirs à Washington avec cette élection.<br/><br/>**Aucun ne** cherche à fuir ses responsabilités.<br/><br/>**Nul ne** croit qu'il durera réellement." type="primary" %}
 
-*Personne*, *rien*, *grand-chose*, et *aucun* peuvent aussi être compléments (directs ou obliques) du verbe&nbsp;:
+*Personne*, *rien*, *grand-chose*, et *aucun* peuvent aussi être compléments (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">directs</a> ou <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">obliques</a>) du verbe&nbsp;:
 
 {% include callout.html content="Il **ne** demande de l'aide à **personne**.<br/><br/>Je **n'**ai **rien** payé pour entrer.<br/><br/>On ne sait **pas grand-chose** de ces gens.<br/><br/>Non, je n'en reconnais **aucun**." type="primary" %}
 
@@ -82,7 +82,7 @@ En tant que complément, **rien** est placé entre l'auxiliaire et le participe 
 
 {% include callout.html content="J'étais devant le rayon charcuterie et je **ne** pouvais **rien** acheter.<br/><br/>Et je **ne** dois laisser entrer **personne**.<br/><br/>La loi **n'**a donc **pas** changé **grand-chose**." type="primary" %}
 
-Si un pronom négatif est suivi d'un adjectif, l'adjectif est marqué par la préposition **de**.
+Si un pronom négatif est suivi d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a>, l'adjectif est marqué par la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> **de**.
 
 {% include callout.html content="Il n'y a **rien de nouveau**." type="primary" %}
 
@@ -96,9 +96,9 @@ La préposition **sans** peut créer un contexte négatif où on peut employer u
 
 ### déterminants négatifs
 
-Les déterminants négatifs *aucun* et *nul* sont des quantifieurs qui indiquent que 0% de l'ensemble qu'ils quantifient s'applique dans la phrase (*aucun livre* = '0% des livres'). Les pronoms négatifs sont aussi des quantifieurs, avec un ensemble sous-entendu, générique, ou indiqué en contexte (*rien* = '0% des choses dont on parle, 0% de tout'). Il y a d'autres sortes de quantifieurs qui indiquent d'autres quantités que 0%, comme *tout* ou *la plupart* (voir [Quantifieurs](/grammaire_quantifieurs.html)).
+Les déterminants négatifs *aucun* et *nul* sont des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.quantifieur}}">quantifieurs</a> qui indiquent que 0% de l'ensemble qu'ils quantifient s'applique dans la phrase (*aucun livre* = '0% des livres'). Les pronoms négatifs sont aussi des quantifieurs, avec un ensemble sous-entendu, générique, ou indiqué en contexte (*rien* = '0% des choses dont on parle, 0% de tout'). Il y a d'autres sortes de quantifieurs qui indiquent d'autres quantités que 0%, comme *tout* ou *la plupart* (voir [Quantifieurs](/grammaire_quantifieurs.html)).
 
-Le nom déterminé par *aucun* ou *nul* est singulier et peut être sujet ou complément. Ces déterminants font l'accord en genre avec le nom qu'ils modifient. Le mot *ne* est ajouté devant le verbe.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> déterminé par *aucun* ou *nul* est singulier et peut être sujet ou complément. Ces déterminants font l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> en genre avec le nom qu'ils modifient. Le mot *ne* est ajouté devant le verbe.
 
 {% include callout.html content="Nous **n'**avions trouvé **aucune forme** de vie animale, uniquement végétale.<br/><br/>**Aucun adjectif ne** lui convient; à neuf ans, il est déjà un verbe.<br/><br/>Vous **ne** trouverez **nulle mention** de ce fait dans la presse française, ou même européenne." type="primary" %} 
 
