@@ -8,20 +8,20 @@ folder: grammaire
 ---
 
 ## Introduction
-Un participe est une forme verbale spéciale qui par sa fonction a plus en commun avec les modificateurs (adjectifs, adverbes, etc.) que les verbes. Il y a deux participes en français&nbsp;: le participe présent et le participe passé.
+Un participe est une forme <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbale</a> spéciale qui par sa fonction a plus en commun avec les modificateurs (<a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectifs</a>, <a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbes</a>, etc.) que les autres emplois des verbes. Il y a deux participes en français&nbsp;: le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-present}}">participe présent</a> et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>.
 
-Le participe présent se termine toujours par **-ant**. Les participes présents sont généralement traduits par la forme *-ing* du verbe anglais (mais beaucoup d'emplois du verbe anglais en *-ing* sont traduits en français par l'infinitif, l'indicatif, ou un nom).
+Le participe présent se termine toujours par **-ant**. Les participes présents sont généralement traduits par la forme *-ing* du verbe anglais (mais beaucoup d'emplois du verbe anglais en *-ing* sont traduits en français par l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>, l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>, ou un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a>).
 
 {% include callout.html content="Elle porte un sac **contenant** ses outils et son nécessaire de nettoyage." type="primary" %}
 
-Le participe passé est utilisé pour former les temps composés, comme le passé composé, et dans la construction passive. Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'accorde en nombre et en genre avec le nom il qualifie.
+Le participe passé est utilisé pour former les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>, comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, et dans la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> passive. Un participe passé peut également être utilisé comme adjectif dans certains contextes. Lorsqu'il est utilisé comme adjectif, le participe s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorde</a> en nombre et en genre avec le nom il qualifie.
 
 {% include callout.html content="J'ai **perdu** plus de 10 000 francs dans cette affaire.<br/><br/>On en est donc à 73 milliards de francs **perdus** dans ce dramatique sinistre." type="primary" %}
 
 ## Participe présent
 
 ### forme
-Le participe présent est formé en supprimant la terminaison **-ons** de la forme **nous** au présent et en ajoutant **-ant**. Les participes présents sont invariables.
+Le participe présent est formé en supprimant la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaison</a> **-ons** de la forme **nous** au présent et en ajoutant **-ant**. Les participes présents sont invariables.
 
 * chanter (nous **chant**ons) > **chantant**
 * finir (nous **finiss**ons) > **finissant**
@@ -40,7 +40,7 @@ Seuls trois verbes, **être**, **avoir** et **savoir**, ont des participes prés
 
 ### emplois
 
-Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une phrase relative avec **qui + verbe conjugué** soit à une phrase subordonnée avec **puisque**.
+Le participe présent peut être utilisé pour modifier un nom, de sens similaire soit à une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-relative}}">phrase relative</a> avec **qui + verbe <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a>** soit à une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> avec **puisque**.
 
 {% include callout.html content="Le pain de Gênes est un gâteau à pâte assez dense, **contenant** des amandes pilées. (*qui contient...*)<br/><br/>Enfin, la loi **étant** inapplicable ca créé de nombreuses inégalitées devant la justice. (*puisque la loi est inapplicable...*)" type="primary" %}
 
@@ -48,7 +48,7 @@ Le participe présent peut indiquer la cause, le résultat, ou les circonstances
 
 {% include callout.html content="Il était temps&nbsp;: les jeux traditionnels **déclinant** ici plus qu'ailleurs, les casinos étaient exsangues.<br/><br/>Il est invaincu depuis la deuxième partie de la saison, **suscitant** l'admiration de tous.<br/><br/>Il voyait des conspirateurs communistes partout, **accusant** le magazine The Economist d'être gangrené par les marxistes." type="primary" %}
 
-Le complément direct du verbe principal peut être le sujet du participe passé&nbsp;:
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> du verbe principal peut être le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> du participe passé&nbsp;:
 
 {% include callout.html content="En 2010, on **l'**a vue **portant** la flamme olympique avant les Jeux d'hiver organisés dans sa ville." type="primary" %}
 
@@ -72,7 +72,7 @@ Le participe présent est invariable, mais les adjectifs dérivés du participe 
 
 ### forme
 
-Le participe passé des verbes réguliers en **-er** (et *aller*) est formé en ajoutant **-é** au radical&nbsp;:
+Le participe passé des verbes réguliers en **-er** (et *aller*) est formé en ajoutant **-é** au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a>&nbsp;:
 + *parler* > **parlé**
 
 Le participe passé des verbes réguliers en **-ir** est formé en ajoutant **-i** au radical&nbsp;:
@@ -106,7 +106,7 @@ Voici les participes passés irréguliers les plus courants&nbsp;:
 
 ### emplois
 
-Le participe passé est utilisé avec un auxiliaire (avoir ou être) à plusieurs temps composés. Il s'accorde parfois avec le sujet ou le complément direct (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
+Le participe passé est utilisé avec un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> (avoir ou être) à plusieurs temps composés. Il s'accorde parfois avec le sujet ou le complément direct (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
 
 {% include callout.html content="Il a **participé** à l'enregistrement de nombreux albums.<br/><br/>Il y a beaucoup d'études qui sont **sorties** sur ce sujet." type="primary" %}
 

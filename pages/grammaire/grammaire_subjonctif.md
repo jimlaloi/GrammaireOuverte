@@ -9,15 +9,15 @@ folder: grammaire
 
 ## Introduction
 
-Le subjonctif est un mode verbal. Comme tous les modes, il indique la relation entre la réalité et la situation évoquée par le verbe. Le subjonctif indique que la situation existe dans l'attitude du locuteur---par exemple, que le locuteur veut la situation, doute la situation, éprouve un sentiment envers la situation, voit la situation comme nécessaire, etc.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a> est un mode verbal. Comme tous les modes, il indique la relation entre la réalité et la situation évoquée par le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>. Le subjonctif indique que la situation existe dans l'attitude du locuteur---par exemple, que le locuteur veut la situation, doute la situation, éprouve un sentiment envers la situation, voit la situation comme nécessaire, etc.
 
 Cela ne veut pas forcément dire que la situation ne s'est pas aussi produite dans la réalité. Dans l'exemple ci-dessous, la personne à qui la phrase est adressée semble être venue. Mais le but de la phrase est de dire quelque chose sur les désirs du locuteur plutôt que de déclarer que quelqu'un est venu.
 
 {% include callout.html content="C'est pour ça que j'*ai voulu que* tu **viennes** avec nous." type="primary" %}
 
-Le subjonctif apparaît presque toujours en phrase complexe, dans la phrase subordonnée. Dans ce cas c'est la phrase principale qui indique l'attitude du locuteur. La phrase subordonnée avec le verbe au subjonctif est typiquement introduite par la conjonction de subordination *que* (voir [Conjonctions](/grammaire_conjonctions.html)).
+Le subjonctif apparaît presque toujours en phrase complexe, dans la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a>. Dans ce cas c'est la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a> qui indique l'attitude du locuteur. La phrase subordonnée avec le verbe au subjonctif est typiquement introduite par la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> de subordination *que* (voir [Conjonctions](/grammaire_conjonctions.html)).
 
-Comme le conditionnel, le subjonctif peut être conjugué au présent ou au passé. Les seules formes du subjonctif qui sont utilisées courrament sont le **présent du subjonctif** (l'équivalent du présent de l'indicatif) et le **passé du subjonctif** (l'équivalent du passé composé de l'indicatif). Il existe aussi un imparfait du subjonctif et un plus-que-parfait du subjonctif, mais ces formes ne sont utilisées qu'en registre très soutenu à l'écrit (voir [Temps littéraires](/grammaire_temps_littéraires.html)). Ils sont généralement remplacés par le présent du subjonctif ou le passé du subjonctif.
+Comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conditionnel}}">conditionnel</a>, le subjonctif peut être <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> au présent ou au passé. Les seules formes du subjonctif qui sont utilisées courrament sont le **présent du subjonctif** (l'équivalent du présent de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>) et le **passé du subjonctif** (l'équivalent du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a> de l'indicatif). Il existe aussi un imparfait du subjonctif et un plus-que-parfait du subjonctif, mais ces formes ne sont utilisées qu'en registre très soutenu à l'écrit (voir [Temps littéraires](/grammaire_temps_littéraires.html)). Ils sont généralement remplacés par le présent du subjonctif ou le passé du subjonctif.
 
 Il n'y a pas de futur du subjonctif---si la phrase principale est au futur, la phrase subordonnée aura le verbe au présent du subjonctif (par exemple&nbsp;: *Il **voudra** que je lui **écrive** un poème pour sa petite Amandine*).
 
@@ -27,12 +27,12 @@ La grande majorité des verbes sont réguliers au subjonctif. Même beaucoup de 
 
 ### verbes réguliers
 
-Pour toutes les personnes du singulier (*je*, *tu*, *il*/*elle*/*on*), le subjonctif des verbes réguliers est formé en prenant la forme *ils*/*elles* du présent de l'indicatif, en supprimant le *-ent*, et en ajoutant les terminaisons **-e**, **-es**, **-e**&nbsp;:
+Pour toutes les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personnes</a> du singulier (*je*, *tu*, *il*/*elle*/*on*), le subjonctif des verbes réguliers est formé en prenant la forme *ils*/*elles* du présent de l'indicatif, en supprimant le *-ent*, et en ajoutant les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaisons</a> **-e**, **-es**, **-e**&nbsp;:
 * présent de l'indicatif&nbsp;: *ils reçoivent*
 * supprimer *-ent*&nbsp;: *reçoiv*
 * ajouter les terminaisons&nbsp;: *que je reçoiv<ins>e</ins>*, *que tu reçoiv<ins>es</ins>*, *qu'il/elle/on reçoiv<ins>e</ins>*
 
-Pour les première et deuxième personnes du pluriel (*nous* et *vous*), la forme du subjonctif est la même que celle de l'imparfait de l'indicatif&nbsp;:
+Pour les première et deuxième personnes du pluriel (*nous* et *vous*), la forme du subjonctif est la même que celle de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a> de l'indicatif&nbsp;:
 * imparfait&nbsp;: *nous recevions*, *vous receviez*
 * subjonctif&nbsp;: *que nous recevions*, *que vous receviez*
 
@@ -52,7 +52,7 @@ Notez que pour beaucoup de verbes, le subjonctif a la même forme que le présen
 
 ### verbes irréguliers
 
-Les verbes suivants ont les mêmes terminaisons que les verbes réguliers (*-e*, *-es*, *-e*, *-ions*, *-iez*, *-ent*), mais un radical irrégulier&nbsp;:
+Les verbes suivants ont les mêmes terminaisons que les verbes réguliers (*-e*, *-es*, *-e*, *-ions*, *-iez*, *-ent*), mais un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> irrégulier&nbsp;:
 * faire&nbsp;: **fass**- (*que je **fass<ins>e</ins>***, *que nous **fass<ins>ions</ins>***, etc.)
 * pouvoir&nbsp;: **puiss**- (*que je **puiss<ins>e</ins>***, *que nous **puiss<ins>ions</ins>***, etc.)
 * savoir&nbsp;: **sach**- (*que je **sach<ins>e</ins>***, *que nous **sach<ins>ions</ins>***, etc.)
@@ -81,7 +81,7 @@ Les verbes *être* et *avoir* sont complètement irréguliers au subjonctif&nbsp
 {% include information.html content="La voyelle des formes au subjonctif d'*avoir* (*aie*, *aies*, *ait*, *aient*) est la même que dans le présent de l'indicatif *j'ai*&nbsp;: [e]. Les formes de *je*, *tu*, *il*/*elle*/*on* et *ils*/*elles* au subjonctif d'*aller* (*aille*, *ailles*, *aillent*) riment avec *taille* et *travail*&nbsp;: [aj]. On ne prononce le *ll* comme [l] que pour les formes de *nous* et *vous*&nbsp;: *allions* [aljɔ̃], *alliez* [alje]." %}
 
 ### passé du subjonctif
-Le passé du subjonctif ressemble au passé composé en ce qu'il est formé avec le subjonctif présent du verbe auxiliaire approprié (**avoir** ou **être**) et le participe passé du verbe principal. Notez que le participe passé doit parfois faire l'accord en genre et en nombre avec le sujet ou le complément direct (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
+Le passé du subjonctif ressemble au passé composé en ce qu'il est formé avec le subjonctif présent du verbe <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> approprié (**avoir** ou **être**) et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> du verbe principal. Notez que le participe passé doit parfois faire l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> en genre et en nombre avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
 
 | rire |
 |---|---|
@@ -109,11 +109,11 @@ Des mots de plusieurs catégories peuvent prendre comme complément une phrase s
 
 {% include callout.html content="Mais je **doute** <ins>**que** cette idée **reçoive** un appui enthousiaste</ins>." type="primary" %}
 
-+ complément d'adjectif (*content que...*, *évident que...*, *essentiel que...*, etc.)
++ complément d'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.adjectif}}">adjectif</a> (*content que...*, *évident que...*, *essentiel que...*, etc.)
 
 {% include callout.html content="Il est pourtant **essentiel** <ins>**que** tout le monde **aille** dans le même sens</ins>." type="primary" %}
 
-+ complément de préposition (*pour que...*, *avant que...*, *sans que...*, etc.)
++ complément de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.preposition}}">préposition</a> (*pour que...*, *avant que...*, *sans que...*, etc.)
 
 {% include callout.html content="Tu pourras pleurer **sans** <ins>**qu'**on te **voie**</ins>." type="primary" %}
 
@@ -121,7 +121,7 @@ Des mots de plusieurs catégories peuvent prendre comme complément une phrase s
 
 {% include callout.html content="Eh bien&nbsp;! ce matin, la bécane était propre, **bien** <ins>**qu'**il **ait plu** toute la nuit</ins>&nbsp;!" type="primary" %}
 
-Notez que si la phrase subordonnée est un complément oblique (marqué par la préposition **à**), on la joint à la phrase principale par **ce que** (non seulement par *que*)
+Notez que si la phrase subordonnée est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-oblique}}">complément oblique</a> (marqué par la préposition **à**), on la joint à la phrase principale par **ce que** (non seulement par *que*)
 
 {% include callout.html content="Je **tenais** <ins>**à**</ins> **ce que** vous le **sachiez**.<br/><br/>Seriez-vous **opposé** <ins>**à**</ins> **ce qu'**elle **vienne** vivre à Paris&nbsp;?<br/><br/>Ou bien je roulerais dans le désert **jusqu'**<ins>**à**</ins> **ce que** le réservoir de ma bagnole **soit** vide." type="primary" %}
 
@@ -134,7 +134,7 @@ Il y a bien sûr beaucoup de locutions qui prennent comme complément une phrase
 
 {% include callout.html content="**Il faut** absolument **que** je **lise** pour trouver le sommeil.<br/><br/>Il est donc **important que** la commission **puisse** travailler sereinement." type="primary" %}
 
-Notez que le verbe *devoir* exprime l'obligation, mais ne peut pas prendre une phrase subordonnée comme complément direct. *Devoir* prend comme complément direct un infinitif (*Je dois faire...*) ou un nom avec le sens 'owe' (*Je dois de l'argent...*).
+Notez que le verbe *devoir* exprime l'obligation, mais ne peut pas prendre une phrase subordonnée comme complément direct. *Devoir* prend comme complément direct un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.term}}">infinitif</a> (*Je dois faire...*) ou un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.nom}}">nom</a> avec le sens 'owe' (*Je dois de l'argent...*).
 
 ### le désir
 
@@ -215,15 +215,15 @@ Certaines conjonctions ne peuvent pas prendre un complément infinitif et ont do
 
 On vient de voir que le contexte typique du subjonctif est dans une phrase subordonnée qui est complément d'une expression d'obligation, de désir, d'émotion, de doute, ou d'éventualité. Mais le subjonctif apparaît dans quelques autres contextes aussi.
 
-Le subjonctif peut apparaître dans une phrase introduite par un [pronom relatif](/grammaire_pronoms_relatifs.html) (*qui*, *que*, *dont*, etc.) si l'existence de l'antécédent est souhaitée par le locuteur, mais n'est pas certaine. En revanche, si l'existence ou la possibilité de l'antécédent est probable et/ou certaine, alors le doute est retiré et l'indicatif est utilisé.
+Le subjonctif peut apparaître dans une phrase introduite par un [pronom relatif](/grammaire_pronoms_relatifs.html) (*qui*, *que*, *dont*, etc.) si l'existence de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.antecedent}}">antécédent</a> est souhaitée par le locuteur, mais n'est pas certaine. En revanche, si l'existence ou la possibilité de l'antécédent est probable et/ou certaine, alors le doute est retiré et l'indicatif est utilisé.
 
 {% include callout.html content="Je cherche <ins>un homme qui</ins> **sache** voir en une femme sa beauté intérieure. (subjonctif&nbsp;: existe-t-il un tel homme&nbsp;?)<br/><br/>Je cherche <ins>un type qui</ins> me **doit** de l'argent. (indicatif&nbsp;: une personne spécifique)" type="primary" %}
 
-Si l'antécédent d'un pronom relatif est un [superlatif](/grammaire_comparatif.html) (*le meilleur*, *le plus beau*, etc.) ou une expression similaire (*le premier*, *le seul*, *le dernier*, *il n'y a que*) qui contient une opinion *subjective*, on utilise le subjonctif. En revanche, si l'expression superlative contient un *fait* ou une opinion tout à fait *objective*, alors l'indicatif est utilisé puisque l'idée est dénuée de toute sorte de doute.
+Si l'antécédent d'un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronom</a> relatif est un [superlatif](/grammaire_comparatif.html) (*le meilleur*, *le plus beau*, etc.) ou une expression similaire (*le premier*, *le seul*, *le dernier*, *il n'y a que*) qui contient une opinion *subjective*, on utilise le subjonctif. En revanche, si l'expression superlative contient un *fait* ou une opinion tout à fait *objective*, alors l'indicatif est utilisé puisque l'idée est dénuée de toute sorte de doute.
 
 {% include callout.html content="C'est <ins>une des plus belles chansons</ins> que je **connaisse**. (subjonctif&nbsp;: à mon avis, que je peux imaginer)<br/><br/>C'est <ins>le plus grand tournoi</ins> que nous **avons** dans notre sport. (indicatif&nbsp;: un fait)" type="primary" %}
 
-En début de phrase, **que + phrase au subjonctif** peut avoir un sens proche de l'impératif, mais pour la troisième personne (L'impératif ne permet que la deuxième personne et la première personne du pluriel). Cette construction exprime souvent un souhait plutôt qu'une demande.
+En début de phrase, **que + phrase au subjonctif** peut avoir un sens proche de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a>, mais pour la troisième personne (L'impératif ne permet que la deuxième personne et la première personne du pluriel). Cette <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> exprime souvent un souhait plutôt qu'une demande.
 
 {% include callout.html content="Qu'ils **soient** ici comme chez eux&nbsp;!<br/><br/>Qu'il **parte**&nbsp;!" type="primary" %}
 

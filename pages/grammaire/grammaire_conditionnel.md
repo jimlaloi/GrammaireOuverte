@@ -8,15 +8,15 @@ folder: grammaire
 ---
 
 ## Introduction
-Le conditionnel est un mode verbal. Comme tous les modes, il indique la relation entre la réalité et la situation évoquée par le verbe. Le conditionnel indique que la situation évoquée par le verbe dépend de la réalisation d'une condition.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conditionnel}}">conditionnel</a> est un mode verbal. Comme tous les modes, il indique la relation entre la réalité et la situation évoquée par le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbe</a>. Le conditionnel indique que la situation évoquée par le verbe dépend de la réalisation d'une condition.
 
-Le conditionnel peut être conjugué au présent et au passé, mais pas au futur. Pour dire qu'une situation future dépend de la réalisation d'une condition, on utilise le futur de l'indicatif.
+Le conditionnel peut être <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> au présent et au passé, mais pas au futur. Pour dire qu'une situation future dépend de la réalisation d'une condition, on utilise le futur de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>.
 
 ## Présent du conditionnel
 
 ### forme
 
-Les terminaisons du conditionnel sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez**, **-aient** (Ce sont aussi les terminaisons de l'imparfait).
+Les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaisons</a> du conditionnel sont **-ais**, **-ais**, **-ait**, **-ions**, **-iez**, **-aient** (Ce sont aussi les terminaisons de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a>).
 
 | jouer |
 |---|---|
@@ -24,7 +24,7 @@ Les terminaisons du conditionnel sont **-ais**, **-ais**, **-ait**, **-ions**, *
 | tu **jouer<ins>ais</ins>** | vous **jouer<ins>iez</ins>** |
 | il/elle/on **jouer<ins>ait</ins>** | ils/elles **jouer<ins>aient</ins>** |
 
-Le radical utilisé pour former le conditionnel est le même que le radical du futur. C'est l'infinitif pour les verbes réguliers en *-er* (*aimer*&nbsp;: *j'<ins>aimer</ins>ais*), en *-ir* (*finir*&nbsp;: *je <ins>finir</ins>ais*), et en *-re* (*vendre*&nbsp;: *je <ins>vendr</ins>ais*). N'oubliez pas de supprimer le *e* final de l'infinitif des verbes en *-re* pour faire le radical du conditionnel.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> utilisé pour former le conditionnel est le même que le radical du futur. C'est l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a> pour les verbes réguliers en *-er* (*aimer*&nbsp;: *j'<ins>aimer</ins>ais*), en *-ir* (*finir*&nbsp;: *je <ins>finir</ins>ais*), et en *-re* (*vendre*&nbsp;: *je <ins>vendr</ins>ais*). N'oubliez pas de supprimer le *e* final de l'infinitif des verbes en *-re* pour faire le radical du conditionnel.
 
 Les verbes avec des radicaux irréguliers au futur utilisent les mêmes radicaux irréguliers au conditionnel. Voici une liste des radicaux irréguliers les plus courants&nbsp;:
 
@@ -58,7 +58,7 @@ Pour la première personne au singulier, la distinction dépend du dialecte. Cer
 
 ### fonction
 
-Le conditionnel est utilisé notamment dans des *phrases conditionnelles*. Une phrase conditionnelle est une phrase complexe---c'est-à-dire que c'est une phrase qui comprend une autre phrase (voir [Conjonctions](/grammaire_conjonctions.html)). La phrase principale d'une phrase conditionnelle s'appelle le **conséquent** et contient un verbe au conditionnel. La phrase subordonnée s'appelle la **condition** et contient typiquement un verbe à l'imparfait. La condition est marquée par la conjonction de subordination **si**. La condition et le conséquent peuvent apparaître dans n'importe quel ordre.
+Le conditionnel est utilisé notamment dans des *phrases conditionnelles*. Une phrase conditionnelle est une phrase complexe---c'est-à-dire que c'est une phrase qui inclut plus d'une phrase (voir [Conjonctions](/grammaire_conjonctions.html)). La <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a> d'une phrase conditionnelle s'appelle le **conséquent** et contient un verbe au conditionnel. La <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> s'appelle la **condition** et contient typiquement un verbe à l'imparfait. La condition est marquée par la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> de subordination **si**. La condition et le conséquent peuvent apparaître dans n'importe quel ordre.
 
 {% include image.html file="conditionnel_conditionConséquent.png" alt="La condition et le conséquent dans une phrase conditionnelle" caption="La structure d'une phrase conditionnelle" %}
 
@@ -72,13 +72,13 @@ Le conditionnel est également utilisé pour donner des informations dont l'exac
 
 Dans ces phrases, on ne voit que le conséquent avec le verbe au conditionnel---la phrase ne contient pas la condition. Mais la condition est néanmoins supposée en contexte. La deuxième phrase suppose donc une interprétation comme la suivante&nbsp;: *Il y aurait au moins 16 morts* (*si les faits étaient conformes à ce que disent les premiers témoins*).
 
-Le conditionnel est aussi utilisé pour exprimer un souhait ou une suggestion, pour faire une demande, ou pour accepter ou présenter des invitations. C'est moins direct et plus poli que l'impératif. Les verbes *pouvoir*, *devoir* et *vouloir* se trouvent souvent au conditionnel pour diminuer la force d'une demande. Alors que le conditionnel d'un verbe se traduit typiquement en anglais par 'would [verbe]' (*j'irais* - 'I would go'), les conditionnels de *pouvoir*, *devoir*, et *vouloir* se traduisent typiquement par 'could', 'should', et 'would like'.
+Le conditionnel est aussi utilisé pour exprimer un souhait ou une suggestion, pour faire une demande, ou pour accepter ou présenter des invitations. C'est moins direct et plus poli que l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a>. Les verbes *pouvoir*, *devoir* et *vouloir* se trouvent souvent au conditionnel pour diminuer la force d'une demande. Alors que le conditionnel d'un verbe se traduit typiquement en anglais par 'would [verbe]' (*j'irais* - 'I would go'), les conditionnels de *pouvoir*, *devoir*, et *vouloir* se traduisent typiquement par 'could', 'should', et 'would like'.
 
 {% include callout.html content="Je **voudrais** un morceau de nougat s'il vous plaît.<br/><br/>J'**aimerais** vraiment une réponse à cette question.<br/><br/>Cette somme **pourrait** et **devrait** être consacrée au financement de la construction de logements sociaux." type="primary" %}
 
 Encore une fois, cet emploi n'inclut que le conséquent. La condition n'est pas exprimée dans la phrase. Mais cet emploi 'indirect' ou 'poli' du conditionnel implique quand même une condition. La première phrase ci-dessus suppose une interprétation comme la suivante&nbsp;: (*Si j'osais vous le demander*) *je voudrais un morceau de nougat*. L'implication est qu'on n'ose pas demander directement, alors on demande indirectement en employant le conditionnel.
 
-Le conditionnel est utilisé après l'expression **au cas où** pour indiquer une éventualité pour laquelle on se prépare. On voit parfois l'indicatif dans cette construction si on a assez de confiance dans l'éventualité. Cette expression peut aussi être mise en fin de phrase, sans spécifier l'éventualité.
+Le conditionnel est utilisé après l'expression **au cas où** pour indiquer une éventualité pour laquelle on se prépare. On voit parfois l'indicatif dans cette <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> si on a assez de confiance dans l'éventualité. Cette expression peut aussi être mise en fin de phrase, sans spécifier l'éventualité.
 
 {% include callout.html content="Il fallait effacer ça **au cas où** la police **viendrait** l'interroger.<br/><br/>Je préfère rester près du téléphone **au cas où** l'avocat **appelle**.<br/><br/>Je vous tiens au courant **au cas où**." type="primary" %}
 
@@ -88,7 +88,7 @@ De plus, le conditionnel représente le futur dans le discours indirect au pass�
 
 ## Passé du conditionnel
 
-Le passé du conditionnel est un temps composé, c'est-à-dire qu'il a deux parties, un auxiliaire et le participe passé. Le passé du conditionnel est formé avec le conditionnel de l'auxiliaire (*avoir* ou *être*) et le participe passé du verbe principal.
+Le passé du conditionnel est un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composé</a>, c'est-à-dire qu'il a deux parties, un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a>. Le passé du conditionnel est formé avec le conditionnel de l'auxiliaire (*avoir* ou *être*) et le participe passé du verbe principal.
 
 >*Passé du conditionnel* = *auxiliaire au conditionnel* + *participe passé*
 
@@ -98,7 +98,7 @@ Le passé du conditionnel est un temps composé, c'est-à-dire qu'il a deux part
 | tu **aurais dit** | vous **auriez dit** |
 | il/elle/on **aurait dit** | ils/elles **auraient dit** |
 
-Le choix d'auxiliaire pour le passé du conditionnel se fait sur les mêmes principes que pour le passé composé et les autres temps composés. Le participe passé doit parfois s'accorder en genre et en nombre avec le sujet ou le complément direct (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
+Le choix d'auxiliaire pour le passé du conditionnel se fait sur les mêmes principes que pour le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a> et les autres temps composés. Le participe passé doit parfois s'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accorder</a> en genre et en nombre avec le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> ou le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement-direct}}">complément direct</a> (voir [Passé composé](/grammaire_passé_composé.html#laccord)).
 
 | partir |
 |---|---|
@@ -110,7 +110,7 @@ Comme le présent du conditionnel, le passé du conditionnel est utilisé pour l
 
 {% include callout.html content="On **aurait aimé** livrer un meilleur match, mais la victoire est là.<br/><br/>J'**aurais voulu** le faire plus tôt mais on m'en a dissuadé.<br/><br/>Nous n'avons pas fait ce que nous **aurions dû** faire.<br/><br/>Sans ces erreurs, le score **aurait pu** être plus lourd en notre faveur." type="primary" %}
 
-Le passé du conditionnel se trouve dans le conséquent d'une phrase conditionnelle avec la condition exprimée au plus-que-parfait.
+Le passé du conditionnel se trouve dans le conséquent d'une phrase conditionnelle avec la condition exprimée au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.plus-que-parfait}}">plus-que-parfait</a>.
 
 {% include image.html file="conditionnel_conditionConséquentPassé.png" alt="La condition et le conséquent dans une phrase conditionnelle au passé" caption="La structure d'une phrase conditionnelle au passé" %}
 
@@ -169,7 +169,7 @@ Voici quelques exemples&nbsp;:
 
 {% include callout.html content="*Conséquent au passé&nbsp;:* **Si** j'**ai reçu** des consignes, ils **ont reçu** les mêmes.<br/><br/>*Conséquent au présent&nbsp;:* **Si** tu l'**as caché** ici, tu **peux** nous dire où il est.<br/><br/>*Conséquent au futur&nbsp;:* **Si** le baron **a menti**, on **interviendra**.<br/><br/>*Conséquent à l'impératif&nbsp;:* **Si** tu **as perdu** ton chemin, **demande** à un ami." type="primary" %}
 
-Faites la distinction entre la conjonction subordinante **si** dans les phrases conditionnelles et l'adverbe interrogatif **si** dans les questions rapportées au discours indirect. Observez la différence entre ces deux phrases&nbsp;:
+Faites la distinction entre la conjonction subordinante **si** dans les phrases conditionnelles et l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.adverbe}}">adverbe</a> interrogatif **si** dans les questions rapportées au discours indirect. Observez la différence entre ces deux phrases&nbsp;:
 
 {% include callout.html content="*Question au discours indirect*&nbsp;: Il lui demande **si** elle a peur.<br/><br/>*Phrase conditionnelle*&nbsp;: **Si** on veut entrer dans ce café, il faut payer 45 francs une bière." type="primary" %}
 

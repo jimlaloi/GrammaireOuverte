@@ -9,21 +9,21 @@ folder: grammaire
 
 ## Introduction
 
-Certains temps du passé qui étaient utilisés couramment dans le français d'autrefois sont devenus archaïques. Ils ont été remplacés dans le français oral, et de plus en plus dans le français écrit, par d'autres temps du passé (comme le passé composé, par exemple).
+Certains temps du passé qui étaient utilisés couramment dans le français d'autrefois sont devenus archaïques. Ils ont été remplacés dans le français oral, et de plus en plus dans le français écrit, par d'autres temps du passé (comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, par exemple).
 
 Ces temps sont encore utilisés dans un style très soutenu, principalement à l'écrit. On voit ces temps parfois dans les journaux, les romans, les documents religieux, la correspondance officielle, et d'autres genres formels. Aux registres informels à l'écrit (par exemple dans les blogs, les mails, les affiches...) on n'utilise pas ces temps. À l'oral, ces temps ne sont presque jamais utilisés. L'exception serait des genres oraux très formels, comme un discours politique préparé à l'avance, ou des situations où on souhaite apporter un sens archaïque, comme quand on raconte un conte de fées. On appelle ces temps les *temps littéraires* car ils sont souvent utilisés dans un style érudit de littérature.
 
-Pour la plupart des gens qui apprennent le français comme langue seconde, il n'est probablement pas très utile d'apprendre à conjuguer les temps littéraires. Mais il est important de savoir les reconnaître, afin de comprendre des textes qui les utilisent.
+Pour la plupart des gens qui apprennent le français comme langue seconde, il n'est probablement pas très utile d'apprendre à <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjuguer</a> les temps littéraires. Mais il est important de savoir les reconnaître, afin de comprendre des textes qui les utilisent.
 
 ## Le passé simple
 
-Le passé simple est utilisé à la place du passé composé. Dans des narrations dans un style littéraire, on utilise le passé simple pour des évènements et l'imparfait pour des descriptions (voir [Imparfait](/grammaire_imparfait.html#emplois)). Ce temps s'appelle le passé *simple* car, en contraste avec le passé composé qui comprend un auxiliaire, il n'y a qu'un mot.
+Le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-simple}}">passé simple</a> est utilisé à la place du passé composé. Dans des narrations dans un style littéraire, on utilise le passé simple pour des évènements et l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imparfait}}">imparfait</a> pour des descriptions (voir [Imparfait](/grammaire_imparfait.html#emplois)). Ce temps s'appelle le passé *simple* car, en contraste avec le passé composé qui comprend un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a>, il n'y a qu'un mot.
 
 Notez l'emploi du passé simple dans les phrases suivantes, dans des contextes où on utiliserait normalement le passé composé&nbsp;:
 
 {% include callout.html content="À l'heure de la sortie des théâtres, elle **changea** (*a changé*) d'itinéraire pour éviter les embouteillages.<br/><br/>Chen **posa** (*a posé*) les mains sur la paroi et **fit** (*a fait*) signe qu'il était prêt." type="primary" %}
 
-Pour tous les verbes réguliers en **-er**, le passé simple est formé en supprimant la terminaison (les deux dernières lettres de l'infinitif) et en les remplaçant par les terminaisons suivantes.
+Pour tous les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbes</a> réguliers en **-er**, le passé simple est formé en supprimant la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.terminaison}}">terminaison</a> (les deux dernières lettres de l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a>) et en les remplaçant par les terminaisons suivantes.
 
 | parler |
 |---|
@@ -45,7 +45,7 @@ Les verbes réguliers en **-ir** et **-re** ont les mêmes terminaisons&nbsp;:
 | *tu **perd<ins>is</ins>*** | *vous **perd<ins>îtes</ins>*** |
 | *il/elle/on **perd<ins>it</ins>*** | *ils/elles **perd<ins>irent</ins>*** |
 
-Beaucoup d'autres verbes ont un radical dérivé du participe passé et un de deux ensembles de terminaisons&nbsp;:
+Beaucoup d'autres verbes ont un <a data-toggle="tooltip" data-original-title="{{site.data.glossary.radical}}">radical</a> dérivé du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.participe-passe}}">participe passé</a> et un de deux ensembles de terminaisons&nbsp;:
 
 * terminaisons en *-i-*&nbsp;: *-is*, *-is*, *-it*, *-îmes*, *-îtes*, *-irent*
 * terminaisons en *-u-*&nbsp;: *-us*, *-us*, *-ut*, *-ûmes*, *-ûtes*, *-urent*
@@ -91,7 +91,7 @@ Les verbes *tenir* et *venir* (et leurs dérivés) ont un radical irrégulier et
 
 ## Le passé antérieur
 
-Le passé antérieur se compose du passé simple de l'auxiliaire (*avoir* ou *être*) et du participe passé du verbe. Il suit les mêmes principes pour le choix d'auxiliaire et pour l'accord du participe passé que les autres temps composés.
+Le passé antérieur se compose du passé simple de l'auxiliaire (*avoir* ou *être*) et du participe passé du verbe. Il suit les mêmes principes pour le choix d'auxiliaire et pour l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.accord}}">accord</a> du participe passé que les autres <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>.
 
 >*Passé antérieur* = *auxiliaire au passé simple* + *participe passé du verbe principal*
 
@@ -107,14 +107,14 @@ Le passé antérieur se compose du passé simple de l'auxiliaire (*avoir* ou *ê
 | *tu **fus allé(e)*** | *vous **fûtes allé(e)(s)*** |
 | *il/elle/on **fut allé(e)(s)*** | *ils/elles **furent allé(e)s*** |
 
-Le passé antérieur occupe une place unique dans le système des temps. Comme le plus-que-parfait, il indique qu'une action est antérieure à un point de référence dans le passé (voir [Plus-que-parfait](/grammaire_plus-que-parfait.html)). Mais généralement, l'action décrite par le passé antérieur précède *immédiatement* l'action qui sert comme point de référence (qui est typiquement au passé simple). Alors, dans un style littéraire, on trouve le passé antérieur pour des actions antérieures immédiates et le plus-que-parfait pour des actions qui sont antérieures de manière plus éloignée.
+Le passé antérieur occupe une place unique dans le système des temps. Comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.plus-que-parfait}}">plus-que-parfait</a>, il indique qu'une action est antérieure à un point de référence dans le passé (voir [Plus-que-parfait](/grammaire_plus-que-parfait.html)). Mais généralement, l'action décrite par le passé antérieur précède *immédiatement* l'action qui sert comme point de référence (qui est typiquement au passé simple). Alors, dans un style littéraire, on trouve le passé antérieur pour des actions antérieures immédiates et le plus-que-parfait pour des actions qui sont antérieures de manière plus éloignée.
 
-Le contexte où on trouve le plus souvent le passé antérieur est dans une phrase subordonnée après une conjonction temporelle&nbsp;: *quand*, *lorsque*, *dès que*, *après que*, *aussitôt que*.
+Le contexte où on trouve le plus souvent le passé antérieur est dans une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-subordonnee}}">phrase subordonnée</a> après une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjonction}}">conjonction</a> temporelle&nbsp;: *quand*, *lorsque*, *dès que*, *après que*, *aussitôt que*.
 
 {% include callout.html content="Après qu'il lui **eut transmis** l'information, Charly secoua la tête.<br/><br/>Quand il **eut terminé**, il leva la tête vers le ciel." type="primary" %}
 
 Dans la phrase suivante, il y a une séquence avec une action principale et deux actions antérieures, dont une précède l'autre&nbsp;:
-1. Charance est coincé (plus-que-parfait dans une construction passive)
+1. Charance est coincé (plus-que-parfait dans une <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction passive</a>)
 2. Le sujet peut démêler (découvrir) la situation de Charance (passé antérieur)
 3. Le sujet fonce bride abattue (se dépêche) vers le campement (action principale au passé simple)
 
@@ -128,7 +128,7 @@ Dans un style non-littéraire, cette fonction d'*antériorité immédiate* est g
 
 Tous les verbes, sans exception, sont réguliers à l'imparfait du subjonctif.
 
-Le radical de l'imparfait du subjonctif est la troisième personne du singulier du passé simple, moins le **-t** (s'il y a un *t* à la fin). À ce radical on ajoute les terminaisons *-sse*, *-sses*, *-t*, *-ssions*, *-ssiez*, *-ssent*. On ajoute un accent circonflexe à la dernière voyelle du radical pour la troisième personne du singulier, pour faire une distinction avec le passé simple. Voici quelques exemples&nbsp;:
+Le radical de l'imparfait du subjonctif est la troisième <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personne</a> du singulier du passé simple, moins le **-t** (s'il y a un *t* à la fin). À ce radical on ajoute les terminaisons *-sse*, *-sses*, *-t*, *-ssions*, *-ssiez*, *-ssent*. On ajoute un accent circonflexe à la dernière voyelle du radical pour la troisième personne du singulier, pour faire une distinction avec le passé simple. Voici quelques exemples&nbsp;:
 
 **Ouvrir**
 + passé simple&nbsp;: *il ouvrit*
@@ -150,7 +150,7 @@ Le radical de l'imparfait du subjonctif est la troisième personne du singulier 
 + radical&nbsp;: *vin-*
 + imparfait du subjonctif&nbsp;: *je **vin<ins>sse</ins>***, *tu **vin<ins>sses</ins>***, *il **v<ins>înt</ins>***, *nous **vin<ins>ssions</ins>***, *vous **vin<ins>ssiez</ins>***, *ils **vin<ins>ssent</ins>***
 
-Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du subjonctif&nbsp;: le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le présent du subjonctif quand l'action dans la phrase subordonnée est au même moment que l'action de la phrase principale, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
+Dans des circonstances où on n'utilise pas les temps littéraires, il n'y a que deux temps du <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a>&nbsp;: le présent (*qu'il fasse*) et le passé (*qu'il ait fait*). On utilise le présent du subjonctif quand l'action dans la phrase subordonnée est au même moment que l'action de la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.phrase-principale}}">phrase principale</a>, que la phrase principale soit au présent ou au passé (voir [Subjonctif](/grammaire_subjonctif.html#passé-du-subjonctif))
 
 {% include callout.html content="Je <ins>suis</ins> contente que tu **viennes** avec moi.<br/><br/>Les gens <ins>étaient</ins> contents qu'on **vienne** les voir. (style non-littéraire)" type="primary" %}
 

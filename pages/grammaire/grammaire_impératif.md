@@ -8,15 +8,15 @@ folder: grammaire
 ---
 
 ## Introduction
-L'impératif est utilisé pour donner un ordre ou un conseil, comme « Arrête&nbsp;! », « Ecoute&nbsp;! ». Comme le conditionnel et le subjonctif, l'impératif peut être conjugué au présent ou au passé, mais pas au futur. Gardez à l'esprit que l'impératif est un moyen direct de donner un ordre et qu'il est souvent remplacé par des alternatives moins directs comme le conditionnel.
+L'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.imperatif}}">impératif</a> est utilisé pour donner un ordre ou un conseil, comme « Arrête&nbsp;! », « Ecoute&nbsp;! ». Comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conditionnel}}">conditionnel</a> et le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.subjonctif}}">subjonctif</a>, l'impératif peut être <a data-toggle="tooltip" data-original-title="{{site.data.glossary.conjugaison}}">conjugué</a> au présent ou au passé, mais pas au futur. Gardez à l'esprit que l'impératif est un moyen direct de donner un ordre et qu'il est souvent remplacé par des alternatives moins directs comme le conditionnel.
 
 ## Forme
 
-L'impératif est conjugué à trois personnes seulement&nbsp;: **tu**, **nous** et **vous**. Pour tous les verbes, l'impératif apparaît sans sujet (le sujet est sous-entendu comme la personne à qui on s'adresse).
+L'impératif est conjugué à trois <a data-toggle="tooltip" data-original-title="{{site.data.glossary.personne}}">personnes</a> seulement&nbsp;: **tu**, **nous** et **vous**. Pour tous les <a data-toggle="tooltip" data-original-title="{{site.data.glossary.verbe}}">verbes</a>, l'impératif apparaît sans <a data-toggle="tooltip" data-original-title="{{site.data.glossary.sujet}}">sujet</a> (le sujet est sous-entendu comme la personne à qui on s'adresse).
 
 ### présent de l'impératif
 
-La grande majorité des verbes sont réguliers à l'impératif. Pour le pluriel (*nous* et *vous*), l'impératif a la même forme que l'indicatif.
+La grande majorité des verbes sont réguliers à l'impératif. Pour le pluriel (*nous* et *vous*), l'impératif a la même forme que l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.indicatif}}">indicatif</a>.
 + Présent de l'indicatif&nbsp;: *Nous <ins>mangeons</ins>* --- *Vous <ins>partez</ins>*
 + Présent de l'impératif&nbsp;: ***Mangeons**&nbsp;! --- **Partez**&nbsp;!*
 
@@ -36,7 +36,7 @@ Il n'y a que quatre verbes irréguliers à l'impératif&nbsp;: *avoir*, *être*,
 
 {% include information.html content="Le verbe *vouloir* a un sens spécial à l'impératif, car il ne voudrait rien dire de demander à quelqu'un de vouloir quelque chose. Il prend comme complément un autre verbe à l'infinitif pour signifier 'Be good enough to...', 'Would you please...' ou 'I hope you will...'. C'est donc un moyen de faire une demande polie à un registre très soutenu, par exemple&nbsp;:<br/>*- **Veuillez** nous en excuser et nous vous souhaitons un agréable voyage.*<br/>*- En ce qui concerne les notes bibliographiques, **veuillez** suivre le protocole du MLA.*<br/>Alors qu'il existe des formes pour *tu* et *nous*, c'est la forme *vous* de *vouloir* qui est utilisée presque exclusivement à l'impératif, sauf dans des expressions comme *en vouloir à quelqu'un*, où le verbe a souvent une forme régulière (*Ne m'en veux pas&nbsp;!*)" %}
 
-La forme singulière de l'impératif se termine souvent en **s** (*Prend<ins>s</ins>&nbsp;! Vien<ins>s</ins>&nbsp;!*), mais parfois en **e** (*Mang<ins>e</ins>&nbsp;! Ouvr<ins>e</ins>&nbsp;!*) ou en **a** pour le verbe *aller* (*V<ins>a</ins>&nbsp;!*). Si l'impératif singulier se termine par une voyelle et est suivi d'un des pronoms adverbiaux (**y** ou **en**), on ajoute un **s** à la fin du verbe pour permettre la liaison.
+La forme singulière de l'impératif se termine souvent en **s** (*Prend<ins>s</ins>&nbsp;! Vien<ins>s</ins>&nbsp;!*), mais parfois en **e** (*Mang<ins>e</ins>&nbsp;! Ouvr<ins>e</ins>&nbsp;!*) ou en **a** pour le verbe *aller* (*V<ins>a</ins>&nbsp;!*). Si l'impératif singulier se termine par une voyelle et est suivi d'un des <a data-toggle="tooltip" data-original-title="{{site.data.glossary.pronom}}">pronoms</a> adverbiaux (**y** ou **en**), on ajoute un **s** à la fin du verbe pour permettre la liaison.
 + *Va* --- *Va<ins>s</ins>-y*
 + *Achète* --- *Achète<ins>s</ins>-en*
 
@@ -44,7 +44,7 @@ La forme singulière de l'impératif se termine souvent en **s** (*Prend<ins>s</
 
 ### passé de l'impératif
 
-Le passé de l'impératif est formé comme le passé composé, sauf que l'auxiliaire (*avoir* ou *être*) est conjugué à l'impératif présent.
+Le passé de l'impératif est formé comme le <a data-toggle="tooltip" data-original-title="{{site.data.glossary.passe-compose}}">passé composé</a>, sauf que l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.auxiliaire}}">auxiliaire</a> (*avoir* ou *être*) est conjugué à l'impératif présent.
 
 | finir | venir |
 |---|---|
@@ -62,7 +62,7 @@ La négation de l'impératif se fait de la manière normale, avec **ne** et **pa
 
 {% include callout.html content="**Ne reste pas** seul dans ton coin." type="primary" %}
 
-À l'impératif affirmatif, les pronoms de complément viennent après le verbe, liés par un (ou des) trait(s) d'union. L'ordre des pronoms après le verbe à l'impératif diffère de l'ordre des pronoms devant le verbe (voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments)).
+À l'impératif affirmatif, les pronoms de <a data-toggle="tooltip" data-original-title="{{site.data.glossary.complement}}">complément</a> viennent après le verbe, liés par un (ou des) trait(s) d'union. L'ordre des pronoms après le verbe à l'impératif diffère de l'ordre des pronoms devant le verbe (voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-compléments)).
 
 | | -le | | -moi (m') | | |
 | VERBE | -la | -lui | -toi (t') | -y | -en |
@@ -93,7 +93,7 @@ On conjugue les verbes réfléchis de la même manière que les autres verbes&nb
 
 ## Emplois
 
-L'impératif en **tu** est utilisé pour donner un ordre à quelqu'un qu'on tutoie (voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-sujets)). L'impératif en **vous** est utilisé pour donner un ordre à quelqu'un qu'on vouvoie ou à un groupe de personnes. L'impératif en **nous** est utilisé pour une suggestion donnée à un groupe qui inclut le locuteur, comme la construction *Let's + verbe* en anglais.
+L'impératif en **tu** est utilisé pour donner un ordre à quelqu'un qu'on tutoie (voir [Pronoms personnels](/grammaire_pronoms_personnels.html#pronoms-sujets)). L'impératif en **vous** est utilisé pour donner un ordre à quelqu'un qu'on vouvoie ou à un groupe de personnes. L'impératif en **nous** est utilisé pour une suggestion donnée à un groupe qui inclut le locuteur, comme la <a data-toggle="tooltip" data-original-title="{{site.data.glossary.construction}}">construction</a> *Let's + verbe* en anglais.
 
 {% include callout.html content="**Passe** une bonne nuit, mon amour.<br/><br/>**Cliquez** sur une couleur dans la palette et **validez** par OK.<br/><br/>**Espérons** que cette crise passe assez vite." type="primary" %}
 
@@ -105,7 +105,7 @@ L'impératif peut aussi être utilisé dans un sens similaire à une phrase cond
 
 {% include callout.html content="**Aide-toi**, le ciel t'aidera. 'If you help yourself, heaven will help you (Heaven helps those who help themselves)'" type="primary" %}
 
-Notez que les instructions écrites (les panneaux, les recettes, etc.) utilisent souvent l'infinitif au lieu de l'impératif. Une construction courante sur les panneaux est *Prière de ne pas + infinitif* (*Prière de ne pas fumer*, *Prière de ne pas stationner...*).
+Notez que les instructions écrites (les panneaux, les recettes, etc.) utilisent souvent l'<a data-toggle="tooltip" data-original-title="{{site.data.glossary.infinitif}}">infinitif</a> au lieu de l'impératif. Une construction courante sur les panneaux est *Prière de ne pas + infinitif* (*Prière de ne pas fumer*, *Prière de ne pas stationner...*).
 
 {% include callout.html content="**Mélanger** la moitié de la vinaigrette aux pommes de terre et **laisser** reposer quelques minutes.<br/><br/>« **Ne pas fumer**&nbsp;! » Maryse t'entends&nbsp;? De toute façon, t'es non-fumeur." type="primary" %}
 
