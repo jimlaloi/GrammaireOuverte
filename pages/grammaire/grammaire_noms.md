@@ -218,6 +218,7 @@ Voici les expressions les plus couramment utilisées avec **temps**&nbsp;:
     {q: 'un cerf-volant, des _', a: 'cerfs-volants'},
     {q: 'un politicien, une _', a: 'politicienne'},
     {q: "Est-ce que c'est grand? Oui, Jupiter est _.", a: 'grande'},
+    {q: "J'ai acheté une centaine _ biscuits pour la fête.", a: 'de'},
     {q: "On partira dans une heure et _. (demi ou demie)", a: 'demie'},
     {q: "J'ai vu ce film plusieurs _. (temps, heures, ou fois)", a: 'fois'}];
     </script>

@@ -56,7 +56,7 @@ Le pronom neutre **ce**, comme sujet du verbe **être**, *présente* ou *désign
 
 {% include callout.html content="**C'est** Vincent qui est en tête." type="primary" %}
 
-+ pronom disjonctif
++ pronom disjoint
 
 {% include callout.html content="**C'est** lui qui me l'a dit." type="primary" %}
 
@@ -104,5 +104,33 @@ Rappelez-vous qu'**il(s)** et **elle(s)** font référence à une personne ou à
 Ce est utilisé souvent pour mettre un élément au début de la phrase pour le souligner&nbsp;:
 
 {% include callout.html content="**C'est** très important, son apparence. (vs *Son apparence est très important*)<br/><br/>**C'est** moi qui joue au ballon. (vs *Je joue au ballon*)<br/><br/>**Ça**, c'est une vraie ambition&nbsp;! (vs *C'est une vraie ambition*)" type="primary" %}
+
+## Vérifiez votre compréhension
+<script>
+    var questions = [{q: "Ce n'est pas ma montre, c'est _ mon père.", a: "celle de"},
+    {q: "Ce vélo-ci est très cher, mais en fait _ est de meilleure qualité.", a: "celui-là"},
+    {q: "_ écrivain. (C'est ou Il est)", a: "Il est"},
+    {q: "_ une bonne chirurgienne, tu peux avoir confiance en elle. (C'est ou Elle est)", a: "C'est"},
+    {q: "_ Marianne. (C'est ou Elle est)", a: "C'est"},
+    {q: "_ lui qui a cassé la fenêtre. (C'est ou Il est)", a: "C'est"},
+    {q: "_ intelligentes, ces filles. (Ce sont ou Elles sont)", a: "Elles sont"},
+    {q: "_ agréable ici, non ? (C'est ou Il est)", a: "C'est"}];
+    </script>
+<ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#questions" data-toggle="tab">Questions</a></li>
+    <li><a href="#réponses" data-toggle="tab">Voir les réponses</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="questions">
+    <p>Répondez aux questions</p>
+    <div id="quiz"></div>
+    {% include quiz.html %}
+    <input type="button" class="center" id="Vérifier" value="Vérifier" onClick="checkAnswers(questions)">
+</div>
+<div role="tabpanel" class="tab-pane" id="réponses">
+    <div id="answers"></div>
+    {% include quiz.html %}
+    </div>
+</div>
 
 {% include links.html %}

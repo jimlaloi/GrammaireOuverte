@@ -102,11 +102,11 @@ Le pronom **vous** est conjugué avec un verbe au pluriel, il désigne donc évi
 
 Typiquement, le pronom sujet vient devant le verbe. Il y a néanmoins quelques contextes où le pronom sujet est placé après le verbe (ou après l'auxiliaire au <a data-toggle="tooltip" data-original-title="{{site.data.glossary.temps-compose}}">temps composés</a>). Dans tous ces contextes, le verbe est lié au pronom par un trait d'union (*Crois-tu*). Si le verbe se termine par une voyelle (e.g. *arriv**e***) et le pronom commence par une voyelle (*il*, *elle*, *on*), on insère alors un **-t-** pour éviter le hiatus entre les deux voyelles (*arrive-t-il*).
 
-+ L'interrogation
++ L'interrogation (voir [Interrogation](/grammaire_interrogation.html))&nbsp;:
 
 {% include callout.html content="Voulez-**vous** prendre un café&nbsp;?<br/><br/>Quel âge a-**t-elle**, selon vous&nbsp;?" type="primary" %}
 
-+ Dans une incise *après* ou *au milieu* d'une citation (mais pas devant)&nbsp;:
++ Dans une incise *après* ou *au milieu* d'une citation (mais pas devant) (voir [Discours rapporté](/grammaire_discours_rapporté.html))&nbsp;:
 
 {% include callout.html content="Moi aussi, dit-**il**, je suis très heureux de ce dîner.<br/><br/>Cela fait partie du métier, m'a-**t-elle** expliqué.<br/><br/>Il a demandé&nbsp;: « Tu peux parler&nbsp;? »" type="primary" %}
 
@@ -199,7 +199,7 @@ Avec certains verbes, **y** remplace la préposition **à** lorsque son objet es
 
 {% include callout.html content="Quand il a commencé sa collection, personne ne **s'y intéressait**." type="primary" %}
 
-Lorsque ces verbes sont suivis d'une personne, le pronom disjoint sera utilisé.
+Lorsque le complément de *penser*, *réfléchir*, ou *s'intéresser* est une personne, le pronom disjoint sera utilisé.
 
 {% include callout.html content="Vous ne voyez pas que cette enfant a besoin qu'on **s'intéresse à elle**&nbsp;?<br/><br/>J'ai la charité de **m'intéresser à lui** et voilà comment il me remercie." type="primary" %}
 
@@ -279,5 +279,36 @@ en comparaison
 {% include callout.html content="Ces poissons sont plus âgés que **moi**." type="primary" %}
 
 Le pronom disjoint **soi** se trouve dans ces mêmes contextes, mais c'est un pronom indéfini plutôt qu'un pronom personnel (voir [Pronoms indéfinis](/grammaire_pronoms_ind%C3%A9finis.html)).
+
+## Vérifiez votre compréhension
+<script>
+    var questions = [{q: "Ne t'inqiète pas, _ ai un plan.", a: "j'"},
+    {q: 'Regardez la voiture, _ est toute propre.', a: 'elle'},
+    {q: "Tu regardes les photos. Tu _ regardes.", a: "les"},
+    {q: "Nous travaillons dûr. Nous _ faisons.", a: "le"},
+    {q: "Vous arrivez à la gare. Vous _ arrivez.", a: "y"},
+    {q: "Est-ce que tu veux du chocolat ? Oui, je (j') _ veux.", a: "en"},
+    {q: "Je vais aux cinéma avec mes frères. J'y vais avec _", a: "eux"},
+    {q: "Je me souviens de ce jour. Je (J') _ souviens.", a: "m'en"},
+    {q: "Il a donné une pomme à sa femme. Il _ a donnée.", a: "la lui"},
+    {q: "Elle montre le document à ses parents derrière le magasin. Elle _ montre.", a: "le leur y"}];
+    </script>
+<ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#questions" data-toggle="tab">Questions</a></li>
+    <li><a href="#réponses" data-toggle="tab">Voir les réponses</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="questions">
+    <p>Répondez aux questions</p>
+    <div id="quiz"></div>
+    {% include quiz.html %}
+    <input type="button" class="center" id="Vérifier" value="Vérifier" onClick="checkAnswers(questions)">
+</div>
+<div role="tabpanel" class="tab-pane" id="réponses">
+    <div id="answers"></div>
+    {% include quiz.html %}
+    </div>
+</div>
+
 
 {% include links.html %}
